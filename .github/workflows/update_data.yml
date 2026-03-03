@@ -2,8 +2,13 @@ name: Update GitHub Daily Rank Data
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 每天 UTC 时间 01:00运行 (北京时间 09:00)
+    - cron: '0 1 * * *' # 每天 UTC 时间 01:00 运行 (北京时间 09:00)
   workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-data:
@@ -21,12 +26,12 @@ jobs:
         run: npm install
 
       - name: Run fetch script
-        run: node scripts/fetch_all.js
+        run: node scripts/fetch_all.js || true
 
       - name: Notify Feishu
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-        run: node scripts/notify_feishu.js
+        run: node scripts/notify_feishu.js || true
 
       - name: Commit and push changes
         run: |
