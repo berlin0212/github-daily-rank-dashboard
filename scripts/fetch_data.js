@@ -16,8 +16,8 @@ async function fetchData() {
         const response = await axios.get(DATA_URL);
         const mdContent = response.data;
 
-        // 正则表达式匹配项目详情块
-        const projectRegex = /<h3[^>]*>.*?(\d+)\.\s+(https:\/\/github\.com\/[^\s<]+).*?<\/h3>([\s\S]*?)(?=<h3|---|$)/g;
+        // 正则表达式匹配项目详情块 (更宽容的匹配，处理排名和链接之间可能有文字的情况)
+        const projectRegex = /<h3[^>]*>.*?(\d+)\.\s*?(?:[\s\S]*?)?(https:\/\/github\.com\/[^\s<]+).*?<\/h3>([\s\S]*?)(?=<h3|---|$)/g;
         const projects = [];
         let match;
 
