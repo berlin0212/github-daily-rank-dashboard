@@ -18,19 +18,19 @@ async function sendToFeishu() {
 
         const card = {
             header: {
-                template: "blue",
-                title: { content: `🌌 科技早报 | ${dateStr}`, tag: "plain_text" }
+                template: "orchid",
+                title: { content: `📅 科技早报 Top 10 | ${dateStr}`, tag: "plain_text" }
             },
             elements: []
         };
 
-        // --- SECTION: GITHUB TRENDING ---
+        // --- SECTION: GITHUB TRENDING (Top 10) ---
         card.elements.push({
             tag: "div",
-            text: { content: "🔥 **GitHub 热门趋势 (Top 5)**", tag: "lark_md" }
+            text: { content: "🔥 **GitHub 热门趋势 (Top 10)**", tag: "lark_md" }
         });
 
-        fullData.githubRank.slice(0, 5).forEach((p, i) => {
+        fullData.githubRank.forEach((p, i) => {
             card.elements.push({
                 tag: "div",
                 text: { content: `${i + 1}. **[${p.name}](${p.url})**\n${p.description}`, tag: "lark_md" }
@@ -43,44 +43,32 @@ async function sendToFeishu() {
 
         card.elements.push({ tag: "hr" });
 
-        // --- SECTION: HACKER NEWS ---
+        // --- SECTION: HACKER NEWS (Top 10) ---
         card.elements.push({
             tag: "div",
-            text: { content: "📰 **Hacker News 精选讨论**", tag: "lark_md" }
+            text: { content: "📰 **Hacker News 热门讨论 (Top 10)**", tag: "lark_md" }
         });
 
-        fullData.hackerNews.slice(0, 3).forEach((n, i) => {
+        fullData.hackerNews.forEach((n, i) => {
             card.elements.push({
                 tag: "div",
-                text: { content: `• **[${n.title}](${n.url})**`, tag: "lark_md" }
+                text: { content: `${i + 1}. **[${n.title}](${n.url})**`, tag: "lark_md" }
+            });
+            card.elements.push({
+                tag: "note",
+                elements: [{ tag: "plain_text", content: `HN Score: ${n.score} | ${n.originalTitle}` }]
             });
         });
-
-        card.elements.push({ tag: "hr" });
-
-        // --- SECTION: AI NEWS ---
-        if (fullData.aiNews && fullData.aiNews.length > 0) {
-            card.elements.push({
-                tag: "div",
-                text: { content: "🤖 **AI & 科学前沿动态**", tag: "lark_md" }
-            });
-            fullData.aiNews.slice(0, 3).forEach((n, i) => {
-                card.elements.push({
-                    tag: "div",
-                    text: { content: `• [${n.title}](${n.url || '#'})`, tag: "lark_md" }
-                });
-            });
-        }
 
         card.elements.push({
             tag: "note",
-            elements: [{ tag: "plain_text", content: "💡 每日早上 9 点准时送达 | 保持好奇心" }]
+            elements: [{ tag: "plain_text", content: "💡 每日早上 9 点自动推送 | 保持好奇心" }]
         });
 
         const payload = { msg_type: "interactive", card: card };
         const response = await axios.post(WEBHOOK_URL, payload);
         if (response.data.StatusCode === 0 || response.data.code === 0) {
-            console.log('超级科技早报推送成功！');
+            console.log('飞书日报推送成功！');
         } else {
             console.error('推送失败:', response.data);
         }

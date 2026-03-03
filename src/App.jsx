@@ -12,13 +12,12 @@ const App = () => {
       </div>
 
       <header>
-        <h1>Tech Dashboard</h1>
-        <p className="subtitle">Global Intelligence. Real-time. Curated.</p>
+        <h1>Intelligence</h1>
+        <p className="subtitle">Daily Curated. Multi-source. Global context.</p>
         
         <div className="tab-switcher">
           <button className={activeTab === 'github' ? 'active' : ''} onClick={() => setActiveTab('github')}>GitHub 排行</button>
-          <button className={activeTab === 'news' ? 'active' : ''} onClick={() => setActiveTab('news')}>科技头条</button>
-          <button className={activeTab === 'ai' ? 'active' : ''} onClick={() => setActiveTab('ai')}>AI 前沿</button>
+          <button className={activeTab === 'news' ? 'active' : ''} onClick={() => setActiveTab('news')}>Hacker News</button>
         </div>
       </header>
 
@@ -49,19 +48,6 @@ const App = () => {
                 <div className="news-content">
                     <a href={news.url} target="_blank" rel="noopener noreferrer" className="news-title">{news.title}</a>
                     <p className="news-original">{news.originalTitle}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-
-        {activeTab === 'ai' && (
-          <div className="news-list">
-            {data.aiNews?.map((news, i) => (
-              <div className="news-card simple" key={i}>
-                <div className="news-content">
-                    <a href={news.url} target="_blank" rel="noopener noreferrer" className="news-title">{news.title}</a>
-                    {news.author && <p className="news-original">作者: {news.author}</p>}
                 </div>
               </div>
             ))}
