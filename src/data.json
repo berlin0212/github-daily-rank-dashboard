@@ -1,0 +1,57 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/wifi-densepose",
+    "url": "https://github.com/ruvnet/wifi-densepose",
+    "totalStars": "21.2k",
+    "dailyGrowth": "4734",
+    "weeklyGrowth": "13965",
+    "monthlyGrowth": "15115",
+    "releaseDate": "2025-06-07",
+    "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+  },
+  {
+    "rank": 5,
+    "name": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "totalStars": "4.1k",
+    "dailyGrowth": "886",
+    "weeklyGrowth": "2650",
+    "monthlyGrowth": "2650",
+    "releaseDate": "2025-12-17",
+    "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
+  },
+  {
+    "rank": 7,
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "totalStars": "10.9k",
+    "dailyGrowth": "765",
+    "weeklyGrowth": "765",
+    "monthlyGrowth": "765",
+    "releaseDate": "2025-10-20",
+    "description": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
+  },
+  {
+    "rank": 9,
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "totalStars": "31.4k",
+    "dailyGrowth": "678",
+    "weeklyGrowth": "979",
+    "monthlyGrowth": "2048",
+    "releaseDate": "2024-04-02",
+    "description": "Anthropic 的交互式提示工程教程"
+  },
+  {
+    "rank": 10,
+    "name": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "totalStars": "3.4k",
+    "dailyGrowth": "603",
+    "weeklyGrowth": "999",
+    "monthlyGrowth": "999",
+    "releaseDate": "2025-10-21",
+    "description": "AI 代理时代的 IDE - 在您的计算机上运行 Claude Code、Codex 等大军"
+  }
+]
