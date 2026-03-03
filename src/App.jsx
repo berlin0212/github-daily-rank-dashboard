@@ -1,63 +1,76 @@
-import React from 'react';
+import React, { useState } from 'react';
 import data from './data.json';
 
 const App = () => {
+  const [activeTab, setActiveTab] = useState('github');
+
   return (
     <div className="container">
-      {/* Background decoration */}
       <div className="blob-container">
         <div className="blob blob-1"></div>
         <div className="blob blob-2"></div>
       </div>
 
       <header>
-        <h1>GitHub Daily Rank</h1>
-        <p className="subtitle">Curated. Translated. Simplified.</p>
+        <h1>Tech Dashboard</h1>
+        <p className="subtitle">Global Intelligence. Real-time. Curated.</p>
+        
+        <div className="tab-switcher">
+          <button className={activeTab === 'github' ? 'active' : ''} onClick={() => setActiveTab('github')}>GitHub 排行</button>
+          <button className={activeTab === 'news' ? 'active' : ''} onClick={() => setActiveTab('news')}>科技头条</button>
+          <button className={activeTab === 'ai' ? 'active' : ''} onClick={() => setActiveTab('ai')}>AI 前沿</button>
+        </div>
       </header>
 
-      <main className="rank-list">
-        {data.map((item) => (
-          <div className="rank-card" key={item.rank}>
-            <div className="rank-number">{String(item.rank).padStart(2, '0')}</div>
-            <div className="card-content">
-              <div className="card-header">
-                <a href={item.url} target="_blank" rel="noopener noreferrer" className="project-name">
-                  {item.name}
-                </a>
-                <div className="meta-info">
-                  <div className="meta-item"><span>🚀</span> 开源: {item.releaseDate}</div>
+      <main className="content-area">
+        {activeTab === 'github' && (
+          <div className="rank-list">
+            {data.githubRank?.map((item) => (
+              <div className="rank-card" key={item.rank}>
+                <div className="rank-number">{String(item.rank).padStart(2, '0')}</div>
+                <div className="card-content">
+                  <div className="card-header">
+                    <a href={item.url} target="_blank" rel="noopener noreferrer" className="project-name">{item.name}</a>
+                    <span className="stat-pill">🔥 +{item.dailyGrowth} 今日</span>
+                  </div>
+                  <p className="project-desc">{item.description}</p>
+                  <div className="meta-info">⭐ {item.totalStars} Stars</div>
                 </div>
               </div>
-
-              <div className="stats-grid">
-                <div className="stat-item">
-                  <span className="stat-label">Total Stars</span>
-                  <span className="stat-value">{item.totalStars}</span>
-                </div>
-                <div className="stat-item">
-                  <span className="stat-label">Daily Growth</span>
-                  <span className="stat-value growth-up">+{item.dailyGrowth}</span>
-                </div>
-                <div className="stat-item">
-                  <span className="stat-label">Week Trend</span>
-                  <span className="stat-value">+{item.weeklyGrowth}</span>
-                </div>
-                <div className="stat-item">
-                  <span className="stat-label">Month Trend</span>
-                  <span className="stat-value">+{item.monthlyGrowth}</span>
-                </div>
-              </div>
-
-              <div className="project-desc">
-                {item.description}
-              </div>
-            </div>
+            ))}
           </div>
-        ))}
+        )}
+
+        {activeTab === 'news' && (
+          <div className="news-list">
+            {data.hackerNews?.map((news, i) => (
+              <div className="news-card" key={i}>
+                <div className="news-score">{news.score}pts</div>
+                <div className="news-content">
+                    <a href={news.url} target="_blank" rel="noopener noreferrer" className="news-title">{news.title}</a>
+                    <p className="news-original">{news.originalTitle}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {activeTab === 'ai' && (
+          <div className="news-list">
+            {data.aiNews?.map((news, i) => (
+              <div className="news-card simple" key={i}>
+                <div className="news-content">
+                    <a href={news.url} target="_blank" rel="noopener noreferrer" className="news-title">{news.title}</a>
+                    {news.author && <p className="news-original">作者: {news.author}</p>}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
       </main>
 
-      <footer style={{ marginTop: '8rem', marginBottom: '4rem', textAlign: 'center', color: '#64748b', fontSize: '0.9rem' }}>
-        <p style={{ letterSpacing: '0.2rem', textTransform: 'uppercase', opacity: 0.5 }}>Premium Dashboard Experience</p>
+      <footer>
+        <p>数据更新于: {data.updateTime}</p>
       </footer>
     </div>
   );

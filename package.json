@@ -1,26 +1,27 @@
 {
-    "name": "github-rank-dashboard",
-    "private": true,
-    "version": "0.0.0",
-    "type": "module",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview",
-        "update-data": "node scripts/fetch_data.js",
-        "notify-feishu": "node scripts/notify_feishu.js"
-    },
-    "dependencies": {
-        "@vitalets/google-translate-api": "^9.2.0",
-        "axios": "^1.13.6",
-        "cheerio": "^1.2.0",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0"
-    },
-    "devDependencies": {
-        "@types/react": "^18.2.0",
-        "@types/react-dom": "^18.2.0",
-        "@vitejs/plugin-react": "^4.0.0",
-        "vite": "^4.0.0"
-    }
+  "name": "github-rank-dashboard",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update-data": "node scripts/fetch_all.js",
+    "notify-feishu": "node scripts/notify_feishu.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.0",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.0"
+  }
 }
