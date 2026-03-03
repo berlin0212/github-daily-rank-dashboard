@@ -24,12 +24,12 @@ async function sendToFeishu() {
         const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
         const dateStr = new Date().toISOString().split('T')[0];
 
-        // 构造飞书卡片消息
+        // 构造飞书卡片消息 (突出内容，弱化指标)
         const card = {
             header: {
-                template: "turquoise",
+                template: "grey", // 改用灰色顶栏，沉浸感更强
                 title: {
-                    content: `📊 GitHub 今日趋势 Top 10 (${dateStr})`,
+                    content: `GitHub 今日流行趋势精选 (${dateStr})`,
                     tag: "plain_text"
                 }
             },
@@ -37,48 +37,36 @@ async function sendToFeishu() {
         };
 
         data.slice(0, 10).forEach((project, index) => {
-            // 项目标题与链接
+            // 1. 项目标题 (弱化索引，突出名字)
             card.elements.push({
                 tag: "div",
                 text: {
-                    content: `**${index + 1}. [${project.name}](${project.url})**`,
+                    content: `${index + 1}. **[${project.name}](${project.url})**`,
                     tag: "lark_md"
                 }
             });
 
-            // 数据指示器 (两列展示)
+            // 2. 核心简介 (清晰呈现，使用正文样式)
             card.elements.push({
                 tag: "div",
-                fields: [
-                    {
-                        is_short: true,
-                        text: {
-                            content: `**⭐ 总星标:**\n${project.totalStars}`,
-                            tag: "lark_md"
-                        }
-                    },
-                    {
-                        is_short: true,
-                        text: {
-                            content: `**🔥 今日增长:**\n<font color='red'>+${project.dailyGrowth}</font>`,
-                            tag: "lark_md"
-                        }
-                    }
-                ]
+                text: {
+                    content: project.description || '暂无详细描述',
+                    tag: "lark_md"
+                }
             });
 
-            // 项目描述 (灰色小字)
+            // 3. 次要指标 (弱化，放在描述下方，使用 Note 样式)
             card.elements.push({
                 tag: "note",
                 elements: [
                     {
                         tag: "plain_text",
-                        content: project.description || '暂无详细描述'
+                        content: `⭐ Stars: ${project.totalStars}   |   🔥 Growth: +${project.dailyGrowth}`
                     }
                 ]
             });
 
-            // 分割线 (最后一条除外)
+            // 分割线
             if (index < 9) {
                 card.elements.push({ tag: "hr" });
             }
@@ -88,10 +76,7 @@ async function sendToFeishu() {
         card.elements.push({
             tag: "note",
             elements: [
-                {
-                    tag: "plain_text",
-                    content: "💡 每日早上 9 点自动更新 | 由 AI 秘书自动翻译生成"
-                }
+                { tag: "plain_text", content: "💡 本简报由 AI 秘书自动翻译及推送 | 祝您今天充满灵感" }
             ]
         });
 
@@ -102,7 +87,7 @@ async function sendToFeishu() {
 
         const response = await axios.post(WEBHOOK_URL, payload);
         if (response.data.StatusCode === 0 || response.data.code === 0) {
-            console.log('飞书卡片消息推送成功！');
+            console.log('飞书优化卡片推送成功！');
         } else {
             console.error('飞书推送失败:', response.data);
         }
