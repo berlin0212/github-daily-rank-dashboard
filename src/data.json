@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "25k",
-      "dailyGrowth": "3744",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "totalStars": "24.5k",
+      "dailyGrowth": "2441",
+      "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
     },
     {
       "rank": 2,
       "name": "KeygraphHQ/shannon",
       "url": "https://github.com/KeygraphHQ/shannon",
-      "totalStars": "27.4k",
-      "dailyGrowth": "1286",
+      "totalStars": "29.7k",
+      "dailyGrowth": "2338",
       "description": "完全自主的人工智能黑客可以在您的网络应用程序中找到实际的漏洞。 Shannon 在无提示、源感知的 XBOW 基准测试中取得了 96.15% 的成功率。"
     },
     {
       "rank": 3,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "82.5k",
-      "dailyGrowth": "1256",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "26.9k",
+      "dailyGrowth": "1948",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 4,
-      "name": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
       "totalStars": "5.2k",
-      "dailyGrowth": "1145",
-      "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
+      "dailyGrowth": "1908",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 5,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "totalStars": "69.1k",
-      "dailyGrowth": "1131",
+      "totalStars": "70.5k",
+      "dailyGrowth": "1427",
       "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 6,
-      "name": "K-Dense-AI/claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "totalStars": "11.8k",
-      "dailyGrowth": "809",
-      "description": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
-    },
-    {
-      "rank": 7,
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "20.8k",
-      "dailyGrowth": "789",
+      "totalStars": "22k",
+      "dailyGrowth": "1170",
       "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
+      "rank": 7,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "totalStars": "83.6k",
+      "dailyGrowth": "1090",
+      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+    },
+    {
       "rank": 8,
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "totalStars": "22.1k",
-      "dailyGrowth": "778",
-      "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "totalStars": "12.6k",
+      "dailyGrowth": "876",
+      "description": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
     },
     {
       "rank": 9,
-      "name": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "totalStars": "32k",
-      "dailyGrowth": "619",
-      "description": "Anthropic 的交互式提示工程教程"
+      "name": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "totalStars": "4.8k",
+      "dailyGrowth": "792",
+      "description": "AI 代理时代的 IDE - 在您的计算机上运行 Claude Code、Codex 等大军"
     },
     {
       "rank": 10,
-      "name": "superset-sh/superset",
-      "url": "https://github.com/superset-sh/superset",
-      "totalStars": "4k",
-      "dailyGrowth": "586",
-      "description": "AI 代理时代的 IDE - 在您的计算机上运行 Claude Code、Codex 等大军"
+      "name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "totalStars": "5.9k",
+      "dailyGrowth": "645",
+      "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
     }
   ],
   "hackerNews": [
     {
-      "title": "摩托罗拉 GrapheneOS 设备将可通过引导加载程序解锁/重新锁定",
-      "originalTitle": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 122
+      "title": "Google Workspace CLI",
+      "originalTitle": "Google Workspace CLI",
+      "url": "https://github.com/googleworkspace/cli",
+      "score": 192
     },
     {
-      "title": "图形编程资源",
-      "originalTitle": "Graphics Programming Resources",
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 11
+      "title": "MacBook Neo",
+      "originalTitle": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "score": 1616
     },
     {
-      "title": "只需发送提示",
-      "originalTitle": "Just Send the Prompt",
-      "url": "https://justsendtheprompt.com/",
-      "score": 27
+      "title": "构建一个新的Flash",
+      "originalTitle": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "score": 374
     },
     {
-      "title": "最大的酸性间歇泉上演了一场精彩的表演",
-      "originalTitle": "The largest acidic geyser has been putting on quite a show",
-      "url": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+      "title": "死去的互联网幸存者的混乱和反乌托邦新闻",
+      "originalTitle": "Chaos and Dystopian news for the dead internet survivors",
+      "url": "https://www.fubardaily.com",
+      "score": 36
+    },
+    {
+      "title": "达里奥·阿莫迪 (Dario Amodei) 称 OpenAI 关于军事协议的信息是“彻头彻尾的谎言”",
+      "originalTitle": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "score": 293
+    },
+    {
+      "title": "奎文的土地上正在发生一些事情",
+      "originalTitle": "Something is afoot in the land of Qwen",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "score": 557
+    },
+    {
+      "title": "是什么推动了业务成本上升？",
+      "originalTitle": "What's Driving Rising Business Costs?",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
       "score": 20
     },
     {
-      "title": "配备 M5 Pro 和 M5 Max 的 MacBook Pro",
-      "originalTitle": "MacBook Pro with M5 Pro and M5 Max",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 695
+      "title": "NRC 颁发 10 年来首个商业反应堆建设批准 [pdf]",
+      "originalTitle": "NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]",
+      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+      "score": 60
     },
     {
-      "title": "您可以在 URL 中使用换行符",
-      "originalTitle": "You can use newline characters in URLs",
-      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
-      "score": 32
+      "title": "哥德堡的马尔姆鲸",
+      "originalTitle": "Malm Whale in Gothenburg",
+      "url": "https://www.atlasobscura.com/places/malm-whale",
+      "score": 8
     },
     {
-      "title": "联想新款 ThinkPad 的可修复性得分为 10/10",
-      "originalTitle": "Lenovo's New ThinkPads Score 10/10 for Repairability",
-      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-      "score": 277
-    },
-    {
-      "title": "面向设计人员和开发人员的 Mac 外接显示器，第 2 部分",
-      "originalTitle": "Mac external displays for designers and developers, part 2",
-      "url": "https://bjango.com/articles/macexternaldisplays2/",
-      "score": 9
-    },
-    {
-      "title": "克劳德的循环 [pdf]",
-      "originalTitle": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 510
-    },
-    {
-      "title": "Weave – 基于实体的语言感知合并算法",
-      "originalTitle": "Weave – A language aware merge algorithm based on entities",
-      "url": "https://github.com/Ataraxy-Labs/weave",
-      "score": 17
+      "title": "Moss 是一个像素画布，其中每个画笔都是一个小程序",
+      "originalTitle": "Moss is a pixel canvas where every brush is a tiny program",
+      "url": "https://www.moss.town/",
+      "score": 200
     }
   ],
-  "updateTime": "3/4/2026, 3:27:57 AM"
+  "updateTime": "3/5/2026, 3:31:37 AM"
 }
