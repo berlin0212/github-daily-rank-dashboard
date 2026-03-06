@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "totalStars": "24.5k",
-      "dailyGrowth": "2441",
+      "totalStars": "27.1k",
+      "dailyGrowth": "2618",
       "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
     },
     {
       "rank": 2,
       "name": "KeygraphHQ/shannon",
       "url": "https://github.com/KeygraphHQ/shannon",
-      "totalStars": "29.7k",
-      "dailyGrowth": "2338",
+      "totalStars": "31.7k",
+      "dailyGrowth": "1940",
       "description": "完全自主的人工智能黑客可以在您的网络应用程序中找到实际的漏洞。 Shannon 在无提示、源感知的 XBOW 基准测试中取得了 96.15% 的成功率。"
     },
     {
       "rank": 3,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "26.9k",
-      "dailyGrowth": "1948",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": 4,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "5.2k",
-      "dailyGrowth": "1908",
+      "totalStars": "6.9k",
+      "dailyGrowth": "1779",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
-      "rank": 5,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "70.5k",
-      "dailyGrowth": "1427",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "22k",
-      "dailyGrowth": "1170",
+      "totalStars": "23.7k",
+      "dailyGrowth": "1677",
       "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "83.6k",
-      "dailyGrowth": "1090",
+      "totalStars": "84.8k",
+      "dailyGrowth": "1232",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
+      "rank": 6,
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "28.1k",
+      "dailyGrowth": "1164",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": 7,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "71.6k",
+      "dailyGrowth": "1093",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
+    },
+    {
       "rank": 8,
-      "name": "K-Dense-AI/claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "totalStars": "12.6k",
-      "dailyGrowth": "876",
-      "description": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "totalStars": "22.1k",
+      "dailyGrowth": "628",
+      "description": "本项目是哈佛大学 CS249R 课程配套教材，系统讲解现代分布式系统与边缘计算相关主题。内容偏理论与实践结合，适合计算机专业学生和工程师深入学习。"
     },
     {
       "rank": 9,
-      "name": "superset-sh/superset",
-      "url": "https://github.com/superset-sh/superset",
-      "totalStars": "4.8k",
-      "dailyGrowth": "792",
-      "description": "AI 代理时代的 IDE - 在您的计算机上运行 Claude Code、Codex 等大军"
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "totalStars": "13.2k",
+      "dailyGrowth": "579",
+      "description": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
     },
     {
       "rank": 10,
-      "name": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
-      "totalStars": "5.9k",
-      "dailyGrowth": "645",
-      "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "24.2k",
+      "dailyGrowth": "520",
+      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Google Workspace CLI",
-      "originalTitle": "Google Workspace CLI",
-      "url": "https://github.com/googleworkspace/cli",
-      "score": 192
+      "title": "GPT-5.4",
+      "originalTitle": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "score": 675
     },
     {
-      "title": "MacBook Neo",
-      "originalTitle": "MacBook Neo",
-      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "score": 1616
+      "title": "下一代珍珠奶茶、唇彩和泡泡现已上市",
+      "originalTitle": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "url": "https://charm.land/blog/v2/",
+      "score": 145
     },
     {
-      "title": "构建一个新的Flash",
-      "originalTitle": "Building a new Flash",
-      "url": "https://bill.newgrounds.com/news/post/1607118",
-      "score": 374
+      "title": "陆军部的情况",
+      "originalTitle": "Where things stand with the Department of War",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "score": 231
     },
     {
-      "title": "死去的互联网幸存者的混乱和反乌托邦新闻",
-      "originalTitle": "Chaos and Dystopian news for the dead internet survivors",
-      "url": "https://www.fubardaily.com",
-      "score": 36
+      "title": "没有人因为使用结构而被解雇",
+      "originalTitle": "Nobody ever got fired for using a struct",
+      "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+      "score": 18
     },
     {
-      "title": "达里奥·阿莫迪 (Dario Amodei) 称 OpenAI 关于军事协议的信息是“彻头彻尾的谎言”",
-      "originalTitle": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "score": 293
+      "title": "品牌时代",
+      "originalTitle": "The Brand Age",
+      "url": "https://paulgraham.com/brandage.html",
+      "score": 254
     },
     {
-      "title": "奎文的土地上正在发生一些事情",
-      "originalTitle": "Something is afoot in the land of Qwen",
-      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "score": 557
+      "title": "10% 的 Firefox 崩溃是由位翻转引起的",
+      "originalTitle": "10% of Firefox crashes are caused by bitflips",
+      "url": "https://mas.to/@gabrielesvelto/116171750653898304",
+      "score": 331
     },
     {
-      "title": "是什么推动了业务成本上升？",
-      "originalTitle": "What's Driving Rising Business Costs?",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
-      "score": 20
+      "title": "CBP 利用在线广告生态系统来跟踪人们的活动",
+      "originalTitle": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+      "score": 386
     },
     {
-      "title": "NRC 颁发 10 年来首个商业反应堆建设批准 [pdf]",
-      "originalTitle": "NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]",
-      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
-      "score": 60
+      "title": "人工智能对劳动力市场的影响：新措施和早期证据",
+      "originalTitle": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "score": 80
     },
     {
-      "title": "哥德堡的马尔姆鲸",
-      "originalTitle": "Malm Whale in Gothenburg",
-      "url": "https://www.atlasobscura.com/places/malm-whale",
-      "score": 8
+      "title": "用于处理和丢弃省力的 AI 生成的拉取请求的标准协议",
+      "originalTitle": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "url": "https://406.fail/",
+      "score": 107
     },
     {
-      "title": "Moss 是一个像素画布，其中每个画笔都是一个小程序",
-      "originalTitle": "Moss is a pixel canvas where every brush is a tiny program",
-      "url": "https://www.moss.town/",
-      "score": 200
+      "title": "好的软件知道何时停止",
+      "originalTitle": "Good software knows when to stop",
+      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "score": 356
     }
   ],
-  "updateTime": "3/5/2026, 3:31:37 AM"
+  "updateTime": "3/6/2026, 3:29:12 AM"
 }
