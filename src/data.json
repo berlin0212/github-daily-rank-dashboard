@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "9.6k",
-      "dailyGrowth": "2686",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 2,
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "totalStars": "29.4k",
-      "dailyGrowth": "2241",
+      "totalStars": "30.5k",
+      "dailyGrowth": "1095",
       "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
     },
     {
+      "rank": 2,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "10.7k",
+      "dailyGrowth": "1045",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
       "rank": 3,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "24.8k",
-      "dailyGrowth": "1190",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "23.1k",
+      "dailyGrowth": "928",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
       "rank": 4,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "85.9k",
-      "dailyGrowth": "1060",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
-    },
-    {
-      "rank": 5,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "72.6k",
-      "dailyGrowth": "997",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
-    },
-    {
-      "rank": 6,
       "name": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "totalStars": "11.8k",
-      "dailyGrowth": "899",
+      "totalStars": "12.6k",
+      "dailyGrowth": "827",
       "description": "法典技能目录"
     },
     {
+      "rank": 5,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "totalStars": "86.5k",
+      "dailyGrowth": "675",
+      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+    },
+    {
+      "rank": 6,
+      "name": "blackboardsh/electrobun",
+      "url": "https://github.com/blackboardsh/electrobun",
+      "totalStars": "8.6k",
+      "dailyGrowth": "643",
+      "description": "使用 Typescript 构建超快速、小型且跨平台的桌面应用程序。"
+    },
+    {
       "rank": 7,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "28.9k",
-      "dailyGrowth": "786",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "73.2k",
+      "dailyGrowth": "621",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 8,
-      "name": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "totalStars": "32.3k",
-      "dailyGrowth": "591",
-      "description": "完全自主的人工智能黑客可以在您的网络应用程序中找到实际的漏洞。 Shannon 在无提示、源感知的 XBOW 基准测试中取得了 96.15% 的成功率。"
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "totalStars": "63k",
+      "dailyGrowth": "566",
+      "description": ""
     },
     {
       "rank": 9,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "24.7k",
-      "dailyGrowth": "542",
-      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "29.4k",
+      "dailyGrowth": "541",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 10,
-      "name": "TheCraigHewitt/seomachine",
-      "url": "https://github.com/TheCraigHewitt/seomachine",
-      "totalStars": "2.1k",
-      "dailyGrowth": "530",
-      "description": "专门的 Claude Code 工作区，用于为任何企业创建长篇、SEO 优化的博客内容。该系统可帮助您研究、撰写、分析和优化排名良好并服务于目标受众的内容。"
+      "name": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "totalStars": "13.2k",
+      "dailyGrowth": "471",
+      "description": "迷你 cli 搜索引擎，用于搜索文档、知识库、会议记录等。跟踪当前的 sota 方法，同时都是本地的"
     }
   ],
   "hackerNews": [
     {
-      "title": "Plasma Bigscreen – 用于 KDE 等离子的 10 英尺接口",
-      "originalTitle": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "url": "https://plasma-bigscreen.org",
-      "score": 193
+      "title": "2026 年云虚拟机基准：7 个提供商的 44 种虚拟机类型的性能/价格",
+      "originalTitle": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "score": 86
     },
     {
-      "title": "这个 CSS 证明了我是人",
-      "originalTitle": "this css proves me human",
-      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 180
+      "title": "案例编号",
+      "originalTitle": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "score": 211
     },
     {
-      "title": "UUID 包即将加入 Go 标准库",
-      "originalTitle": "UUID package coming to Go standard library",
-      "url": "https://github.com/golang/go/issues/62026",
-      "score": 20
+      "title": "Docker 容器的十年",
+      "originalTitle": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "score": 247
     },
     {
-      "title": "当用户首先定义他们的接受标准时，法学硕士效果最佳",
-      "originalTitle": "LLMs work best when the user defines their acceptance criteria first",
-      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 73
+      "title": "Show HN：一个奇怪的东西，可以从浏览器视频中检测你的脉搏",
+      "originalTitle": "Show HN: A weird thing that detects your pulse from the browser video",
+      "url": "https://pulsefeedback.io/",
+      "score": 30
     },
     {
-      "title": "也许这里有一个模式？",
-      "originalTitle": "Maybe There's a Pattern Here?",
-      "url": "https://dynomight.net/pattern/",
-      "score": 21
+      "title": "从现有的积木中转储乐高 NXT 固件 (2025)",
+      "originalTitle": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "score": 158
     },
     {
-      "title": "C# 字符串会默默地杀死 Dapper 中的 SQL Server 索引",
-      "originalTitle": "C# strings silently kill your SQL Server indexes in Dapper",
-      "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-      "score": 68
+      "title": "以色列袭击伊朗石油设施",
+      "originalTitle": "Israel Strikes Oil Facilities in Iran",
+      "url": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
+      "score": 14
     },
     {
-      "title": "古代天文学文本中发现伽利略的手写笔记",
-      "originalTitle": "Galileo's handwritten notes found in ancient astronomy text",
-      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "score": 55
+      "title": "自动研究：代理自动研究单 GPU 纳米聊天训练",
+      "originalTitle": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "url": "https://github.com/karpathy/autoresearch",
+      "score": 59
     },
     {
-      "title": "与 Anthropic 的红队一起强化 Firefox",
-      "originalTitle": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 509
+      "title": "努力阻止政府官员参与预测市场",
+      "originalTitle": "Effort to prevent government officials from engaging in prediction markets",
+      "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
+      "score": 264
     },
     {
-      "title": "告诉HN：我60岁了。克劳德·科德再次点燃激情",
-      "originalTitle": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
-      "url": "https://news.ycombinator.com/item?id=47282777",
-      "score": 152
+      "title": "Emacs 内部原理：用 C 解构 Lisp_Object（第 2 部分）",
+      "originalTitle": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "score": 18
     },
     {
-      "title": "知识产权租赁的阴暗世界",
-      "originalTitle": "The Shady World of IP Leasing",
-      "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
-      "score": 74
+      "title": "出版停滞和中产阶级消失",
+      "originalTitle": "The stagnancy of publishing and the disappearance of the midlist",
+      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
+      "score": 63
     }
   ],
-  "updateTime": "3/7/2026, 3:20:15 AM"
+  "updateTime": "3/8/2026, 3:32:29 AM"
 }
