@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "totalStars": "30.5k",
-      "dailyGrowth": "1095",
-      "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
-    },
-    {
-      "rank": 2,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "10.7k",
-      "dailyGrowth": "1045",
+      "totalStars": "12k",
+      "dailyGrowth": "1347",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
+      "rank": 2,
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "totalStars": "6.8k",
+      "dailyGrowth": "1212",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
       "rank": 3,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "23.1k",
-      "dailyGrowth": "928",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "30.5k",
+      "dailyGrowth": "1108",
+      "description": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 4,
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "totalStars": "12.6k",
-      "dailyGrowth": "827",
-      "description": "法典技能目录"
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "totalStars": "31.2k",
+      "dailyGrowth": "707",
+      "description": "开源虚拟助手框架，支持语音、文本与多模态交互。"
     },
     {
       "rank": 5,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "86.5k",
-      "dailyGrowth": "675",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+      "name": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "totalStars": "14.2k",
+      "dailyGrowth": "691",
+      "description": "Google Cloud 上的生成式 AI 的示例代码和笔记本，以及 Vertex AI 上的 Gemini"
     },
     {
       "rank": 6,
-      "name": "blackboardsh/electrobun",
-      "url": "https://github.com/blackboardsh/electrobun",
-      "totalStars": "8.6k",
-      "dailyGrowth": "643",
-      "description": "使用 Typescript 构建超快速、小型且跨平台的桌面应用程序。"
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "totalStars": "26.3k",
+      "dailyGrowth": "639",
+      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
     },
     {
       "rank": 7,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "73.2k",
-      "dailyGrowth": "621",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "23.8k",
+      "dailyGrowth": "635",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
       "rank": 8,
-      "name": "daytonaio/daytona",
-      "url": "https://github.com/daytonaio/daytona",
-      "totalStars": "63k",
-      "dailyGrowth": "566",
-      "description": ""
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "totalStars": "87.2k",
+      "dailyGrowth": "634",
+      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
       "rank": 9,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "29.4k",
-      "dailyGrowth": "541",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "73.8k",
+      "dailyGrowth": "597",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 10,
-      "name": "tobi/qmd",
-      "url": "https://github.com/tobi/qmd",
-      "totalStars": "13.2k",
-      "dailyGrowth": "471",
-      "description": "迷你 cli 搜索引擎，用于搜索文档、知识库、会议记录等。跟踪当前的 sota 方法，同时都是本地的"
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "totalStars": "1.9k",
+      "dailyGrowth": "591",
+      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     }
   ],
   "hackerNews": [
     {
-      "title": "2026 年云虚拟机基准：7 个提供商的 44 种虚拟机类型的性能/价格",
-      "originalTitle": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 86
+      "title": "Agent Safehouse – 适用于本地代理的 macOS 原生沙箱",
+      "originalTitle": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "url": "https://agent-safehouse.dev/",
+      "score": 386
     },
     {
-      "title": "案例编号",
-      "originalTitle": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
-      "score": 211
+      "title": "显微镜可以看到激光光盘上的视频",
+      "originalTitle": "Microscopes can see video on a laserdisc",
+      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "score": 287
     },
     {
-      "title": "Docker 容器的十年",
-      "originalTitle": "A decade of Docker containers",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 247
+      "title": "PCB 开发板的大小与 USB-C 插头相同",
+      "originalTitle": "PCB devboard the size of a USB-C plug",
+      "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+      "score": 80
     },
     {
-      "title": "Show HN：一个奇怪的东西，可以从浏览器视频中检测你的脉搏",
-      "originalTitle": "Show HN: A weird thing that detects your pulse from the browser video",
-      "url": "https://pulsefeedback.io/",
-      "score": 30
+      "title": "我们应该重新审视代理时代的文学编程",
+      "originalTitle": "We should revisit literate programming in the agent era",
+      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+      "score": 162
     },
     {
-      "title": "从现有的积木中转储乐高 NXT 固件 (2025)",
-      "originalTitle": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "score": 158
+      "title": "问 HN：您在做什么？ （2026 年 3 月）",
+      "originalTitle": "Ask HN: What Are You Working On? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47303111",
+      "score": 68
     },
     {
-      "title": "以色列袭击伊朗石油设施",
-      "originalTitle": "Israel Strikes Oil Facilities in Iran",
-      "url": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
-      "score": 14
+      "title": "我在 2025 年测试过的每台单板计算机",
+      "originalTitle": "Every single board computer I tested in 2025",
+      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+      "score": 121
     },
     {
-      "title": "自动研究：代理自动研究单 GPU 纳米聊天训练",
-      "originalTitle": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "score": 59
+      "title": "框架书",
+      "originalTitle": "FrameBook",
+      "url": "https://fb.edoo.gg",
+      "score": 373
     },
     {
-      "title": "努力阻止政府官员参与预测市场",
-      "originalTitle": "Effort to prevent government officials from engaging in prediction markets",
-      "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
-      "score": 264
+      "title": "Linux 内部结构：/proc/self/mem 如何写入不可写内存 (2021)",
+      "originalTitle": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+      "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+      "score": 38
     },
     {
-      "title": "Emacs 内部原理：用 C 解构 Lisp_Object（第 2 部分）",
-      "originalTitle": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-      "score": 18
+      "title": "Blacksky 应用程序视图",
+      "originalTitle": "Blacksky AppView",
+      "url": "https://github.com/blacksky-algorithms/atproto",
+      "score": 111
     },
     {
-      "title": "出版停滞和中产阶级消失",
-      "originalTitle": "The stagnancy of publishing and the disappearance of the midlist",
-      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
-      "score": 63
+      "title": "人工生命：计算生命的简单（300 行代码）再现",
+      "originalTitle": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+      "url": "https://github.com/Rabrg/artificial-life",
+      "score": 76
     }
   ],
-  "updateTime": "3/8/2026, 3:32:29 AM"
+  "updateTime": "3/9/2026, 3:36:56 AM"
 }
