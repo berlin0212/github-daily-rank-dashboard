@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "17.6k",
-      "dailyGrowth": "5581",
+      "totalStars": "24.2k",
+      "dailyGrowth": "6555",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 2,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "10.4k",
-      "dailyGrowth": "3605",
+      "totalStars": "13.8k",
+      "dailyGrowth": "3445",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 3,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "33k",
-      "dailyGrowth": "2527",
-      "description": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": 4,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "totalStars": "75k",
-      "dailyGrowth": "1182",
+      "totalStars": "76.3k",
+      "dailyGrowth": "1315",
       "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
-      "rank": 5,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "2.8k",
-      "dailyGrowth": "1162",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "totalStars": "27.1k",
-      "dailyGrowth": "1152",
+      "totalStars": "28.4k",
+      "dailyGrowth": "1264",
       "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
     },
     {
-      "rank": 7,
-      "name": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "totalStars": "15.2k",
-      "dailyGrowth": "1032",
-      "description": "Google Cloud 上的生成式 AI 的示例代码和笔记本，以及 Vertex AI 上的 Gemini"
+      "rank": 5,
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "34.1k",
+      "dailyGrowth": "1079",
+      "description": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "88.2k",
-      "dailyGrowth": "979",
+      "totalStars": "89.1k",
+      "dailyGrowth": "966",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "totalStars": "3.4k",
+      "dailyGrowth": "953",
+      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+    },
+    {
+      "rank": 8,
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "27.1k",
-      "dailyGrowth": "923",
+      "totalStars": "28k",
+      "dailyGrowth": "949",
       "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
+      "rank": 9,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "3.6k",
+      "dailyGrowth": "764",
+      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+    },
+    {
       "rank": 10,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "34.7k",
-      "dailyGrowth": "865",
-      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "3.5k",
+      "dailyGrowth": "736",
+      "description": "与您共同成长的代理商"
     }
   ],
   "hackerNews": [
     {
-      "title": "两年的 Emacs Solo：35 个模块、零外部包和全面重构",
-      "originalTitle": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "score": 102
+      "title": "托尼·霍尔去世",
+      "originalTitle": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "score": 1561
     },
     {
-      "title": "使用波函数折叠构建程序六角图",
-      "originalTitle": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 414
+      "title": "U+237C ⍼ 是方位角",
+      "originalTitle": "U+237C ⍼ Is Azimuth",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "score": 185
     },
     {
-      "title": "Show HN：远程使用我的吉他调音器",
-      "originalTitle": "Show HN: Remotely use my guitar tuner",
-      "url": "https://realtuner.online/",
-      "score": 99
+      "title": "Zig – 类型解析重新设计和语言更改",
+      "originalTitle": "Zig – Type Resolution Redesign and Language Changes",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "score": 39
     },
     {
-      "title": "“JVG 算法”只能在微小的数字上获胜",
-      "originalTitle": "The “JVG algorithm” only wins on tiny numbers",
-      "url": "https://scottaaronson.blog/?p=9615",
-      "score": 37
+      "title": "Cloudflare 抓取端点",
+      "originalTitle": "Cloudflare crawl endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "score": 152
     },
     {
-      "title": "JSLinux 现在支持 x86_64",
-      "originalTitle": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "score": 261
+      "title": "当我睡觉时运行的代理",
+      "originalTitle": "Agents that run while I sleep",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "score": 252
     },
     {
-      "title": "合法与合法相同：人工智能的重新实施和 Copyleft 的侵蚀",
-      "originalTitle": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "score": 375
+      "title": "Yann LeCun 筹集了 10 亿美元来构建理解物理世界的人工智能",
+      "originalTitle": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "score": 361
     },
     {
-      "title": "黑暗领域论坛",
-      "originalTitle": "Darkrealms BBS",
-      "url": "http://www.darkrealms.ca/",
-      "score": 49
+      "title": "SSH 秘密菜单",
+      "originalTitle": "SSH Secret Menu",
+      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "score": 77
     },
     {
-      "title": "我们尝试向艺术家支付人工智能创作作品的版税——经验教训",
-      "originalTitle": "We Tried Paying Artists Royalties on AI-Generated Work – Learnings",
-      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-      "score": 4
+      "title": "推出 HN：RunAnywhere (YC W26) – Apple Silicon 上更快的 AI 推理",
+      "originalTitle": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "score": 188
     },
     {
-      "title": "所以你想写一个“应用程序”（2025）",
-      "originalTitle": "So you want to write an “app” (2025)",
-      "url": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
-      "score": 74
+      "title": "Debian 决定不决定人工智能生成的贡献",
+      "originalTitle": "Debian decides not to decide on AI-generated contributions",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "score": 293
     },
     {
-      "title": "DARPA 的新型 X-76",
-      "originalTitle": "DARPA’s new X-76",
-      "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "score": 172
+      "title": "通过蓝牙 LE、TCP 或 Reticulum 进行网格化",
+      "originalTitle": "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "url": "https://github.com/torlando-tech/columba",
+      "score": 47
     }
   ],
-  "updateTime": "3/10/2026, 3:28:58 AM"
+  "updateTime": "3/11/2026, 3:28:28 AM"
 }
