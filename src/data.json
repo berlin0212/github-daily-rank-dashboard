@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "24.2k",
-      "dailyGrowth": "6555",
+      "totalStars": "29.4k",
+      "dailyGrowth": "5258",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 2,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "13.8k",
-      "dailyGrowth": "3445",
+      "totalStars": "16.6k",
+      "dailyGrowth": "2729",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 3,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "76.3k",
-      "dailyGrowth": "1315",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
-    },
-    {
-      "rank": 4,
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "totalStars": "28.4k",
-      "dailyGrowth": "1264",
-      "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
-    },
-    {
-      "rank": 5,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "34.1k",
-      "dailyGrowth": "1079",
-      "description": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": 6,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "89.1k",
-      "dailyGrowth": "966",
+      "totalStars": "90.7k",
+      "dailyGrowth": "1532",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "77.8k",
+      "dailyGrowth": "1504",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
+    },
+    {
+      "rank": 5,
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "5k",
+      "dailyGrowth": "1495",
+      "description": "与您共同成长的代理商"
+    },
+    {
+      "rank": 6,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "3.4k",
-      "dailyGrowth": "953",
+      "totalStars": "4.6k",
+      "dailyGrowth": "1205",
       "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
+      "rank": 7,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "totalStars": "29.8k",
+      "dailyGrowth": "1089",
+      "description": "1 位 LLM 的官方推理框架"
+    },
+    {
       "rank": 8,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "28k",
-      "dailyGrowth": "949",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "totalStars": "29.3k",
+      "dailyGrowth": "872",
+      "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
     },
     {
       "rank": 9,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "3.6k",
-      "dailyGrowth": "764",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "34.9k",
+      "dailyGrowth": "808",
+      "description": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 10,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "3.5k",
-      "dailyGrowth": "736",
-      "description": "与您共同成长的代理商"
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "totalStars": "48.1k",
+      "dailyGrowth": "641",
+      "description": "AI Hedge Fund 是一个基于人工智能的对冲基金平台，利用机器学习算法分析市场数据，帮助投资者做出更加智能和高效的投资决策。"
     }
   ],
   "hackerNews": [
     {
-      "title": "托尼·霍尔去世",
-      "originalTitle": "Tony Hoare has died",
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1561
+      "title": "显示 HN: s@：静态网站上的去中心化社交网络",
+      "originalTitle": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
+      "score": 75
     },
     {
-      "title": "U+237C ⍼ 是方位角",
-      "originalTitle": "U+237C ⍼ Is Azimuth",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "score": 185
+      "title": "Temporal：用 JavaScript 修复时间的 9 年之旅",
+      "originalTitle": "Temporal: The 9-year journey to fix time in JavaScript",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "score": 559
     },
     {
-      "title": "Zig – 类型解析重新设计和语言更改",
-      "originalTitle": "Zig – Type Resolution Redesign and Language Changes",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 39
+      "title": "许多 SWE-bench-Passing PR 不会被合并",
+      "originalTitle": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "score": 167
     },
     {
-      "title": "Cloudflare 抓取端点",
-      "originalTitle": "Cloudflare crawl endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 152
+      "title": "测试：DVD±RW 可以重写多少次？方法和结果",
+      "originalTitle": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "score": 53
     },
     {
-      "title": "当我睡觉时运行的代理",
-      "originalTitle": "Agents that run while I sleep",
-      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 252
+      "title": "不要发布生成的/人工智能编辑的评论。 HN 用于人与人之间的对话",
+      "originalTitle": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "score": 2970
     },
     {
-      "title": "Yann LeCun 筹集了 10 亿美元来构建理解物理世界的人工智能",
-      "originalTitle": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 361
+      "title": "使 WebAssembly 成为 Web 上的一流语言",
+      "originalTitle": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "score": 437
     },
     {
-      "title": "SSH 秘密菜单",
-      "originalTitle": "SSH Secret Menu",
-      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
-      "score": 77
+      "title": "国土安全部合同浏览器——来自行业合作办公室的黑客数据",
+      "originalTitle": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+      "url": "https://micahflee.github.io/ice-contracts/",
+      "score": 179
     },
     {
-      "title": "推出 HN：RunAnywhere (YC W26) – Apple Silicon 上更快的 AI 推理",
-      "originalTitle": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "score": 188
+      "title": "我接受了人工智能机器人的求职面试",
+      "originalTitle": "I was interviewed by an AI bot for a job",
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "score": 184
     },
     {
-      "title": "Debian 决定不决定人工智能生成的贡献",
-      "originalTitle": "Debian decides not to decide on AI-generated contributions",
-      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "score": 293
+      "title": "关于内存压力、锁争用和面向数据的设计",
+      "originalTitle": "About memory pressure, lock contention, and Data-oriented Design",
+      "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+      "score": 11
     },
     {
-      "title": "通过蓝牙 LE、TCP 或 Reticulum 进行网格化",
-      "originalTitle": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "url": "https://github.com/torlando-tech/columba",
-      "score": 47
+      "title": "Show HN：Claude Code 的上下文感知权限防护",
+      "originalTitle": "Show HN: A context-aware permission guard for Claude Code",
+      "url": "https://github.com/manuelschipper/nah/",
+      "score": 50
     }
   ],
-  "updateTime": "3/11/2026, 3:28:28 AM"
+  "updateTime": "3/12/2026, 3:34:22 AM"
 }
