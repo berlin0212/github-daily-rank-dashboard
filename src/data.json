@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "33.2k",
-      "dailyGrowth": "3772",
+      "totalStars": "39.4k",
+      "dailyGrowth": "6196",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 2,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "totalStars": "31.9k",
-      "dailyGrowth": "2086",
-      "description": "1 位 LLM 的官方推理框架"
-    },
-    {
-      "rank": 3,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "18.4k",
-      "dailyGrowth": "1874",
+      "totalStars": "21.5k",
+      "dailyGrowth": "3050",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
-      "rank": 4,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "79.6k",
-      "dailyGrowth": "1808",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
-    },
-    {
-      "rank": 5,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "5.8k",
-      "dailyGrowth": "1168",
-      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
-    },
-    {
-      "rank": 6,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "91.7k",
-      "dailyGrowth": "1082",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
-    },
-    {
-      "rank": 7,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "6k",
-      "dailyGrowth": "990",
-      "description": "与您共同成长的代理商"
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "4.7k",
-      "dailyGrowth": "745",
+      "totalStars": "7.2k",
+      "dailyGrowth": "2484",
       "description": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
+      "rank": 4,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "totalStars": "8.7k",
+      "dailyGrowth": "2432",
+      "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
+    },
+    {
+      "rank": 5,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "81.7k",
+      "dailyGrowth": "2036",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
+    },
+    {
+      "rank": 6,
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "totalStars": "15k",
+      "dailyGrowth": "1939",
+      "description": "测试您的提示、代理和 RAG。法学硕士的人工智能红队、渗透测试和漏洞扫描。比较 GPT、Claude、Gemini、Llama 等的性能。具有命令行和 CI/CD 集成的简单声明性配置。"
+    },
+    {
+      "rank": 7,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "totalStars": "33.7k",
+      "dailyGrowth": "1816",
+      "description": "1 位 LLM 的官方推理框架"
+    },
+    {
+      "rank": 8,
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "totalStars": "7.3k",
+      "dailyGrowth": "1539",
+      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+    },
+    {
       "rank": 9,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "35.7k",
-      "dailyGrowth": "723",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "totalStars": "12.8k",
+      "dailyGrowth": "1325",
+      "description": "全自动消除语言模型审查"
     },
     {
       "rank": 10,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "36.5k",
-      "dailyGrowth": "697",
-      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "totalStars": "48k",
+      "dailyGrowth": "1043",
+      "description": "100 美元能买到的最好的 ChatGPT。"
     }
   ],
   "hackerNews": [
     {
-      "title": "我要实施吗？不",
-      "originalTitle": "Shall I implement it? No",
-      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 953
+      "title": "1M 上下文现已普遍适用于 Opus 4.6 和 Sonnet 4.6",
+      "originalTitle": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "score": 350
     },
     {
-      "title": "Malus – 洁净室即服务",
-      "originalTitle": "Malus – Clean Room as a Service",
-      "url": "https://malus.sh",
-      "score": 1090
+      "title": "欧洲各地设有战利品盒的游戏年龄评级至少为 16 岁",
+      "originalTitle": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "score": 65
     },
     {
-      "title": "“这不是适合你的电脑”",
-      "originalTitle": "“This is not the computer for you”",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 77
+      "title": "我可以在本地运行人工智能吗？",
+      "originalTitle": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "score": 1001
     },
     {
-      "title": "冒泡排序阿门休息",
-      "originalTitle": "Bubble Sorted Amen Break",
-      "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 269
+      "title": "我发现 39 个 Algolia 管理密钥在开源文档网站上公开",
+      "originalTitle": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 92
     },
     {
-      "title": "通过肠脑通讯逆转记忆丧失",
-      "originalTitle": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 249
+      "title": "Show HN：Channel Surfer – 像观看有线电视一样观看 YouTube",
+      "originalTitle": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "url": "https://channelsurfer.tv",
+      "score": 430
     },
     {
-      "title": "ATM 机并没有取代银行出纳员的工作，但 iPhone 却取代了",
-      "originalTitle": "ATMs didn’t kill bank teller jobs, but the iPhone did",
-      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 348
+      "title": "为代理商优化内容",
+      "originalTitle": "Optimizing Content for Agents",
+      "url": "https://cra.mr/optimizing-content-for-agents/",
+      "score": 8
     },
     {
-      "title": "了解 Go 运行时：调度程序",
-      "originalTitle": "Understanding the Go Runtime: The Scheduler",
-      "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
-      "score": 44
+      "title": "Mouser：Logi-Plus 鼠标软件的开源替代品",
+      "originalTitle": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
+      "score": 223
     },
     {
-      "title": "你能指导机器人制作 PBJ 三明治吗？",
-      "originalTitle": "Can You Instruct a Robot to Make a PBJ Sandwich?",
-      "url": "https://pbj.deliberateinc.com/",
-      "score": 4
+      "title": "卡塔尔氦气关闭使芯片供应链关闭两周",
+      "originalTitle": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 463
     },
     {
-      "title": "RAG 系统中的文档中毒：攻击者如何破坏 AI 的来源",
-      "originalTitle": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-      "url": "https://aminrj.com/posts/rag-document-poisoning/",
-      "score": 78
+      "title": "锤勺",
+      "originalTitle": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 230
     },
     {
-      "title": "大都会博物馆发布 140 件著名艺术品的高清 3D 扫描图像",
-      "originalTitle": "The Met releases high-def 3D scans of 140 famous art objects",
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 241
+      "title": "编写我的手写代码",
+      "originalTitle": "Coding My Handwriting",
+      "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+      "score": 54
     }
   ],
-  "updateTime": "3/13/2026, 3:31:09 AM"
+  "updateTime": "3/14/2026, 3:29:22 AM"
 }
