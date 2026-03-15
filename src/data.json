@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "39.4k",
-      "dailyGrowth": "6196",
+      "totalStars": "43.2k",
+      "dailyGrowth": "3854",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 2,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "21.5k",
-      "dailyGrowth": "3050",
+      "totalStars": "23.5k",
+      "dailyGrowth": "2042",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 3,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "7.2k",
-      "dailyGrowth": "2484",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "totalStars": "16.9k",
+      "dailyGrowth": "1630",
+      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
     },
     {
       "rank": 4,
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
-      "totalStars": "8.7k",
-      "dailyGrowth": "2432",
+      "totalStars": "10.2k",
+      "dailyGrowth": "1472",
       "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
     },
     {
       "rank": 5,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "totalStars": "81.7k",
-      "dailyGrowth": "2036",
+      "totalStars": "83.1k",
+      "dailyGrowth": "1407",
       "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 6,
-      "name": "promptfoo/promptfoo",
-      "url": "https://github.com/promptfoo/promptfoo",
-      "totalStars": "15k",
-      "dailyGrowth": "1939",
-      "description": "测试您的提示、代理和 RAG。法学硕士的人工智能红队、渗透测试和漏洞扫描。比较 GPT、Claude、Gemini、Llama 等的性能。具有命令行和 CI/CD 集成的简单声明性配置。"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "16k",
+      "dailyGrowth": "1231",
+      "description": "练习使克劳德变得完美"
     },
     {
       "rank": 7,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "totalStars": "33.7k",
-      "dailyGrowth": "1816",
-      "description": "1 位 LLM 的官方推理框架"
-    },
-    {
-      "rank": 8,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "7.3k",
-      "dailyGrowth": "1539",
+      "totalStars": "8.3k",
+      "dailyGrowth": "984",
       "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
+      "rank": 8,
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "26.9k",
+      "dailyGrowth": "870",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+    },
+    {
       "rank": 9,
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "totalStars": "12.8k",
-      "dailyGrowth": "1325",
-      "description": "全自动消除语言模型审查"
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "totalStars": "34.5k",
+      "dailyGrowth": "807",
+      "description": "1 位 LLM 的官方推理框架"
     },
     {
       "rank": 10,
-      "name": "karpathy/nanochat",
-      "url": "https://github.com/karpathy/nanochat",
-      "totalStars": "48k",
-      "dailyGrowth": "1043",
-      "description": "100 美元能买到的最好的 ChatGPT。"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "8k",
+      "dailyGrowth": "800",
+      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
     }
   ],
   "hackerNews": [
     {
-      "title": "1M 上下文现已普遍适用于 Opus 4.6 和 Sonnet 4.6",
-      "originalTitle": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "url": "https://claude.com/blog/1m-context-ga",
-      "score": 350
+      "title": "Ageless Linux – 为不确定年龄的人提供的软件",
+      "originalTitle": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
+      "score": 416
     },
     {
-      "title": "欧洲各地设有战利品盒的游戏年龄评级至少为 16 岁",
-      "originalTitle": "Games with loot boxes to get minimum 16 age rating across Europe",
-      "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "score": 65
+      "title": "拒绝交出沉船黄金的寻宝者获释",
+      "originalTitle": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "score": 26
     },
     {
-      "title": "我可以在本地运行人工智能吗？",
-      "originalTitle": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "score": 1001
+      "title": "内核反作弊如何工作：深入探讨现代游戏保护",
+      "originalTitle": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "score": 62
     },
     {
-      "title": "我发现 39 个 Algolia 管理密钥在开源文档网站上公开",
-      "originalTitle": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 92
+      "title": "空中客车公司正在准备两架无人驾驶战斗机",
+      "originalTitle": "Airbus is preparing two uncrewed combat aircraft",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "score": 86
     },
     {
-      "title": "Show HN：Channel Surfer – 像观看有线电视一样观看 YouTube",
-      "originalTitle": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
-      "score": 430
+      "title": "使用 PPO 的语言模型树搜索蒸馏",
+      "originalTitle": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "score": 23
     },
     {
-      "title": "为代理商优化内容",
-      "originalTitle": "Optimizing Content for Agents",
-      "url": "https://cra.mr/optimizing-content-for-agents/",
-      "score": 8
+      "title": "数学蒸馏挑战——方程理论",
+      "originalTitle": "Mathematics Distillation Challenge – Equational Theories",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "score": 19
     },
     {
-      "title": "Mouser：Logi-Plus 鼠标软件的开源替代品",
-      "originalTitle": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 223
+      "title": "SBCL 纤维 – 轻量级协作螺纹",
+      "originalTitle": "SBCL Fibers – Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "score": 47
     },
     {
-      "title": "卡塔尔氦气关闭使芯片供应链关闭两周",
-      "originalTitle": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 463
+      "title": "Show HN：Han – 用 Rust 编写的韩语编程语言",
+      "originalTitle": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "score": 117
     },
     {
-      "title": "锤勺",
-      "originalTitle": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 230
+      "title": "大黄蜂皇后在水下呼吸以求溺水生存",
+      "originalTitle": "Bumblebee queens breathe underwater to survive drowning",
+      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "score": 77
     },
     {
-      "title": "编写我的手写代码",
-      "originalTitle": "Coding My Handwriting",
-      "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
-      "score": 54
+      "title": "从 Braun T3 到 Apple 的 iPod (2024)",
+      "originalTitle": "From Braun T3 to Apple's iPod (2024)",
+      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
+      "score": 17
     }
   ],
-  "updateTime": "3/14/2026, 3:29:22 AM"
+  "updateTime": "3/15/2026, 3:52:30 AM"
 }
