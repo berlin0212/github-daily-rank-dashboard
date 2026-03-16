@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "43.2k",
-      "dailyGrowth": "3854",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 2,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "23.5k",
-      "dailyGrowth": "2042",
+      "totalStars": "26.6k",
+      "dailyGrowth": "3071",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
+      "rank": 2,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "46k",
+      "dailyGrowth": "2798",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
       "rank": 3,
-      "name": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "totalStars": "16.9k",
-      "dailyGrowth": "1630",
-      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "totalStars": "85.4k",
+      "dailyGrowth": "2317",
+      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 4,
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
-      "totalStars": "10.2k",
-      "dailyGrowth": "1472",
+      "totalStars": "12k",
+      "dailyGrowth": "1780",
       "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
     },
     {
       "rank": 5,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "83.1k",
-      "dailyGrowth": "1407",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "totalStars": "18.2k",
+      "dailyGrowth": "1329",
+      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
     },
     {
       "rank": 6,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "16k",
-      "dailyGrowth": "1231",
-      "description": "练习使克劳德变得完美"
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "totalStars": "14.5k",
+      "dailyGrowth": "1027",
+      "description": "全自动消除语言模型审查"
     },
     {
       "rank": 7,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "8.3k",
-      "dailyGrowth": "984",
-      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
-    },
-    {
-      "rank": 8,
       "name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "26.9k",
-      "dailyGrowth": "870",
+      "totalStars": "27.8k",
+      "dailyGrowth": "891",
       "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
+      "rank": 8,
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "16.8k",
+      "dailyGrowth": "812",
+      "description": "练习使克劳德变得完美"
+    },
+    {
       "rank": 9,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "totalStars": "34.5k",
-      "dailyGrowth": "807",
-      "description": "1 位 LLM 的官方推理框架"
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "totalStars": "38.5k",
+      "dailyGrowth": "691",
+      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
       "rank": 10,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "8k",
-      "dailyGrowth": "800",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "totalStars": "94.1k",
+      "dailyGrowth": "676",
+      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Ageless Linux – 为不确定年龄的人提供的软件",
-      "originalTitle": "Ageless Linux – Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
-      "score": 416
+      "title": "加拿大 C-22 法案要求对加拿大人进行大规模元数据监控",
+      "originalTitle": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "score": 459
     },
     {
-      "title": "拒绝交出沉船黄金的寻宝者获释",
-      "originalTitle": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 26
+      "title": "Chrome 开发者工具 MCP",
+      "originalTitle": "Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 395
     },
     {
-      "title": "内核反作弊如何工作：深入探讨现代游戏保护",
-      "originalTitle": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 62
+      "title": "49MB 网页",
+      "originalTitle": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 365
     },
     {
-      "title": "空中客车公司正在准备两架无人驾驶战斗机",
-      "originalTitle": "Airbus is preparing two uncrewed combat aircraft",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "score": 86
+      "title": "什么是代理工程？",
+      "originalTitle": "What Is Agentic Engineering?",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+      "score": 67
     },
     {
-      "title": "使用 PPO 的语言模型树搜索蒸馏",
-      "originalTitle": "Tree Search Distillation for Language Models Using PPO",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "score": 23
+      "title": "法学硕士建筑画廊",
+      "originalTitle": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "score": 286
     },
     {
-      "title": "数学蒸馏挑战——方程理论",
-      "originalTitle": "Mathematics Distillation Challenge – Equational Theories",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "score": 19
+      "title": "LLM 可能会让人筋疲力尽",
+      "originalTitle": "LLMs can be exhausting",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "score": 114
     },
     {
-      "title": "SBCL 纤维 – 轻量级协作螺纹",
-      "originalTitle": "SBCL Fibers – Lightweight Cooperative Threads",
-      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-      "score": 47
+      "title": "《Linux 编程接口》作为大学课程教材",
+      "originalTitle": "The Linux Programming Interface as a university course text",
+      "url": "https://man7.org/tlpi/academic/index.html",
+      "score": 43
     },
     {
-      "title": "Show HN：Han – 用 Rust 编写的韩语编程语言",
-      "originalTitle": "Show HN: Han – A Korean programming language written in Rust",
-      "url": "https://github.com/xodn348/han",
-      "score": 117
+      "title": "一部新的大脚怪纪录片有助于解释我们充满阴谋的时代",
+      "originalTitle": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "score": 56
     },
     {
-      "title": "大黄蜂皇后在水下呼吸以求溺水生存",
-      "originalTitle": "Bumblebee queens breathe underwater to survive drowning",
-      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
-      "score": 77
+      "title": "//go:修复内联和源代码级内联",
+      "originalTitle": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner",
+      "score": 121
     },
     {
-      "title": "从 Braun T3 到 Apple 的 iPod (2024)",
-      "originalTitle": "From Braun T3 to Apple's iPod (2024)",
-      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
-      "score": 17
+      "title": "分离 Wayland 合成器和窗口管理器",
+      "originalTitle": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 243
     }
   ],
-  "updateTime": "3/15/2026, 3:52:30 AM"
+  "updateTime": "3/16/2026, 3:56:37 AM"
 }
