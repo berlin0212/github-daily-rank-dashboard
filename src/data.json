@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "29.6k",
-      "dailyGrowth": "3022",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
-    },
-    {
-      "rank": 2,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "48.9k",
-      "dailyGrowth": "2856",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 3,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "totalStars": "88.2k",
-      "dailyGrowth": "2832",
+      "totalStars": "91.6k",
+      "dailyGrowth": "3357",
       "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
+      "rank": 2,
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "totalStars": "32.4k",
+      "dailyGrowth": "2761",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "rank": 3,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "51.3k",
+      "dailyGrowth": "2451",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
       "rank": 4,
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "totalStars": "13.9k",
-      "dailyGrowth": "1959",
-      "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
-    },
-    {
-      "rank": 5,
-      "name": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "totalStars": "20.1k",
-      "dailyGrowth": "1874",
-      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
-    },
-    {
-      "rank": 6,
       "name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "29.2k",
-      "dailyGrowth": "1436",
+      "totalStars": "30.4k",
+      "dailyGrowth": "1177",
       "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
+      "rank": 5,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "totalStars": "15.1k",
+      "dailyGrowth": "1152",
+      "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
+    },
+    {
+      "rank": 6,
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "totalStars": "13.9k",
+      "dailyGrowth": "1119",
+      "description": "使用 LangChain 和 LangGraph 构建的代理工具。配备了规划工具、文件系统后端以及生成子代理的能力——足以处理复杂的代理任务。"
+    },
+    {
       "rank": 7,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "36.6k",
-      "dailyGrowth": "1188",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "totalStars": "10.4k",
+      "dailyGrowth": "1002",
+      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
       "rank": 8,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "17.7k",
-      "dailyGrowth": "933",
-      "description": "练习使克劳德变得完美"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "37.6k",
+      "dailyGrowth": "993",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 9,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "95k",
-      "dailyGrowth": "878",
+      "totalStars": "95.9k",
+      "dailyGrowth": "921",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
       "rank": 10,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "39.3k",
-      "dailyGrowth": "769",
-      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "totalStars": "20.9k",
+      "dailyGrowth": "862",
+      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
     }
   ],
   "hackerNews": [
     {
-      "title": "美国证券交易委员会准备取消季度报告要求",
-      "originalTitle": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 349
+      "title": "蛞蝓的十年",
+      "originalTitle": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 472
     },
     {
-      "title": "Leanstral：用于可信编码和形式化证明工程的开源代理",
-      "originalTitle": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 345
+      "title": "超过 135 个开放硬件设备可使用您自己的固件进行闪存",
+      "originalTitle": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory",
+      "score": 57
     },
     {
-      "title": "Meta 对 jemalloc 的新承诺",
-      "originalTitle": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 366
+      "title": "Python 3.15 的 JIT 现在重回正轨",
+      "originalTitle": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "score": 300
     },
     {
-      "title": "美国医疗保健难题",
-      "originalTitle": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 270
+      "title": "微软“无法破解”的 Xbox One 已被“Bliss”黑客入侵",
+      "originalTitle": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 582
     },
     {
-      "title": "“小网络”比你想象的要大",
-      "originalTitle": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 337
+      "title": "完成任务：元提示、上下文工程和规范驱动的开发系统",
+      "originalTitle": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "score": 230
     },
     {
-      "title": "我的可靠且令人愉快的本地托管语音助手之旅 (2025)",
-      "originalTitle": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 335
+      "title": "Mistral AI 发布 Forge",
+      "originalTitle": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 180
     },
     {
-      "title": "显示 HN：Oxyde – 具有 Rust 核心的 Pydantic 原生异步 ORM",
-      "originalTitle": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-      "url": "https://github.com/mr-fatalyst/oxyde",
-      "score": 84
+      "title": "糟糕的产品设计带来的乐趣",
+      "originalTitle": "The Pleasures of Poor Product Design",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "score": 36
     },
     {
-      "title": "Beyond已经从名字中去掉了“肉”，并扩大了其高蛋白饮料系列",
-      "originalTitle": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
-      "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
-      "score": 70
+      "title": "Show HN：使用 CoW 内存分叉的亚毫秒级 VM 沙箱",
+      "originalTitle": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "score": 72
     },
     {
-      "title": "在太空中，没有人能听到你的内核恐慌 (2020)",
-      "originalTitle": "In space, no one can hear you kernel panic (2020)",
-      "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
-      "score": 38
+      "title": "只需 2 行代码即可启动具有沙盒执行功能的自主 AI 代理",
+      "originalTitle": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "score": 15
     },
     {
-      "title": "Show HN：GitClassic.com，一个快速、轻量级的 GitHub 瘦客户端（页面 <14KB）",
-      "originalTitle": "Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)",
-      "url": "https://gitclassic.com",
-      "score": 23
+      "title": "关于修复 Linux 内核中的 eBPF 自旋锁问题的故事",
+      "originalTitle": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "score": 27
     }
   ],
-  "updateTime": "3/17/2026, 3:36:59 AM"
+  "updateTime": "3/18/2026, 3:43:16 AM"
 }
