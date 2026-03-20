@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "totalStars": "95.6k",
-      "dailyGrowth": "4051",
+      "totalStars": "98.8k",
+      "dailyGrowth": "3164",
       "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
     },
     {
       "rank": 2,
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "34.6k",
-      "dailyGrowth": "2907",
-      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
+      "name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "totalStars": "87.6k",
+      "dailyGrowth": "2370",
+      "description": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
       "rank": 3,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "53.8k",
-      "dailyGrowth": "2437",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 4,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "32.1k",
-      "dailyGrowth": "1686",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
-    },
-    {
-      "rank": 5,
       "name": "jarrodwatts/claude-hud",
       "url": "https://github.com/jarrodwatts/claude-hud",
-      "totalStars": "6.7k",
-      "dailyGrowth": "1215",
+      "totalStars": "8.4k",
+      "dailyGrowth": "1680",
       "description": "一个 Claude Code 插件，显示正在发生的事情 - 上下文使用、活动工具、正在运行的代理和待办事项进度"
     },
     {
+      "rank": 4,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "55.3k",
+      "dailyGrowth": "1509",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
+      "rank": 5,
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "33.5k",
+      "dailyGrowth": "1423",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+    },
+    {
       "rank": 6,
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "totalStars": "55.6k",
-      "dailyGrowth": "1182",
-      "description": "法学硕士的微调和强化学习。 🦥 训练 OpenAI gpt-oss、DeepSeek、Qwen、Llama、Gemma、TTS 速度提高 2 倍，VRAM 减少 70%。"
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "totalStars": "35.8k",
+      "dailyGrowth": "1241",
+      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
     },
     {
       "rank": 7,
-      "name": "langchain-ai/deepagents",
-      "url": "https://github.com/langchain-ai/deepagents",
-      "totalStars": "15k",
-      "dailyGrowth": "1149",
-      "description": "使用 LangChain 和 LangGraph 构建的代理工具。配备了规划工具、文件系统后端以及生成子代理的能力——足以处理复杂的代理任务。"
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "totalStars": "56.6k",
+      "dailyGrowth": "993",
+      "description": "法学硕士的微调和强化学习。 🦥 训练 OpenAI gpt-oss、DeepSeek、Qwen、Llama、Gemma、TTS 速度提高 2 倍，VRAM 减少 70%。"
     },
     {
       "rank": 8,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "96.8k",
-      "dailyGrowth": "933",
+      "totalStars": "97.7k",
+      "dailyGrowth": "903",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     },
     {
       "rank": 9,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "11.2k",
-      "dailyGrowth": "816",
-      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+      "name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "totalStars": "6.9k",
+      "dailyGrowth": "710",
+      "description": "开源异步编码代理"
     },
     {
       "rank": 10,
-      "name": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "totalStars": "21.7k",
-      "dailyGrowth": "742",
-      "description": "Lightpanda：专为人工智能和自动化设计的无头浏览器"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "30.5k",
+      "dailyGrowth": "594",
+      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
     }
   ],
   "hackerNews": [
     {
-      "title": "奥斯汀新住房建设激增导致租金下降",
-      "originalTitle": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 360
+      "title": "将事件推送到带有通道的正在运行的会话中",
+      "originalTitle": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "score": 201
     },
     {
-      "title": "Cook：用于编排 Claude 代码的简单 CLI",
-      "originalTitle": "Cook: A simple CLI for orchestrating Claude Code",
-      "url": "https://rjcorwin.github.io/cook/",
+      "title": "Astral 加入 OpenAI",
+      "originalTitle": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "score": 1254
+    },
+    {
+      "title": "谷歌详细介绍了旁加载未经验证的 Android 应用程序的新 24 小时流程",
+      "originalTitle": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 571
+    },
+    {
+      "title": "TI-82/83/83 计算器的毒品战争",
+      "originalTitle": "Drugwars for the TI-82/83/83 Calculators",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "score": 60
+    },
+    {
+      "title": "全面披露：发现第三个（和第四个）Azure 登录日志绕过",
+      "originalTitle": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
       "score": 31
     },
     {
-      "title": "SAT 求解器的自动研究",
-      "originalTitle": "Autoresearch for SAT Solvers",
-      "url": "https://github.com/iliazintchenko/agent-sat",
-      "score": 58
+      "title": "Cockpit 是一个基于 Web 的服务器图形界面",
+      "originalTitle": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "score": 191
     },
     {
-      "title": "如果再生则保修无效",
-      "originalTitle": "Warranty Void If Regenerated",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 223
+      "title": "特纳双胞胎如何打破现代技术服装的神话",
+      "originalTitle": "How the Turner twins are mythbusting modern technical apparel",
+      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+      "score": 143
     },
     {
-      "title": "Nvidia greenboost：使用系统 RAM/NVMe 透明地扩展 GPU VRAM",
-      "originalTitle": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 197
+      "title": "Return of the Obra Dinn：1bpp 第一人称游戏的球形映射抖动",
+      "originalTitle": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "score": 257
     },
     {
-      "title": "开放火箭",
-      "originalTitle": "OpenRocket",
-      "url": "https://openrocket.info/",
-      "score": 440
+      "title": "Show HN：三个新的 Kitten TTS 模型 – 最小小于 25MB",
+      "originalTitle": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "score": 343
     },
     {
-      "title": "罗布·派克的编程规则 (1989)",
-      "originalTitle": "Rob Pike’s Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 870
-    },
-    {
-      "title": "Wander – 一个用于探索小型网络的小型去中心化工具",
-      "originalTitle": "Wander – A tiny, decentralised tool to explore the small web",
-      "url": "https://susam.net/wander/",
-      "score": 228
-    },
-    {
-      "title": "数学解释了为什么钟形曲线无处不在",
-      "originalTitle": "The math that explains why bell curves are everywhere",
-      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "score": 77
-    },
-    {
-      "title": "Nvidia NemoClaw",
-      "originalTitle": "Nvidia NemoClaw",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 260
+      "title": "你的CPU能预测多少个分支？",
+      "originalTitle": "How many branches can your CPU predict?",
+      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+      "score": 34
     }
   ],
-  "updateTime": "3/19/2026, 3:42:53 AM"
+  "updateTime": "3/20/2026, 3:32:39 AM"
 }
