@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "totalStars": "98.8k",
-      "dailyGrowth": "3164",
-      "description": "一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。"
-    },
-    {
-      "rank": 2,
       "name": "affaan-m/everything-claude-code",
       "url": "https://github.com/affaan-m/everything-claude-code",
-      "totalStars": "87.6k",
-      "dailyGrowth": "2370",
+      "totalStars": "90.2k",
+      "dailyGrowth": "2587",
       "description": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
-      "rank": 3,
-      "name": "jarrodwatts/claude-hud",
-      "url": "https://github.com/jarrodwatts/claude-hud",
-      "totalStars": "8.4k",
-      "dailyGrowth": "1680",
-      "description": "一个 Claude Code 插件，显示正在发生的事情 - 上下文使用、活动工具、正在运行的代理和待办事项进度"
+      "rank": 2,
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "totalStars": "6.9k",
+      "dailyGrowth": "1438",
+      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "55.3k",
-      "dailyGrowth": "1509",
+      "totalStars": "56.6k",
+      "dailyGrowth": "1275",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
-      "rank": 5,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "33.5k",
-      "dailyGrowth": "1423",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+      "rank": 4,
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "totalStars": "36.9k",
+      "dailyGrowth": "1220",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "gsd-build/get-shit-done",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "35.8k",
-      "dailyGrowth": "1241",
+      "totalStars": "37.1k",
+      "dailyGrowth": "1215",
       "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
     },
     {
+      "rank": 6,
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "34.6k",
+      "dailyGrowth": "1144",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+    },
+    {
       "rank": 7,
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "totalStars": "56.6k",
-      "dailyGrowth": "993",
-      "description": "法学硕士的微调和强化学习。 🦥 训练 OpenAI gpt-oss、DeepSeek、Qwen、Llama、Gemma、TTS 速度提高 2 倍，VRAM 减少 70%。"
+      "name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "totalStars": "9.4k",
+      "dailyGrowth": "1020",
+      "description": "一个 Claude Code 插件，显示正在发生的事情 - 上下文使用、活动工具、正在运行的代理和待办事项进度"
     },
     {
       "rank": 8,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "97.7k",
-      "dailyGrowth": "903",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "totalStars": "68.6k",
+      "dailyGrowth": "942",
+      "description": ""
     },
     {
       "rank": 9,
-      "name": "langchain-ai/open-swe",
-      "url": "https://github.com/langchain-ai/open-swe",
-      "totalStars": "6.9k",
-      "dailyGrowth": "710",
-      "description": "开源异步编码代理"
+      "name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "totalStars": "11.5k",
+      "dailyGrowth": "854",
+      "description": "在 Minecraft 中生成现实世界中的任何位置，具有高水平的细节。"
     },
     {
       "rank": 10,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "30.5k",
-      "dailyGrowth": "594",
-      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "totalStars": "98.6k",
+      "dailyGrowth": "841",
+      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     }
   ],
   "hackerNews": [
     {
-      "title": "将事件推送到带有通道的正在运行的会话中",
-      "originalTitle": "Push events into a running session with channels",
-      "url": "https://code.claude.com/docs/en/channels",
-      "score": 201
+      "title": "OpenCode – 开源人工智能编码代理",
+      "originalTitle": "OpenCode – Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 501
     },
     {
-      "title": "Astral 加入 OpenAI",
-      "originalTitle": "Astral to Join OpenAI",
-      "url": "https://astral.sh/blog/openai",
-      "score": 1254
+      "title": "我们用 TypeScript 重写了 Rust WASM 解析器，它变得更快了",
+      "originalTitle": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 126
     },
     {
-      "title": "谷歌详细介绍了旁加载未经验证的 Android 应用程序的新 24 小时流程",
-      "originalTitle": "Google details new 24-hour process to sideload unverified Android apps",
-      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 571
+      "title": "鬼灵",
+      "originalTitle": "Ghostling",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "score": 124
     },
     {
-      "title": "TI-82/83/83 计算器的毒品战争",
-      "originalTitle": "Drugwars for the TI-82/83/83 Calculators",
-      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 60
+      "title": "《世界报》通过健身应用程序实时定位法国航母",
+      "originalTitle": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 487
     },
     {
-      "title": "全面披露：发现第三个（和第四个）Azure 登录日志绕过",
-      "originalTitle": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 31
+      "title": "Linux 应用程序编程示例：基础 API（第二版）",
+      "originalTitle": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "score": 41
     },
     {
-      "title": "Cockpit 是一个基于 Web 的服务器图形界面",
-      "originalTitle": "Cockpit is a web-based graphical interface for servers",
-      "url": "https://github.com/cockpit-project/cockpit",
-      "score": 191
+      "title": "日语有关筷子失礼的词汇表",
+      "originalTitle": "A Japanese glossary of chopsticks faux pas",
+      "url": "https://www.nippon.com/en/japan-data/h01362/",
+      "score": 140
     },
     {
-      "title": "特纳双胞胎如何打破现代技术服装的神话",
-      "originalTitle": "How the Turner twins are mythbusting modern technical apparel",
-      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 143
+      "title": "四旬期和 Lisp",
+      "originalTitle": "Lent and Lisp",
+      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "score": 32
     },
     {
-      "title": "Return of the Obra Dinn：1bpp 第一人称游戏的球形映射抖动",
-      "originalTitle": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 257
+      "title": "莫莉·卫兵",
+      "originalTitle": "Molly Guard",
+      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "score": 7
     },
     {
-      "title": "Show HN：三个新的 Kitten TTS 模型 – 最小小于 25MB",
-      "originalTitle": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "score": 343
+      "title": "注意力残差",
+      "originalTitle": "Attention Residuals",
+      "url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "score": 132
     },
     {
-      "title": "你的CPU能预测多少个分支？",
-      "originalTitle": "How many branches can your CPU predict?",
-      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
-      "score": 34
+      "title": "洛杉矶渡槽很狂野",
+      "originalTitle": "The Los Angeles Aqueduct Is Wild",
+      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "score": 307
     }
   ],
-  "updateTime": "3/20/2026, 3:32:39 AM"
+  "updateTime": "3/21/2026, 3:24:48 AM"
 }
