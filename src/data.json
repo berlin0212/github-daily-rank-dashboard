@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "affaan-m/everything-claude-code",
       "url": "https://github.com/affaan-m/everything-claude-code",
-      "totalStars": "90.2k",
-      "dailyGrowth": "2587",
+      "totalStars": "93.7k",
+      "dailyGrowth": "3468",
       "description": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
       "rank": 2,
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "totalStars": "6.9k",
-      "dailyGrowth": "1438",
-      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "58k",
+      "dailyGrowth": "1483",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 3,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "56.6k",
-      "dailyGrowth": "1275",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "35.4k",
+      "dailyGrowth": "1421",
+      "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
       "rank": 4,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "36.9k",
-      "dailyGrowth": "1220",
+      "totalStars": "38.2k",
+      "dailyGrowth": "1212",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 5,
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "37.1k",
-      "dailyGrowth": "1215",
-      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
-    },
-    {
-      "rank": 6,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "34.6k",
-      "dailyGrowth": "1144",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
-    },
-    {
-      "rank": 7,
       "name": "jarrodwatts/claude-hud",
       "url": "https://github.com/jarrodwatts/claude-hud",
-      "totalStars": "9.4k",
-      "dailyGrowth": "1020",
+      "totalStars": "10.3k",
+      "dailyGrowth": "908",
       "description": "一个 Claude Code 插件，显示正在发生的事情 - 上下文使用、活动工具、正在运行的代理和待办事项进度"
     },
     {
+      "rank": 6,
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "totalStars": "7.8k",
+      "dailyGrowth": "900",
+      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+    },
+    {
+      "rank": 7,
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "totalStars": "17.4k",
+      "dailyGrowth": "876",
+      "description": "自动化在线赚钱的过程。"
+    },
+    {
       "rank": 8,
-      "name": "daytonaio/daytona",
-      "url": "https://github.com/daytonaio/daytona",
-      "totalStars": "68.6k",
-      "dailyGrowth": "942",
-      "description": ""
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "totalStars": "37.9k",
+      "dailyGrowth": "818",
+      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
     },
     {
       "rank": 9,
-      "name": "louis-e/arnis",
-      "url": "https://github.com/louis-e/arnis",
-      "totalStars": "11.5k",
-      "dailyGrowth": "854",
-      "description": "在 Minecraft 中生成现实世界中的任何位置，具有高水平的细节。"
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "totalStars": "13k",
+      "dailyGrowth": "736",
+      "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
       "rank": 10,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "totalStars": "98.6k",
-      "dailyGrowth": "841",
+      "totalStars": "99.2k",
+      "dailyGrowth": "654",
       "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
     }
   ],
   "hackerNews": [
     {
-      "title": "OpenCode – 开源人工智能编码代理",
-      "originalTitle": "OpenCode – Open source AI coding agent",
-      "url": "https://opencode.ai/",
-      "score": 501
+      "title": "Tinybox – 离线AI设备120B参数",
+      "originalTitle": "Tinybox – Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 366
     },
     {
-      "title": "我们用 TypeScript 重写了 Rust WASM 解析器，它变得更快了",
-      "originalTitle": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 126
+      "title": "JavaScript 膨胀的三大支柱",
+      "originalTitle": "The Three Pillars of JavaScript Bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "score": 42
     },
     {
-      "title": "鬼灵",
-      "originalTitle": "Ghostling",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "score": 124
+      "title": "卧式冰箱 (2009)",
+      "originalTitle": "Chest Fridge (2009)",
+      "url": "https://mtbest.net/chest-fridge/",
+      "score": 48
     },
     {
-      "title": "《世界报》通过健身应用程序实时定位法国航母",
-      "originalTitle": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 487
+      "title": "专业视频编辑，直接在浏览器中使用 WebGPU 和 WASM",
+      "originalTitle": "Professional video editing, right in the browser with WebGPU and WASM",
+      "url": "https://tooscut.app/",
+      "score": 167
     },
     {
-      "title": "Linux 应用程序编程示例：基础 API（第二版）",
-      "originalTitle": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 41
+      "title": "有些事情只是需要时间",
+      "originalTitle": "Some things just take time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 543
     },
     {
-      "title": "日语有关筷子失礼的词汇表",
-      "originalTitle": "A Japanese glossary of chopsticks faux pas",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 140
+      "title": "Floci – 免费、开源的本地 AWS 模拟器",
+      "originalTitle": "Floci – A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci",
+      "score": 88
     },
     {
-      "title": "四旬期和 Lisp",
-      "originalTitle": "Lent and Lisp",
-      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
-      "score": 32
+      "title": "Boomloom：用你的双手思考",
+      "originalTitle": "Boomloom: Think with your hands",
+      "url": "https://www.theboomloom.com",
+      "score": 55
     },
     {
-      "title": "莫莉·卫兵",
-      "originalTitle": "Molly Guard",
-      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 7
+      "title": "不要把儿童保护变成互联网访问控制",
+      "originalTitle": "Do Not Turn Child Protection into Internet Access Control",
+      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "score": 547
     },
     {
-      "title": "注意力残差",
-      "originalTitle": "Attention Residuals",
-      "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 132
+      "title": "Trivy 生态系统供应链短暂受到损害",
+      "originalTitle": "Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "score": 37
     },
     {
-      "title": "洛杉矶渡槽很狂野",
-      "originalTitle": "The Los Angeles Aqueduct Is Wild",
-      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 307
+      "title": "困惑数据科学家的贝叶斯统计",
+      "originalTitle": "Bayesian statistics for confused data scientists",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "score": 66
     }
   ],
-  "updateTime": "3/21/2026, 3:24:48 AM"
+  "updateTime": "3/22/2026, 3:41:25 AM"
 }
