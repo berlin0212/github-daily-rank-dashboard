@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "totalStars": "97.3k",
-      "dailyGrowth": "3624",
-      "description": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
-    },
-    {
-      "rank": 2,
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "totalStars": "34.9k",
-      "dailyGrowth": "2505",
+      "totalStars": "38.8k",
+      "dailyGrowth": "3875",
       "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "totalStars": "19.3k",
-      "dailyGrowth": "1830",
+      "totalStars": "22.5k",
+      "dailyGrowth": "3212",
       "description": "自动化在线赚钱的过程。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "36.8k",
-      "dailyGrowth": "1364",
+      "totalStars": "39k",
+      "dailyGrowth": "2215",
       "description": "TradingAgents：多代理LLM金融交易框架"
+    },
+    {
+      "rank": 4,
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "23.6k",
+      "dailyGrowth": "1293",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 5,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "39.5k",
-      "dailyGrowth": "1310",
+      "totalStars": "40.7k",
+      "dailyGrowth": "1262",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 6,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "59.3k",
-      "dailyGrowth": "1288",
+      "totalStars": "60.6k",
+      "dailyGrowth": "1227",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 7,
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "totalStars": "11.8k",
-      "dailyGrowth": "1081",
-      "description": "✨ 完全自主的人工智能代理系统，能够执行复杂的渗透测试任务"
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "11.3k",
+      "dailyGrowth": "1197",
+      "description": "与您共同成长的代理商"
     },
     {
       "rank": 8,
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "38.7k",
-      "dailyGrowth": "831",
-      "description": "适用于 Claude Code 和 OpenCode 的轻量级且功能强大的元提示、上下文工程和规范驱动的开发系统。"
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "totalStars": "12.9k",
+      "dailyGrowth": "1118",
+      "description": "✨ 完全自主的人工智能代理系统，能够执行复杂的渗透测试任务"
     },
     {
       "rank": 9,
-      "name": "jarrodwatts/claude-hud",
-      "url": "https://github.com/jarrodwatts/claude-hud",
-      "totalStars": "11.1k",
-      "dailyGrowth": "765",
-      "description": "一个 Claude Code 插件，显示正在发生的事情 - 上下文使用、活动工具、正在运行的代理和待办事项进度"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "37k",
+      "dailyGrowth": "1093",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
       "rank": 10,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "totalStars": "99.9k",
-      "dailyGrowth": "686",
-      "description": "Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。"
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "totalStars": "83.5k",
+      "dailyGrowth": "1045",
+      "description": "🌐 让 AI 代理可以访问网站。轻松在线自动化任务。"
     }
   ],
   "hackerNews": [
     {
-      "title": "PC Gamer 在一篇 37mb 的文章中推荐 RSS 阅读器，但一直在下载",
-      "originalTitle": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 400
+      "title": "Epoch 确认 GPT5.4 Pro 解决了前沿数学开放问题",
+      "originalTitle": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "score": 57
     },
     {
-      "title": "优化的黄金标准：RollerCoaster Tycoon 的幕后花絮",
-      "originalTitle": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 253
+      "title": "对旧研究理念的自动研究",
+      "originalTitle": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "score": 297
     },
     {
-      "title": "最热门的新手机是 Tin Can，一款儿童“固定电话”",
-      "originalTitle": "The hottest new phone is Tin Can, a 'landline' for kids",
-      "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
-      "score": 35
+      "title": "FCC 更新涵盖列表以纳入外国制造的消费类路由器",
+      "originalTitle": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 215
     },
     {
-      "title": "版本控制的未来",
-      "originalTitle": "The future of version control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 445
+      "title": "iPhone 17 Pro 展示运行 400B LLM",
+      "originalTitle": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 511
     },
     {
-      "title": "关于代码死亡的报道被严重夸大了",
-      "originalTitle": "Reports of code's death are greatly exaggerated",
-      "url": "https://stevekrouse.com/precision",
-      "score": 299
+      "title": "庞贝城的战斗伤痕与古代“机枪”有关",
+      "originalTitle": "Pompeii's battle scars linked to an ancient 'machine gun'",
+      "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
+      "score": 39
     },
     {
-      "title": "GoGoGrandparent (YC S16) 正在招聘后端工程师",
-      "originalTitle": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "score": 1
+      "title": "Resolv 黑客攻击：一把被盗密钥如何印出 2300 万美元",
+      "originalTitle": "The Resolv hack: How one compromised key printed $23M",
+      "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+      "score": 67
     },
     {
-      "title": "变压器电路的直觉",
-      "originalTitle": "Intuitions for Tranformer Circuits",
-      "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
-      "score": 26
+      "title": "滥用可定制选择",
+      "originalTitle": "Abusing Customizable Selects",
+      "url": "https://css-tricks.com/abusing-customizable-selects/",
+      "score": 42
     },
     {
-      "title": "为什么我喜欢 NixOS",
-      "originalTitle": "Why I love NixOS",
-      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "score": 235
+      "title": "显示 HN：Cq – AI 编码代理的 Stack Overflow",
+      "originalTitle": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "score": 86
     },
     {
-      "title": "我根据营销照片对 TiinyAI Pocket Lab 进行了逆向工程",
-      "originalTitle": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
-      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-      "score": 50
+      "title": "具慈：修复瓷器的艺术",
+      "originalTitle": "Ju Ci: The Art of Repairing Porcelain",
+      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "score": 65
     },
     {
-      "title": "Project Nomad – 永不离线的知识",
-      "originalTitle": "Project Nomad – Knowledge That Never Goes Offline",
-      "url": "https://www.projectnomad.us",
-      "score": 382
+      "title": "IRIX 3dfx Voodoo 驱动程序和 glide2x IRIX 端口",
+      "originalTitle": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+      "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+      "score": 38
     }
   ],
-  "updateTime": "3/23/2026, 3:45:55 AM"
+  "updateTime": "3/24/2026, 3:37:24 AM"
 }
