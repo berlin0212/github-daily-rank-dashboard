@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "9.6k",
-      "dailyGrowth": "3336",
-      "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
-    },
-    {
-      "rank": 2,
       "name": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
-      "totalStars": "29.6k",
-      "dailyGrowth": "2760",
+      "totalStars": "32.9k",
+      "dailyGrowth": "3318",
       "description": "VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。"
     },
     {
+      "rank": 2,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "totalStars": "12.5k",
+      "dailyGrowth": "2927",
+      "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+    },
+    {
       "rank": 3,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "18.2k",
-      "dailyGrowth": "1892",
-      "description": "与您共同成长的代理商"
-    },
-    {
-      "rank": 4,
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "17.4k",
-      "dailyGrowth": "1601",
-      "description": "Claude Code 的团队优先多代理编排"
-    },
-    {
-      "rank": 5,
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "totalStars": "53.9k",
-      "dailyGrowth": "1560",
-      "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
-    },
-    {
-      "rank": 6,
       "name": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "25.7k",
-      "dailyGrowth": "1458",
+      "totalStars": "28.2k",
+      "dailyGrowth": "2563",
       "description": "练习使克劳德变得完美"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "20.1k",
+      "dailyGrowth": "1821",
+      "description": "与您共同成长的代理商"
+    },
+    {
+      "rank": 5,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "totalStars": "18.7k",
+      "dailyGrowth": "1231",
+      "description": "Claude Code 的团队优先多代理编排"
+    },
+    {
+      "rank": 6,
       "name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "43.8k",
-      "dailyGrowth": "1231",
+      "totalStars": "45k",
+      "dailyGrowth": "1212",
       "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
+      "rank": 7,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "totalStars": "55.2k",
+      "dailyGrowth": "1207",
+      "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
+    },
+    {
       "rank": 8,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "16.3k",
-      "dailyGrowth": "1181",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "67.4k",
+      "dailyGrowth": "913",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 9,
-      "name": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "totalStars": "86.2k",
-      "dailyGrowth": "1095",
-      "description": "Deep-Live-Cam 是一个基于深度学习的实时人脸替换项目，支持摄像头实时处理，主要用于研究、娱乐和视觉效果实验。"
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "totalStars": "75.4k",
+      "dailyGrowth": "754",
+      "description": "通过社交网络上的用户名查找社交媒体帐户"
     },
     {
       "rank": 10,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "43.5k",
-      "dailyGrowth": "1087",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "totalStars": "87k",
+      "dailyGrowth": "749",
+      "description": "Deep-Live-Cam 是一个基于深度学习的实时人脸替换项目，支持摄像头实时处理，主要用于研究、娱乐和视觉效果实验。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Axios 在 NPM 上受损 – 恶意版本删除远程访问木马",
-      "originalTitle": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 77
+      "title": "克劳德代码源泄漏：假工具、挫败正则表达式、卧底模式",
+      "originalTitle": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 943
     },
     {
-      "title": "Universal Claude.md – 将 Claude 输出代币削减 63%",
-      "originalTitle": "Universal Claude.md – cut Claude output tokens by 63%",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "score": 156
-    },
-    {
-      "title": "阿尔忒弥斯 II 号飞行不安全",
-      "originalTitle": "Artemis II is not safe to fly",
-      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "title": "尼安德特人在刀锋上生存了 35 万年",
+      "originalTitle": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
       "score": 44
     },
     {
-      "title": "Fedware：政府应用程序比他们禁止的应用程序更难监视",
-      "originalTitle": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 474
+      "title": "TinyLoRA – 学习 13 个参数的推理",
+      "originalTitle": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 111
     },
     {
-      "title": "自己写作业",
-      "originalTitle": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 413
+      "title": "松露红宝石",
+      "originalTitle": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 71
     },
     {
-      "title": "Android开发者验证",
-      "originalTitle": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 172
+      "title": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
+      "originalTitle": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "score": 155
     },
     {
-      "title": "2026 年 3 月 30 日事件 – 意外 CDN 缓存",
-      "originalTitle": "Incident March 30th, 2026 – Accidental CDN Caching",
-      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
-      "score": 31
+      "title": "每天一点，远离混乱",
+      "originalTitle": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 202
     },
     {
-      "title": "用 1 美元的硬件将 MacBook 变成触摸屏 (2018)",
-      "originalTitle": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 231
+      "title": "Ministack（LocalStack 的替代品）",
+      "originalTitle": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 165
     },
     {
-      "title": "如何将任何东西变成路由器",
-      "originalTitle": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "score": 620
+      "title": "分析Intel BOT下的Geekbench 6",
+      "originalTitle": "Analyzing Geekbench 6 under Intel's BOT",
+      "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+      "score": 8
     },
     {
-      "title": "通过实践而不是阅读来学习克劳德代码",
-      "originalTitle": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "score": 191
+      "title": "我们拦截了白宫应用程序的网络流量",
+      "originalTitle": "We intercepted the White House app's network traffic",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "score": 164
+    },
+    {
+      "title": "OpenAI 以 852B 美元估值完成融资",
+      "originalTitle": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 376
     }
   ],
-  "updateTime": "3/31/2026, 3:52:39 AM"
+  "updateTime": "4/1/2026, 4:14:12 AM"
 }
