@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "15.3k",
-      "dailyGrowth": "2791",
+      "totalStars": "16.9k",
+      "dailyGrowth": "1606",
       "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
     },
     {
       "rank": 2,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "30.3k",
-      "dailyGrowth": "2097",
-      "description": "练习使克劳德变得完美"
-    },
-    {
-      "rank": 3,
       "name": "Yeachan-Heo/oh-my-claudecode",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "20.6k",
-      "dailyGrowth": "1928",
+      "totalStars": "22k",
+      "dailyGrowth": "1417",
       "description": "Claude Code 的团队优先多代理编排"
     },
     {
+      "rank": 3,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "totalStars": "13.2k",
+      "dailyGrowth": "1383",
+      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
       "rank": 4,
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "totalStars": "34.3k",
-      "dailyGrowth": "1393",
-      "description": "VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。"
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "totalStars": "21.6k",
+      "dailyGrowth": "1169",
+      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
     },
     {
       "rank": 5,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "21.4k",
-      "dailyGrowth": "1346",
+      "totalStars": "22.6k",
+      "dailyGrowth": "1147",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 6,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "46.3k",
-      "dailyGrowth": "1328",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "totalStars": "72.6k",
+      "dailyGrowth": "996",
+      "description": "在您的终端中运行的轻量级编码代理"
     },
     {
       "rank": 7,
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "totalStars": "76.3k",
-      "dailyGrowth": "927",
-      "description": "通过社交网络上的用户名查找社交媒体帐户"
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "totalStars": "35.1k",
+      "dailyGrowth": "867",
+      "description": "VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。"
     },
     {
       "rank": 8,
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "totalStars": "56k",
-      "dailyGrowth": "818",
-      "description": "一个用于研究、编码和创建的开源 SuperAgent 工具。在沙箱、内存、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几小时的不同级别的任务。"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "47.2k",
+      "dailyGrowth": "827",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     },
     {
       "rank": 9,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "68.1k",
-      "dailyGrowth": "752",
+      "totalStars": "68.9k",
+      "dailyGrowth": "781",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 10,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "37k",
-      "dailyGrowth": "705",
+      "totalStars": "37.8k",
+      "dailyGrowth": "768",
       "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
     }
   ],
   "hackerNews": [
     {
-      "title": "直播：Artemis II 发布日更新",
-      "originalTitle": "Live: Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 715
+      "title": "谷歌发布 Gemma 4 开放模型",
+      "originalTitle": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 1227
     },
     {
-      "title": "ocamlc 的新 C++ 后端",
-      "originalTitle": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "score": 120
+      "title": "开放网络并没有消亡。我们正在杀死它",
+      "originalTitle": "The open web isn't dying. We're killing it",
+      "url": "https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/",
+      "score": 32
     },
     {
-      "title": "量子计算重磅炸弹并非愚人节",
-      "originalTitle": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "score": 64
+      "title": "削弱对 Azure 信任的决定——前 Azure Core 工程师",
+      "originalTitle": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "score": 419
     },
     {
-      "title": "EmDash – WordPress 的精神继承者，解决插件安全问题",
-      "originalTitle": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 498
+      "title": "Tailscale 的新 macOS 主页",
+      "originalTitle": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "score": 365
     },
     {
-      "title": "DRAM 定价正在扼杀爱好者 SBC 市场",
-      "originalTitle": "DRAM pricing is killing the hobbyist SBC market",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 349
+      "title": "C89cc.sh – 纯便携式 shell 中的独立 C89/ELF64 编译器",
+      "originalTitle": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "score": 53
     },
     {
-      "title": "克劳德代码泄露",
-      "originalTitle": "The Claude Code Leak",
-      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-      "score": 15
+      "title": "阿耳忒弥斯二号的厕所是月球任务的里程碑",
+      "originalTitle": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "score": 161
     },
     {
-      "title": "快速华丽的侵蚀滤镜",
-      "originalTitle": "Fast and Gorgeous Erosion Filter",
-      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
-      "score": 96
+      "title": "光标3",
+      "originalTitle": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "score": 321
     },
     {
-      "title": "在越线之前设定好界限",
-      "originalTitle": "Set the Line Before It's Crossed",
-      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
-      "score": 42
+      "title": "Qwen3.6-Plus：走向现实世界的代理",
+      "originalTitle": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 454
     },
     {
-      "title": "美国生产的水泥和混凝土的人工智能",
-      "originalTitle": "AI for American-produced cement and concrete",
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 167
+      "title": "好的想法不需要大量的谎言才能获得公众的接受（2008）",
+      "originalTitle": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "score": 183
     },
     {
-      "title": "Show HN：Git bayesect – 用于非确定性错误的贝叶斯 Git 二分法",
-      "originalTitle": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "url": "https://github.com/hauntsaninja/git_bayesect",
-      "score": 222
+      "title": "AMD 的 Lemonade：使用 GPU 和 NPU 的快速开源本地 LLM 服务器",
+      "originalTitle": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 467
     }
   ],
-  "updateTime": "4/2/2026, 3:46:24 AM"
+  "updateTime": "4/3/2026, 3:47:23 AM"
 }
