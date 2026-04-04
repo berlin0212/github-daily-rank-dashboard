@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "16.9k",
-      "dailyGrowth": "1606",
-      "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "totalStars": "13.8k",
+      "dailyGrowth": "2477",
+      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
     },
     {
       "rank": 2,
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "22k",
-      "dailyGrowth": "1417",
-      "description": "Claude Code 的团队优先多代理编排"
+      "name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "totalStars": "17.9k",
+      "dailyGrowth": "2355",
+      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
     },
     {
       "rank": 3,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "totalStars": "13.2k",
-      "dailyGrowth": "1383",
-      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "totalStars": "23.1k",
+      "dailyGrowth": "1498",
+      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
     },
     {
       "rank": 4,
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "totalStars": "21.6k",
-      "dailyGrowth": "1169",
-      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "totalStars": "78.3k",
+      "dailyGrowth": "1310",
+      "description": "通过社交网络上的用户名查找社交媒体帐户"
     },
     {
       "rank": 5,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "22.6k",
-      "dailyGrowth": "1147",
+      "totalStars": "23.6k",
+      "dailyGrowth": "1076",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 6,
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "totalStars": "72.6k",
-      "dailyGrowth": "996",
-      "description": "在您的终端中运行的轻量级编码代理"
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "totalStars": "23k",
+      "dailyGrowth": "1013",
+      "description": "Claude Code 的团队优先多代理编排"
     },
     {
       "rank": 7,
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "totalStars": "35.1k",
-      "dailyGrowth": "867",
-      "description": "VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。"
-    },
-    {
-      "rank": 8,
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "totalStars": "47.2k",
-      "dailyGrowth": "827",
-      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
-    },
-    {
-      "rank": 9,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "68.9k",
-      "dailyGrowth": "781",
+      "totalStars": "69.7k",
+      "dailyGrowth": "861",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
+      "rank": 8,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "totalStars": "14k",
+      "dailyGrowth": "731",
+      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": 9,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "totalStars": "17.6k",
+      "dailyGrowth": "705",
+      "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+    },
+    {
       "rank": 10,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "37.8k",
-      "dailyGrowth": "768",
-      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "totalStars": "47.8k",
+      "dailyGrowth": "658",
+      "description": "Learn Claude Code 是一个教学型项目，系统整理了 Claude 在代码生成、理解和调试方面的实践方法，适合希望快速上手 AI 编程的开发者。"
     }
   ],
   "hackerNews": [
     {
-      "title": "谷歌发布 Gemma 4 开放模型",
-      "originalTitle": "Google releases Gemma 4 open models",
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1227
-    },
-    {
-      "title": "开放网络并没有消亡。我们正在杀死它",
-      "originalTitle": "The open web isn't dying. We're killing it",
-      "url": "https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/",
-      "score": 32
-    },
-    {
-      "title": "削弱对 Azure 信任的决定——前 Azure Core 工程师",
-      "originalTitle": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 419
-    },
-    {
-      "title": "Tailscale 的新 macOS 主页",
-      "originalTitle": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "title": "告诉 HN：Anthropic 不再允许 Claude Code 订阅使用 OpenClaw",
+      "originalTitle": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
       "score": 365
     },
     {
-      "title": "C89cc.sh – 纯便携式 shell 中的独立 C89/ELF64 编译器",
-      "originalTitle": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "title": "阿耳忒弥斯二号机组人员拍摄了地球的“壮观”图像",
+      "originalTitle": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 565
+    },
+    {
+      "title": "Show HN：旅行黑客工具包 – 使用人工智能进行积分搜索和旅行规划",
+      "originalTitle": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "score": 24
+    },
+    {
+      "title": "Delve 从 Y Combinator 中移除",
+      "originalTitle": "Delve Removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
       "score": 53
     },
     {
-      "title": "阿耳忒弥斯二号的厕所是月球任务的里程碑",
-      "originalTitle": "Artemis II's toilet is a moon mission milestone",
-      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 161
+      "title": "欧洲询问复兴核能是否是应对能源冲击的答案",
+      "originalTitle": "Europe asks if reviving nuclear is the answer to energy shocks",
+      "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno",
+      "score": 10
     },
     {
-      "title": "光标3",
-      "originalTitle": "Cursor 3",
-      "url": "https://cursor.com/blog/cursor-3",
-      "score": 321
+      "title": "自然主义者",
+      "originalTitle": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 356
     },
     {
-      "title": "Qwen3.6-Plus：走向现实世界的代理",
-      "originalTitle": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 454
+      "title": "Herbie：自动改进不精确的浮点公式",
+      "originalTitle": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "score": 43
     },
     {
-      "title": "好的想法不需要大量的谎言才能获得公众的接受（2008）",
-      "originalTitle": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "score": 183
+      "title": "Show HN：我为个人博客建立了一个首页",
+      "originalTitle": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "score": 679
     },
     {
-      "title": "AMD 的 Lemonade：使用 GPU 和 NPU 的快速开源本地 LLM 服务器",
-      "originalTitle": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "score": 467
+      "title": "当你把 Linux 盒子变成路由器时会发生什么变化",
+      "originalTitle": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "score": 115
+    },
+    {
+      "title": "OpenClaw 权限提升漏洞",
+      "originalTitle": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "score": 272
     }
   ],
-  "updateTime": "4/3/2026, 3:47:23 AM"
+  "updateTime": "4/4/2026, 3:36:24 AM"
 }
