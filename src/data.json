@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "15.4k",
-      "dailyGrowth": "1576",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
-    },
-    {
-      "rank": 2,
       "name": "siddharthvaddem/openscreen",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "totalStars": "19.4k",
-      "dailyGrowth": "1461",
+      "totalStars": "22.2k",
+      "dailyGrowth": "2879",
       "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "18.8k",
-      "dailyGrowth": "1237",
+      "totalStars": "20.2k",
+      "dailyGrowth": "1341",
       "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
     },
     {
-      "rank": 4,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "71k",
-      "dailyGrowth": "1236",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "24.8k",
-      "dailyGrowth": "1139",
+      "totalStars": "26.1k",
+      "dailyGrowth": "1283",
       "description": "与您共同成长的代理商"
     },
     {
+      "rank": 4,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "totalStars": "36.7k",
+      "dailyGrowth": "1112",
+      "description": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
+    },
+    {
+      "rank": 5,
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "totalStars": "16.5k",
+      "dailyGrowth": "1102",
+      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
+    },
+    {
       "rank": 6,
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "totalStars": "24.1k",
-      "dailyGrowth": "994",
-      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "71.9k",
+      "dailyGrowth": "928",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 7,
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "totalStars": "79.2k",
-      "dailyGrowth": "882",
-      "description": "通过社交网络上的用户名查找社交媒体帐户"
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "totalStars": "24.9k",
+      "dailyGrowth": "828",
+      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
     },
     {
       "rank": 8,
       "name": "Yeachan-Heo/oh-my-claudecode",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "23.7k",
-      "dailyGrowth": "721",
+      "totalStars": "24.4k",
+      "dailyGrowth": "649",
       "description": "Claude Code 的团队优先多代理编排"
     },
     {
       "rank": 9,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "totalStars": "14.6k",
-      "dailyGrowth": "625",
-      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "totalStars": "49.9k",
+      "dailyGrowth": "633",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 10,
-      "name": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "totalStars": "88.3k",
-      "dailyGrowth": "523",
-      "description": "Deep-Live-Cam 是一个基于深度学习的实时人脸替换项目，支持摄像头实时处理，主要用于研究、娱乐和视觉效果实验。"
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "totalStars": "79.8k",
+      "dailyGrowth": "605",
+      "description": "通过社交网络上的用户名查找社交媒体帐户"
     }
   ],
   "hackerNews": [
     {
-      "title": "计算机音乐简介 [pdf]",
-      "originalTitle": "Introduction to Computer Music [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 61
+      "title": "收到 DMCA 通知后，媒体抓取工具 Gallery-dl 将迁移到 Codeberg",
+      "originalTitle": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "score": 29
     },
     {
-      "title": "Show HN：一款构建 GPU 的游戏",
-      "originalTitle": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "score": 556
+      "title": "Show HN：我建立了一个小型法学硕士来揭开语言模型如何工作的神秘面纱",
+      "originalTitle": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "score": 157
     },
     {
-      "title": "编写 Lisp 会抵抗 AI，我很伤心",
-      "originalTitle": "Writing Lisp Is AI Resistant and I'm Sad",
-      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-      "score": 14
+      "title": "iPhone 上的杰玛 4",
+      "originalTitle": "Gemma 4 on iPhone",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "score": 486
     },
     {
-      "title": "OpenScreen 是 Screen Studio 的开源替代品",
-      "originalTitle": "OpenScreen is an open-source alternative to Screen Studio",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 148
+      "title": "根据微软的使用条款，Copilot“仅用于娱乐目的”",
+      "originalTitle": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "score": 65
     },
     {
-      "title": "给年轻人的建议，我对自己说的谎言 (2024)",
-      "originalTitle": "Advice to Young People, the Lies I Tell Myself (2024)",
-      "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "score": 54
+      "title": "LÖVE：Lua 的 2D 游戏框架",
+      "originalTitle": "LÖVE: 2D Game Framework for Lua",
+      "url": "https://github.com/love2d/love",
+      "score": 235
     },
     {
-      "title": "并行测试 100 多个 Claude 智能体的案例研究",
-      "originalTitle": "A case study in testing with 100+ Claude agents in parallel",
-      "url": "https://imbue.com/product/mngr_part_2/",
-      "score": 25
+      "title": "Show HN：YouTube 搜索几乎不起作用，我制作了一个带有高级过滤器的搜索表单",
+      "originalTitle": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+      "url": "https://playlists.at/youtube/search/",
+      "score": 114
     },
     {
-      "title": "LLM Wiki – “想法文件”的示例",
-      "originalTitle": "LLM Wiki – example of an \"idea file\"",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 93
+      "title": "自 Petzold 以来，微软一直没有一个连贯的 GUI 策略",
+      "originalTitle": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "score": 277
     },
     {
-      "title": "微软有多少种产品被命名为“Copilot”？",
-      "originalTitle": "How many products does Microsoft have named 'Copilot'?",
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 471
+      "title": "阿耳忒弥斯二号船员首次看到月球背面[视频]",
+      "originalTitle": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "score": 445
     },
     {
-      "title": "AWS 工程师报告 PostgreSQL 性能因 Linux 7.0 减半，修复可能并不容易",
-      "originalTitle": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
-      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-      "score": 146
+      "title": "八年的渴望，三个月的人工智能构建",
+      "originalTitle": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 685
     },
     {
-      "title": "伊塞文",
-      "originalTitle": "Isseven",
-      "url": "https://isseven.app/",
-      "score": 46
+      "title": "用于从月球反射信号的开源 240 天线阵列",
+      "originalTitle": "An open-source 240-antenna array to bounce signals off the Moon",
+      "url": "https://moonrf.com/",
+      "score": 8
     }
   ],
-  "updateTime": "4/5/2026, 3:56:24 AM"
+  "updateTime": "4/6/2026, 4:09:29 AM"
 }
