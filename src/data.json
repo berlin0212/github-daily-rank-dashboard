@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "siddharthvaddem/openscreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "totalStars": "22.2k",
-      "dailyGrowth": "2879",
-      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
-    },
-    {
-      "rank": 2,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "20.2k",
-      "dailyGrowth": "1341",
-      "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
-    },
-    {
-      "rank": 3,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "26.1k",
-      "dailyGrowth": "1283",
+      "totalStars": "27.8k",
+      "dailyGrowth": "1726",
       "description": "与您共同成长的代理商"
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "totalStars": "23.8k",
+      "dailyGrowth": "1516",
+      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
+    },
+    {
+      "rank": 3,
       "name": "block/goose",
       "url": "https://github.com/block/goose",
-      "totalStars": "36.7k",
-      "dailyGrowth": "1112",
+      "totalStars": "38k",
+      "dailyGrowth": "1232",
       "description": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
     },
     {
-      "rank": 5,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "16.5k",
-      "dailyGrowth": "1102",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "71.9k",
-      "dailyGrowth": "928",
+      "totalStars": "73k",
+      "dailyGrowth": "1054",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
+      "rank": 5,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "totalStars": "21.2k",
+      "dailyGrowth": "1030",
+      "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+    },
+    {
+      "rank": 6,
+      "name": "elebumm/RedditVideoMakerBot",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "totalStars": "9.4k",
+      "dailyGrowth": "1000",
+      "description": "一个有创意的视频制作项目。RedditVideoMakerBot 可以从 Reddit 上获取内容并制作成视频，为内容创作者提供了一种新的创作方式。对于喜欢制作视频和活跃在 Reddit 平台的用户来说，这个项目具有很大的吸引力。"
+    },
+    {
       "rank": 7,
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "totalStars": "24.9k",
-      "dailyGrowth": "828",
-      "description": "开源 AI 平台 - AI Chat 具有适用于每个 LLM 的高级功能"
+      "name": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "totalStars": "17.7k",
+      "dailyGrowth": "910",
+      "description": "展示设备上 ML/GenAI 用例并允许人们在本地尝试和使用模型的图库。"
     },
     {
       "rank": 8,
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "24.4k",
-      "dailyGrowth": "649",
-      "description": "Claude Code 的团队优先多代理编排"
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "totalStars": "17.4k",
+      "dailyGrowth": "862",
+      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
     },
     {
       "rank": 9,
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "49.9k",
-      "dailyGrowth": "633",
+      "totalStars": "50.6k",
+      "dailyGrowth": "724",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 10,
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "totalStars": "79.8k",
-      "dailyGrowth": "605",
-      "description": "通过社交网络上的用户名查找社交媒体帐户"
+      "name": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "totalStars": "18.6k",
+      "dailyGrowth": "584",
+      "description": "迷你 cli 搜索引擎，用于搜索您的文档、知识库、会议记录等。跟踪当前的 sota 方法，同时都是本地的"
     }
   ],
   "hackerNews": [
     {
-      "title": "收到 DMCA 通知后，媒体抓取工具 Gallery-dl 将迁移到 Codeberg",
-      "originalTitle": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
-      "score": 29
+      "title": "Show HN：Ghost Pepper – 适用于 macOS 的本地通话语音转文本",
+      "originalTitle": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
+      "score": 271
     },
     {
-      "title": "Show HN：我建立了一个小型法学硕士来揭开语言模型如何工作的神秘面纱",
-      "originalTitle": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "score": 157
+      "title": "Solod – 翻译为 C 的 Go 子集",
+      "originalTitle": "Solod – A Subset of Go That Translates to C",
+      "url": "https://github.com/solod-dev/solod",
+      "score": 48
     },
     {
-      "title": "iPhone 上的杰玛 4",
-      "originalTitle": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 486
+      "title": "推出 HN：Freestyle – 编码代理沙箱",
+      "originalTitle": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
+      "score": 221
     },
     {
-      "title": "根据微软的使用条款，Copilot“仅用于娱乐目的”",
-      "originalTitle": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "score": 65
+      "title": "密码学工程师对量子计算时间表的看法",
+      "originalTitle": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "score": 369
     },
     {
-      "title": "LÖVE：Lua 的 2D 游戏框架",
-      "originalTitle": "LÖVE: 2D Game Framework for Lua",
-      "url": "https://github.com/love2d/love",
-      "score": 235
+      "title": "VOID：视频对象和交互删除",
+      "originalTitle": "VOID: Video Object and Interaction Deletion",
+      "url": "https://github.com/Netflix/void-model",
+      "score": 102
     },
     {
-      "title": "Show HN：YouTube 搜索几乎不起作用，我制作了一个带有高级过滤器的搜索表单",
-      "originalTitle": "Show HN: YouTube search barely works, I made a search form with advanced filters",
-      "url": "https://playlists.at/youtube/search/",
-      "score": 114
+      "title": "问题：Claude Code 无法用于 2 月更新的复杂工程任务",
+      "originalTitle": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "score": 820
     },
     {
-      "title": "自 Petzold 以来，微软一直没有一个连贯的 GUI 策略",
-      "originalTitle": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "score": 277
+      "title": "德国警方公布了 GandCrab 和 REvil 勒索软件组织的涉嫌领导人名单",
+      "originalTitle": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "score": 268
     },
     {
-      "title": "阿耳忒弥斯二号船员首次看到月球背面[视频]",
-      "originalTitle": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 445
+      "title": "Show HN：GovAuctions 可让您立即浏览政府拍卖",
+      "originalTitle": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "score": 239
     },
     {
-      "title": "八年的渴望，三个月的人工智能构建",
-      "originalTitle": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 685
+      "title": "Graph-go – 零配置，完全可见性",
+      "originalTitle": "Graph-go – zero config, full visibility",
+      "url": "https://github.com/guilherme-grimm/graph-go",
+      "score": 5
     },
     {
-      "title": "用于从月球反射信号的开源 240 天线阵列",
-      "originalTitle": "An open-source 240-antenna array to bounce signals off the Moon",
-      "url": "https://moonrf.com/",
-      "score": 8
+      "title": "Anthropic 扩大与 Google 和 Broadcom 的下一代计算合作伙伴关系",
+      "originalTitle": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "score": 179
     }
   ],
-  "updateTime": "4/6/2026, 4:09:29 AM"
+  "updateTime": "4/7/2026, 3:51:30 AM"
 }
