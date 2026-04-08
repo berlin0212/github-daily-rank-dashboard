@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "27.8k",
-      "dailyGrowth": "1726",
-      "description": "与您共同成长的代理商"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "74.3k",
+      "dailyGrowth": "1328",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 2,
       "name": "siddharthvaddem/openscreen",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "totalStars": "23.8k",
-      "dailyGrowth": "1516",
+      "totalStars": "25.1k",
+      "dailyGrowth": "1307",
       "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
     },
     {
       "rank": 3,
-      "name": "block/goose",
-      "url": "https://github.com/block/goose",
-      "totalStars": "38k",
-      "dailyGrowth": "1232",
-      "description": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
-    },
-    {
-      "rank": 4,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "73k",
-      "dailyGrowth": "1054",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 5,
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "21.2k",
-      "dailyGrowth": "1030",
+      "totalStars": "22.3k",
+      "dailyGrowth": "1063",
       "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
     },
     {
-      "rank": 6,
-      "name": "elebumm/RedditVideoMakerBot",
-      "url": "https://github.com/elebumm/RedditVideoMakerBot",
-      "totalStars": "9.4k",
-      "dailyGrowth": "1000",
-      "description": "一个有创意的视频制作项目。RedditVideoMakerBot 可以从 Reddit 上获取内容并制作成视频，为内容创作者提供了一种新的创作方式。对于喜欢制作视频和活跃在 Reddit 平台的用户来说，这个项目具有很大的吸引力。"
+      "rank": 4,
+      "name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "totalStars": "21.3k",
+      "dailyGrowth": "960",
+      "description": "黑曜石的代理技能。教您的代理使用 Markdown、Bases、JSON Canvas 并使用 CLI。"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "totalStars": "38.9k",
+      "dailyGrowth": "927",
+      "description": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
+    },
+    {
+      "rank": 6,
       "name": "google-ai-edge/gallery",
       "url": "https://github.com/google-ai-edge/gallery",
-      "totalStars": "17.7k",
+      "totalStars": "18.6k",
       "dailyGrowth": "910",
       "description": "展示设备上 ML/GenAI 用例并允许人们在本地尝试和使用模型的图库。"
     },
     {
+      "rank": 7,
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "totalStars": "37.3k",
+      "dailyGrowth": "868",
+      "description": "Shannon Lite 是一个用于 Web 应用程序和 API 的自主白盒 AI 渗透测试程序。它会分析您的源代码，识别攻击向量，并执行真正的漏洞利用，以在漏洞到达生产环境之前证明它们。"
+    },
+    {
       "rank": 8,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "17.4k",
-      "dailyGrowth": "862",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
+      "name": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "totalStars": "19.4k",
+      "dailyGrowth": "812",
+      "description": "迷你 cli 搜索引擎，用于搜索文档、知识库、会议记录等。跟踪当前的 sota 方法，同时都是本地的"
     },
     {
       "rank": 9,
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "totalStars": "50.6k",
-      "dailyGrowth": "724",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "totalStars": "18.1k",
+      "dailyGrowth": "751",
+      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
     },
     {
       "rank": 10,
-      "name": "tobi/qmd",
-      "url": "https://github.com/tobi/qmd",
-      "totalStars": "18.6k",
-      "dailyGrowth": "584",
-      "description": "迷你 cli 搜索引擎，用于搜索您的文档、知识库、会议记录等。跟踪当前的 sota 方法，同时都是本地的"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "40.4k",
+      "dailyGrowth": "696",
+      "description": "CC-Switch 是一个用于快速切换网络、代理或配置环境的实用工具，适合需要频繁在不同网络策略之间切换的开发者和测试人员。它通过简化配置与切换流程，减少手动修改成本，提高多环境调试和跨网络工作的效率。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Show HN：Ghost Pepper – 适用于 macOS 的本地通话语音转文本",
-      "originalTitle": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 271
+      "title": "OpenAI 表示其新模型 GPT-2 太危险，无法发布（2019）",
+      "originalTitle": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+      "score": 219
     },
     {
-      "title": "Solod – 翻译为 C 的 Go 子集",
-      "originalTitle": "Solod – A Subset of Go That Translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "score": 48
+      "title": "美国和伊朗同意临时停火",
+      "originalTitle": "US and Iran agree to provisional ceasefire",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "score": 296
     },
     {
-      "title": "推出 HN：Freestyle – 编码代理沙箱",
-      "originalTitle": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "score": 221
+      "title": "Glasswing 项目：保护人工智能时代的关键软件",
+      "originalTitle": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "score": 996
     },
     {
-      "title": "密码学工程师对量子计算时间表的看法",
-      "originalTitle": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 369
+      "title": "飞越月球",
+      "originalTitle": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "score": 465
     },
     {
-      "title": "VOID：视频对象和交互删除",
-      "originalTitle": "VOID: Video Object and Interaction Deletion",
-      "url": "https://github.com/Netflix/void-model",
-      "score": 102
+      "title": "系统卡：克劳德神话预览 [pdf]",
+      "originalTitle": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 581
     },
     {
-      "title": "问题：Claude Code 无法用于 2 月更新的复杂工程任务",
-      "originalTitle": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 820
+      "title": "LLM 抓取机器人正在使 acme.com 的 HTTPS 服务器超载",
+      "originalTitle": "LLM scraper bots are overloading acme.com's HTTPS server",
+      "url": "http://acme.com/updates/archive/229.html",
+      "score": 13
     },
     {
-      "title": "德国警方公布了 GandCrab 和 REvil 勒索软件组织的涉嫌领导人名单",
-      "originalTitle": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "score": 268
+      "title": "通过采用旧的黑客习惯，稍微更安全的振动编码",
+      "originalTitle": "Slightly safer vibecoding by adopting old hacker habits",
+      "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+      "score": 21
     },
     {
-      "title": "Show HN：GovAuctions 可让您立即浏览政府拍卖",
-      "originalTitle": "Show HN: GovAuctions lets you browse government auctions at once",
-      "url": "https://www.govauctions.app/",
-      "score": 239
+      "title": "AAA 游戏中使用的二进制混淆",
+      "originalTitle": "Binary obfuscation used in AAA Games",
+      "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+      "score": 36
     },
     {
-      "title": "Graph-go – 零配置，完全可见性",
-      "originalTitle": "Graph-go – zero config, full visibility",
-      "url": "https://github.com/guilherme-grimm/graph-go",
-      "score": 5
+      "title": "保护你的棚子",
+      "originalTitle": "Protect Your Shed",
+      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "score": 13
     },
     {
-      "title": "Anthropic 扩大与 Google 和 Broadcom 的下一代计算合作伙伴关系",
-      "originalTitle": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "score": 179
+      "title": "GLM-5.1：迈向长期任务",
+      "originalTitle": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "score": 453
     }
   ],
-  "updateTime": "4/7/2026, 3:51:30 AM"
+  "updateTime": "4/8/2026, 3:53:36 AM"
 }
