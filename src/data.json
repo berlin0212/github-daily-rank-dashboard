@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "75.7k",
-      "dailyGrowth": "1432",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "43.7k",
+      "dailyGrowth": "6595",
+      "description": "与您共同成长的代理商"
     },
     {
       "rank": 2,
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "totalStars": "12.5k",
-      "dailyGrowth": "1060",
-      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "totalStars": "14.6k",
+      "dailyGrowth": "2569",
+      "description": "《DeepTutor：Agent-原生个性化学习助手》"
     },
     {
       "rank": 3,
-      "name": "block/goose",
-      "url": "https://github.com/block/goose",
-      "totalStars": "39.8k",
-      "dailyGrowth": "918",
-      "description": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
-    },
-    {
-      "rank": 4,
-      "name": "siddharthvaddem/openscreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "totalStars": "26k",
-      "dailyGrowth": "913",
-      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
-    },
-    {
-      "rank": 5,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "23.2k",
-      "dailyGrowth": "878",
-      "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
-    },
-    {
-      "rank": 6,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "19k",
-      "dailyGrowth": "853",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
-    },
-    {
-      "rank": 7,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "8.8k",
-      "dailyGrowth": "814",
+      "totalStars": "10.2k",
+      "dailyGrowth": "1423",
       "description": ""
     },
     {
+      "rank": 4,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "totalStars": "26.9k",
+      "dailyGrowth": "1223",
+      "description": "Claude Code 的团队优先多代理编排"
+    },
+    {
+      "rank": 5,
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "totalStars": "13.6k",
+      "dailyGrowth": "1059",
+      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+    },
+    {
+      "rank": 6,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "76.8k",
+      "dailyGrowth": "1052",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
+      "rank": 7,
+      "name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "totalStars": "11.1k",
+      "dailyGrowth": "1033",
+      "description": "开源人工智能同事，有记忆"
+    },
+    {
       "rank": 8,
-      "name": "google-ai-edge/gallery",
-      "url": "https://github.com/google-ai-edge/gallery",
-      "totalStars": "19.4k",
-      "dailyGrowth": "759",
-      "description": "展示设备上 ML/GenAI 用例并允许人们在本地尝试和使用模型的图库。"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "34.1k",
+      "dailyGrowth": "1005",
+      "description": "练习使克劳德变得完美"
     },
     {
       "rank": 9,
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "totalStars": "8.5k",
-      "dailyGrowth": "722",
-      "description": "事后诸葛亮：智能体的学习记忆"
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "totalStars": "19.8k",
+      "dailyGrowth": "871",
+      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
     },
     {
       "rank": 10,
-      "name": "rowboatlabs/rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "totalStars": "10.1k",
-      "dailyGrowth": "682",
-      "description": "开源人工智能同事，有记忆"
+      "name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "totalStars": "26.8k",
+      "dailyGrowth": "870",
+      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Linux 版小飞贼",
-      "originalTitle": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 270
+      "title": "NASA 如何建造 Artemis II 的容错计算机",
+      "originalTitle": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "score": 159
     },
     {
-      "title": "我将 Mac OS X 移植到了 Nintendo Wii",
-      "originalTitle": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1336
+      "title": "比起技能我还是更喜欢 MCP",
+      "originalTitle": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "score": 41
     },
     {
-      "title": "软件开发人员的 USB：编写用户空间 USB 驱动程序简介",
-      "originalTitle": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 216
+      "title": "macOS 上的原生即时空间切换",
+      "originalTitle": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "score": 369
     },
     {
-      "title": "闲着的重要性",
-      "originalTitle": "The Importance of Being Idle",
-      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "score": 32
-    },
-    {
-      "title": "通过简单的雷达示例了解卡尔曼滤波器",
-      "originalTitle": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "score": 255
-    },
-    {
-      "title": "KL 散度的六个（半）直觉",
-      "originalTitle": "Six (and a half) intuitions for KL divergence",
-      "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+      "title": "我们筹集了 1700 万美元来构建 Git 之后的产品",
+      "originalTitle": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
       "score": 26
     },
     {
-      "title": "它们是肉做的 (1991)",
-      "originalTitle": "They're made out of meat (1991)",
-      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "score": 436
+      "title": "多年来的生成艺术",
+      "originalTitle": "Generative art over the years",
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "score": 48
     },
     {
-      "title": "Muse Spark：向个人超级智能扩展",
-      "originalTitle": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 290
+      "title": "RAM 自 1966 年以来就存在设计缺陷。我绕过了它 [视频]",
+      "originalTitle": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "score": 74
     },
     {
-      "title": "机器学习注定会变得非常奇怪",
-      "originalTitle": "ML promises to be profoundly weird",
-      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "score": 415
+      "title": "Charcuterie – 视觉相似性 Unicode 浏览器",
+      "originalTitle": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "score": 162
     },
     {
-      "title": "我在阅读任何代码之前运行的 Git 命令",
-      "originalTitle": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1862
+      "title": "苹果的新 iPhone 更新限制了英国的互联网自由",
+      "originalTitle": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
+      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "score": 61
+    },
+    {
+      "title": "PicoZ80 – Z80 的替代品",
+      "originalTitle": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "score": 165
+    },
+    {
+      "title": "通过《Mean Girls》解释Raft共识算法",
+      "originalTitle": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
+      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+      "score": 4
     }
   ],
-  "updateTime": "4/9/2026, 3:50:23 AM"
+  "updateTime": "4/10/2026, 4:10:28 AM"
 }
