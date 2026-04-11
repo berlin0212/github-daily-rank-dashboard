@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "43.7k",
-      "dailyGrowth": "6595",
+      "totalStars": "51.3k",
+      "dailyGrowth": "7681",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 2,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "totalStars": "14.6k",
-      "dailyGrowth": "2569",
-      "description": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "35.5k",
+      "dailyGrowth": "1473",
+      "description": "练习使克劳德变得完美"
     },
     {
       "rank": 3,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "10.2k",
-      "dailyGrowth": "1423",
+      "totalStars": "11.5k",
+      "dailyGrowth": "1316",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "totalStars": "26.9k",
-      "dailyGrowth": "1223",
-      "description": "Claude Code 的团队优先多代理编排"
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "totalStars": "15.8k",
+      "dailyGrowth": "1229",
+      "description": "《DeepTutor：Agent-原生个性化学习助手》"
     },
     {
       "rank": 5,
       "name": "opendataloader-project/opendataloader-pdf",
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "totalStars": "13.6k",
-      "dailyGrowth": "1059",
+      "totalStars": "14.7k",
+      "dailyGrowth": "1108",
       "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
     },
     {
       "rank": 6,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "76.8k",
-      "dailyGrowth": "1052",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "totalStars": "15.4k",
+      "dailyGrowth": "1058",
+      "description": "支持复杂环境下的游戏 AI 训练与交互。"
     },
     {
       "rank": 7,
-      "name": "rowboatlabs/rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "totalStars": "11.1k",
-      "dailyGrowth": "1033",
-      "description": "开源人工智能同事，有记忆"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "8.6k",
+      "dailyGrowth": "1054",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 8,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "34.1k",
-      "dailyGrowth": "1005",
-      "description": "练习使克劳德变得完美"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "77.7k",
+      "dailyGrowth": "951",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 9,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "19.8k",
-      "dailyGrowth": "871",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "47.4k",
+      "dailyGrowth": "773",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 10,
-      "name": "siddharthvaddem/openscreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "totalStars": "26.8k",
-      "dailyGrowth": "870",
-      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "totalStars": "24.6k",
+      "dailyGrowth": "701",
+      "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
     }
   ],
   "hackerNews": [
     {
-      "title": "NASA 如何建造 Artemis II 的容错计算机",
-      "originalTitle": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 159
+      "title": "锉掉 MacBook 的边角",
+      "originalTitle": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "score": 469
     },
     {
-      "title": "比起技能我还是更喜欢 MCP",
-      "originalTitle": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "score": 41
+      "title": "阿耳忒弥斯二号安全溅落",
+      "originalTitle": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "score": 516
     },
     {
-      "title": "macOS 上的原生即时空间切换",
-      "originalTitle": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 369
+      "title": "一维国际象棋",
+      "originalTitle": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 696
     },
     {
-      "title": "我们筹集了 1700 万美元来构建 Git 之后的产品",
-      "originalTitle": "We've raised $17M to build what comes after Git",
-      "url": "https://blog.gitbutler.com/series-a",
+      "title": "研究人员表示，乌干达的黑猩猩陷入了长达八年的“内战”",
+      "originalTitle": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 263
+    },
+    {
+      "title": "安装每个* Firefox 扩展",
+      "originalTitle": "Installing Every* Firefox Extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "score": 191
+    },
+    {
+      "title": "WireGuard 在 Microsoft 签署决议后发布新的 Windows 版本",
+      "originalTitle": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "score": 413
+    },
+    {
+      "title": "研究 x86-64 上的拆分锁",
+      "originalTitle": "Investigating Split Locks on x86-64",
+      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
       "score": 26
     },
     {
-      "title": "多年来的生成艺术",
-      "originalTitle": "Generative art over the years",
-      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "score": 48
+      "title": "Keychron 键盘和鼠标的工业设计文件",
+      "originalTitle": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "score": 326
     },
     {
-      "title": "RAM 自 1966 年以来就存在设计缺陷。我绕过了它 [视频]",
-      "originalTitle": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
-      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "score": 74
+      "title": "为 Linux 内核做出贡献时的 AI 协助",
+      "originalTitle": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "score": 194
     },
     {
-      "title": "Charcuterie – 视觉相似性 Unicode 浏览器",
-      "originalTitle": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
-      "score": 162
-    },
-    {
-      "title": "苹果的新 iPhone 更新限制了英国的互联网自由",
-      "originalTitle": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
-      "score": 61
-    },
-    {
-      "title": "PicoZ80 – Z80 的替代品",
-      "originalTitle": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 165
-    },
-    {
-      "title": "通过《Mean Girls》解释Raft共识算法",
-      "originalTitle": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
-      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "score": 4
+      "title": "Bevy 游戏开发教程和深入资源",
+      "originalTitle": "Bevy game development tutorials and in-depth resources",
+      "url": "https://taintedcoders.com/",
+      "score": 21
     }
   ],
-  "updateTime": "4/10/2026, 4:10:28 AM"
+  "updateTime": "4/11/2026, 3:39:39 AM"
 }
