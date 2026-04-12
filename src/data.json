@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "51.3k",
-      "dailyGrowth": "7681",
+      "totalStars": "58.1k",
+      "dailyGrowth": "6769",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 2,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "35.5k",
-      "dailyGrowth": "1473",
-      "description": "练习使克劳德变得完美"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "7.6k",
+      "dailyGrowth": "1731",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 3,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "11.5k",
-      "dailyGrowth": "1316",
+      "totalStars": "13.1k",
+      "dailyGrowth": "1565",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "totalStars": "15.8k",
-      "dailyGrowth": "1229",
-      "description": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "36.9k",
+      "dailyGrowth": "1342",
+      "description": "练习使克劳德变得完美"
     },
     {
       "rank": 5,
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "totalStars": "14.7k",
-      "dailyGrowth": "1108",
-      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "totalStars": "13.9k",
+      "dailyGrowth": "1294",
+      "description": "Kronos：金融市场语言的基础模型"
     },
     {
       "rank": 6,
-      "name": "coleam00/Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "totalStars": "15.4k",
-      "dailyGrowth": "1058",
-      "description": "支持复杂环境下的游戏 AI 训练与交互。"
-    },
-    {
-      "rank": 7,
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "8.6k",
-      "dailyGrowth": "1054",
+      "totalStars": "9.7k",
+      "dailyGrowth": "1118",
       "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
+      "rank": 7,
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "totalStars": "16.4k",
+      "dailyGrowth": "1003",
+      "description": "支持复杂环境下的游戏 AI 训练与交互。"
+    },
+    {
       "rank": 8,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "77.7k",
-      "dailyGrowth": "951",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "totalStars": "15.5k",
+      "dailyGrowth": "831",
+      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
     },
     {
       "rank": 9,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "47.4k",
-      "dailyGrowth": "773",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "totalStars": "16.6k",
+      "dailyGrowth": "806",
+      "description": "《DeepTutor：Agent-原生个性化学习助手》"
     },
     {
       "rank": 10,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "totalStars": "24.6k",
-      "dailyGrowth": "701",
-      "description": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "48k",
+      "dailyGrowth": "626",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     }
   ],
   "hackerNews": [
     {
-      "title": "锉掉 MacBook 的边角",
-      "originalTitle": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 469
+      "title": "十一岁末",
+      "originalTitle": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "score": 65
     },
     {
-      "title": "阿耳忒弥斯二号安全溅落",
-      "originalTitle": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 516
+      "title": "小模型也发现了Mythos发现的漏洞",
+      "originalTitle": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 910
     },
     {
-      "title": "一维国际象棋",
-      "originalTitle": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 696
+      "title": "我们如何打破顶级人工智能代理基准：以及接下来会发生什么",
+      "originalTitle": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 269
     },
     {
-      "title": "研究人员表示，乌干达的黑猩猩陷入了长达八年的“内战”",
-      "originalTitle": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 263
+      "title": "Apple 芯片和虚拟机：突破 2 个虚拟机限制 (2023)",
+      "originalTitle": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 166
     },
     {
-      "title": "安装每个* Firefox 扩展",
-      "originalTitle": "Installing Every* Firefox Extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 191
+      "title": "我的代码有多复杂？",
+      "originalTitle": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "score": 49
     },
     {
-      "title": "WireGuard 在 Microsoft 签署决议后发布新的 Windows 版本",
-      "originalTitle": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 413
+      "title": "零保留能时为 447 TB/cm² – 氟石墨烷上的原子级存储器",
+      "originalTitle": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 161
     },
     {
-      "title": "研究 x86-64 上的拆分锁",
-      "originalTitle": "Investigating Split Locks on x86-64",
-      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
-      "score": 26
+      "title": "Pijul 一个 FOSS 分布式版本控制系统",
+      "originalTitle": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "score": 102
     },
     {
-      "title": "Keychron 键盘和鼠标的工业设计文件",
-      "originalTitle": "Industrial design files for Keychron keyboards and mice",
-      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 326
+      "title": "黑暗城堡",
+      "originalTitle": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "score": 146
     },
     {
-      "title": "为 Linux 内核做出贡献时的 AI 协助",
-      "originalTitle": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 194
+      "title": "Advanced Mac Substitute 是 1980 年代 Mac 操作系统的 API 级重新实现",
+      "originalTitle": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "score": 220
     },
     {
-      "title": "Bevy 游戏开发教程和深入资源",
-      "originalTitle": "Bevy game development tutorials and in-depth resources",
-      "url": "https://taintedcoders.com/",
-      "score": 21
+      "title": "Cirrus Labs 加入 OpenAI",
+      "originalTitle": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 244
     }
   ],
-  "updateTime": "4/11/2026, 3:39:39 AM"
+  "updateTime": "4/12/2026, 4:12:51 AM"
 }
