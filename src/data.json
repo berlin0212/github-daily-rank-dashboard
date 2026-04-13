@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "58.1k",
-      "dailyGrowth": "6769",
+      "totalStars": "65.5k",
+      "dailyGrowth": "7387",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 2,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "7.6k",
-      "dailyGrowth": "1731",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
-    },
-    {
-      "rank": 3,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "13.1k",
-      "dailyGrowth": "1565",
+      "totalStars": "15.7k",
+      "dailyGrowth": "2629",
       "description": ""
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "36.9k",
-      "dailyGrowth": "1342",
+      "totalStars": "38.7k",
+      "dailyGrowth": "1859",
       "description": "练习使克劳德变得完美"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "totalStars": "13.9k",
-      "dailyGrowth": "1294",
+      "totalStars": "15.6k",
+      "dailyGrowth": "1667",
       "description": "Kronos：金融市场语言的基础模型"
+    },
+    {
+      "rank": 5,
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "9.2k",
+      "dailyGrowth": "1542",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 6,
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "9.7k",
-      "dailyGrowth": "1118",
+      "totalStars": "11.1k",
+      "dailyGrowth": "1389",
       "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 7,
-      "name": "coleam00/Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "totalStars": "16.4k",
-      "dailyGrowth": "1003",
-      "description": "支持复杂环境下的游戏 AI 训练与交互。"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "49.3k",
+      "dailyGrowth": "1271",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 8,
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "totalStars": "15.5k",
-      "dailyGrowth": "831",
-      "description": "用于 AI 就绪数据的 PDF 解析器。自动化 PDF 辅助功能。开源。"
+      "name": "alexpate/awesome-design-systems",
+      "url": "https://github.com/alexpate/awesome-design-systems",
+      "totalStars": "23k",
+      "dailyGrowth": "872",
+      "description": "💅🏻 ⚒ 一系列很棒的设计系统"
     },
     {
       "rank": 9,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "totalStars": "16.6k",
-      "dailyGrowth": "806",
-      "description": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "totalStars": "28.7k",
+      "dailyGrowth": "653",
+      "description": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。"
     },
     {
       "rank": 10,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "48k",
-      "dailyGrowth": "626",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "totalStars": "16.9k",
+      "dailyGrowth": "577",
+      "description": "支持复杂环境下的游戏 AI 训练与交互。"
     }
   ],
   "hackerNews": [
     {
-      "title": "十一岁末",
-      "originalTitle": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 65
+      "title": "来自单个二元运算符的所有初等函数",
+      "originalTitle": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "score": 85
     },
     {
-      "title": "小模型也发现了Mythos发现的漏洞",
-      "originalTitle": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 910
+      "title": "Haunt，70 年代的文字冒险游戏，现在可以在网站上玩",
+      "originalTitle": "Haunt, the 70s text adventure game, is now playable on a website",
+      "url": "https://haunt.madebywindmill.com",
+      "score": 17
     },
     {
-      "title": "我们如何打破顶级人工智能代理基准：以及接下来会发生什么",
-      "originalTitle": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 269
+      "title": "与 ROCm 对抗 CUDA：“一步接着一步”",
+      "originalTitle": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "score": 94
     },
     {
-      "title": "Apple 芯片和虚拟机：突破 2 个虚拟机限制 (2023)",
-      "originalTitle": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 166
+      "title": "在 64 位目标上优化 32 位无符号常量除法",
+      "originalTitle": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
+      "score": 39
     },
     {
-      "title": "我的代码有多复杂？",
-      "originalTitle": "How Complex is my Code?",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 49
+      "title": "Show HN：boringBar – macOS 的任务栏式底座替代品",
+      "originalTitle": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "score": 280
     },
     {
-      "title": "零保留能时为 447 TB/cm² – 氟石墨烷上的原子级存储器",
-      "originalTitle": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 161
+      "title": "带回惯用设计 (2023)",
+      "originalTitle": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 499
     },
     {
-      "title": "Pijul 一个 FOSS 分布式版本控制系统",
-      "originalTitle": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "score": 102
+      "title": "DIY软饮料",
+      "originalTitle": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "score": 309
     },
     {
-      "title": "黑暗城堡",
-      "originalTitle": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
-      "score": 146
+      "title": "2026 年家庭实验室状况",
+      "originalTitle": "State of Homelab 2026",
+      "url": "https://mrlokans.work/posts/state-of-homelab-2026/",
+      "score": 26
     },
     {
-      "title": "Advanced Mac Substitute 是 1980 年代 Mac 操作系统的 API 级重新实现",
-      "originalTitle": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 220
+      "title": "苹果意外的护城河：“人工智能失败者”最终可能如何获胜",
+      "originalTitle": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "score": 46
     },
     {
-      "title": "Cirrus Labs 加入 OpenAI",
-      "originalTitle": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "score": 244
+      "title": "问 HN：您在做什么？ （2026 年 4 月）",
+      "originalTitle": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "score": 164
     }
   ],
-  "updateTime": "4/12/2026, 4:12:51 AM"
+  "updateTime": "4/13/2026, 4:22:55 AM"
 }
