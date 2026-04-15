@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "23.7k",
-      "dailyGrowth": "7976",
+      "totalStars": "32.1k",
+      "dailyGrowth": "8441",
       "description": ""
     },
     {
       "rank": 2,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "52.8k",
-      "dailyGrowth": "3464",
+      "totalStars": "55.4k",
+      "dailyGrowth": "2588",
       "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 3,
       "name": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "41.3k",
-      "dailyGrowth": "2595",
+      "totalStars": "43.5k",
+      "dailyGrowth": "2185",
       "description": "练习使克劳德变得完美"
     },
     {
       "rank": 4,
       "name": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
-      "totalStars": "10.9k",
-      "dailyGrowth": "1699",
+      "totalStars": "12.3k",
+      "dailyGrowth": "1444",
       "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 5,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "totalStars": "16.9k",
-      "dailyGrowth": "1300",
-      "description": "Kronos：金融市场语言的基础模型"
-    },
-    {
-      "rank": 6,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "12.2k",
-      "dailyGrowth": "1108",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
-    },
-    {
-      "rank": 7,
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
-      "totalStars": "52.8k",
-      "dailyGrowth": "757",
+      "totalStars": "54k",
+      "dailyGrowth": "1142",
       "description": "AI Hedge Fund 是一个基于人工智能的对冲基金平台，利用机器学习算法分析市场数据，帮助投资者做出更加智能和高效的投资决策。"
     },
     {
+      "rank": 6,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "totalStars": "11.3k",
+      "dailyGrowth": "1016",
+      "description": ""
+    },
+    {
+      "rank": 7,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "17.1k",
+      "dailyGrowth": "948",
+      "description": "开源语音合成工作室"
+    },
+    {
       "rank": 8,
-      "name": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "totalStars": "68.8k",
-      "dailyGrowth": "668",
-      "description": "所有小初高、大学PDF教材。"
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "totalStars": "52.9k",
+      "dailyGrowth": "872",
+      "description": "TâCHES 为 Claude Code 提供的轻量级且功能强大的元提示、上下文工程和规范驱动开发系统。"
     },
     {
       "rank": 9,
-      "name": "coleam00/Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "totalStars": "17.5k",
-      "dailyGrowth": "613",
-      "description": "支持复杂环境下的游戏 AI 训练与交互。"
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "totalStars": "17.7k",
+      "dailyGrowth": "826",
+      "description": "Kronos：金融市场语言的基础模型"
     },
     {
       "rank": 10,
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "totalStars": "22.2k",
-      "dailyGrowth": "604",
-      "description": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等。"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "12.9k",
+      "dailyGrowth": "672",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     }
   ],
   "hackerNews": [
     {
-      "title": "DaVinci Resolve 发布照片编辑器",
-      "originalTitle": "DaVinci Resolve releases Photo Editor",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 95
+      "title": "克劳德代码例程",
+      "originalTitle": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
+      "score": 494
     },
     {
-      "title": "针对“后退按钮劫持”的新垃圾邮件政策",
-      "originalTitle": "A new spam policy for \"back button hijacking\"",
-      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 38
+      "title": "罕见的音乐会录音登陆互联网档案馆",
+      "originalTitle": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "score": 570
     },
     {
-      "title": "有人购买了 30 个 WordPress 插件，并在所有插件中植入了后门",
-      "originalTitle": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 775
+      "title": "共产主义 Apple II 和十四年来不知道自己在测试什么",
+      "originalTitle": "A communist Apple II and fourteen years of not knowing what you're testing",
+      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+      "score": 73
     },
     {
-      "title": "GitHub 堆叠 PR",
-      "originalTitle": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "score": 527
+      "title": "橙色 Pi 6 Plus",
+      "originalTitle": "The Orange Pi 6 Plus",
+      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "score": 139
     },
     {
-      "title": "精益证明了这个计划的正确性；然后我发现了一个bug",
-      "originalTitle": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 145
+      "title": "停止羊群",
+      "originalTitle": "Stop Flock",
+      "url": "https://stopflock.com",
+      "score": 470
     },
     {
-      "title": "WiiFin – 任天堂 Wii 的 Jellyfin 客户端",
-      "originalTitle": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 95
+      "title": "毕加索的《格尔尼卡》（十亿像素）",
+      "originalTitle": "Picasso's Guernica (Gigapixel)",
+      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+      "score": 76
     },
     {
-      "title": "DuckDB内部结构的设计与实现",
-      "originalTitle": "Design and implementation of DuckDB internals",
-      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "score": 55
+      "title": "在 Pomera DM250 Writedeck 上安装 OpenBSD",
+      "originalTitle": "Installing OpenBSD on the Pomera DM250 Writerdeck",
+      "url": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "score": 8
     },
     {
-      "title": "什么都没有发生：Polymarket 机器人总是在非体育市场上买“不”",
-      "originalTitle": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 374
+      "title": "询问 HN：老年人最简单的用户体验",
+      "originalTitle": "Ask HN: Easiest UX for Seniors",
+      "url": "https://news.ycombinator.com/item?id=47729327",
+      "score": 40
     },
     {
-      "title": "GPU 上的 Rust 线​​程",
-      "originalTitle": "Rust Threads on the GPU",
-      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "score": 14
+      "title": "了解 Clojure 的持久向量，pt。 1 (2013)",
+      "originalTitle": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+      "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
+      "score": 29
     },
     {
-      "title": "如何使 Firefox 的构建速度提高 17%",
-      "originalTitle": "How to make Firefox builds 17% faster",
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 146
+      "title": "5NF 和数据库设计",
+      "originalTitle": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
+      "score": 142
     }
   ],
-  "updateTime": "4/14/2026, 4:11:58 AM"
+  "updateTime": "4/15/2026, 4:10:59 AM"
 }
