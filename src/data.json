@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "32.1k",
-      "dailyGrowth": "8441",
+      "totalStars": "41.9k",
+      "dailyGrowth": "9754",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "55.4k",
-      "dailyGrowth": "2588",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "totalStars": "89.1k",
+      "dailyGrowth": "5145",
+      "description": "与您共同成长的代理商"
     },
     {
       "rank": 3,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "43.5k",
-      "dailyGrowth": "2185",
-      "description": "练习使克劳德变得完美"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "57.5k",
+      "dailyGrowth": "2124",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 4,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "12.3k",
-      "dailyGrowth": "1444",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "totalStars": "44.8k",
+      "dailyGrowth": "1340",
+      "description": "练习使克劳德变得完美"
     },
     {
       "rank": 5,
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "totalStars": "54k",
-      "dailyGrowth": "1142",
-      "description": "AI Hedge Fund 是一个基于人工智能的对冲基金平台，利用机器学习算法分析市场数据，帮助投资者做出更加智能和高效的投资决策。"
-    },
-    {
-      "rank": 6,
       "name": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "totalStars": "11.3k",
-      "dailyGrowth": "1016",
+      "totalStars": "12.5k",
+      "dailyGrowth": "1141",
       "description": ""
     },
     {
+      "rank": 6,
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "13.4k",
+      "dailyGrowth": "1115",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+    },
+    {
       "rank": 7,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "17.1k",
-      "dailyGrowth": "948",
-      "description": "开源语音合成工作室"
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "totalStars": "54.9k",
+      "dailyGrowth": "953",
+      "description": "AI Hedge Fund 是一个基于人工智能的对冲基金平台，利用机器学习算法分析市场数据，帮助投资者做出更加智能和高效的投资决策。"
     },
     {
       "rank": 8,
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "52.9k",
-      "dailyGrowth": "872",
-      "description": "TâCHES 为 Claude Code 提供的轻量级且功能强大的元提示、上下文工程和规范驱动开发系统。"
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "18.1k",
+      "dailyGrowth": "918",
+      "description": "开源语音合成工作室"
     },
     {
       "rank": 9,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "totalStars": "17.7k",
-      "dailyGrowth": "826",
-      "description": "Kronos：金融市场语言的基础模型"
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "totalStars": "37.1k",
+      "dailyGrowth": "637",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
       "rank": 10,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "12.9k",
-      "dailyGrowth": "672",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "totalStars": "53.5k",
+      "dailyGrowth": "576",
+      "description": "TâCHES 为 Claude Code 提供的轻量级且功能强大的元提示、上下文工程和规范驱动开发系统。"
     }
   ],
   "hackerNews": [
     {
-      "title": "克劳德代码例程",
-      "originalTitle": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "score": 494
+      "title": "纸质电脑",
+      "originalTitle": "The paper computer",
+      "url": "https://jsomers.net/blog/the-paper-computer",
+      "score": 50
     },
     {
-      "title": "罕见的音乐会录音登陆互联网档案馆",
-      "originalTitle": "Rare concert recordings are landing on the Internet Archive",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 570
+      "title": "网络安全现在看起来就像工作证明",
+      "originalTitle": "Cybersecurity looks like proof of work now",
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "score": 304
     },
     {
-      "title": "共产主义 Apple II 和十四年来不知道自己在测试什么",
-      "originalTitle": "A communist Apple II and fourteen years of not knowing what you're testing",
-      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-      "score": 73
+      "title": "我做了一个终端寻呼机",
+      "originalTitle": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "score": 88
     },
     {
-      "title": "橙色 Pi 6 Plus",
-      "originalTitle": "The Orange Pi 6 Plus",
-      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "score": 139
+      "title": "ChatGPT Excel 版",
+      "originalTitle": "ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "score": 128
     },
     {
-      "title": "停止羊群",
-      "originalTitle": "Stop Flock",
-      "url": "https://stopflock.com",
-      "score": 470
+      "title": "隐形信号正在绕过伊朗的互联网封锁",
+      "originalTitle": "Stealth signals are bypassing Iran’s internet blackout",
+      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "score": 51
     },
     {
-      "title": "毕加索的《格尔尼卡》（十亿像素）",
-      "originalTitle": "Picasso's Guernica (Gigapixel)",
-      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-      "score": 76
+      "title": "谷歌违背了对我的承诺——现在 ICE 拥有了我的数据",
+      "originalTitle": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 1252
     },
     {
-      "title": "在 Pomera DM250 Writedeck 上安装 OpenBSD",
-      "originalTitle": "Installing OpenBSD on the Pomera DM250 Writerdeck",
-      "url": "https://jcs.org/2026/04/09/openbsd-dm250",
-      "score": 8
+      "title": "上帝睡在矿物质里",
+      "originalTitle": "God sleeps in the minerals",
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "score": 486
     },
     {
-      "title": "询问 HN：老年人最简单的用户体验",
-      "originalTitle": "Ask HN: Easiest UX for Seniors",
-      "url": "https://news.ycombinator.com/item?id=47729327",
-      "score": 40
+      "title": "Cal.com 将走向闭源",
+      "originalTitle": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "score": 248
     },
     {
-      "title": "了解 Clojure 的持久向量，pt。 1 (2013)",
-      "originalTitle": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
-      "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
-      "score": 29
+      "title": "麦当劳日本汉堡照片中的包子都有点歪",
+      "originalTitle": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "score": 282
     },
     {
-      "title": "5NF 和数据库设计",
-      "originalTitle": "5NF and Database Design",
-      "url": "https://kb.databasedesignbook.com/posts/5nf/",
-      "score": 142
+      "title": "将 JIT 编译器改造为 C 解释器",
+      "originalTitle": "Retrofitting JIT Compilers into C Interpreters",
+      "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+      "score": 57
     }
   ],
-  "updateTime": "4/15/2026, 4:10:59 AM"
+  "updateTime": "4/16/2026, 4:17:24 AM"
 }
