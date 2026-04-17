@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "41.9k",
-      "dailyGrowth": "9754",
+      "totalStars": "49k",
+      "dailyGrowth": "7056",
       "description": ""
     },
     {
       "rank": 2,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "89.1k",
-      "dailyGrowth": "5145",
+      "totalStars": "93.3k",
+      "dailyGrowth": "4211",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 3,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "57.5k",
-      "dailyGrowth": "2124",
+      "totalStars": "59.4k",
+      "dailyGrowth": "1878",
       "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 4,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "totalStars": "44.8k",
-      "dailyGrowth": "1340",
-      "description": "练习使克劳德变得完美"
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "totalStars": "30.6k",
+      "dailyGrowth": "1259",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
     },
     {
       "rank": 5,
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "totalStars": "12.5k",
-      "dailyGrowth": "1141",
-      "description": ""
-    },
-    {
-      "rank": 6,
       "name": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
-      "totalStars": "13.4k",
-      "dailyGrowth": "1115",
+      "totalStars": "14.5k",
+      "dailyGrowth": "1074",
       "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
+      "rank": 6,
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "totalStars": "11.2k",
+      "dailyGrowth": "930",
+      "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
+    },
+    {
       "rank": 7,
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "totalStars": "54.9k",
-      "dailyGrowth": "953",
-      "description": "AI Hedge Fund 是一个基于人工智能的对冲基金平台，利用机器学习算法分析市场数据，帮助投资者做出更加智能和高效的投资决策。"
+      "name": "google/magika",
+      "url": "https://github.com/google/magika",
+      "totalStars": "14.6k",
+      "dailyGrowth": "915",
+      "description": "快速准确的 AI 支持的文件内容类型检测"
     },
     {
       "rank": 8,
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "18.1k",
-      "dailyGrowth": "918",
+      "totalStars": "19k",
+      "dailyGrowth": "894",
       "description": "开源语音合成工作室"
     },
     {
       "rank": 9,
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "37.1k",
-      "dailyGrowth": "637",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+      "name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "totalStars": "2.7k",
+      "dailyGrowth": "804",
+      "description": "自进化代理：从 3.3K 行种子中生长技能树，以减少 6 倍的代币消耗实现完整的系统控制"
     },
     {
       "rank": 10,
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "totalStars": "53.5k",
-      "dailyGrowth": "576",
-      "description": "TâCHES 为 Claude Code 提供的轻量级且功能强大的元提示、上下文工程和规范驱动开发系统。"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "81k",
+      "dailyGrowth": "681",
+      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     }
   ],
   "hackerNews": [
     {
-      "title": "纸质电脑",
-      "originalTitle": "The paper computer",
-      "url": "https://jsomers.net/blog/the-paper-computer",
-      "score": 50
+      "title": "近距离工作 4.7",
+      "originalTitle": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1562
     },
     {
-      "title": "网络安全现在看起来就像工作证明",
-      "originalTitle": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 304
+      "title": "几乎所有内容的法典",
+      "originalTitle": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 748
     },
     {
-      "title": "我做了一个终端寻呼机",
-      "originalTitle": "I made a terminal pager",
-      "url": "https://theleo.zone/posts/pager/",
-      "score": 88
+      "title": "CadQuery 是一个用于构建 3D CAD 模型的开源 Python 库",
+      "originalTitle": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "score": 66
     },
     {
-      "title": "ChatGPT Excel 版",
-      "originalTitle": "ChatGPT for Excel",
-      "url": "https://chatgpt.com/apps/spreadsheets/",
-      "score": 128
+      "title": "盖伊用胶带、旧凸轮和数控机床打造人工智能驱动的硬件黑客手臂",
+      "originalTitle": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "score": 115
     },
     {
-      "title": "隐形信号正在绕过伊朗的互联网封锁",
-      "originalTitle": "Stealth signals are bypassing Iran’s internet blackout",
-      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
-      "score": 51
+      "title": "Show HN：Spice 仿真 → 示波器 → 使用 Claude 代码验证",
+      "originalTitle": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "score": 37
     },
     {
-      "title": "谷歌违背了对我的承诺——现在 ICE 拥有了我的数据",
-      "originalTitle": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1252
+      "title": "Tree-sitter 带来更好的 R 编程体验",
+      "originalTitle": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "score": 102
     },
     {
-      "title": "上帝睡在矿物质里",
-      "originalTitle": "God sleeps in the minerals",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 486
+      "title": "包含视频、演示笔记和链接的 Clojure 官方纪录片页面",
+      "originalTitle": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
+      "score": 127
     },
     {
-      "title": "Cal.com 将走向闭源",
-      "originalTitle": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 248
+      "title": "Android CLI：使用任何代理构建 Android 应用程序速度提高 3 倍",
+      "originalTitle": "Android CLI: Build Android apps 3x faster using any agent",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "score": 155
     },
     {
-      "title": "麦当劳日本汉堡照片中的包子都有点歪",
-      "originalTitle": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 282
+      "title": "Substrate AI 正在招聘线束工程师",
+      "originalTitle": "Substrate AI Is Hiring Harness Engineers",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "score": 1
     },
     {
-      "title": "将 JIT 编译器改造为 C 解释器",
-      "originalTitle": "Retrofitting JIT Compilers into C Interpreters",
-      "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
-      "score": 57
+      "title": "话语不会闭源",
+      "originalTitle": "Discourse Is Not Going Closed Source",
+      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "score": 16
     }
   ],
-  "updateTime": "4/16/2026, 4:17:24 AM"
+  "updateTime": "4/17/2026, 4:14:32 AM"
 }
