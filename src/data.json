@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "49k",
-      "dailyGrowth": "7056",
+      "totalStars": "54.3k",
+      "dailyGrowth": "5330",
       "description": ""
     },
     {
       "rank": 2,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "93.3k",
-      "dailyGrowth": "4211",
+      "totalStars": "96.5k",
+      "dailyGrowth": "3223",
       "description": "与您共同成长的代理商"
     },
     {
       "rank": 3,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "59.4k",
-      "dailyGrowth": "1878",
+      "totalStars": "61.3k",
+      "dailyGrowth": "1916",
       "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
       "rank": 4,
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "totalStars": "30.6k",
-      "dailyGrowth": "1259",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
+      "name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "totalStars": "4k",
+      "dailyGrowth": "937",
+      "description": "用于 AI 代理的 GEP 支持的自我进化引擎。基因组进化协议。 |进化地图.ai"
     },
     {
       "rank": 5,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "14.5k",
-      "dailyGrowth": "1074",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "totalStars": "31.5k",
+      "dailyGrowth": "884",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
     },
     {
       "rank": 6,
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "totalStars": "11.2k",
-      "dailyGrowth": "930",
-      "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "15.3k",
+      "dailyGrowth": "829",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 7,
-      "name": "google/magika",
-      "url": "https://github.com/google/magika",
-      "totalStars": "14.6k",
-      "dailyGrowth": "915",
-      "description": "快速准确的 AI 支持的文件内容类型检测"
-    },
-    {
-      "rank": 8,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "19k",
-      "dailyGrowth": "894",
-      "description": "开源语音合成工作室"
-    },
-    {
-      "rank": 9,
       "name": "lsdefine/GenericAgent",
       "url": "https://github.com/lsdefine/GenericAgent",
-      "totalStars": "2.7k",
-      "dailyGrowth": "804",
+      "totalStars": "3.5k",
+      "dailyGrowth": "828",
       "description": "自进化代理：从 3.3K 行种子中生长技能树，以减少 6 倍的代币消耗实现完整的系统控制"
     },
     {
+      "rank": 8,
+      "name": "google/magika",
+      "url": "https://github.com/google/magika",
+      "totalStars": "15.3k",
+      "dailyGrowth": "740",
+      "description": "快速准确的 AI 支持的文件内容类型检测"
+    },
+    {
+      "rank": 9,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "19.7k",
+      "dailyGrowth": "740",
+      "description": "开源语音合成工作室"
+    },
+    {
       "rank": 10,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "81k",
-      "dailyGrowth": "681",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "totalStars": "9.7k",
+      "dailyGrowth": "706",
+      "description": "人工智能可以看到您的屏幕、聆听您的对话并告诉您该怎么做"
     }
   ],
   "hackerNews": [
     {
-      "title": "近距离工作 4.7",
-      "originalTitle": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1562
+      "title": "克劳德设计",
+      "originalTitle": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 896
     },
     {
-      "title": "几乎所有内容的法典",
-      "originalTitle": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 748
+      "title": "所有 12 名月球漫步者都患有“月球花粉热”，因为灰尘闻起来像火药（2018 年）",
+      "originalTitle": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "score": 264
     },
     {
-      "title": "CadQuery 是一个用于构建 3D CAD 模型的开源 Python 库",
-      "originalTitle": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
-      "score": 66
+      "title": "Fil-C 的简化模型",
+      "originalTitle": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "score": 128
     },
     {
-      "title": "盖伊用胶带、旧凸轮和数控机床打造人工智能驱动的硬件黑客手臂",
-      "originalTitle": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
-      "score": 115
+      "title": "走向对 Emacs 的信任",
+      "originalTitle": "Towards Trust in Emacs",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "score": 43
     },
     {
-      "title": "Show HN：Spice 仿真 → 示波器 → 使用 Claude 代码验证",
-      "originalTitle": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
-      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "score": 37
+      "title": "艾萨克·阿西莫夫：最后一个问题 (1956)",
+      "originalTitle": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
+      "score": 651
     },
     {
-      "title": "Tree-sitter 带来更好的 R 编程体验",
-      "originalTitle": "A Better R Programming Experience Thanks to Tree-sitter",
-      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "score": 102
+      "title": "测量 Claude 4.7 的标记器成本",
+      "originalTitle": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 559
     },
     {
-      "title": "包含视频、演示笔记和链接的 Clojure 官方纪录片页面",
-      "originalTitle": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "url": "https://clojure.org/about/documentary",
-      "score": 127
+      "title": "AI代理的成本是否也在呈指数级上升？ (2025)",
+      "originalTitle": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "score": 126
     },
     {
-      "title": "Android CLI：使用任何代理构建 Android 应用程序速度提高 3 倍",
-      "originalTitle": "Android CLI: Build Android apps 3x faster using any agent",
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "score": 155
+      "title": "Show HN：Smol 机 – 亚秒级冷启动、便携式虚拟机",
+      "originalTitle": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "url": "https://github.com/smol-machines/smolvm",
+      "score": 255
     },
     {
-      "title": "Substrate AI 正在招聘线束工程师",
-      "originalTitle": "Substrate AI Is Hiring Harness Engineers",
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-      "score": 1
+      "title": "显示 HN：PanicLock – 合上 MacBook 盖子禁用 TouchID –> 密码解锁",
+      "originalTitle": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "url": "https://github.com/paniclock/paniclock/",
+      "score": 151
     },
     {
-      "title": "话语不会闭源",
-      "originalTitle": "Discourse Is Not Going Closed Source",
-      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-      "score": 16
+      "title": "美国宇航局部队",
+      "originalTitle": "NASA Force",
+      "url": "https://nasaforce.gov/",
+      "score": 243
     }
   ],
-  "updateTime": "4/17/2026, 4:14:32 AM"
+  "updateTime": "4/18/2026, 3:50:27 AM"
 }
