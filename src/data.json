@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "57.5k",
-      "dailyGrowth": "3238",
+      "totalStars": "60.9k",
+      "dailyGrowth": "3339",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "totalStars": "99.1k",
-      "dailyGrowth": "2586",
-      "description": "与您共同成长的代理商"
-    },
-    {
-      "rank": 3,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "62.3k",
-      "dailyGrowth": "1025",
+      "totalStars": "63.2k",
+      "dailyGrowth": "845",
       "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "82.5k",
-      "dailyGrowth": "896",
+      "totalStars": "83.3k",
+      "dailyGrowth": "741",
       "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
-      "rank": 5,
-      "name": "EvoMap/evolver",
-      "url": "https://github.com/EvoMap/evolver",
-      "totalStars": "4.9k",
-      "dailyGrowth": "882",
-      "description": "用于 AI 代理的 GEP 支持的自我进化引擎。基因组进化协议。 |进化地图.ai"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "totalStars": "12.5k",
-      "dailyGrowth": "868",
+      "totalStars": "13.3k",
+      "dailyGrowth": "714",
       "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
     },
     {
-      "rank": 7,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "16.1k",
-      "dailyGrowth": "757",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "rank": 5,
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "totalStars": "11k",
+      "dailyGrowth": "692",
+      "description": "人工智能可以看到您的屏幕、聆听您的对话并告诉您该怎么做"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "20.4k",
-      "dailyGrowth": "739",
+      "totalStars": "21.1k",
+      "dailyGrowth": "614",
       "description": "开源语音合成工作室"
     },
     {
+      "rank": 7,
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "totalStars": "2.1k",
+      "dailyGrowth": "607",
+      "description": "您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。"
+    },
+    {
+      "rank": 8,
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "16.7k",
+      "dailyGrowth": "594",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+    },
+    {
       "rank": 9,
-      "name": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "totalStars": "4.2k",
-      "dailyGrowth": "717",
-      "description": "自进化代理：从 3.3K 行种子中生长技能树，以减少 6 倍的代币消耗实现完整的系统控制"
+      "name": "mnfst/manifest",
+      "url": "https://github.com/mnfst/manifest",
+      "totalStars": "5k",
+      "dailyGrowth": "574",
+      "description": "OpenClaw 的智能 LLM 路由。成本降低高达 70% 🦞🦚"
     },
     {
       "rank": 10,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "totalStars": "19.6k",
-      "dailyGrowth": "647",
-      "description": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "totalStars": "5.4k",
+      "dailyGrowth": "514",
+      "description": "用于 AI 代理的 GEP 支持的自我进化引擎。基因组进化协议。 |进化地图.ai"
     }
   ],
   "hackerNews": [
     {
-      "title": "NIST 科学家创造“任何波长”激光器",
-      "originalTitle": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 218
+      "title": "显示 HN：在 Mac Silicon 上运行的 TRELLIS.2 图像转 3D – 无需 Nvidia GPU",
+      "originalTitle": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "score": 99
     },
     {
-      "title": "Opus 4.6 和 Opus 4.7 的匿名请求令牌比较",
-      "originalTitle": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 459
+      "title": "鱼露简史",
+      "originalTitle": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "score": 116
     },
     {
-      "title": "通过 10 年的 Unity 引擎更新 Gun Rocket",
-      "originalTitle": "Updating Gun Rocket through 10 years of Unity Engine",
-      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "score": 40
+      "title": "Vercel 2026 年 4 月安全事件",
+      "originalTitle": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "score": 607
     },
     {
-      "title": "大学老师转向打字机来遏制人工智能写作的工作",
-      "originalTitle": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 182
+      "title": "溴的瓶颈",
+      "originalTitle": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "score": 174
     },
     {
-      "title": "B-52 轰炸机星跟踪器内的机电角度计算机",
-      "originalTitle": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 295
+      "title": "不要再试图设计出不倾听他人意见的方法",
+      "originalTitle": "Stop trying to engineer your way out of listening to people",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "score": 68
     },
     {
-      "title": "为什么日本有这么好的铁路",
-      "originalTitle": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 339
+      "title": "暴雪赢得禁令后《Turtle WoW》经典服务器宣布关闭",
+      "originalTitle": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "score": 160
     },
     {
-      "title": "Apple Silicon 上 WebAssembly 的零复制 GPU 推理",
-      "originalTitle": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "score": 46
+      "title": "机械键盘声音 – 聆听博物馆",
+      "originalTitle": "Mechanical Keyboard Sounds – A listening Museum",
+      "url": "https://sheets.works/data-viz/keyboard-sounds",
+      "score": 59
     },
     {
-      "title": "现代 Common Lisp 与 FSet",
-      "originalTitle": "Modern Common Lisp with FSet",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 109
+      "title": "Windows 版须藤",
+      "originalTitle": "Sudo for Windows",
+      "url": "https://github.com/microsoft/sudo",
+      "score": 27
     },
     {
-      "title": "优化 Ruby 路径方法",
-      "originalTitle": "Optimizing Ruby Path Methods",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 67
+      "title": "瑞士人工智能计划（2023）",
+      "originalTitle": "Swiss AI Initiative (2023)",
+      "url": "https://www.swiss-ai.org",
+      "score": 31
     },
     {
-      "title": "克登利夫州",
-      "originalTitle": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 351
+      "title": "Claude Opus 4.6 和 4.7 之间系统提示的变化",
+      "originalTitle": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "score": 249
     }
   ],
-  "updateTime": "4/19/2026, 4:16:55 AM"
+  "updateTime": "4/20/2026, 4:22:38 AM"
 }
