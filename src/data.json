@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "60.9k",
-      "dailyGrowth": "3339",
+      "totalStars": "65.8k",
+      "dailyGrowth": "4942",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "63.2k",
-      "dailyGrowth": "845",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "totalStars": "9.2k",
+      "dailyGrowth": "2882",
+      "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     },
     {
       "rank": 3,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "83.3k",
-      "dailyGrowth": "741",
-      "description": "触手可及的完整人工智能机构** - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 4,
       "name": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "totalStars": "13.3k",
-      "dailyGrowth": "714",
+      "totalStars": "14.3k",
+      "dailyGrowth": "1074",
       "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
     },
     {
+      "rank": 4,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "64.2k",
+      "dailyGrowth": "1005",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+    },
+    {
       "rank": 5,
-      "name": "BasedHardware/omi",
-      "url": "https://github.com/BasedHardware/omi",
-      "totalStars": "11k",
-      "dailyGrowth": "692",
-      "description": "人工智能可以看到您的屏幕、聆听您的对话并告诉您该怎么做"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "17.5k",
+      "dailyGrowth": "835",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 6,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "21.1k",
-      "dailyGrowth": "614",
-      "description": "开源语音合成工作室"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "48.1k",
+      "dailyGrowth": "683",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 7,
       "name": "thunderbird/thunderbolt",
       "url": "https://github.com/thunderbird/thunderbolt",
-      "totalStars": "2.1k",
-      "dailyGrowth": "607",
+      "totalStars": "2.7k",
+      "dailyGrowth": "623",
       "description": "您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。"
     },
     {
       "rank": 8,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "16.7k",
-      "dailyGrowth": "594",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "21.6k",
+      "dailyGrowth": "593",
+      "description": "开源语音合成工作室"
     },
     {
       "rank": 9,
-      "name": "mnfst/manifest",
-      "url": "https://github.com/mnfst/manifest",
-      "totalStars": "5k",
-      "dailyGrowth": "574",
-      "description": "OpenClaw 的智能 LLM 路由。成本降低高达 70% 🦞🦚"
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "totalStars": "49.9k",
+      "dailyGrowth": "586",
+      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
       "rank": 10,
-      "name": "EvoMap/evolver",
-      "url": "https://github.com/EvoMap/evolver",
-      "totalStars": "5.4k",
-      "dailyGrowth": "514",
-      "description": "用于 AI 代理的 GEP 支持的自我进化引擎。基因组进化协议。 |进化地图.ai"
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "totalStars": "11.6k",
+      "dailyGrowth": "571",
+      "description": "人工智能可以看到您的屏幕、聆听您的对话并告诉您该怎么做"
     }
   ],
   "hackerNews": [
     {
-      "title": "显示 HN：在 Mac Silicon 上运行的 TRELLIS.2 图像转 3D – 无需 Nvidia GPU",
-      "originalTitle": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
-      "url": "https://github.com/shivampkumar/trellis-mac",
-      "score": 99
+      "title": "约翰·特努斯 (John Ternus) 出任苹果首席执行官",
+      "originalTitle": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "score": 1383
     },
     {
-      "title": "鱼露简史",
-      "originalTitle": "A Brief History of Fish Sauce",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 116
+      "title": "如何制作一个快速的动态语言解释器",
+      "originalTitle": "How to make a fast dynamic language interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "score": 81
     },
     {
-      "title": "Vercel 2026 年 4 月安全事件",
-      "originalTitle": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 607
+      "title": "柔术大合并是为了乐趣和利润",
+      "originalTitle": "Jujutsu megamerges for fun and profit",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "score": 177
     },
     {
-      "title": "溴的瓶颈",
-      "originalTitle": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 174
+      "title": "Qwen3.6-Max-预览版：更智能、更敏锐、仍在不断发展",
+      "originalTitle": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "score": 569
     },
     {
-      "title": "不要再试图设计出不倾听他人意见的方法",
-      "originalTitle": "Stop trying to engineer your way out of listening to people",
-      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 68
+      "title": "Kimi 供应商验证程序 – 验证推理提供程序的准确性",
+      "originalTitle": "Kimi vendor verifier – verify accuracy of inference providers",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "score": 193
     },
     {
-      "title": "暴雪赢得禁令后《Turtle WoW》经典服务器宣布关闭",
-      "originalTitle": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "score": 160
+      "title": "三元盆景：1.58 位的顶级智能",
+      "originalTitle": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "score": 85
     },
     {
-      "title": "机械键盘声音 – 聆听博物馆",
-      "originalTitle": "Mechanical Keyboard Sounds – A listening Museum",
-      "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "score": 59
+      "title": "如何修复海底电缆",
+      "originalTitle": "How a subsea cable is repaired",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "score": 11
     },
     {
-      "title": "Windows 版须藤",
-      "originalTitle": "Sudo for Windows",
-      "url": "https://github.com/microsoft/sudo",
-      "score": 27
+      "title": "Soul Player C64 – 在 1 MHz Commodore 64 上运行的真正变压器",
+      "originalTitle": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "url": "https://github.com/gizmo64k/soulplayer-c64",
+      "score": 89
     },
     {
-      "title": "瑞士人工智能计划（2023）",
-      "originalTitle": "Swiss AI Initiative (2023)",
-      "url": "https://www.swiss-ai.org",
-      "score": 31
+      "title": "ggsql：SQL 图形语法",
+      "originalTitle": "ggsql: A Grammar of Graphics for SQL",
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "score": 380
     },
     {
-      "title": "Claude Opus 4.6 和 4.7 之间系统提示的变化",
-      "originalTitle": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "score": 249
+      "title": "量子计算机不会对 128 位对称密钥构成威胁",
+      "originalTitle": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "url": "https://words.filippo.io/128-bits/",
+      "score": 162
     }
   ],
-  "updateTime": "4/20/2026, 4:22:38 AM"
+  "updateTime": "4/21/2026, 4:14:20 AM"
 }
