@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "65.8k",
-      "dailyGrowth": "4942",
+      "totalStars": "71.5k",
+      "dailyGrowth": "5705",
       "description": ""
     },
     {
       "rank": 2,
       "name": "Fincept-Corporation/FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "totalStars": "9.2k",
-      "dailyGrowth": "2882",
+      "totalStars": "11.3k",
+      "dailyGrowth": "2182",
       "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     },
     {
       "rank": 3,
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "totalStars": "14.3k",
-      "dailyGrowth": "1074",
-      "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "19.4k",
+      "dailyGrowth": "1229",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 4,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "64.2k",
-      "dailyGrowth": "1005",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
-    },
-    {
-      "rank": 5,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "17.5k",
-      "dailyGrowth": "835",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
-    },
-    {
-      "rank": 6,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "48.1k",
-      "dailyGrowth": "683",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": 7,
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "totalStars": "2.7k",
-      "dailyGrowth": "623",
-      "description": "您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。"
-    },
-    {
-      "rank": 8,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "21.6k",
-      "dailyGrowth": "593",
-      "description": "开源语音合成工作室"
-    },
-    {
-      "rank": 9,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "49.9k",
-      "dailyGrowth": "586",
+      "totalStars": "50.8k",
+      "dailyGrowth": "969",
       "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
+      "rank": 5,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "65.1k",
+      "dailyGrowth": "898",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+    },
+    {
+      "rank": 6,
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "18.4k",
+      "dailyGrowth": "870",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+    },
+    {
+      "rank": 7,
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "48.8k",
+      "dailyGrowth": "726",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": 8,
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "totalStars": "3.4k",
+      "dailyGrowth": "644",
+      "description": "您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。"
+    },
+    {
+      "rank": 9,
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "totalStars": "14.9k",
+      "dailyGrowth": "585",
+      "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
+    },
+    {
       "rank": 10,
-      "name": "BasedHardware/omi",
-      "url": "https://github.com/BasedHardware/omi",
-      "totalStars": "11.6k",
-      "dailyGrowth": "571",
-      "description": "人工智能可以看到您的屏幕、聆听您的对话并告诉您该怎么做"
+      "name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "totalStars": "5.5k",
+      "dailyGrowth": "489",
+      "description": "自进化代理：从 3.3K 行种子中生长技能树，以减少 6 倍的代币消耗实现完整的系统控制"
     }
   ],
   "hackerNews": [
     {
-      "title": "约翰·特努斯 (John Ternus) 出任苹果首席执行官",
-      "originalTitle": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 1383
+      "title": "ChatGPT 图像 2.0",
+      "originalTitle": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 565
     },
     {
-      "title": "如何制作一个快速的动态语言解释器",
-      "originalTitle": "How to make a fast dynamic language interpreter",
-      "url": "https://zef-lang.dev/implementation",
-      "score": 81
+      "title": "在家制作 RAM [视频]",
+      "originalTitle": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 48
     },
     {
-      "title": "柔术大合并是为了乐趣和利润",
-      "originalTitle": "Jujutsu megamerges for fun and profit",
-      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "score": 177
-    },
-    {
-      "title": "Qwen3.6-Max-预览版：更智能、更敏锐、仍在不断发展",
-      "originalTitle": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 569
-    },
-    {
-      "title": "Kimi 供应商验证程序 – 验证推理提供程序的准确性",
-      "originalTitle": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "score": 193
-    },
-    {
-      "title": "三元盆景：1.58 位的顶级智能",
-      "originalTitle": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "score": 85
-    },
-    {
-      "title": "如何修复海底电缆",
-      "originalTitle": "How a subsea cable is repaired",
-      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "title": "首次 SAM TMAH 实验揭示了火星上的多种有机分子",
+      "originalTitle": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
       "score": 11
     },
     {
-      "title": "Soul Player C64 – 在 1 MHz Commodore 64 上运行的真正变压器",
-      "originalTitle": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "url": "https://github.com/gizmo64k/soulplayer-c64",
-      "score": 89
+      "title": "SpaceX表示已同意以$60B收购Cursor",
+      "originalTitle": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "score": 389
     },
     {
-      "title": "ggsql：SQL 图形语法",
-      "originalTitle": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "score": 380
+      "title": "Vercel 漏洞：OAuth 攻击暴露了平台环境变量的风险",
+      "originalTitle": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 283
     },
     {
-      "title": "量子计算机不会对 128 位对称密钥构成威胁",
-      "originalTitle": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
-      "url": "https://words.filippo.io/128-bits/",
-      "score": 162
+      "title": "供应激增后，美国 20 个顶级市场中超过 19 个城市的圣地亚哥租金下降",
+      "originalTitle": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
+      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+      "score": 147
+    },
+    {
+      "title": "药柜中的奥秘：对乙酰氨基酚、布洛芬以及您需要了解的知识",
+      "originalTitle": "The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know",
+      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "score": 69
+    },
+    {
+      "title": "醉后：作为高级工程师我学到的东西",
+      "originalTitle": "Drunk Post: Things I've Learned as a Senior Engineer",
+      "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "score": 54
+    },
+    {
+      "title": "软件工程定律",
+      "originalTitle": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "score": 873
+    },
+    {
+      "title": "Britannica11.org – 1911 年大英百科全书的结构化版本",
+      "originalTitle": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "url": "https://britannica11.org/",
+      "score": 245
     }
   ],
-  "updateTime": "4/21/2026, 4:14:20 AM"
+  "updateTime": "4/22/2026, 4:10:09 AM"
 }
