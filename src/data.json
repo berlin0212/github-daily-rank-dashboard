@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "71.5k",
-      "dailyGrowth": "5705",
+      "totalStars": "75.7k",
+      "dailyGrowth": "4180",
       "description": ""
     },
     {
       "rank": 2,
       "name": "Fincept-Corporation/FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "totalStars": "11.3k",
-      "dailyGrowth": "2182",
+      "totalStars": "12.9k",
+      "dailyGrowth": "1575",
       "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     },
     {
       "rank": 3,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "19.4k",
-      "dailyGrowth": "1229",
+      "totalStars": "21k",
+      "dailyGrowth": "1571",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 4,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "50.8k",
-      "dailyGrowth": "969",
-      "description": "实时全球情报仪表板 - 在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
-    },
-    {
-      "rank": 5,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "65.1k",
-      "dailyGrowth": "898",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
-    },
-    {
-      "rank": 6,
       "name": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
-      "totalStars": "18.4k",
-      "dailyGrowth": "870",
+      "totalStars": "19.3k",
+      "dailyGrowth": "944",
       "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
+      "rank": 5,
+      "name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "totalStars": "7.4k",
+      "dailyGrowth": "846",
+      "description": "代码搜索 MCP 以获得克劳德代码。使整个代码库成为任何编码代理的上下文。"
+    },
+    {
+      "rank": 6,
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "totalStars": "54.4k",
+      "dailyGrowth": "783",
+      "description": "AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
       "rank": 7,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "48.8k",
-      "dailyGrowth": "726",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "totalStars": "58.3k",
+      "dailyGrowth": "764",
+      "description": "开始构建 AI 代理的 12 课"
     },
     {
       "rank": 8,
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "totalStars": "3.4k",
-      "dailyGrowth": "644",
-      "description": "您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。"
+      "name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "totalStars": "59.4k",
+      "dailyGrowth": "679",
+      "description": "黑客的多合一黑客工具"
     },
     {
       "rank": 9,
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "totalStars": "14.9k",
-      "dailyGrowth": "585",
-      "description": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "totalStars": "17.5k",
+      "dailyGrowth": "667",
+      "description": "“RAG-Anything：一体化 RAG 框架”"
     },
     {
       "rank": 10,
-      "name": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "totalStars": "5.5k",
-      "dailyGrowth": "489",
-      "description": "自进化代理：从 3.3K 行种子中生长技能树，以减少 6 倍的代币消耗实现完整的系统控制"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "65.7k",
+      "dailyGrowth": "645",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     }
   ],
   "hackerNews": [
     {
-      "title": "ChatGPT 图像 2.0",
-      "originalTitle": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 565
+      "title": "艾伯塔省初创公司半价出售无技术拖拉机",
+      "originalTitle": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 1471
     },
     {
-      "title": "在家制作 RAM [视频]",
-      "originalTitle": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 48
+      "title": "苹果修复了警察用来从 iPhone 中提取已删除聊天消息的错误",
+      "originalTitle": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "score": 446
     },
     {
-      "title": "首次 SAM TMAH 实验揭示了火星上的多种有机分子",
-      "originalTitle": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "score": 11
+      "title": "Shazam 到底是如何运作的？",
+      "originalTitle": "How the Heck does Shazam work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+      "score": 51
     },
     {
-      "title": "SpaceX表示已同意以$60B收购Cursor",
-      "originalTitle": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 389
+      "title": "我们发现了一个稳定的 Firefox 标识符，可链接您所有的私人 Tor 身份",
+      "originalTitle": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "score": 514
     },
     {
-      "title": "Vercel 漏洞：OAuth 攻击暴露了平台环境变量的风险",
-      "originalTitle": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 283
+      "title": "Qwen3.6-27B：27B 密集模型中的旗舰级编码",
+      "originalTitle": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 754
     },
     {
-      "title": "供应激增后，美国 20 个顶级市场中超过 19 个城市的圣地亚哥租金下降",
-      "originalTitle": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
-      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
-      "score": 147
+      "title": "适用于小屏幕的 5x5 像素字体",
+      "originalTitle": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "score": 478
     },
     {
-      "title": "药柜中的奥秘：对乙酰氨基酚、布洛芬以及您需要了解的知识",
-      "originalTitle": "The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know",
-      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "score": 69
+      "title": "借用检查而不进行类型检查",
+      "originalTitle": "Borrow-checking without type-checking",
+      "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "score": 12
     },
     {
-      "title": "醉后：作为高级工程师我学到的东西",
-      "originalTitle": "Drunk Post: Things I've Learned as a Senior Engineer",
-      "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-      "score": 54
+      "title": "暴风雨 vs 暴风雨：雅达利标志性电子游戏的制作与重制",
+      "originalTitle": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "url": "https://tempest.homemade.systems",
+      "score": 35
     },
     {
-      "title": "软件工程定律",
-      "originalTitle": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "score": 873
+      "title": "过度编辑是指模型对代码的修改超出了必要的范围",
+      "originalTitle": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "score": 320
     },
     {
-      "title": "Britannica11.org – 1911 年大英百科全书的结构化版本",
-      "originalTitle": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "url": "https://britannica11.org/",
-      "score": 245
+      "title": "通过非梯度向量流进行流图学习 [pdf]",
+      "originalTitle": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+      "url": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "score": 6
     }
   ],
-  "updateTime": "4/22/2026, 4:10:09 AM"
+  "updateTime": "4/23/2026, 4:15:18 AM"
 }
