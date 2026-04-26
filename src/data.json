@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "83.3k",
-      "dailyGrowth": "3269",
+      "totalStars": "87.1k",
+      "dailyGrowth": "3828",
       "description": ""
     },
     {
       "rank": 2,
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "8.3k",
-      "dailyGrowth": "2904",
+      "totalStars": "11.2k",
+      "dailyGrowth": "2975",
       "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     },
     {
       "rank": 3,
-      "name": "huggingface/ml-intern",
-      "url": "https://github.com/huggingface/ml-intern",
-      "totalStars": "5.1k",
-      "dailyGrowth": "2054",
-      "description": "🤗 ml-intern：开源 ML 工程师，负责阅读论文、训练模型和发布 ML 模型"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "19.5k",
+      "dailyGrowth": "1601",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 4,
       "name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "totalStars": "62.1k",
-      "dailyGrowth": "1298",
+      "totalStars": "63.6k",
+      "dailyGrowth": "1448",
       "description": "黑客的多合一黑客工具"
     },
     {
       "rank": 5,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "34.4k",
-      "dailyGrowth": "1026",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "totalStars": "6.1k",
+      "dailyGrowth": "1052",
+      "description": "🤗 ml-intern：开源 ML 工程师，负责阅读论文、训练模型和发布 ML 模型"
     },
     {
       "rank": 6,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "22.6k",
-      "dailyGrowth": "816",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "35.4k",
+      "dailyGrowth": "935",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 7,
-      "name": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "totalStars": "24.4k",
-      "dailyGrowth": "748",
-      "description": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
-    },
-    {
-      "rank": 8,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "17.9k",
-      "dailyGrowth": "740",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 9,
       "name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "totalStars": "7.6k",
-      "dailyGrowth": "729",
+      "totalStars": "8.2k",
+      "dailyGrowth": "636",
       "description": "Higgsfield AI、Freepik、Krea、Openart AI 的未经审查、开源替代方案 — 免费、不受限制的 AI 图像和视频生成工作室，拥有 200 多个模型（Flux、Midjourney、Kling、Sora、Veo）。没有内容过滤器。自托管，麻省理工学院许可。"
     },
     {
+      "rank": 8,
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "totalStars": "14.8k",
+      "dailyGrowth": "517",
+      "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
+    },
+    {
+      "rank": 9,
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "totalStars": "40k",
+      "dailyGrowth": "467",
+      "description": "AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM pod"
+    },
+    {
       "rank": 10,
-      "name": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "totalStars": "18.6k",
-      "dailyGrowth": "617",
-      "description": "来自官方开发团队和社区的 1000 多种代理技能精选集合，与 Claude Code、Codex、Gemini CLI、Cursor 等兼容。"
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "totalStars": "67.4k",
+      "dailyGrowth": "427",
+      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
     }
   ],
   "hackerNews": [
     {
-      "title": "谷歌计划向 Anthropic 投资高达 $40B",
-      "originalTitle": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 411
+      "title": "业余爱好者用 ChatGPT 解决了 Erdős 问题",
+      "originalTitle": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "score": 161
     },
     {
-      "title": "Paraloid B-72",
-      "originalTitle": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 71
+      "title": "为什么阿尔茨海默病的治疗进展如此缓慢？",
+      "originalTitle": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 126
     },
     {
-      "title": "座头鲸正在形成超级群体",
-      "originalTitle": "Humpback whales are forming super-groups",
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 43
+      "title": "USB 备忘单 (2022)",
+      "originalTitle": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "score": 204
     },
     {
-      "title": "我的音频接口默认启用 SSH",
-      "originalTitle": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 184
+      "title": "Flickr：第一个也是最后一个很棒的照片平台",
+      "originalTitle": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "score": 85
     },
     {
-      "title": "罗马时代木乃伊中发现的《伊利亚特》碎片",
-      "originalTitle": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 136
+      "title": "麻将：视觉指南",
+      "originalTitle": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "score": 9
     },
     {
-      "title": "通过过度思考、范围​​蔓延和结构差异来破坏项目",
-      "originalTitle": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 376
+      "title": "OpenAI 隐私过滤器",
+      "originalTitle": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "score": 143
     },
     {
-      "title": "教育必须超越单纯的文字生产",
-      "originalTitle": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "score": 30
+      "title": "免费的通用构建套件",
+      "originalTitle": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "score": 291
     },
     {
-      "title": "经典美式餐厅",
-      "originalTitle": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "score": 179
+      "title": "1-Bit 葛饰北斋的《巨浪》(2023)",
+      "originalTitle": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 536
     },
     {
-      "title": "将会有深度学习的科学理论",
-      "originalTitle": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
-      "score": 174
+      "title": "使用编码辅助工具来恢复您从未完成的项目",
+      "originalTitle": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "score": 226
     },
     {
-      "title": "将 IBM Quantum 后端替换为 /dev/urandom",
-      "originalTitle": "Replace IBM Quantum back end with /dev/urandom",
-      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 44
+      "title": "折叠自行车的乐趣",
+      "originalTitle": "The Joy of Folding Bikes",
+      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "score": 114
     }
   ],
-  "updateTime": "4/25/2026, 3:54:17 AM"
+  "updateTime": "4/26/2026, 4:25:41 AM"
 }
