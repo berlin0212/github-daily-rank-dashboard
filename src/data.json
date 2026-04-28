@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "22.8k",
-      "dailyGrowth": "3237",
+      "totalStars": "29.1k",
+      "dailyGrowth": "6292",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
       "name": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "90.2k",
-      "dailyGrowth": "3150",
+      "totalStars": "93.6k",
+      "dailyGrowth": "3399",
       "description": ""
     },
     {
       "rank": 3,
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "13.2k",
-      "dailyGrowth": "1937",
+      "totalStars": "15.8k",
+      "dailyGrowth": "2651",
       "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     },
     {
       "rank": 4,
       "name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "totalStars": "65.2k",
-      "dailyGrowth": "1615",
+      "totalStars": "66.9k",
+      "dailyGrowth": "1711",
       "description": "黑客的多合一黑客工具"
     },
     {
       "rank": 5,
       "name": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
-      "totalStars": "41.9k",
-      "dailyGrowth": "831",
+      "totalStars": "42.8k",
+      "dailyGrowth": "952",
       "description": "开源前沿语音人工智能"
     },
     {
       "rank": 6,
-      "name": "HQarroum/docker-android",
-      "url": "https://github.com/HQarroum/docker-android",
-      "totalStars": "4.7k",
-      "dailyGrowth": "668",
-      "description": "该项目提供基于 Docker 的 Android 构建与运行环境，简化 Android CI/CD、自动化测试与模拟器部署，适合需要一致开发环境的团队使用。"
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "totalStars": "41.5k",
+      "dailyGrowth": "941",
+      "description": "AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM pod"
     },
     {
       "rank": 7,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "23.6k",
-      "dailyGrowth": "667",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 8,
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "36k",
-      "dailyGrowth": "638",
+      "totalStars": "36.9k",
+      "dailyGrowth": "884",
       "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
+      "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "24.5k",
+      "dailyGrowth": "855",
+      "description": "AI 编码代理的生产级工程技能。"
+    },
+    {
       "rank": 9,
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "totalStars": "15.4k",
-      "dailyGrowth": "612",
-      "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
+      "name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "totalStars": "2.7k",
+      "dailyGrowth": "764",
+      "description": "用于跨 Codex CLI 和 API 实现工作流程自动化的实用 Codex 技能精选列表。"
     },
     {
       "rank": 10,
-      "name": "badlogic/pi-mono",
-      "url": "https://github.com/badlogic/pi-mono",
-      "totalStars": "40.6k",
-      "dailyGrowth": "566",
-      "description": "AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM pod"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "totalStars": "16.1k",
+      "dailyGrowth": "693",
+      "description": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     }
   ],
   "hackerNews": [
     {
-      "title": "我花了 3 万美元买了 Friendster – 这就是我用它做什么",
-      "originalTitle": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 545
+      "title": "Talkie：1930 年的 13B 复古语言模型",
+      "originalTitle": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 187
     },
     {
-      "title": "自动更新屏幕截图",
-      "originalTitle": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
-      "score": 139
+      "title": "微软和 OpenAI 终止独家收入共享协议",
+      "originalTitle": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 795
     },
     {
-      "title": "TurboQuant：第一性原理演练",
-      "originalTitle": "TurboQuant: A First-Principles Walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 38
+      "title": "莫 RAM，莫问题 (2025)",
+      "originalTitle": "Mo RAM, Mo Problems (2025)",
+      "url": "https://fabiensanglard.net/curse/",
+      "score": 53
     },
     {
-      "title": "提示 API",
-      "originalTitle": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 30
+      "title": "Ted Nyman – 高性能 Git",
+      "originalTitle": "Ted Nyman – High Performance Git",
+      "url": "https://gitperf.com/",
+      "score": 50
     },
     {
-      "title": "EvanFlow – Claude Code 的 TDD 驱动反馈循环",
-      "originalTitle": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
-      "score": 28
+      "title": "设计集成",
+      "originalTitle": "Integrated by Design",
+      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "score": 84
     },
     {
-      "title": "在我构建任何东西之前的三个限制",
-      "originalTitle": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 105
+      "title": "三名男子在多伦多 SMS Blaster 逮捕中面临指控",
+      "originalTitle": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "score": 128
     },
     {
-      "title": "Fast16：比 Stuxnet 早 5 年的高精度软件破坏",
-      "originalTitle": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 192
+      "title": "会议是强制职能",
+      "originalTitle": "Meetings are forcing functions",
+      "url": "https://www.mooreds.com/wordpress/archives/3734",
+      "score": 82
     },
     {
-      "title": "当便宜的就是酷的",
-      "originalTitle": "When the cheap one is the cool one",
-      "url": "https://arun.is/blog/cheap-cool/",
-      "score": 63
+      "title": "我的蓝是你的蓝吗？",
+      "originalTitle": "Is my blue your blue?",
+      "url": "https://ismy.blue/",
+      "score": 401
     },
     {
-      "title": "Rust 中节省内存的框",
-      "originalTitle": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "score": 91
+      "title": "我如何通过艰难的方式了解去耦电容器的用途",
+      "originalTitle": "How I leared what a decoupling capacitor is for, the hard way",
+      "url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+      "score": 44
     },
     {
-      "title": "当你的数字生活消失时",
-      "originalTitle": "When Your Digital Life Vanishes",
-      "url": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
-      "score": 25
+      "title": "Mercor 的 4 万名人工智能承包商刚刚窃取了 4TB 语音样本",
+      "originalTitle": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 469
     }
   ],
-  "updateTime": "4/27/2026, 4:33:02 AM"
+  "updateTime": "4/28/2026, 4:36:54 AM"
 }
