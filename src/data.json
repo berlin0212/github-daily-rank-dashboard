@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "43.3k",
-      "dailyGrowth": "6843",
+      "totalStars": "48.8k",
+      "dailyGrowth": "5576",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
-      "name": "forrestchang/andrej-karpathy-skills",
-      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "totalStars": "99.3k",
-      "dailyGrowth": "2705",
-      "description": ""
-    },
-    {
-      "rank": 3,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "18.4k",
-      "dailyGrowth": "1115",
-      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
-    },
-    {
-      "rank": 4,
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "totalStars": "45.6k",
-      "dailyGrowth": "1042",
-      "description": "开源前沿语音人工智能"
-    },
-    {
-      "rank": 5,
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "totalStars": "11.5k",
-      "dailyGrowth": "1013",
-      "description": "跟踪位置或手机号码的有用工具"
-    },
-    {
-      "rank": 6,
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "55.3k",
-      "dailyGrowth": "948",
+      "totalStars": "57.3k",
+      "dailyGrowth": "1964",
       "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
+      "rank": 3,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "totalStars": "33.5k",
+      "dailyGrowth": "781",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+    },
+    {
+      "rank": 4,
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "totalStars": "12.1k",
+      "dailyGrowth": "649",
+      "description": "跟踪位置或手机号码的有用工具"
+    },
+    {
+      "rank": 5,
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "totalStars": "19.1k",
+      "dailyGrowth": "648",
+      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+    },
+    {
+      "rank": 6,
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "totalStars": "8.4k",
+      "dailyGrowth": "642",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
       "rank": 7,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "26k",
-      "dailyGrowth": "831",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "totalStars": "69.2k",
+      "dailyGrowth": "636",
+      "description": "黑客的多合一黑客工具"
     },
     {
       "rank": 8,
-      "name": "ComposioHQ/awesome-codex-skills",
-      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "totalStars": "4.7k",
-      "dailyGrowth": "802",
-      "description": "用于跨 Codex CLI 和 API 实现工作流程自动化的实用 Codex 技能精选列表。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "26.6k",
+      "dailyGrowth": "603",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 9,
-      "name": "iamgio/quarkdown",
-      "url": "https://github.com/iamgio/quarkdown",
-      "totalStars": "12.6k",
-      "dailyGrowth": "694",
-      "description": "🪐 具有超能力的 Markdown：从想法到论文、演示文稿、网站、书籍和知识库。"
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "totalStars": "80.8k",
+      "dailyGrowth": "578",
+      "description": ""
     },
     {
       "rank": 10,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "38.4k",
-      "dailyGrowth": "691",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "totalStars": "20.7k",
+      "dailyGrowth": "560",
+      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
     }
   ],
   "hackerNews": [
     {
-      "title": "哥布林从哪里来",
-      "originalTitle": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 154
+      "title": "马克·克莱因 (Mark Klein) 如何向 EFF 讲述 641A 室的情况 [书籍摘录]",
+      "originalTitle": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 480
     },
     {
-      "title": "克雷格·文特尔去世",
-      "originalTitle": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 138
+      "title": "Opus 4.7 认识真正的凯尔西",
+      "originalTitle": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 233
     },
     {
-      "title": "泽德1.0",
-      "originalTitle": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1645
+      "title": "对于 Linux 内核漏洞，发行版没有任何警告",
+      "originalTitle": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 422
     },
     {
-      "title": "生物学是墨西哥卷饼：基于文本和视觉的活细胞之旅",
-      "originalTitle": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "url": "https://burrito.bio/essays/biology-is-a-burrito",
-      "score": 26
+      "title": "PyTorch Lightning AI 训练库中发现 Shai-Hulud 主题恶意软件",
+      "originalTitle": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 350
     },
     {
-      "title": "微调激活法学硕士受版权保护书籍的逐字召回",
-      "originalTitle": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "score": 28
+      "title": "我可以禁用车辆的所有数据收集吗？",
+      "originalTitle": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 558
     },
     {
-      "title": "函数式程序员需要看看 Zig",
-      "originalTitle": "Functional Programmers need to take a look at Zig",
-      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-      "score": 26
+      "title": "我厌倦了记住端口号",
+      "originalTitle": "I Got Sick of Remembering Port Numbers",
+      "url": "https://gregraiz.com/blog/local-vibe/",
+      "score": 35
     },
     {
-      "title": "复制失败",
-      "originalTitle": "Copy Fail",
-      "url": "https://copy.fail/",
-      "score": 721
+      "title": "适应不良的节俭",
+      "originalTitle": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "score": 49
     },
     {
-      "title": "光标营地",
-      "originalTitle": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "score": 770
+      "title": "CPanel 和 WHM 身份验证绕过 – CVE-2026-41940",
+      "originalTitle": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "score": 65
     },
     {
-      "title": "Noctua 发布其冷却风扇的官方 3D CAD 模型",
-      "originalTitle": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 18
+      "title": "我用 F# 构建了一个 Game Boy 模拟器",
+      "originalTitle": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 241
     },
     {
-      "title": "Zig 项目坚定的反人工智能贡献政策的理由",
-      "originalTitle": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 37
+      "title": "如果您的承诺提及“OpenClaw”，Claude Code 会拒绝请求或收取额外费用",
+      "originalTitle": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 1033
     }
   ],
-  "updateTime": "4/30/2026, 4:35:03 AM"
+  "updateTime": "5/1/2026, 4:52:25 AM"
 }
