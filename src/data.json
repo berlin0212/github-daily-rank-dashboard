@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "52.1k",
-      "dailyGrowth": "3292",
+      "totalStars": "54.7k",
+      "dailyGrowth": "2585",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "59.4k",
-      "dailyGrowth": "2141",
+      "totalStars": "62k",
+      "dailyGrowth": "2565",
       "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
       "rank": 3,
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "totalStars": "21.5k",
-      "dailyGrowth": "740",
-      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "41.5k",
+      "dailyGrowth": "1765",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": 4,
       "name": "ruvnet/claude-flow",
       "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "34.9k",
-      "dailyGrowth": "732",
+      "totalStars": "36.4k",
+      "dailyGrowth": "1582",
       "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 5,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "19.6k",
-      "dailyGrowth": "548",
-      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "totalStars": "22.5k",
+      "dailyGrowth": "996",
+      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
     },
     {
       "rank": 6,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "39.4k",
-      "dailyGrowth": "501",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
-    },
-    {
-      "rank": 7,
       "name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "totalStars": "69.7k",
-      "dailyGrowth": "486",
+      "totalStars": "70.3k",
+      "dailyGrowth": "638",
       "description": "黑客的多合一黑客工具"
     },
     {
+      "rank": 7,
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "totalStars": "22.2k",
+      "dailyGrowth": "552",
+      "description": "深度金融研究的自主代理"
+    },
+    {
       "rank": 8,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "totalStars": "2.3k",
-      "dailyGrowth": "456",
-      "description": "编码剂线束"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "39.9k",
+      "dailyGrowth": "539",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 9,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "totalStars": "70.7k",
-      "dailyGrowth": "446",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "totalStars": "20.2k",
+      "dailyGrowth": "521",
+      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     },
     {
       "rank": 10,
-      "name": "iamgio/quarkdown",
-      "url": "https://github.com/iamgio/quarkdown",
-      "totalStars": "13.4k",
-      "dailyGrowth": "422",
-      "description": "🪐 具有超能力的 Markdown：从想法到论文、演示文稿、网站、书籍和知识库。"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "16.9k",
+      "dailyGrowth": "515",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     }
   ],
   "hackerNews": [
     {
-      "title": "Ti-84 Evo",
-      "originalTitle": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 365
+      "title": "Windows API 成功跨平台 API",
+      "originalTitle": "Windows API Is Successful Cross-Platform API",
+      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+      "score": 31
     },
     {
-      "title": "阿耳忒弥斯 II 照片时间轴",
-      "originalTitle": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "title": "秘密网络将星链技术走私到伊朗以应对互联网中断",
+      "originalTitle": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "score": 85
+    },
+    {
+      "title": "几百万行 Haskell：Mercury 的生产工程",
+      "originalTitle": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "score": 112
     },
     {
-      "title": "新研究表明人们可以在做梦时交流和练习技能",
-      "originalTitle": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 278
+      "title": "本月瓢虫 - 2026 年 4 月",
+      "originalTitle": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "score": 212
     },
     {
-      "title": "要恢复岛屿天堂，请添加真菌",
-      "originalTitle": "To Restore an Island Paradise, Add Fungi",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 23
+      "title": "六年来完善 WatchOS 上的地图",
+      "originalTitle": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "score": 221
     },
     {
-      "title": "我是 Peter Roberts，移民律师，为 YC 和初创公司工作。美国医学协会",
-      "originalTitle": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=47975676",
-      "score": 139
+      "title": "达夫2d",
+      "originalTitle": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 392
     },
     {
-      "title": "臭宝宝问题",
-      "originalTitle": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 136
+      "title": "Kimi K2.6 刚刚在编码挑战中击败了 Claude、GPT-5.5 和 Gemini",
+      "originalTitle": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "score": 20
     },
     {
-      "title": "使用循环伏安法直接电化学黑咖啡质量评价",
-      "originalTitle": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "score": 29
+      "title": "尼安德特人在 125,000 年前（2025 年）经营“肥胖工厂”",
+      "originalTitle": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "score": 138
     },
     {
-      "title": "开源软件社区倦怠报告 (2025) [pdf]",
-      "originalTitle": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 44
+      "title": "IBM Granite 4.1 系列型号",
+      "originalTitle": "The IBM Granite 4.1 family of models",
+      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+      "score": 15
     },
     {
-      "title": "问 HN：谁在招聘？ （2026 年 5 月）",
-      "originalTitle": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 239
-    },
-    {
-      "title": "Lib0xc：一组与 C 标准库相邻的 API，用于更安全的系统编程",
-      "originalTitle": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "score": 100
+      "title": "请勿追踪",
+      "originalTitle": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "score": 240
     }
   ],
-  "updateTime": "5/2/2026, 4:20:49 AM"
+  "updateTime": "5/3/2026, 4:43:12 AM"
 }
