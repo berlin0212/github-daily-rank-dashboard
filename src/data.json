@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "54.7k",
-      "dailyGrowth": "2585",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 2,
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "62k",
-      "dailyGrowth": "2565",
+      "totalStars": "64.9k",
+      "dailyGrowth": "2889",
       "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
+      "rank": 2,
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "38.5k",
+      "dailyGrowth": "2058",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+    },
+    {
       "rank": 3,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "41.5k",
-      "dailyGrowth": "1765",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "56.7k",
+      "dailyGrowth": "2025",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 4,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "36.4k",
-      "dailyGrowth": "1582",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "42.8k",
+      "dailyGrowth": "1353",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": 5,
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
-      "totalStars": "22.5k",
-      "dailyGrowth": "996",
+      "totalStars": "23.6k",
+      "dailyGrowth": "1163",
       "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
     },
     {
       "rank": 6,
-      "name": "Z4nzu/hackingtool",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "totalStars": "70.3k",
-      "dailyGrowth": "638",
-      "description": "黑客的多合一黑客工具"
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "totalStars": "9.8k",
+      "dailyGrowth": "697",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
     },
     {
       "rank": 7,
-      "name": "virattt/dexter",
-      "url": "https://github.com/virattt/dexter",
-      "totalStars": "22.2k",
-      "dailyGrowth": "552",
-      "description": "深度金融研究的自主代理"
-    },
-    {
-      "rank": 8,
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "39.9k",
-      "dailyGrowth": "539",
+      "totalStars": "40.6k",
+      "dailyGrowth": "630",
       "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
+      "rank": 8,
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "totalStars": "3.3k",
+      "dailyGrowth": "610",
+      "description": "编码剂线束"
+    },
+    {
       "rank": 9,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "20.2k",
-      "dailyGrowth": "521",
-      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+      "name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "totalStars": "70.8k",
+      "dailyGrowth": "488",
+      "description": "黑客的多合一黑客工具"
     },
     {
       "rank": 10,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "16.9k",
-      "dailyGrowth": "515",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "totalStars": "20.6k",
+      "dailyGrowth": "482",
+      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     }
   ],
   "hackerNews": [
     {
-      "title": "Windows API 成功跨平台 API",
-      "originalTitle": "Windows API Is Successful Cross-Platform API",
-      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-      "score": 31
+      "title": "BYOMesh – 新型 LoRa 网状无线电提供 100 倍的带宽",
+      "originalTitle": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 316
     },
     {
-      "title": "秘密网络将星链技术走私到伊朗以应对互联网中断",
-      "originalTitle": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "score": 85
+      "title": "使用“underdrawing”来获得准确的文本和数字",
+      "originalTitle": "Using \"underdrawings\" for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "score": 93
     },
     {
-      "title": "几百万行 Haskell：Mercury 的生产工程",
-      "originalTitle": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 112
+      "title": "DeepClaude – 使用 DeepSeek V4 Pro 的 Claude Code 代理循环，便宜 17 倍",
+      "originalTitle": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 256
     },
     {
-      "title": "本月瓢虫 - 2026 年 4 月",
-      "originalTitle": "This Month in Ladybird - April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "title": "人形机器人执行器：完整的工程指南",
+      "originalTitle": "Humanoid Robot Actuators: The Complete Engineering Guide",
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "score": 6
+    },
+    {
+      "title": "伟大抽象的“隐藏”成本",
+      "originalTitle": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "score": 98
+    },
+    {
+      "title": "通过微基准测试发现硬盘物理几何形状 (2019)",
+      "originalTitle": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+      "score": 24
+    },
+    {
+      "title": "西南总部参观",
+      "originalTitle": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
       "score": 212
     },
     {
-      "title": "六年来完善 WatchOS 上的地图",
-      "originalTitle": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 221
+      "title": "美印太空任务绘制了墨西哥城极端下沉的地图",
+      "originalTitle": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "score": 123
     },
     {
-      "title": "达夫2d",
-      "originalTitle": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 392
+      "title": "第一条特斯拉半挂车大批量生产线下线",
+      "originalTitle": "First Tesla Semi Rolls Off High-Volume Production Line",
+      "url": "https://electrek.co/2026/04/29/tesla-semi-first-truck-high-volume-production-line/",
+      "score": 37
     },
     {
-      "title": "Kimi K2.6 刚刚在编码挑战中击败了 Claude、GPT-5.5 和 Gemini",
-      "originalTitle": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "score": 20
-    },
-    {
-      "title": "尼安德特人在 125,000 年前（2025 年）经营“肥胖工厂”",
-      "originalTitle": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "score": 138
-    },
-    {
-      "title": "IBM Granite 4.1 系列型号",
-      "originalTitle": "The IBM Granite 4.1 family of models",
-      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-      "score": 15
-    },
-    {
-      "title": "请勿追踪",
-      "originalTitle": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "score": 240
+      "title": "在 macOS 上创建的 Tar 文件在 Linux 上解压时显示错误 (2024)",
+      "originalTitle": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+      "score": 60
     }
   ],
-  "updateTime": "5/3/2026, 4:43:12 AM"
+  "updateTime": "5/4/2026, 4:43:04 AM"
 }
