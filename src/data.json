@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "64.9k",
-      "dailyGrowth": "2889",
-      "description": "TradingAgents：多代理LLM金融交易框架"
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "41k",
+      "dailyGrowth": "2468",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 2,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "38.5k",
-      "dailyGrowth": "2058",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "67.1k",
+      "dailyGrowth": "2197",
+      "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
       "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "56.7k",
-      "dailyGrowth": "2025",
+      "totalStars": "58.8k",
+      "dailyGrowth": "2011",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 4,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "42.8k",
-      "dailyGrowth": "1353",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "3.8k",
+      "dailyGrowth": "1706",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": 5,
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "totalStars": "23.6k",
-      "dailyGrowth": "1163",
-      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "44.1k",
+      "dailyGrowth": "1263",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": 6,
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "totalStars": "9.8k",
-      "dailyGrowth": "697",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "totalStars": "24.7k",
+      "dailyGrowth": "1042",
+      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
     },
     {
       "rank": 7,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "40.6k",
-      "dailyGrowth": "630",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "totalStars": "10.8k",
+      "dailyGrowth": "970",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
     },
     {
       "rank": 8,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "totalStars": "3.3k",
-      "dailyGrowth": "610",
-      "description": "编码剂线束"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "41.3k",
+      "dailyGrowth": "744",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 9,
-      "name": "Z4nzu/hackingtool",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "totalStars": "70.8k",
-      "dailyGrowth": "488",
-      "description": "黑客的多合一黑客工具"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "totalStars": "21.1k",
+      "dailyGrowth": "511",
+      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     },
     {
       "rank": 10,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "20.6k",
-      "dailyGrowth": "482",
-      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "totalStars": "23.1k",
+      "dailyGrowth": "509",
+      "description": "深度金融研究的自主代理"
     }
   ],
   "hackerNews": [
     {
-      "title": "BYOMesh – 新型 LoRa 网状无线电提供 100 倍的带宽",
-      "originalTitle": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 316
+      "title": "我所听到的关于认知债务的信息（到目前为止）",
+      "originalTitle": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "score": 76
     },
     {
-      "title": "使用“underdrawing”来获得准确的文本和数字",
-      "originalTitle": "Using \"underdrawings\" for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "score": 93
+      "title": "Bun 正在从 Zig 移植到 Rust",
+      "originalTitle": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 264
     },
     {
-      "title": "DeepClaude – 使用 DeepSeek V4 Pro 的 Claude Code 代理循环，便宜 17 倍",
-      "originalTitle": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 256
+      "title": "OpenAI 如何大规模提供低延迟语音 AI",
+      "originalTitle": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 328
     },
     {
-      "title": "人形机器人执行器：完整的工程指南",
-      "originalTitle": "Humanoid Robot Actuators: The Complete Engineering Guide",
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "score": 6
+      "title": "普利策国际报道奖获得者",
+      "originalTitle": "Pulitzer Prize Winner in International Reporting",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "score": 33
     },
     {
-      "title": "伟大抽象的“隐藏”成本",
-      "originalTitle": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "score": 98
+      "title": "CVE-2026-31431：复制失败与无根容器",
+      "originalTitle": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 13
     },
     {
-      "title": "通过微基准测试发现硬盘物理几何形状 (2019)",
-      "originalTitle": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "score": 24
+      "title": "代理技巧",
+      "originalTitle": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "score": 170
     },
     {
-      "title": "西南总部参观",
-      "originalTitle": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 212
+      "title": "回头看你的汽车：现代汽车的广告基础设施",
+      "originalTitle": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "score": 17
     },
     {
-      "title": "美印太空任务绘制了墨西哥城极端下沉的地图",
-      "originalTitle": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 123
+      "title": "当网络不起作用时",
+      "originalTitle": "When Networking Doesn't Work",
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "score": 25
     },
     {
-      "title": "第一条特斯拉半挂车大批量生产线下线",
-      "originalTitle": "First Tesla Semi Rolls Off High-Volume Production Line",
-      "url": "https://electrek.co/2026/04/29/tesla-semi-first-truck-high-volume-production-line/",
-      "score": 37
+      "title": "保护国防部承包商的安全：查找多租户授权漏洞",
+      "originalTitle": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 182
     },
     {
-      "title": "在 macOS 上创建的 Tar 文件在 Linux 上解压时显示错误 (2024)",
-      "originalTitle": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-      "score": 60
+      "title": "就业会减缓认知能力下降吗？劳动力市场冲击的证据",
+      "originalTitle": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "score": 239
     }
   ],
-  "updateTime": "5/4/2026, 4:43:04 AM"
+  "updateTime": "5/5/2026, 4:18:57 AM"
 }
