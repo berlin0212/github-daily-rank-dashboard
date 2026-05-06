@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "41k",
-      "dailyGrowth": "2468",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
-    },
-    {
-      "rank": 2,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "67.1k",
-      "dailyGrowth": "2197",
-      "description": "TradingAgents：多代理LLM金融交易框架"
-    },
-    {
-      "rank": 3,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "58.8k",
-      "dailyGrowth": "2011",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 4,
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "3.8k",
-      "dailyGrowth": "1706",
+      "totalStars": "6.8k",
+      "dailyGrowth": "3056",
       "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
+      "rank": 2,
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "43.3k",
+      "dailyGrowth": "2301",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+    },
+    {
+      "rank": 3,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "69.1k",
+      "dailyGrowth": "2049",
+      "description": "TradingAgents：多代理LLM金融交易框架"
+    },
+    {
+      "rank": 4,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "60.6k",
+      "dailyGrowth": "1848",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
+    },
+    {
       "rank": 5,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "44.1k",
-      "dailyGrowth": "1263",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "totalStars": "93.5k",
+      "dailyGrowth": "979",
+      "description": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 6,
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "totalStars": "24.7k",
-      "dailyGrowth": "1042",
-      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "45k",
+      "dailyGrowth": "937",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": 7,
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "totalStars": "10.8k",
-      "dailyGrowth": "970",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "28.7k",
+      "dailyGrowth": "929",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 8,
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "41.3k",
-      "dailyGrowth": "744",
+      "totalStars": "42.1k",
+      "dailyGrowth": "776",
       "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 9,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "totalStars": "21.1k",
-      "dailyGrowth": "511",
-      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "totalStars": "11.6k",
+      "dailyGrowth": "776",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
     },
     {
       "rank": 10,
-      "name": "virattt/dexter",
-      "url": "https://github.com/virattt/dexter",
-      "totalStars": "23.1k",
-      "dailyGrowth": "509",
-      "description": "深度金融研究的自主代理"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "totalStars": "25.4k",
+      "dailyGrowth": "772",
+      "description": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
     }
   ],
   "hackerNews": [
     {
-      "title": "我所听到的关于认知债务的信息（到目前为止）",
-      "originalTitle": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 76
+      "title": "代理现在可以创建 Cloudflare 帐户、购买域名和部署",
+      "originalTitle": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 74
     },
     {
-      "title": "Bun 正在从 Zig 移植到 Rust",
-      "originalTitle": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 264
+      "title": "Telus 使用人工智能改变呼叫代理口音",
+      "originalTitle": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "score": 72
     },
     {
-      "title": "OpenAI 如何大规模提供低延迟语音 AI",
-      "originalTitle": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 328
+      "title": ".de TLD 由于 DNSSEC 离线？",
+      "originalTitle": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "score": 572
     },
     {
-      "title": "普利策国际报道奖获得者",
-      "originalTitle": "Pulitzer Prize Winner in International Reporting",
-      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-      "score": 33
+      "title": "星际战斗机 16 英寸",
+      "originalTitle": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "score": 111
     },
     {
-      "title": "CVE-2026-31431：复制失败与无根容器",
-      "originalTitle": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 13
+      "title": "加速 Gemma 4：使用多令牌预测起草器进行更快的推理",
+      "originalTitle": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 499
     },
     {
-      "title": "代理技巧",
-      "originalTitle": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 170
+      "title": "写一些软件，免费赠送",
+      "originalTitle": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 184
     },
     {
-      "title": "回头看你的汽车：现代汽车的广告基础设施",
-      "originalTitle": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "score": 17
+      "title": "提交消息中“共同创作者：Copilot”的更新",
+      "originalTitle": "Update on \"Co-authored-by: Copilot\" in commit messages",
+      "url": "https://github.com/microsoft/vscode/issues/314311",
+      "score": 37
     },
     {
-      "title": "当网络不起作用时",
-      "originalTitle": "When Networking Doesn't Work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "score": 25
+      "title": "计算机使用比结构化 API 贵 45 倍",
+      "originalTitle": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 353
     },
     {
-      "title": "保护国防部承包商的安全：查找多租户授权漏洞",
-      "originalTitle": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 182
+      "title": "人工智能的三个逆定律",
+      "originalTitle": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 392
     },
     {
-      "title": "就业会减缓认知能力下降吗？劳动力市场冲击的证据",
-      "originalTitle": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "score": 239
+      "title": "监察员专栏：五角大楼试图让我保持沉默",
+      "originalTitle": "Ombudsman column: The Pentagon is trying to silence me",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "score": 60
     }
   ],
-  "updateTime": "5/5/2026, 4:18:57 AM"
+  "updateTime": "5/6/2026, 4:36:19 AM"
 }
