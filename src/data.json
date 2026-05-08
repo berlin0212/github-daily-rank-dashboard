@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "13.4k",
-      "dailyGrowth": "6528",
+      "totalStars": "18.4k",
+      "dailyGrowth": "5041",
       "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": 2,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "62.8k",
-      "dailyGrowth": "2159",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 3,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "45k",
-      "dailyGrowth": "1773",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
-    },
-    {
-      "rank": 4,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "30.1k",
-      "dailyGrowth": "1432",
+      "totalStars": "32.7k",
+      "dailyGrowth": "2611",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
-      "rank": 5,
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "totalStars": "12.7k",
-      "dailyGrowth": "1127",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+      "rank": 3,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "totalStars": "11.1k",
+      "dailyGrowth": "2156",
+      "description": ""
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "64.6k",
+      "dailyGrowth": "1849",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
+    },
+    {
+      "rank": 5,
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "46.1k",
-      "dailyGrowth": "1063",
+      "totalStars": "47.1k",
+      "dailyGrowth": "1065",
       "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
+      "rank": 6,
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "46k",
+      "dailyGrowth": "977",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+    },
+    {
       "rank": 7,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "70.2k",
-      "dailyGrowth": "1043",
-      "description": "TradingAgents：多代理LLM金融交易框架"
-    },
-    {
-      "rank": 8,
-      "name": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "totalStars": "14.7k",
-      "dailyGrowth": "848",
-      "description": "开源 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
-    },
-    {
-      "rank": 9,
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "42.9k",
-      "dailyGrowth": "832",
+      "totalStars": "43.8k",
+      "dailyGrowth": "852",
       "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
-      "rank": 10,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "totalStars": "94.3k",
+      "rank": 8,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "71k",
       "dailyGrowth": "824",
-      "description": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "description": "TradingAgents：多代理LLM金融交易框架"
+    },
+    {
+      "rank": 9,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "totalStars": "43.8k",
+      "dailyGrowth": "816",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "rank": 10,
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "totalStars": "15.5k",
+      "dailyGrowth": "768",
+      "description": "开源 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
     }
   ],
   "hackerNews": [
     {
-      "title": "Valve 在知识共享许可下发布 Steam 控制器 CAD 文件",
-      "originalTitle": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1176
+      "title": "ShinyHunters 威胁泄露学校数据，Canvas 瘫痪",
+      "originalTitle": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 389
     },
     {
-      "title": "永久计算原理",
-      "originalTitle": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "score": 47
+      "title": "也许你暂时不应该安装新软件",
+      "originalTitle": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 256
     },
     {
-      "title": "在工作场所表现得富有成效",
-      "originalTitle": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 838
+      "title": "Dirtyfrag：通用 Linux LPE",
+      "originalTitle": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 486
     },
     {
-      "title": "Vibe 编码和代理工程比我想象的更接近",
-      "originalTitle": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 466
+      "title": "Cloudflare 将裁员约 20%",
+      "originalTitle": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 365
     },
     {
-      "title": "SQLite 是美国国会图书馆推荐的存储格式",
-      "originalTitle": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "score": 75
+      "title": "这张地图让火人节保持诚实",
+      "originalTitle": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 571
     },
     {
-      "title": "梵蒂冈拉丁文网站",
-      "originalTitle": "The Vatican's Website in Latin",
-      "url": "https://www.vatican.va/latin/latin_index.html",
-      "score": 77
+      "title": "匹诺曹比你记忆中的更奇怪",
+      "originalTitle": "Pinocchio is weirder than you remembered",
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "score": 45
     },
     {
-      "title": "笔友计划在数字时代持续存在",
-      "originalTitle": "Pen pal programs endure in a digital age",
-      "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
-      "score": 21
+      "title": "座席需要控制流程，而不是更多提示",
+      "originalTitle": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 372
     },
     {
-      "title": "找出一系列电源的差异",
-      "originalTitle": "Finding the differences in a series of power supplies",
-      "url": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
-      "score": 28
+      "title": "麻醉的人类海马体的可塑性和语言",
+      "originalTitle": "Plasticity and language in the anaesthetized human hippocampus",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "score": 74
     },
     {
-      "title": "从 Supabase 到 Clerk，再到 Better Auth",
-      "originalTitle": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "score": 228
+      "title": "GNU IFUNC 是 CVE-2024-3094 背后的真正罪魁祸首",
+      "originalTitle": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "score": 40
     },
     {
-      "title": "Google Cloud 欺诈防御，reCAPTCHA 的下一代发展",
-      "originalTitle": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 242
+      "title": "自然语言自动编码器：将克劳德的想法转化为文本",
+      "originalTitle": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 223
     }
   ],
-  "updateTime": "5/7/2026, 4:37:02 AM"
+  "updateTime": "5/8/2026, 4:18:17 AM"
 }
