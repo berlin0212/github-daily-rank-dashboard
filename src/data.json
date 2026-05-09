@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "18.4k",
-      "dailyGrowth": "5041",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "totalStars": "14.6k",
+      "dailyGrowth": "3429",
+      "description": ""
     },
     {
       "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "32.7k",
-      "dailyGrowth": "2611",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "21.6k",
+      "dailyGrowth": "3198",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": 3,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "11.1k",
-      "dailyGrowth": "2156",
-      "description": ""
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "35k",
+      "dailyGrowth": "2266",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 4,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "64.6k",
-      "dailyGrowth": "1849",
+      "totalStars": "66.4k",
+      "dailyGrowth": "1817",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 5,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "47.1k",
-      "dailyGrowth": "1065",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "totalStars": "5.4k",
+      "dailyGrowth": "1002",
+      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
     },
     {
       "rank": 6,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "46k",
-      "dailyGrowth": "977",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
-    },
-    {
-      "rank": 7,
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "43.8k",
-      "dailyGrowth": "852",
+      "totalStars": "44.7k",
+      "dailyGrowth": "927",
       "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
+      "rank": 7,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "totalStars": "30.8k",
+      "dailyGrowth": "784",
+      "description": "开源多模式 AI 代理堆栈：连接尖端 AI 模型和代理基础设施"
+    },
+    {
       "rank": 8,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "71k",
-      "dailyGrowth": "824",
-      "description": "TradingAgents：多代理LLM金融交易框架"
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "46.8k",
+      "dailyGrowth": "735",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 9,
       "name": "datawhalechina/hello-agents",
       "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "43.8k",
-      "dailyGrowth": "816",
+      "totalStars": "44.5k",
+      "dailyGrowth": "700",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
       "rank": 10,
-      "name": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "totalStars": "15.5k",
-      "dailyGrowth": "768",
-      "description": "开源 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "totalStars": "13.4k",
+      "dailyGrowth": "696",
+      "description": "AI 从任何文档生成本机可编辑的 PPTX - 真正的 PowerPoint 形状，而不是图像 - 无需设计技能"
     }
   ],
   "hackerNews": [
     {
-      "title": "ShinyHunters 威胁泄露学校数据，Canvas 瘫痪",
-      "originalTitle": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 389
+      "title": "谷歌为取消谷歌的 Android 用户破解了 reCAPTCHA",
+      "originalTitle": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 765
     },
     {
-      "title": "也许你暂时不应该安装新软件",
-      "originalTitle": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 256
+      "title": "OpenAI 的 WebRTC 问题",
+      "originalTitle": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 195
     },
     {
-      "title": "Dirtyfrag：通用 Linux LPE",
-      "originalTitle": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 486
+      "title": "人月神话",
+      "originalTitle": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 59
     },
     {
-      "title": "Cloudflare 将裁员约 20%",
-      "originalTitle": "Cloudflare to cut about 20% workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 365
+      "title": "ISSpresso 的惨痛教训",
+      "originalTitle": "Bitter Lessons from the ISSpresso",
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "score": 53
     },
     {
-      "title": "这张地图让火人节保持诚实",
-      "originalTitle": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 571
+      "title": "React2Shell 的故事",
+      "originalTitle": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 85
     },
     {
-      "title": "匹诺曹比你记忆中的更奇怪",
-      "originalTitle": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 45
+      "title": "人工智能正在打破两种脆弱文化",
+      "originalTitle": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 283
     },
     {
-      "title": "座席需要控制流程，而不是更多提示",
-      "originalTitle": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 372
+      "title": "大卫·阿滕伯勒诞辰 100 周年",
+      "originalTitle": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 504
     },
     {
-      "title": "麻醉的人类海马体的可塑性和语言",
-      "originalTitle": "Plasticity and language in the anaesthetized human hippocampus",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 74
+      "title": "卡通网络 Flash 游戏",
+      "originalTitle": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 304
     },
     {
-      "title": "GNU IFUNC 是 CVE-2024-3094 背后的真正罪魁祸首",
-      "originalTitle": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 40
+      "title": "我们致力于：了解 Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "originalTitle": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
+      "score": 126
     },
     {
-      "title": "自然语言自动编码器：将克劳德的想法转化为文本",
-      "originalTitle": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 223
+      "title": "光不用电？发光藻类使之成为可能",
+      "originalTitle": "Light without electricity? Glowing algae could make it possible",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 34
     }
   ],
-  "updateTime": "5/8/2026, 4:18:17 AM"
+  "updateTime": "5/9/2026, 4:27:04 AM"
 }
