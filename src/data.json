@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "14.6k",
-      "dailyGrowth": "3429",
+      "totalStars": "17.1k",
+      "dailyGrowth": "2551",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "21.6k",
-      "dailyGrowth": "3198",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "37.2k",
+      "dailyGrowth": "2263",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 3,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "35k",
-      "dailyGrowth": "2266",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "23.2k",
+      "dailyGrowth": "1612",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": 4,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "66.4k",
-      "dailyGrowth": "1817",
+      "totalStars": "67.9k",
+      "dailyGrowth": "1455",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 5,
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "totalStars": "5.4k",
-      "dailyGrowth": "1002",
-      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "totalStars": "45.6k",
+      "dailyGrowth": "1130",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
       "rank": 6,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "44.7k",
-      "dailyGrowth": "927",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "totalStars": "3.9k",
+      "dailyGrowth": "1031",
+      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
       "rank": 7,
-      "name": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "totalStars": "30.8k",
-      "dailyGrowth": "784",
-      "description": "开源多模式 AI 代理堆栈：连接尖端 AI 模型和代理基础设施"
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "totalStars": "6.4k",
+      "dailyGrowth": "933",
+      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
     },
     {
       "rank": 8,
       "name": "ruvnet/claude-flow",
       "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "46.8k",
-      "dailyGrowth": "735",
+      "totalStars": "47.7k",
+      "dailyGrowth": "921",
       "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 9,
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "44.5k",
-      "dailyGrowth": "700",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "72.4k",
+      "dailyGrowth": "720",
+      "description": "TradingAgents：多代理LLM金融交易框架"
     },
     {
       "rank": 10,
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "totalStars": "13.4k",
-      "dailyGrowth": "696",
-      "description": "AI 从任何文档生成本机可编辑的 PPTX - 真正的 PowerPoint 形状，而不是图像 - 无需设计技能"
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "totalStars": "15.1k",
+      "dailyGrowth": "526",
+      "description": "“AI-Trader：100%全自动代理原生交易”"
     }
   ],
   "hackerNews": [
     {
-      "title": "谷歌为取消谷歌的 Android 用户破解了 reCAPTCHA",
-      "originalTitle": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 765
+      "title": "Show HN：在汇编中构建一个 Web 服务器来赋予我的生活（缺乏）意义",
+      "originalTitle": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "score": 93
     },
     {
-      "title": "OpenAI 的 WebRTC 问题",
-      "originalTitle": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 195
+      "title": "Bun 的实验性 Rust 重写在 Linux x64 glibc 上达到了 99.8% 的测试兼容性",
+      "originalTitle": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 472
     },
     {
-      "title": "人月神话",
-      "originalTitle": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 59
+      "title": "Gemini API 文件搜索现在是多模式的",
+      "originalTitle": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "score": 24
     },
     {
-      "title": "ISSpresso 的惨痛教训",
-      "originalTitle": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 53
+      "title": "Casio S100X 日本漆器版（仅限 JP 页）",
+      "originalTitle": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "score": 50
     },
     {
-      "title": "React2Shell 的故事",
-      "originalTitle": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 85
+      "title": "瑞士互联网档案馆",
+      "originalTitle": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 568
     },
     {
-      "title": "人工智能正在打破两种脆弱文化",
-      "originalTitle": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 283
+      "title": "埃默里希·尤特纳：一美元造假者",
+      "originalTitle": "Emerich Juettner: The One Dollar Counterfeiter",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "score": 12
     },
     {
-      "title": "大卫·阿滕伯勒诞辰 100 周年",
-      "originalTitle": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 504
+      "title": "我已禁止查询字符串",
+      "originalTitle": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "score": 320
     },
     {
-      "title": "卡通网络 Flash 游戏",
-      "originalTitle": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 304
+      "title": "我正在写 Visual Basic 的历史，第一章已经完成",
+      "originalTitle": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+      "score": 62
     },
     {
-      "title": "我们致力于：了解 Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "originalTitle": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
-      "score": 126
+      "title": "通过 execve() 进行本地权限提升",
+      "originalTitle": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "score": 113
     },
     {
-      "title": "光不用电？发光藻类使之成为可能",
-      "originalTitle": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 34
+      "title": "Show HN：Rust 但 Lisp",
+      "originalTitle": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 106
     }
   ],
-  "updateTime": "5/9/2026, 4:27:04 AM"
+  "updateTime": "5/10/2026, 4:48:47 AM"
 }
