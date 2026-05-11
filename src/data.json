@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "17.1k",
-      "dailyGrowth": "2551",
+      "totalStars": "18.6k",
+      "dailyGrowth": "1444",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "37.2k",
-      "dailyGrowth": "2263",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "68.9k",
+      "dailyGrowth": "1034",
+      "description": "My personal directory of skills, straight from my .claude directory."
     },
     {
       "rank": 3,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "23.2k",
-      "dailyGrowth": "1612",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "38.2k",
+      "dailyGrowth": "999",
+      "description": "Production-grade engineering skills for AI coding agents."
     },
     {
       "rank": 4,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "67.9k",
-      "dailyGrowth": "1455",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "totalStars": "7.2k",
+      "dailyGrowth": "774",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
     },
     {
       "rank": 5,
       "name": "datawhalechina/hello-agents",
       "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "45.6k",
-      "dailyGrowth": "1130",
+      "totalStars": "46.4k",
+      "dailyGrowth": "766",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
       "rank": 6,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "3.9k",
-      "dailyGrowth": "1031",
-      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "23.9k",
+      "dailyGrowth": "726",
+      "description": "Coding agent for DeepSeek models that runs in your terminal"
     },
     {
       "rank": 7,
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "totalStars": "6.4k",
-      "dailyGrowth": "933",
-      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "totalStars": "48.4k",
+      "dailyGrowth": "708",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": 8,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "47.7k",
-      "dailyGrowth": "921",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "totalStars": "32k",
+      "dailyGrowth": "688",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
     },
     {
       "rank": 9,
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "72.4k",
-      "dailyGrowth": "720",
-      "description": "TradingAgents：多代理LLM金融交易框架"
+      "totalStars": "73.1k",
+      "dailyGrowth": "661",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
     {
       "rank": 10,
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "totalStars": "15.1k",
-      "dailyGrowth": "526",
-      "description": "“AI-Trader：100%全自动代理原生交易”"
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "totalStars": "4.5k",
+      "dailyGrowth": "629",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
     }
   ],
   "hackerNews": [
     {
-      "title": "Show HN：在汇编中构建一个 Web 服务器来赋予我的生活（缺乏）意义",
-      "originalTitle": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "score": 93
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "originalTitle": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 1109
     },
     {
-      "title": "Bun 的实验性 Rust 重写在 Linux x64 glibc 上达到了 99.8% 的测试兼容性",
-      "originalTitle": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 472
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "originalTitle": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 61
     },
     {
-      "title": "Gemini API 文件搜索现在是多模式的",
-      "originalTitle": "Gemini API File Search is now multimodal",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 24
+      "title": "Local AI needs to be the norm",
+      "originalTitle": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 791
     },
     {
-      "title": "Casio S100X 日本漆器版（仅限 JP 页）",
-      "originalTitle": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 50
+      "title": "Running local models on an M4 with 24GB memory",
+      "originalTitle": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 196
     },
     {
-      "title": "瑞士互联网档案馆",
-      "originalTitle": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 568
+      "title": "I'm going back to writing code by hand",
+      "originalTitle": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 156
     },
     {
-      "title": "埃默里希·尤特纳：一美元造假者",
-      "originalTitle": "Emerich Juettner: The One Dollar Counterfeiter",
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 12
+      "title": "Incident Report: CVE-2024-YIKES",
+      "originalTitle": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 452
     },
     {
-      "title": "我已禁止查询字符串",
-      "originalTitle": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "score": 320
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "originalTitle": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "score": 125
     },
     {
-      "title": "我正在写 Visual Basic 的历史，第一章已经完成",
-      "originalTitle": "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 62
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "originalTitle": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "score": 86
     },
     {
-      "title": "通过 execve() 进行本地权限提升",
-      "originalTitle": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 113
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "originalTitle": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "score": 3
     },
     {
-      "title": "Show HN：Rust 但 Lisp",
-      "originalTitle": "Show HN: Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 106
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "originalTitle": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "score": 9
     }
   ],
-  "updateTime": "5/10/2026, 4:48:47 AM"
+  "updateTime": "5/11/2026, 5:00:40 AM"
 }
