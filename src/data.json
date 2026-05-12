@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "18.6k",
-      "dailyGrowth": "1444",
-      "description": ""
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "71.9k",
+      "dailyGrowth": "2975",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "68.9k",
-      "dailyGrowth": "1034",
-      "description": "My personal directory of skills, straight from my .claude directory."
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "totalStars": "20.1k",
+      "dailyGrowth": "1557",
+      "description": ""
     },
     {
       "rank": 3,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "38.2k",
-      "dailyGrowth": "999",
-      "description": "Production-grade engineering skills for AI coding agents."
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "totalStars": "5.9k",
+      "dailyGrowth": "1412",
+      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
       "rank": 4,
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "totalStars": "7.2k",
-      "dailyGrowth": "774",
-      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
-    },
-    {
-      "rank": 5,
       "name": "datawhalechina/hello-agents",
       "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "46.4k",
-      "dailyGrowth": "766",
+      "totalStars": "47.5k",
+      "dailyGrowth": "1159",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "23.9k",
-      "dailyGrowth": "726",
-      "description": "Coding agent for DeepSeek models that runs in your terminal"
+      "totalStars": "25.1k",
+      "dailyGrowth": "1144",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+    },
+    {
+      "rank": 6,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "39.4k",
+      "dailyGrowth": "1136",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 7,
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "totalStars": "48.4k",
-      "dailyGrowth": "708",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "totalStars": "8.2k",
+      "dailyGrowth": "1013",
+      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
     },
     {
       "rank": 8,
       "name": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "totalStars": "32k",
-      "dailyGrowth": "688",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+      "totalStars": "32.9k",
+      "dailyGrowth": "921",
+      "description": "开源多模式 AI 代理堆栈：连接尖端 AI 模型和代理基础设施"
     },
     {
       "rank": 9,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "73.1k",
-      "dailyGrowth": "661",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      "name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "totalStars": "9.8k",
+      "dailyGrowth": "783",
+      "description": "💻 氛围编码 2026 |您的第一门现代编程课程，供初学者逐步掌握。"
     },
     {
       "rank": 10,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "4.5k",
-      "dailyGrowth": "629",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "totalStars": "73.8k",
+      "dailyGrowth": "687",
+      "description": "TradingAgents：多代理LLM金融交易框架"
     }
   ],
   "hackerNews": [
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "originalTitle": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1109
+      "title": "事后分析：TanStack npm 供应链妥协",
+      "originalTitle": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 636
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-      "originalTitle": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 61
+      "title": "AWS 上的克劳德平台",
+      "originalTitle": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 65
     },
     {
-      "title": "Local AI needs to be the norm",
-      "originalTitle": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 791
+      "title": "如果 AI 编写代码，为什么还要使用 Python？",
+      "originalTitle": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 285
     },
     {
-      "title": "Running local models on an M4 with 24GB memory",
-      "originalTitle": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 196
+      "title": "加州大学洛杉矶分校发现第一种修复脑损伤的中风康复药物 (2025)",
+      "originalTitle": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 277
     },
     {
-      "title": "I'm going back to writing code by hand",
-      "originalTitle": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 156
+      "title": "他们生活 (1988) 启发了 Adblocker",
+      "originalTitle": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 59
     },
     {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "originalTitle": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 452
+      "title": "软件内部读书俱乐部",
+      "originalTitle": "Software Internals Book Club",
+      "url": "https://eatonphil.com/bookclub.html",
+      "score": 26
     },
     {
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "originalTitle": "Obsidian plugin was abused to deploy a remote access trojan",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 125
+      "title": "一份失落的古代文字揭示了我们所知的文字是如何开始的",
+      "originalTitle": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "score": 25
     },
     {
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "originalTitle": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 86
+      "title": "Show HN：基于 Rockbox 固件的现代音乐播放器守护进程",
+      "originalTitle": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "score": 37
     },
     {
-      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "originalTitle": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "score": 3
+      "title": "我让人工智能构建了一个工具来帮助我找出晚上是什么让我醒来",
+      "originalTitle": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 111
     },
     {
-      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "originalTitle": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "url": "https://github.com/adamjgmiller/adamsreview",
-      "score": 9
+      "title": "空软，1997-2004（2004）",
+      "originalTitle": "Nullsoft, 1997-2004 (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 249
     }
   ],
-  "updateTime": "5/11/2026, 5:00:40 AM"
+  "updateTime": "5/12/2026, 4:40:31 AM"
 }
