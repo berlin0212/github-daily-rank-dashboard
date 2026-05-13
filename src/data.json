@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "71.9k",
-      "dailyGrowth": "2975",
+      "totalStars": "75.6k",
+      "dailyGrowth": "3742",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "20.1k",
-      "dailyGrowth": "1557",
-      "description": ""
-    },
-    {
-      "rank": 3,
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "5.9k",
-      "dailyGrowth": "1412",
+      "totalStars": "7.6k",
+      "dailyGrowth": "1636",
       "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
-      "rank": 4,
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "47.5k",
-      "dailyGrowth": "1159",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "25.1k",
-      "dailyGrowth": "1144",
+      "totalStars": "26.4k",
+      "dailyGrowth": "1298",
       "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
+      "rank": 4,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "totalStars": "21.4k",
+      "dailyGrowth": "1221",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "totalStars": "2.5k",
+      "dailyGrowth": "1117",
+      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
+    },
+    {
       "rank": 6,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "39.4k",
-      "dailyGrowth": "1136",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "totalStars": "5.7k",
+      "dailyGrowth": "1106",
+      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
       "rank": 7,
       "name": "decolua/9router",
       "url": "https://github.com/decolua/9router",
-      "totalStars": "8.2k",
-      "dailyGrowth": "1013",
+      "totalStars": "9.3k",
+      "dailyGrowth": "1100",
       "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
     },
     {
       "rank": 8,
-      "name": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "totalStars": "32.9k",
-      "dailyGrowth": "921",
-      "description": "开源多模式 AI 代理堆栈：连接尖端 AI 模型和代理基础设施"
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "totalStars": "11.7k",
+      "dailyGrowth": "1087",
+      "description": "让我们用AI来赚钱吧！"
     },
     {
       "rank": 9,
-      "name": "datawhalechina/easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "totalStars": "9.8k",
-      "dailyGrowth": "783",
-      "description": "💻 氛围编码 2026 |您的第一门现代编程课程，供初学者逐步掌握。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "40.3k",
+      "dailyGrowth": "949",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 10,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "totalStars": "73.8k",
-      "dailyGrowth": "687",
-      "description": "TradingAgents：多代理LLM金融交易框架"
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "totalStars": "93.6k",
+      "dailyGrowth": "725",
+      "description": "在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM"
     }
   ],
   "hackerNews": [
     {
-      "title": "事后分析：TanStack npm 供应链妥协",
-      "originalTitle": "Postmortem: TanStack npm supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 636
+      "title": "恢复对 Bambu Lab 打印机的完整 BambuNetwork 支持",
+      "originalTitle": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 276
     },
     {
-      "title": "AWS 上的克劳德平台",
-      "originalTitle": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 65
+      "title": "谷歌图书",
+      "originalTitle": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 675
     },
     {
-      "title": "如果 AI 编写代码，为什么还要使用 Python？",
-      "originalTitle": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 285
+      "title": "Show HN：Needle：我们将 Gemini 工具调用提炼成 26M 模型",
+      "originalTitle": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 343
     },
     {
-      "title": "加州大学洛杉矶分校发现第一种修复脑损伤的中风康复药物 (2025)",
-      "originalTitle": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 277
+      "title": "我的毕业帽生锈了",
+      "originalTitle": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 109
     },
     {
-      "title": "他们生活 (1988) 启发了 Adblocker",
-      "originalTitle": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 59
+      "title": "如何让你的文字看起来未来感 (2016)",
+      "originalTitle": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 266
     },
     {
-      "title": "软件内部读书俱乐部",
-      "originalTitle": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
-      "score": 26
+      "title": "Kraftwerk 1976 年的激进曲目",
+      "originalTitle": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 98
     },
     {
-      "title": "一份失落的古代文字揭示了我们所知的文字是如何开始的",
-      "originalTitle": "A lost ancient script reveals how writing as we know it began",
-      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
-      "score": 25
+      "title": "CERT 针对 dnsmasq 中的严重安全漏洞发布了 6 个 CVE",
+      "originalTitle": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 271
     },
     {
-      "title": "Show HN：基于 Rockbox 固件的现代音乐播放器守护进程",
-      "originalTitle": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "url": "https://github.com/tsirysndr/rockbox-zig",
-      "score": 37
+      "title": "为什么高级开发人员无法传达他们的专业知识",
+      "originalTitle": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 454
     },
     {
-      "title": "我让人工智能构建了一个工具来帮助我找出晚上是什么让我醒来",
-      "originalTitle": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 111
+      "title": "维家族",
+      "originalTitle": "The vi family",
+      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+      "score": 44
     },
     {
-      "title": "空软，1997-2004（2004）",
-      "originalTitle": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 249
+      "title": "当“空闲”不空闲时：Linux 内核优化如何成为 QUIC bug",
+      "originalTitle": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "score": 42
     }
   ],
-  "updateTime": "5/12/2026, 4:40:31 AM"
+  "updateTime": "5/13/2026, 4:52:03 AM"
 }
