@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "75.6k",
-      "dailyGrowth": "3742",
+      "totalStars": "78.7k",
+      "dailyGrowth": "3029",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "7.6k",
-      "dailyGrowth": "1636",
-      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
-    },
-    {
-      "rank": 3,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "26.4k",
-      "dailyGrowth": "1298",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
-    },
-    {
-      "rank": 4,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "21.4k",
-      "dailyGrowth": "1221",
-      "description": ""
-    },
-    {
-      "rank": 5,
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "2.5k",
-      "dailyGrowth": "1117",
+      "totalStars": "5k",
+      "dailyGrowth": "2531",
       "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "totalStars": "9.3k",
+      "dailyGrowth": "1753",
+      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+    },
+    {
+      "rank": 4,
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
-      "totalStars": "5.7k",
-      "dailyGrowth": "1106",
+      "totalStars": "7.3k",
+      "dailyGrowth": "1659",
       "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
-      "rank": 7,
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "totalStars": "9.3k",
-      "dailyGrowth": "1100",
-      "description": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
+      "rank": 5,
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "54k",
+      "dailyGrowth": "1463",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "27.7k",
+      "dailyGrowth": "1291",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+    },
+    {
+      "rank": 7,
       "name": "yikart/AiToEarn",
       "url": "https://github.com/yikart/AiToEarn",
-      "totalStars": "11.7k",
-      "dailyGrowth": "1087",
+      "totalStars": "12.8k",
+      "dailyGrowth": "1069",
       "description": "让我们用AI来赚钱吧！"
     },
     {
+      "rank": 8,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "totalStars": "49k",
+      "dailyGrowth": "851",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
       "rank": 9,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "40.3k",
-      "dailyGrowth": "949",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "totalStars": "22.2k",
+      "dailyGrowth": "836",
+      "description": ""
     },
     {
       "rank": 10,
       "name": "rasbt/LLMs-from-scratch",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "totalStars": "93.6k",
-      "dailyGrowth": "725",
+      "totalStars": "94.4k",
+      "dailyGrowth": "739",
       "description": "在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM"
     }
   ],
   "hackerNews": [
     {
-      "title": "恢复对 Bambu Lab 打印机的完整 BambuNetwork 支持",
-      "originalTitle": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 276
+      "title": "克劳德小企业",
+      "originalTitle": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 48
     },
     {
-      "title": "谷歌图书",
-      "originalTitle": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 675
+      "title": "焦土 2000 – 网页",
+      "originalTitle": "Scorched Earth 2000 – Web",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 173
     },
     {
-      "title": "Show HN：Needle：我们将 Gemini 工具调用提炼成 26M 模型",
-      "originalTitle": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 343
+      "title": "Linux 游戏速度更快，因为 Windows API 正在成为 Linux 内核功能",
+      "originalTitle": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 595
     },
     {
-      "title": "我的毕业帽生锈了",
-      "originalTitle": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 109
+      "title": "思科裁员",
+      "originalTitle": "Cisco workforce reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 94
     },
     {
-      "title": "如何让你的文字看起来未来感 (2016)",
-      "originalTitle": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 266
+      "title": "设置免费的 *.city.state.us 地区域名 (2025)",
+      "originalTitle": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 532
     },
     {
-      "title": "Kraftwerk 1976 年的激进曲目",
-      "originalTitle": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 98
+      "title": "Google IDE 的历史",
+      "originalTitle": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 319
     },
     {
-      "title": "CERT 针对 dnsmasq 中的严重安全漏洞发布了 6 个 CVE",
-      "originalTitle": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 271
+      "title": "MacBook Neo 深入探究：基准、晶圆经济学和 8GB 赌博",
+      "originalTitle": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "score": 154
     },
     {
-      "title": "为什么高级开发人员无法传达他们的专业知识",
-      "originalTitle": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 454
+      "title": "显示 HN：蚕食",
+      "originalTitle": "Show HN: Nibble",
+      "url": "https://github.com/glouw/nibble",
+      "score": 21
     },
     {
-      "title": "维家族",
-      "originalTitle": "The vi family",
-      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 44
+      "title": "软件的电子化",
+      "originalTitle": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "score": 237
     },
     {
-      "title": "当“空闲”不空闲时：Linux 内核优化如何成为 QUIC bug",
-      "originalTitle": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 42
+      "title": "我在爸爸的旧书中找到的国际象棋谜题",
+      "originalTitle": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "score": 127
     }
   ],
-  "updateTime": "5/13/2026, 4:52:03 AM"
+  "updateTime": "5/14/2026, 4:50:51 AM"
 }
