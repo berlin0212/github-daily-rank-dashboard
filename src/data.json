@@ -36,8 +36,8 @@
       "rank": 5,
       "name": "ruvnet/wifi-densepose",
       "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "54k",
-      "dailyGrowth": "1463",
+      "totalStars": "55.6k",
+      "dailyGrowth": "1545",
       "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
@@ -58,14 +58,6 @@
     },
     {
       "rank": 8,
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "totalStars": "49k",
-      "dailyGrowth": "851",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-    },
-    {
-      "rank": 9,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "totalStars": "22.2k",
@@ -73,75 +65,83 @@
       "description": ""
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "rasbt/LLMs-from-scratch",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "totalStars": "94.4k",
       "dailyGrowth": "739",
       "description": "在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM"
+    },
+    {
+      "rank": 10,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "41k",
+      "dailyGrowth": "665",
+      "description": "AI 编码代理的生产级工程技能。"
     }
   ],
   "hackerNews": [
     {
-      "title": "克劳德小企业",
-      "originalTitle": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 48
+      "title": "Mulvad 退出 IP 的识别能力令人惊讶",
+      "originalTitle": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "score": 155
     },
     {
-      "title": "焦土 2000 – 网页",
-      "originalTitle": "Scorched Earth 2000 – Web",
-      "url": "http://www.scorch2000.com/web/",
-      "score": 173
+      "title": "Claude Code 如何在大型代码库中工作",
+      "originalTitle": "How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "score": 27
     },
     {
-      "title": "Linux 游戏速度更快，因为 Windows API 正在成为 Linux 内核功能",
-      "originalTitle": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 595
+      "title": "从我的 2024 年 RAV4 混合动力车上卸下调制解调器和 GPS",
+      "originalTitle": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 719
     },
     {
-      "title": "思科裁员",
-      "originalTitle": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "score": 94
+      "title": "关于 DS4 的几句话",
+      "originalTitle": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "score": 229
     },
     {
-      "title": "设置免费的 *.city.state.us 地区域名 (2025)",
-      "originalTitle": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 532
+      "title": "Gyroflow：使用陀螺仪数据进行视频稳定",
+      "originalTitle": "Gyroflow: Video stabilization using gyroscope data",
+      "url": "https://github.com/gyroflow/gyroflow",
+      "score": 33
     },
     {
-      "title": "Google IDE 的历史",
-      "originalTitle": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 319
+      "title": "Apple M5 上首次公开 macOS 内核内存损坏漏洞",
+      "originalTitle": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 305
     },
     {
-      "title": "MacBook Neo 深入探究：基准、晶圆经济学和 8GB 赌博",
-      "originalTitle": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 154
+      "title": "前沿人工智能的获取很快就会受到经济和安全限制",
+      "originalTitle": "Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "score": 37
     },
     {
-      "title": "显示 HN：蚕食",
-      "originalTitle": "Show HN: Nibble",
-      "url": "https://github.com/glouw/nibble",
-      "score": 21
+      "title": "RTX 5090 和 M4 MacBook Air：可以玩游戏吗？",
+      "originalTitle": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 526
     },
     {
-      "title": "软件的电子化",
-      "originalTitle": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 237
+      "title": "新的 Nginx 漏洞利用",
+      "originalTitle": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 330
     },
     {
-      "title": "我在爸爸的旧书中找到的国际象棋谜题",
-      "originalTitle": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 127
+      "title": "Codex 现已位于 ChatGPT 移动应用程序中",
+      "originalTitle": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 250
     }
   ],
-  "updateTime": "5/14/2026, 4:50:51 AM"
+  "updateTime": "5/15/2026, 4:54:52 AM"
 }
