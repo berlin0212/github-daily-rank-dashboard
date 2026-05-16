@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Mulvad 退出 IP 的识别能力令人惊讶",
-      "originalTitle": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 155
+      "title": "古腾堡计划——不断进步",
+      "originalTitle": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "score": 791
     },
     {
-      "title": "Claude Code 如何在大型代码库中工作",
-      "originalTitle": "How Claude Code works in large codebases",
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "score": 27
+      "title": "Nintendo 64 上的添加剂混合",
+      "originalTitle": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 60
     },
     {
-      "title": "从我的 2024 年 RAV4 混合动力车上卸下调制解调器和 GPS",
-      "originalTitle": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 719
+      "title": "我相信现在整个公司都处于人工智能精神病状态",
+      "originalTitle": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 992
     },
     {
-      "title": "关于 DS4 的几句话",
-      "originalTitle": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "score": 229
+      "title": "Ploopy Bean：每台计算机的轨迹点",
+      "originalTitle": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 23
     },
     {
-      "title": "Gyroflow：使用陀螺仪数据进行视频稳定",
-      "originalTitle": "Gyroflow: Video stabilization using gyroscope data",
-      "url": "https://github.com/gyroflow/gyroflow",
-      "score": 33
+      "title": "P2P 冰毒的主要特点是数量太多 (2021)",
+      "originalTitle": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "score": 75
     },
     {
-      "title": "Apple M5 上首次公开 macOS 内核内存损坏漏洞",
-      "originalTitle": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 305
+      "title": "天然存在的准晶体",
+      "originalTitle": "Naturally Occurring Quasicrystals",
+      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "score": 78
     },
     {
-      "title": "前沿人工智能的获取很快就会受到经济和安全限制",
-      "originalTitle": "Access to frontier AI will soon be limited by economic and security constraints",
-      "url": "https://writing.antonleicht.me/p/cut-off",
-      "score": 37
+      "title": "鸟眼被推向进化的极端",
+      "originalTitle": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "score": 45
     },
     {
-      "title": "RTX 5090 和 M4 MacBook Air：可以玩游戏吗？",
-      "originalTitle": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 526
+      "title": "Pixel 10 的零点击漏洞利用链",
+      "originalTitle": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 348
     },
     {
-      "title": "新的 Nginx 漏洞利用",
-      "originalTitle": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 330
+      "title": "如何写入 SSD [pdf]",
+      "originalTitle": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "score": 65
     },
     {
-      "title": "Codex 现已位于 ChatGPT 移动应用程序中",
-      "originalTitle": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 250
+      "title": "加州法案要求网络游戏关闭时补丁或退款",
+      "originalTitle": "California bill would require patches or refunds when online games shut down",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "score": 387
     }
   ],
-  "updateTime": "5/15/2026, 4:54:52 AM"
+  "updateTime": "5/16/2026, 4:32:07 AM"
 }
