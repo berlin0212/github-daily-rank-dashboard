@@ -6,7 +6,7 @@
       "url": "https://github.com/mattpocock/skills",
       "totalStars": "78.7k",
       "dailyGrowth": "3029",
-      "description": "My personal directory of skills, straight from my .claude directory."
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "totalStars": "5k",
       "dailyGrowth": "2531",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
       "rank": 3,
@@ -22,7 +22,7 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "totalStars": "9.3k",
       "dailyGrowth": "1753",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
       "rank": 4,
@@ -30,7 +30,7 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "totalStars": "7.3k",
       "dailyGrowth": "1659",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
       "rank": 5,
@@ -38,7 +38,7 @@
       "url": "https://github.com/ruvnet/wifi-densepose",
       "totalStars": "55.6k",
       "dailyGrowth": "1545",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers"
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 6,
@@ -46,7 +46,7 @@
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "totalStars": "27.7k",
       "dailyGrowth": "1291",
-      "description": "Coding agent for DeepSeek models that runs in your terminal"
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": 7,
@@ -54,7 +54,7 @@
       "url": "https://github.com/yikart/AiToEarn",
       "totalStars": "12.8k",
       "dailyGrowth": "1069",
-      "description": "Let's use AI to Earn!"
+      "description": "让我们用AI来赚钱吧！"
     },
     {
       "rank": 8,
@@ -70,7 +70,7 @@
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "totalStars": "94.4k",
       "dailyGrowth": "739",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+      "description": "在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM"
     },
     {
       "rank": 10,
@@ -78,70 +78,70 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "totalStars": "41k",
       "dailyGrowth": "665",
-      "description": "Production-grade engineering skills for AI coding agents."
+      "description": "AI 编码代理的生产级工程技能。"
     }
   ],
   "hackerNews": [
     {
-      "title": "GenCAD",
-      "originalTitle": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "score": 191
+      "title": "彼得·萨卢斯去世",
+      "originalTitle": "Peter Salus has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "score": 90
     },
     {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "originalTitle": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 290
+      "title": "五分钟了解法学硕士最后六个月的情况",
+      "originalTitle": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "score": 126
     },
     {
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "originalTitle": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
-      "score": 78
+      "title": "点击 (2016)",
+      "originalTitle": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "score": 244
     },
     {
-      "title": "Prolog Coding Horror",
-      "originalTitle": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "score": 80
+      "title": "互联网上的任何人都可以按您的门铃",
+      "originalTitle": "Anyone on the Internet Can Ring Your Doorbell",
+      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "score": 44
     },
     {
-      "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-      "originalTitle": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-      "score": 27
+      "title": "Regex Chess：具有 84,688 个正则表达式的 2 层极小极大国际象棋引擎",
+      "originalTitle": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "score": 65
     },
     {
-      "title": "Sense Humans with WiFi – Ruview",
-      "originalTitle": "Sense Humans with WiFi – Ruview",
-      "url": "https://cognitum.one/RuView#capabilities",
-      "score": 15
+      "title": "Anthropic 收购不锈钢",
+      "originalTitle": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 400
     },
     {
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "originalTitle": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "score": 153
+      "title": "兵棋推演暴露了美国在低技术战争中的脆弱性",
+      "originalTitle": "War game exposed U.S. vulnerability to low-tech warfare",
+      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+      "score": 32
     },
     {
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "originalTitle": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "score": 243
+      "title": "教皇利奥十四世首部通谕《Magnifica humanitas》将于 5 月 25 日出版",
+      "originalTitle": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "score": 156
     },
     {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "originalTitle": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "score": 39
+      "title": "我们使用 Git 的 –author 标志在 GitHub 存储库中阻止了 AI 机器人垃圾邮件",
+      "originalTitle": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 445
     },
     {
-      "title": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
-      "originalTitle": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
-      "url": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
-      "score": 54
+      "title": "超多语言 Lisp：Common Lisp、Racket、Clojure、Emacs Lisp",
+      "originalTitle": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "score": 147
     }
   ],
-  "updateTime": "5/18/2026, 5:10:10 AM"
+  "updateTime": "5/19/2026, 5:06:20 AM"
 }
