@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "78.7k",
-      "dailyGrowth": "3029",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 2,
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "5k",
-      "dailyGrowth": "2531",
+      "totalStars": "20.7k",
+      "dailyGrowth": "2012",
       "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
+      "rank": 2,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "totalStars": "94.1k",
+      "dailyGrowth": "1358",
+      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
+    },
+    {
       "rank": 3,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "9.3k",
-      "dailyGrowth": "1753",
-      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "13.9k",
+      "dailyGrowth": "1104",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 4,
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "totalStars": "7.3k",
-      "dailyGrowth": "1659",
-      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "6.3k",
+      "dailyGrowth": "869",
+      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": 5,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "55.6k",
-      "dailyGrowth": "1545",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "totalStars": "16.4k",
+      "dailyGrowth": "666",
+      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
       "rank": 6,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "27.7k",
-      "dailyGrowth": "1291",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "totalStars": "14k",
+      "dailyGrowth": "647",
+      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
       "rank": 7,
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "totalStars": "12.8k",
-      "dailyGrowth": "1069",
-      "description": "让我们用AI来赚钱吧！"
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "totalStars": "37.6k",
+      "dailyGrowth": "539",
+      "description": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
     },
     {
       "rank": 8,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "totalStars": "22.2k",
-      "dailyGrowth": "836",
-      "description": ""
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "50.7k",
+      "dailyGrowth": "509",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 9,
-      "name": "rasbt/LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "totalStars": "94.4k",
-      "dailyGrowth": "739",
-      "description": "在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM"
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "60.7k",
+      "dailyGrowth": "477",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": 10,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "41k",
-      "dailyGrowth": "665",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "totalStars": "64.2k",
+      "dailyGrowth": "462",
+      "description": "开始构建 AI 代理的 12 课"
     }
   ],
   "hackerNews": [
     {
-      "title": "彼得·萨卢斯去世",
-      "originalTitle": "Peter Salus has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "score": 90
+      "title": "铁路被 Google Cloud 封锁",
+      "originalTitle": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "score": 344
     },
     {
-      "title": "五分钟了解法学硕士最后六个月的情况",
-      "originalTitle": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 126
+      "title": "互联网档案馆中的五篇文章",
+      "originalTitle": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "score": 97
     },
     {
-      "title": "点击 (2016)",
-      "originalTitle": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 244
+      "title": "双子座3.5闪存",
+      "originalTitle": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 676
     },
     {
-      "title": "互联网上的任何人都可以按您的门铃",
-      "originalTitle": "Anyone on the Internet Can Ring Your Doorbell",
-      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
-      "score": 44
+      "title": "我建立了一个虚拟博物馆，里面有你能想到的几乎所有操作系统",
+      "originalTitle": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 665
     },
     {
-      "title": "Regex Chess：具有 84,688 个正则表达式的 2 层极小极大国际象棋引擎",
-      "originalTitle": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 65
+      "title": "删除 - AI - 水印 - 用于从图像中删除 AI 水印的 CLI 和库",
+      "originalTitle": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 191
     },
     {
-      "title": "Anthropic 收购不锈钢",
-      "originalTitle": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 400
+      "title": "谷歌改变搜索框",
+      "originalTitle": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 446
     },
     {
-      "title": "兵棋推演暴露了美国在低技术战争中的脆弱性",
-      "originalTitle": "War game exposed U.S. vulnerability to low-tech warfare",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-      "score": 32
+      "title": "Show HN：Forge – Guardrails 在代理任务上将 8B 模型从 53% 提高到 99%",
+      "originalTitle": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 351
     },
     {
-      "title": "教皇利奥十四世首部通谕《Magnifica humanitas》将于 5 月 25 日出版",
-      "originalTitle": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 156
+      "title": "OpenAI 采用 Google 的 SynthID 水印进行 AI 图像验证工具",
+      "originalTitle": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "score": 238
     },
     {
-      "title": "我们使用 Git 的 –author 标志在 GitHub 存储库中阻止了 AI 机器人垃圾邮件",
-      "originalTitle": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 445
+      "title": "1979 年，工程师 Hugh Padgham 偶然发现了“门控混响”",
+      "originalTitle": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
+      "url": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
+      "score": 14
     },
     {
-      "title": "超多语言 Lisp：Common Lisp、Racket、Clojure、Emacs Lisp",
-      "originalTitle": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "score": 147
+      "title": "Mistral AI 收购 Emmi AI",
+      "originalTitle": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 205
     }
   ],
-  "updateTime": "5/19/2026, 5:06:20 AM"
+  "updateTime": "5/20/2026, 5:09:04 AM"
 }
