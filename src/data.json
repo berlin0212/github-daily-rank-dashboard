@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "23.4k",
-      "dailyGrowth": "2724",
-      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "13k",
+      "dailyGrowth": "4029",
+      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": 2,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "9k",
-      "dailyGrowth": "2631",
-      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "18k",
+      "dailyGrowth": "2167",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "totalStars": "96.7k",
-      "dailyGrowth": "2578",
+      "totalStars": "98.8k",
+      "dailyGrowth": "2109",
       "description": "我的个人技能目录，直接来自我的 .claude 目录。"
     },
     {
       "rank": 4,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "15.9k",
-      "dailyGrowth": "1926",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "totalStars": "24.7k",
+      "dailyGrowth": "1284",
+      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
       "rank": 5,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "17.5k",
-      "dailyGrowth": "1110",
-      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
-    },
-    {
-      "rank": 6,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "51.8k",
-      "dailyGrowth": "1071",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
-    },
-    {
-      "rank": 7,
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "totalStars": "15k",
-      "dailyGrowth": "1002",
-      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
-    },
-    {
-      "rank": 8,
       "name": "ruvnet/wifi-densepose",
       "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "61.7k",
-      "dailyGrowth": "999",
+      "totalStars": "62.9k",
+      "dailyGrowth": "1199",
       "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
+      "rank": 6,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "10.6k",
+      "dailyGrowth": "1181",
+      "description": "学习它。建造它。寄给别人。"
+    },
+    {
+      "rank": 7,
+      "name": "truelockmc/streambert",
+      "url": "https://github.com/truelockmc/streambert",
+      "totalStars": "3.8k",
+      "dailyGrowth": "951",
+      "description": "跨平台 Electron 桌面应用程序，用于流式传输和下载世界上的任何电影、电视剧或动漫。零广告和跟踪"
+    },
+    {
+      "rank": 8,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "52.6k",
+      "dailyGrowth": "841",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+    },
+    {
       "rank": 9,
-      "name": "vercel-labs/zero",
-      "url": "https://github.com/vercel-labs/zero",
-      "totalStars": "3.9k",
-      "dailyGrowth": "943",
-      "description": ""
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "totalStars": "15.7k",
+      "dailyGrowth": "751",
+      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
       "rank": 10,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "totalStars": "38.4k",
-      "dailyGrowth": "837",
-      "description": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "30.6k",
+      "dailyGrowth": "655",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     }
   ],
   "hackerNews": [
     {
-      "title": "OpenAI 模型反驳了离散几何的中心猜想",
-      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 909
+      "title": "万福玛丽项目 – 恒星导航图",
+      "originalTitle": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "score": 718
     },
     {
-      "title": "GitHub 确认通过恶意 VSCode 扩展破坏了 3,800 个存储库",
-      "originalTitle": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 661
+      "title": "Blog 在 Ubuntu 16.04 上运行了 10 年。我把它迁移到 FreeBSD",
+      "originalTitle": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 215
     },
     {
-      "title": "Haskell 基金会 2026 更新",
-      "originalTitle": "Haskell Foundation 2026 Update",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "score": 47
+      "title": "随着人工智能利润飙升，三星芯片工人平均将获得 34 万美元奖金",
+      "originalTitle": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "score": 160
     },
     {
-      "title": "Show HN：我对苹果的视频壁纸进行了逆向工程",
-      "originalTitle": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
+      "title": "低视力患者使用 Kagi 搜索",
+      "originalTitle": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
       "score": 170
     },
     {
-      "title": "DOS区",
-      "originalTitle": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 164
+      "title": "我价值 48,000 美元的 GPU 服务器值得吗？",
+      "originalTitle": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "score": 359
     },
     {
-      "title": "GCC 16 中的新功能：改进的错误消息和 SARIF 输出",
-      "originalTitle": "New features in GCC 16: Improved error messages and SARIF output",
-      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-      "score": 29
+      "title": "Uv 很棒，但它的包管理 UX 很混乱",
+      "originalTitle": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "score": 132
     },
     {
-      "title": "字母 S，唐纳德·高德纳 (Donald Knuth) (1980) [pdf]",
-      "originalTitle": "The Letter S, by Donald Knuth (1980) [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "score": 95
+      "title": "菌根真菌，植物生存和成功的自然关键",
+      "originalTitle": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "score": 62
     },
     {
-      "title": "Flipper One 技术规格",
-      "originalTitle": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 312
+      "title": "使用 Gemma4-31B（50GB 交换）在 2021 款 MacBook 上本地索引一年的视频",
+      "originalTitle": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 332
     },
     {
-      "title": "Anthropic 正在扩展到 Colossus2。将使用GB200",
-      "originalTitle": "Anthropic is expanding to Colossus2. Will use GB200",
-      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
-      "score": 104
+      "title": "Show HN：Freenet，一个用于去中心化应用程序的点对点平台",
+      "originalTitle": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "score": 245
     },
     {
-      "title": "每秒 N 个令牌到底有多快？",
-      "originalTitle": "How fast is N tokens per second really?",
-      "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 351
+      "title": "特里斯坦·戴维的打孔卡档案",
+      "originalTitle": "Tristan Davey's Punch Card Archive",
+      "url": "https://punchcards.tristandavey.com/",
+      "score": 13
     }
   ],
-  "updateTime": "5/21/2026, 5:12:32 AM"
+  "updateTime": "5/22/2026, 5:06:21 AM"
 }
