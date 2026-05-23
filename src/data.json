@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "13k",
-      "dailyGrowth": "4029",
+      "totalStars": "16.2k",
+      "dailyGrowth": "3266",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": 2,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "18k",
-      "dailyGrowth": "2167",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "18.2k",
+      "dailyGrowth": "1737",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 3,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "totalStars": "98.8k",
-      "dailyGrowth": "2109",
-      "description": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 4,
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "24.7k",
-      "dailyGrowth": "1284",
-      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
-    },
-    {
-      "rank": 5,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "62.9k",
-      "dailyGrowth": "1199",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": 6,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "10.6k",
-      "dailyGrowth": "1181",
+      "totalStars": "11.7k",
+      "dailyGrowth": "1058",
       "description": "学习它。建造它。寄给别人。"
     },
     {
+      "rank": 4,
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "totalStars": "63.8k",
+      "dailyGrowth": "968",
+      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": 5,
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "19k",
+      "dailyGrowth": "948",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+    },
+    {
+      "rank": 6,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "totalStars": "25.6k",
+      "dailyGrowth": "894",
+      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
+    },
+    {
       "rank": 7,
-      "name": "truelockmc/streambert",
-      "url": "https://github.com/truelockmc/streambert",
-      "totalStars": "3.8k",
-      "dailyGrowth": "951",
-      "description": "跨平台 Electron 桌面应用程序，用于流式传输和下载世界上的任何电影、电视剧或动漫。零广告和跟踪"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "31.4k",
+      "dailyGrowth": "750",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 8,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "52.6k",
-      "dailyGrowth": "841",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
-    },
-    {
-      "rank": 9,
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
-      "totalStars": "15.7k",
-      "dailyGrowth": "751",
+      "totalStars": "16.3k",
+      "dailyGrowth": "621",
       "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
+      "rank": 9,
+      "name": "truelockmc/streambert",
+      "url": "https://github.com/truelockmc/streambert",
+      "totalStars": "4.4k",
+      "dailyGrowth": "608",
+      "description": "跨平台 Electron 桌面应用程序，用于流式传输和下载世界上的任何电影、电视剧或动漫。零广告和跟踪"
+    },
+    {
       "rank": 10,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "30.6k",
-      "dailyGrowth": "655",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "totalStars": "27.9k",
+      "dailyGrowth": "585",
+      "description": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     }
   ],
   "hackerNews": [
     {
-      "title": "万福玛丽项目 – 恒星导航图",
-      "originalTitle": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 718
+      "title": "将笔记本电脑运送到乌干达的难民营",
+      "originalTitle": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 275
     },
     {
-      "title": "Blog 在 Ubuntu 16.04 上运行了 10 年。我把它迁移到 FreeBSD",
-      "originalTitle": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 215
+      "title": "为什么日本公司做了这么多不同的事情",
+      "originalTitle": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 562
     },
     {
-      "title": "随着人工智能利润飙升，三星芯片工人平均将获得 34 万美元奖金",
-      "originalTitle": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-      "score": 160
+      "title": "微软报告人工智能比支付人类员工的工资更贵",
+      "originalTitle": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "score": 65
     },
     {
-      "title": "低视力患者使用 Kagi 搜索",
-      "originalTitle": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 170
-    },
-    {
-      "title": "我价值 48,000 美元的 GPU 服务器值得吗？",
-      "originalTitle": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "title": "Glasswing 项目：初步更新",
+      "originalTitle": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
       "score": 359
     },
     {
-      "title": "Uv 很棒，但它的包管理 UX 很混乱",
-      "originalTitle": "Uv is fantastic, but its package management UX is a mess",
-      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "score": 132
+      "title": "中子散射解释了无麸质面食为何会破裂 (2025)",
+      "originalTitle": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "score": 27
     },
     {
-      "title": "菌根真菌，植物生存和成功的自然关键",
-      "originalTitle": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-      "score": 62
+      "title": "蹄的血液泵送机制",
+      "originalTitle": "Blood Pumping Mechanism of the Hoof",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "score": 52
     },
     {
-      "title": "使用 Gemma4-31B（50GB 交换）在 2021 款 MacBook 上本地索引一年的视频",
-      "originalTitle": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 332
+      "title": "睡眠研究催生了一种新的睡眠呼吸暂停药物",
+      "originalTitle": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "score": 101
     },
     {
-      "title": "Show HN：Freenet，一个用于去中心化应用程序的点对点平台",
-      "originalTitle": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "score": 245
+      "title": "开源看板桌面应用程序，在每张卡上运行并行代理",
+      "originalTitle": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "score": 191
     },
     {
-      "title": "特里斯坦·戴维的打孔卡档案",
-      "originalTitle": "Tristan Davey's Punch Card Archive",
-      "url": "https://punchcards.tristandavey.com/",
-      "score": 13
+      "title": "CISA 试图遏制数据泄露",
+      "originalTitle": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "score": 162
+    },
+    {
+      "title": "比较四个传统 CPU 上的 LZ4 解压缩器",
+      "originalTitle": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "score": 43
     }
   ],
-  "updateTime": "5/22/2026, 5:06:21 AM"
+  "updateTime": "5/23/2026, 4:45:36 AM"
 }
