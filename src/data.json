@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "21k",
-      "dailyGrowth": "2739",
+      "totalStars": "30.5k",
+      "dailyGrowth": "9516",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 2,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "21.7k",
-      "dailyGrowth": "2637",
-      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
-    },
-    {
-      "rank": 3,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "13.5k",
-      "dailyGrowth": "1819",
+      "totalStars": "18.2k",
+      "dailyGrowth": "4749",
       "description": "学习它。建造它。寄给别人。"
     },
     {
+      "rank": 3,
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "24.7k",
+      "dailyGrowth": "2986",
+      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+    },
+    {
       "rank": 4,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "20.5k",
-      "dailyGrowth": "897",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "80.7k",
+      "dailyGrowth": "1734",
+      "description": ""
     },
     {
       "rank": 5,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "78.9k",
-      "dailyGrowth": "792",
-      "description": ""
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "21.4k",
+      "dailyGrowth": "890",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 6,
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "27k",
-      "dailyGrowth": "775",
+      "totalStars": "27.7k",
+      "dailyGrowth": "713",
       "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
       "rank": 7,
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "20.2k",
-      "dailyGrowth": "761",
+      "totalStars": "20.9k",
+      "dailyGrowth": "701",
       "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
       "rank": 8,
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "totalStars": "65.3k",
-      "dailyGrowth": "665",
-      "description": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "totalStars": "33k",
+      "dailyGrowth": "627",
+      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": 9,
-      "name": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "totalStars": "18.9k",
-      "dailyGrowth": "596",
-      "description": "基于 Ghostty 的 macOS 终端，带有垂直选项卡和 AI 编码代理通知"
+      "name": "HKUDS/ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "totalStars": "7.5k",
+      "dailyGrowth": "577",
+      "description": "“ViMax：代理视频生成（导演、编剧、制片人和视频生成器一体化）”"
     },
     {
       "rank": 10,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "32.4k",
-      "dailyGrowth": "563",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "totalStars": "7.3k",
+      "dailyGrowth": "567",
+      "description": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
     }
   ],
   "hackerNews": [
     {
-      "title": "永恒的沉睡",
-      "originalTitle": "The Eternal Sloptember",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "score": 140
+      "title": "使用 AI 更慢地编写更好的代码",
+      "originalTitle": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "score": 334
     },
     {
-      "title": "Show HN：Audiomas – 一款免费、开源的网络多轨音频编辑器",
-      "originalTitle": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "score": 268
+      "title": "研究发现，散步可能比坐着更能激发创造力（2014）",
+      "originalTitle": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "score": 167
     },
     {
-      "title": "DeepSeek Reasonix，高缓存、低成本的 DeepSeek 原生编码代理",
-      "originalTitle": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 499
+      "title": "沙米尔的秘密共享如何运作",
+      "originalTitle": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "score": 122
     },
     {
-      "title": "从 Go 迁移到 Rust",
-      "originalTitle": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 186
+      "title": "挪威2PB华为闪存及LLM培训",
+      "originalTitle": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "score": 211
     },
     {
-      "title": "Bug 1950764：解决 Intel Raptor Lake CPU 崩溃问题",
-      "originalTitle": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-      "url": "https://phabricator.services.mozilla.com/D301917",
-      "score": 43
+      "title": "Earthion：全新大型驾驶式射击游戏",
+      "originalTitle": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "url": "https://earthiongame.com/",
+      "score": 8
     },
     {
-      "title": "航空工程的一个基本原理已被颠覆",
-      "originalTitle": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "score": 118
+      "title": "法拉利卢斯",
+      "originalTitle": "Ferrari Luce",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "score": 136
     },
     {
-      "title": "白兔——大型分布式系统的亚纳秒同步",
-      "originalTitle": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "score": 47
+      "title": "退出 IP VPN 服务器缓解措施",
+      "originalTitle": "Exit IP VPN servers mitigation rollout",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "score": 305
     },
     {
-      "title": "仍然无法在 C++ 中工作的 C 结构",
-      "originalTitle": "C constructs that still don't work in C++",
-      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
-      "score": 23
+      "title": "方中方",
+      "originalTitle": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "score": 51
     },
     {
-      "title": "我花了50个小时画了一张折线图",
-      "originalTitle": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 480
+      "title": "在强烈反对后，加州决定将 Linux 排除在年龄验证法之外",
+      "originalTitle": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "score": 757
     },
     {
-      "title": "内存已占 AI 芯片组件成本的近三分之二",
-      "originalTitle": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 346
+      "title": "针对和反对制造常态领域的设计（2012）",
+      "originalTitle": "Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "score": 14
     }
   ],
-  "updateTime": "5/25/2026, 5:24:27 AM"
+  "updateTime": "5/26/2026, 5:07:20 AM"
 }
