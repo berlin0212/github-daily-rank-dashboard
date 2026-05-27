@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "30.5k",
-      "dailyGrowth": "9516",
+      "totalStars": "35.2k",
+      "dailyGrowth": "4740",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 2,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "18.2k",
-      "dailyGrowth": "4749",
-      "description": "学习它。建造它。寄给别人。"
-    },
-    {
-      "rank": 3,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "24.7k",
-      "dailyGrowth": "2986",
+      "totalStars": "27.5k",
+      "dailyGrowth": "2815",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
+      "rank": 3,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "20.5k",
+      "dailyGrowth": "2258",
+      "description": "学习它。建造它。寄给别人。"
+    },
+    {
       "rank": 4,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "80.7k",
-      "dailyGrowth": "1734",
-      "description": ""
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "59.4k",
+      "dailyGrowth": "1270",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 5,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "21.4k",
-      "dailyGrowth": "890",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "81.7k",
+      "dailyGrowth": "1032",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "totalStars": "27.7k",
-      "dailyGrowth": "713",
-      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
+      "name": "NangoHQ/nango",
+      "url": "https://github.com/NangoHQ/nango",
+      "totalStars": "8.9k",
+      "dailyGrowth": "869",
+      "description": "构建与人工智能的产品集成。"
     },
     {
       "rank": 7,
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "totalStars": "20.9k",
-      "dailyGrowth": "701",
-      "description": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "22.1k",
+      "dailyGrowth": "720",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 8,
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "totalStars": "33k",
-      "dailyGrowth": "627",
-      "description": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "54.6k",
+      "dailyGrowth": "603",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 9,
-      "name": "HKUDS/ViMax",
-      "url": "https://github.com/HKUDS/ViMax",
-      "totalStars": "7.5k",
-      "dailyGrowth": "577",
-      "description": "“ViMax：代理视频生成（导演、编剧、制片人和视频生成器一体化）”"
+      "name": "perplexityai/bumblebee",
+      "url": "https://github.com/perplexityai/bumblebee",
+      "totalStars": "3.1k",
+      "dailyGrowth": "563",
+      "description": ""
     },
     {
       "rank": 10,
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "totalStars": "7.3k",
-      "dailyGrowth": "567",
-      "description": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "totalStars": "28.3k",
+      "dailyGrowth": "527",
+      "description": "您的个人人工智能超级智能。私密、简单且极其强大。"
     }
   ],
   "hackerNews": [
     {
-      "title": "使用 AI 更慢地编写更好的代码",
-      "originalTitle": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 334
+      "title": "直言不讳的工程师是 ZIRP 现象",
+      "originalTitle": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "score": 74
     },
     {
-      "title": "研究发现，散步可能比坐着更能激发创造力（2014）",
-      "originalTitle": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 167
+      "title": "下一个代币预测会给我们带来什么？",
+      "originalTitle": "Where does next-token prediction leave us?",
+      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+      "score": 97
     },
     {
-      "title": "沙米尔的秘密共享如何运作",
-      "originalTitle": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "score": 122
+      "title": "Cloudflare 旗舰",
+      "originalTitle": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "score": 141
     },
     {
-      "title": "挪威2PB华为闪存及LLM培训",
-      "originalTitle": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "score": 211
+      "title": "加登格罗夫化学罐背后的化学原理",
+      "originalTitle": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 289
     },
     {
-      "title": "Earthion：全新大型驾驶式射击游戏",
-      "originalTitle": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "url": "https://earthiongame.com/",
-      "score": 8
+      "title": "被遗忘的 LAN 派对艺术 (2023)",
+      "originalTitle": "The Forgotten Art of the LAN Party (2023)",
+      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+      "score": 78
     },
     {
-      "title": "法拉利卢斯",
-      "originalTitle": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "score": 136
+      "title": "一些有趣的现代像素字体",
+      "originalTitle": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "score": 300
     },
     {
-      "title": "退出 IP VPN 服务器缓解措施",
-      "originalTitle": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 305
+      "title": "我绕过 Adob​​e 和 Microsoft 构建了一个 Git 跟踪的图书制作管道",
+      "originalTitle": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "score": 198
     },
     {
-      "title": "方中方",
-      "originalTitle": "Squares in Squares",
-      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-      "score": 51
+      "title": "从铁锈到红宝石",
+      "originalTitle": "From Rust to Ruby",
+      "url": "https://xlii.space/eng/from-rust-to-ruby/",
+      "score": 70
     },
     {
-      "title": "在强烈反对后，加州决定将 Linux 排除在年龄验证法之外",
-      "originalTitle": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 757
+      "title": "一次不祥的重逢",
+      "originalTitle": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "score": 76
     },
     {
-      "title": "针对和反对制造常态领域的设计（2012）",
-      "originalTitle": "Designing for and against the manufactured normalcy field (2012)",
-      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
-      "score": 14
+      "title": "美国报纸讣告的历史",
+      "originalTitle": "A History of Obituaries in American Newspapers",
+      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+      "score": 5
     }
   ],
-  "updateTime": "5/26/2026, 5:07:20 AM"
+  "updateTime": "5/27/2026, 5:21:35 AM"
 }
