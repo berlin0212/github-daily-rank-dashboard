@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "直言不讳的工程师是 ZIRP 现象",
-      "originalTitle": "The just-say-no engineer was a ZIRP phenomenon",
-      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
-      "score": 74
+      "title": "YouTube 将自动标记人工智能生成的视频",
+      "originalTitle": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 666
     },
     {
-      "title": "下一个代币预测会给我们带来什么？",
-      "originalTitle": "Where does next-token prediction leave us?",
-      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-      "score": 97
+      "title": "Hallucinate – 大型多人在线狂欢",
+      "originalTitle": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "score": 55
     },
     {
-      "title": "Cloudflare 旗舰",
-      "originalTitle": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "score": 141
+      "title": "我认为 Anthropic 和 OpenAI 已经找到了产品与市场的契合点",
+      "originalTitle": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 734
     },
     {
-      "title": "加登格罗夫化学罐背后的化学原理",
-      "originalTitle": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 289
+      "title": "为什么 Ctrl+V 无法在 WSL 上的 Claude Code 中粘贴图像，已修复",
+      "originalTitle": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+      "score": 38
     },
     {
-      "title": "被遗忘的 LAN 派对艺术 (2023)",
-      "originalTitle": "The Forgotten Art of the LAN Party (2023)",
-      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-      "score": 78
+      "title": "模拟城市 3k 4k (2025)",
+      "originalTitle": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 317
     },
     {
-      "title": "一些有趣的现代像素字体",
-      "originalTitle": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 300
+      "title": "苹果和谷歌正在做什么来推送通知",
+      "originalTitle": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 221
     },
     {
-      "title": "我绕过 Adob​​e 和 Microsoft 构建了一个 Git 跟踪的图书制作管道",
-      "originalTitle": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 198
+      "title": "Lua 的绿色一面",
+      "originalTitle": "The Green Side of the Lua",
+      "url": "https://arxiv.org/abs/2601.16670",
+      "score": 13
     },
     {
-      "title": "从铁锈到红宝石",
-      "originalTitle": "From Rust to Ruby",
-      "url": "https://xlii.space/eng/from-rust-to-ruby/",
-      "score": 70
+      "title": "询问",
+      "originalTitle": "The Ask",
+      "url": "https://randsinrepose.com/archives/the-ask/",
+      "score": 36
     },
     {
-      "title": "一次不祥的重逢",
-      "originalTitle": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "score": 76
+      "title": "我分析了我20年的聊天记录",
+      "originalTitle": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 7
     },
     {
-      "title": "美国报纸讣告的历史",
-      "originalTitle": "A History of Obituaries in American Newspapers",
-      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-      "score": 5
+      "title": "我正在研究网状网络（Meshtastic、MeshCore 和 Reticulum）",
+      "originalTitle": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "score": 126
     }
   ],
-  "updateTime": "5/27/2026, 5:21:35 AM"
+  "updateTime": "5/28/2026, 5:12:50 AM"
 }
