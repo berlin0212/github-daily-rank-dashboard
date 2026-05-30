@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "66k",
-      "dailyGrowth": "1841",
+      "totalStars": "69.3k",
+      "dailyGrowth": "3387",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 2,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "42.5k",
-      "dailyGrowth": "1078",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "22.1k",
+      "dailyGrowth": "1823",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 3,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "31.5k",
-      "dailyGrowth": "734",
-      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "44.3k",
+      "dailyGrowth": "1779",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 4,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "23.7k",
-      "dailyGrowth": "586",
-      "description": "学习它。建造它。寄给别人。"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "33.1k",
+      "dailyGrowth": "1563",
+      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": 5,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "83.7k",
-      "dailyGrowth": "473",
+      "totalStars": "84.6k",
+      "dailyGrowth": "953",
       "description": ""
     },
     {
       "rank": 6,
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "totalStars": "19.3k",
-      "dailyGrowth": "290",
-      "description": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "24.5k",
+      "dailyGrowth": "833",
+      "description": "学习它。建造它。寄给别人。"
     },
     {
       "rank": 7,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "23.3k",
-      "dailyGrowth": "273",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "totalStars": "48.3k",
+      "dailyGrowth": "559",
+      "description": "构建由社区支持的 Salesforce 的现代替代方案。"
     },
     {
       "rank": 8,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "55.7k",
-      "dailyGrowth": "273",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "23.8k",
+      "dailyGrowth": "507",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 9,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "20.3k",
-      "dailyGrowth": "268",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "56.2k",
+      "dailyGrowth": "435",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
       "rank": 10,
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "totalStars": "47.7k",
-      "dailyGrowth": "255",
-      "description": "构建由社区支持的 Salesforce 的现代替代方案。"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "totalStars": "36k",
+      "dailyGrowth": "351",
+      "description": "在终端中运行的 DeepSeek 模型的编码代理"
     }
   ],
   "hackerNews": [
     {
-      "title": "汽车试图监视你，而这仅仅是开始",
-      "originalTitle": "Cars are trying to spy on you, and it's only just the beginning",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 164
+      "title": "石脑油短缺对日本的影响越来越大",
+      "originalTitle": "Naphtha Shortages Having a Growing Impact in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "score": 56
     },
     {
-      "title": "自N1以来最壮观的火箭爆炸刚刚在佛罗里达州发生",
-      "originalTitle": "The most spectacular rocket explosion since N1 just happened in Florida",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-      "score": 102
+      "title": "死亡经济理论",
+      "originalTitle": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 819
     },
     {
-      "title": "近距离工作 4.8",
-      "originalTitle": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1349
+      "title": "SQLite 是持久工作流程所需的一切",
+      "originalTitle": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 437
     },
     {
-      "title": "砖块和小人仔偷走了一个人价值 20 万美元的乐高收藏",
-      "originalTitle": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 752
+      "title": "Perry 使用 SWC 和 LLVM 将 TypeScript 直接编译为可执行文件",
+      "originalTitle": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "score": 24
     },
     {
-      "title": "我在宿舍里制作了价值百万美元的产品（2025 年）",
-      "originalTitle": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 271
+      "title": "Snowboard Kids 2 已 100% 反编译",
+      "originalTitle": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 120
     },
     {
-      "title": "十种基本云",
-      "originalTitle": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 77
+      "title": "数理转化",
+      "originalTitle": "Math-to-Manim",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "score": 18
     },
     {
-      "title": "蓝色起源的新格伦号在静态点火测试中爆炸",
-      "originalTitle": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 199
+      "title": "Mistral AI Now 峰会的笔记",
+      "originalTitle": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 326
     },
     {
-      "title": "用于构建 Claude Code hooks 的 Python 实用程序包",
-      "originalTitle": "Python utility package for building Claude Code hooks",
-      "url": "https://github.com/RasmusGodske/claude-hook-utils",
-      "score": 9
+      "title": "MCP死了？",
+      "originalTitle": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "score": 136
     },
     {
-      "title": "挑剔《创：战纪》中的贝壳历史场景",
-      "originalTitle": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 203
+      "title": "使用数十种颜色进行打印：我们用于 PrusaSlicer 的全新开源 ColorMix",
+      "originalTitle": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 113
     },
     {
-      "title": "意大利人和荷兰人在教学中拥有相同的手势本能",
-      "originalTitle": "Italians and Dutch share the same gestural instinct for teaching",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 15
+      "title": "Shift将免费打扫房屋以训练未来机器人",
+      "originalTitle": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "score": 105
     }
   ],
-  "updateTime": "5/29/2026, 5:16:34 AM"
+  "updateTime": "5/30/2026, 4:55:16 AM"
 }
