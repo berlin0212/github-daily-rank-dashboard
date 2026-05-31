@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "69.3k",
-      "dailyGrowth": "3387",
+      "totalStars": "71.7k",
+      "dailyGrowth": "2398",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 2,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "22.1k",
-      "dailyGrowth": "1823",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
-    },
-    {
-      "rank": 3,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "44.3k",
-      "dailyGrowth": "1779",
+      "totalStars": "45.8k",
+      "dailyGrowth": "1476",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "33.1k",
-      "dailyGrowth": "1563",
+      "totalStars": "34.2k",
+      "dailyGrowth": "1173",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "84.6k",
-      "dailyGrowth": "953",
+      "totalStars": "85.5k",
+      "dailyGrowth": "901",
       "description": ""
     },
     {
+      "rank": 5,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "55.8k",
+      "dailyGrowth": "819",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+    },
+    {
       "rank": 6,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "24.5k",
-      "dailyGrowth": "833",
-      "description": "学习它。建造它。寄给别人。"
-    },
-    {
-      "rank": 7,
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "totalStars": "48.3k",
-      "dailyGrowth": "559",
-      "description": "构建由社区支持的 Salesforce 的现代替代方案。"
-    },
-    {
-      "rank": 8,
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "23.8k",
-      "dailyGrowth": "507",
+      "totalStars": "24.5k",
+      "dailyGrowth": "642",
       "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
+      "rank": 7,
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "22.7k",
+      "dailyGrowth": "606",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+    },
+    {
+      "rank": 8,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "25.1k",
+      "dailyGrowth": "567",
+      "description": "学习它。建造它。寄给别人。"
+    },
+    {
       "rank": 9,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "56.2k",
-      "dailyGrowth": "435",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "totalStars": "48.7k",
+      "dailyGrowth": "369",
+      "description": "构建由社区支持的 Salesforce 的现代替代方案。"
     },
     {
       "rank": 10,
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "totalStars": "36k",
-      "dailyGrowth": "351",
-      "description": "在终端中运行的 DeepSeek 模型的编码代理"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "totalStars": "56.5k",
+      "dailyGrowth": "344",
+      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     }
   ],
   "hackerNews": [
     {
-      "title": "石脑油短缺对日本的影响越来越大",
-      "originalTitle": "Naphtha Shortages Having a Growing Impact in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 56
+      "title": "微软降低了永久许可的离线产品的功能",
+      "originalTitle": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 709
     },
     {
-      "title": "死亡经济理论",
-      "originalTitle": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 819
+      "title": "领域专业知识始终是真正的护城河",
+      "originalTitle": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 396
     },
     {
-      "title": "SQLite 是持久工作流程所需的一切",
-      "originalTitle": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 437
+      "title": "基于格的密码学的简要介绍 [pdf]",
+      "originalTitle": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 25
     },
     {
-      "title": "Perry 使用 SWC 和 LLVM 将 TypeScript 直接编译为可执行文件",
-      "originalTitle": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
-      "score": 24
+      "title": "哎哟，DECmate II 这个小型 PDP-8 可以",
+      "originalTitle": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "score": 9
     },
     {
-      "title": "Snowboard Kids 2 已 100% 反编译",
-      "originalTitle": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 120
+      "title": "尚特尔无体 (2023)",
+      "originalTitle": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "score": 159
     },
     {
-      "title": "数理转化",
-      "originalTitle": "Math-to-Manim",
-      "url": "https://github.com/HarleyCoops/Math-To-Manim",
-      "score": 18
+      "title": "Racket v9.2 现已推出",
+      "originalTitle": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "score": 71
     },
     {
-      "title": "Mistral AI Now 峰会的笔记",
-      "originalTitle": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 326
+      "title": "我在沙漠中央发现了一个贝壳",
+      "originalTitle": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 271
     },
     {
-      "title": "MCP死了？",
-      "originalTitle": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 136
+      "title": "为生产数据工程构建 LangGraph 管道",
+      "originalTitle": "Building a LangGraph pipeline for production data engineering",
+      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
+      "score": 5
     },
     {
-      "title": "使用数十种颜色进行打印：我们用于 PrusaSlicer 的全新开源 ColorMix",
-      "originalTitle": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 113
+      "title": "埃森哲收购 Ookla",
+      "originalTitle": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 264
     },
     {
-      "title": "Shift将免费打扫房屋以训练未来机器人",
-      "originalTitle": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 105
+      "title": "AV2 视频标准已发布（最终 v1.0 规范）",
+      "originalTitle": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "url": "https://av2.aomedia.org",
+      "score": 100
     }
   ],
-  "updateTime": "5/30/2026, 4:55:16 AM"
+  "updateTime": "5/31/2026, 5:22:40 AM"
 }
