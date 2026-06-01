@@ -4,8 +4,8 @@
       "rank": 1,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "71.7k",
-      "dailyGrowth": "2398",
+      "totalStars": "73.9k",
+      "dailyGrowth": "2120",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
@@ -20,8 +20,8 @@
       "rank": 3,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "34.2k",
-      "dailyGrowth": "1173",
+      "totalStars": "35.2k",
+      "dailyGrowth": "978",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
@@ -34,27 +34,27 @@
     },
     {
       "rank": 5,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "55.8k",
-      "dailyGrowth": "819",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "23.4k",
+      "dailyGrowth": "669",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 6,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "totalStars": "24.5k",
-      "dailyGrowth": "642",
-      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "56.4k",
+      "dailyGrowth": "663",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": 7,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "22.7k",
-      "dailyGrowth": "606",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "totalStars": "25k",
+      "dailyGrowth": "571",
+      "description": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 8,
@@ -66,82 +66,82 @@
     },
     {
       "rank": 9,
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "totalStars": "48.7k",
-      "dailyGrowth": "369",
-      "description": "构建由社区支持的 Salesforce 的现代替代方案。"
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "totalStars": "23.2k",
+      "dailyGrowth": "343",
+      "description": "内存引擎和应用程序速度极快，可扩展。 AI时代的内存API。"
     },
     {
       "rank": 10,
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "totalStars": "56.5k",
-      "dailyGrowth": "344",
-      "description": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "totalStars": "3.9k",
+      "dailyGrowth": "343",
+      "description": "一个用于可视化、灵活且可扩展的基于图形的调查的现代平台。适用于网络安全分析师和调查人员。"
     }
   ],
   "hackerNews": [
     {
-      "title": "微软降低了永久许可的离线产品的功能",
-      "originalTitle": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 709
+      "title": "佩戴 Minibook X",
+      "originalTitle": "Chuwi Minibook X",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "score": 172
     },
     {
-      "title": "领域专业知识始终是真正的护城河",
-      "originalTitle": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 396
+      "title": "Cloudflare Turnstile 需要可指纹的 WebGL",
+      "originalTitle": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 600
     },
     {
-      "title": "基于格的密码学的简要介绍 [pdf]",
-      "originalTitle": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 25
+      "title": "数十年的努力恢复阿拉米达溪上的虹鳟和鲑鱼通道",
+      "originalTitle": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+      "score": 78
     },
     {
-      "title": "哎哟，DECmate II 这个小型 PDP-8 可以",
-      "originalTitle": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 9
+      "title": "鲁宾追踪摩天大楼大小的小行星和失败的超新星",
+      "originalTitle": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "score": 8
     },
     {
-      "title": "尚特尔无体 (2023)",
-      "originalTitle": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 159
+      "title": "本地设备的 1 位盆景图像 4B 图像生成",
+      "originalTitle": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 342
     },
     {
-      "title": "Racket v9.2 现已推出",
-      "originalTitle": "Racket v9.2 is now available",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 71
+      "title": "ChatGPT for Google Sheets 泄露工作簿",
+      "originalTitle": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "score": 154
     },
     {
-      "title": "我在沙漠中央发现了一个贝壳",
-      "originalTitle": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 271
+      "title": "谷仓猫头鹰羽毛的天才",
+      "originalTitle": "The Genius of the Barn Owl's Feathers",
+      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
+      "score": 12
     },
     {
-      "title": "为生产数据工程构建 LangGraph 管道",
-      "originalTitle": "Building a LangGraph pipeline for production data engineering",
-      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
-      "score": 5
+      "title": "达夫2d",
+      "originalTitle": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 431
     },
     {
-      "title": "埃森哲收购 Ookla",
-      "originalTitle": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 264
+      "title": "蓝牙名称引发警报后，联合航空 767 重返纽瓦克",
+      "originalTitle": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "score": 321
     },
     {
-      "title": "AV2 视频标准已发布（最终 v1.0 规范）",
-      "originalTitle": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "score": 100
+      "title": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅",
+      "originalTitle": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 186
     }
   ],
-  "updateTime": "5/31/2026, 5:22:40 AM"
+  "updateTime": "6/1/2026, 6:08:31 AM"
 }
