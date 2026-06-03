@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "18.9k",
-      "dailyGrowth": "12057",
+      "totalStars": "31k",
+      "dailyGrowth": "12094",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "48.6k",
-      "dailyGrowth": "2867",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "totalStars": "12.4k",
+      "dailyGrowth": "1428",
+      "description": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
     },
     {
       "rank": 3,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "76.7k",
-      "dailyGrowth": "2826",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
-    },
-    {
-      "rank": 4,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "87.9k",
-      "dailyGrowth": "2341",
+      "totalStars": "89.2k",
+      "dailyGrowth": "1365",
       "description": ""
     },
     {
+      "rank": 4,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "50k",
+      "dailyGrowth": "1343",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
       "rank": 5,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "26.7k",
-      "dailyGrowth": "1587",
-      "description": "学习它。建造它。寄给别人。"
-    },
-    {
-      "rank": 6,
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "57.8k",
-      "dailyGrowth": "1409",
-      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
-    },
-    {
-      "rank": 7,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "36.6k",
-      "dailyGrowth": "1378",
+      "totalStars": "37.8k",
+      "dailyGrowth": "1250",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
+      "rank": 6,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "77.9k",
+      "dailyGrowth": "1206",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "rank": 7,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "totalStars": "59k",
+      "dailyGrowth": "1174",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+    },
+    {
       "rank": 8,
-      "name": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "totalStars": "11k",
-      "dailyGrowth": "1136",
-      "description": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "25k",
+      "dailyGrowth": "865",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 9,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "30.8k",
-      "dailyGrowth": "1020",
+      "totalStars": "31.7k",
+      "dailyGrowth": "832",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 10,
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "totalStars": "9.4k",
-      "dailyGrowth": "799",
-      "description": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "33.4k",
+      "dailyGrowth": "819",
+      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Instagram 的最新“漏洞”是我见过的最愚蠢的",
-      "originalTitle": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1542
+      "title": "通过 VSCode Bug 一键窃取 GitHub 令牌",
+      "originalTitle": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 233
     },
     {
-      "title": "macOS 需要恢复网格",
-      "originalTitle": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 167
+      "title": "自然界蛋白质折叠的不合理冗余",
+      "originalTitle": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "score": 38
     },
     {
-      "title": "股市能否吞并 Anthropic、SpaceX 和 OpenAI？",
-      "originalTitle": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 229
+      "title": "代理制造商",
+      "originalTitle": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "score": 127
     },
     {
-      "title": "OpenAI 前沿模型和 Codex 现已在 AWS 上提供",
-      "originalTitle": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 213
+      "title": "使用 Nvidia GPU 的 VRAM 作为 Linux 上的交换空间",
+      "originalTitle": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "score": 230
     },
     {
-      "title": "奇波莱·麦克斯",
-      "originalTitle": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 145
+      "title": "MAI-代码-1-闪存",
+      "originalTitle": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 437
     },
     {
-      "title": "Groq 如何筹集更多资金？",
-      "originalTitle": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "score": 73
+      "title": "Show HN：我对《试驾 III》（1990 DOS 游戏）的世界地图进行了逆向工程",
+      "originalTitle": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "score": 14
     },
     {
-      "title": "玩弄加密推理 blob",
-      "originalTitle": "Fooling around with encrypted reasoning blobs",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-      "score": 46
+      "title": "比亚迪汽车零部件的CT扫描",
+      "originalTitle": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 315
     },
     {
-      "title": "调试项目",
-      "originalTitle": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 185
+      "title": "Roku LT 操作系统开源发行版",
+      "originalTitle": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "score": 59
     },
     {
-      "title": "KL Zero：KL散度直觉游戏",
-      "originalTitle": "KL Zero: KL divergence intuition game",
-      "url": "https://klzero.sarna.dev",
-      "score": 18
+      "title": "斯坦福大学法学院研究中人工智能表现优于法学教授",
+      "originalTitle": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "score": 171
     },
     {
-      "title": "斯坦福大学 CS336 人工智能代理指南",
-      "originalTitle": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 372
+      "title": "类型词",
+      "originalTitle": "Words of Type",
+      "url": "https://wiki.wordsoftype.com/",
+      "score": 32
     }
   ],
-  "updateTime": "6/2/2026, 5:53:31 AM"
+  "updateTime": "6/3/2026, 6:07:33 AM"
 }
