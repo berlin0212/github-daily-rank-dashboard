@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "31k",
-      "dailyGrowth": "12094",
+      "totalStars": "41.9k",
+      "dailyGrowth": "10967",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "totalStars": "12.4k",
-      "dailyGrowth": "1428",
-      "description": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "9.2k",
+      "dailyGrowth": "3150",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 3,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "89.2k",
-      "dailyGrowth": "1365",
-      "description": ""
-    },
-    {
-      "rank": 4,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "50k",
-      "dailyGrowth": "1343",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
-    },
-    {
-      "rank": 5,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "37.8k",
-      "dailyGrowth": "1250",
+      "totalStars": "39.2k",
+      "dailyGrowth": "1373",
       "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
-      "rank": 6,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "77.9k",
-      "dailyGrowth": "1206",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "rank": 4,
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "90.5k",
+      "dailyGrowth": "1296",
+      "description": ""
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "51k",
+      "dailyGrowth": "1032",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
+      "rank": 6,
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "totalStars": "59k",
-      "dailyGrowth": "1174",
+      "totalStars": "60k",
+      "dailyGrowth": "1021",
       "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
-      "rank": 8,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "25k",
-      "dailyGrowth": "865",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "rank": 7,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "78.8k",
+      "dailyGrowth": "862",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "31.7k",
-      "dailyGrowth": "832",
+      "totalStars": "32.4k",
+      "dailyGrowth": "739",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
+      "rank": 9,
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "totalStars": "19k",
+      "dailyGrowth": "605",
+      "description": "算法交易机器学习代码，第二版。"
+    },
+    {
       "rank": 10,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "33.4k",
-      "dailyGrowth": "819",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "totalStars": "13k",
+      "dailyGrowth": "588",
+      "description": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
     }
   ],
   "hackerNews": [
     {
-      "title": "通过 VSCode Bug 一键窃取 GitHub 令牌",
-      "originalTitle": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 233
+      "title": "“它们是由重物制成的”",
+      "originalTitle": "\"They're made out of weights\"",
+      "url": "https://maxleiter.com/blog/weights",
+      "score": 287
     },
     {
-      "title": "自然界蛋白质折叠的不合理冗余",
-      "originalTitle": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "score": 38
+      "title": "Elixir v1.20：现在是一种逐渐类型化的语言",
+      "originalTitle": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "score": 672
     },
     {
-      "title": "代理制造商",
-      "originalTitle": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
-      "score": 127
+      "title": "随着人工智能的使用，伯克利计算机科学课程中数学技能的下降，不及格成绩飙升",
+      "originalTitle": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 144
     },
     {
-      "title": "使用 Nvidia GPU 的 VRAM 作为 Linux 上的交换空间",
-      "originalTitle": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 230
+      "title": "我构建了一个易受攻击的应用程序并花了 1,500 美元看看法学硕士是否可以破解它",
+      "originalTitle": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 128
     },
     {
-      "title": "MAI-代码-1-闪存",
-      "originalTitle": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 437
+      "title": "Gemma 4 12B：统一的、无编码器的多模态模型",
+      "originalTitle": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 777
     },
     {
-      "title": "Show HN：我对《试驾 III》（1990 DOS 游戏）的世界地图进行了逆向工程",
-      "originalTitle": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "score": 14
+      "title": "我们跨产品遏制 Claude 的方式",
+      "originalTitle": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "score": 91
     },
     {
-      "title": "比亚迪汽车零部件的CT扫描",
-      "originalTitle": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 315
+      "title": "人工智能没有意识——特德·蒋",
+      "originalTitle": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "score": 341
     },
     {
-      "title": "Roku LT 操作系统开源发行版",
-      "originalTitle": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
-      "score": 59
+      "title": "我最近被诊断出患有抗NMDA受体脑炎",
+      "originalTitle": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "score": 561
     },
     {
-      "title": "斯坦福大学法学院研究中人工智能表现优于法学教授",
-      "originalTitle": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 171
+      "title": "Uber 每月 1,500 美元的人工智能限额对于人工智能工具定价来说是一个有用的信号",
+      "originalTitle": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "score": 432
     },
     {
-      "title": "类型词",
-      "originalTitle": "Words of Type",
-      "url": "https://wiki.wordsoftype.com/",
-      "score": 32
+      "title": "达芬奇决心21",
+      "originalTitle": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "score": 434
     }
   ],
-  "updateTime": "6/3/2026, 6:07:33 AM"
+  "updateTime": "6/4/2026, 6:00:11 AM"
 }
