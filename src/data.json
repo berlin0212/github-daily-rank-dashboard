@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "55.1k",
-      "dailyGrowth": "5214",
+      "totalStars": "58.2k",
+      "dailyGrowth": "3177",
       "description": ""
     },
     {
       "rank": 2,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "14.3k",
-      "dailyGrowth": "2212",
+      "totalStars": "15.6k",
+      "dailyGrowth": "1310",
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 3,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "42.2k",
-      "dailyGrowth": "1412",
-      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "35.1k",
+      "dailyGrowth": "1300",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 4,
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "totalStars": "25.9k",
-      "dailyGrowth": "968",
-      "description": "Notebook LM 的开源实现，具有更多灵活性和功能"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "43k",
+      "dailyGrowth": "824",
+      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": 5,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "92.6k",
-      "dailyGrowth": "959",
+      "totalStars": "93.4k",
+      "dailyGrowth": "788",
       "description": ""
     },
     {
       "rank": 6,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "52.8k",
-      "dailyGrowth": "872",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "totalStars": "27.1k",
+      "dailyGrowth": "731",
+      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 7,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "33.8k",
-      "dailyGrowth": "753",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "22.2k",
+      "dailyGrowth": "716",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 8,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "28.1k",
-      "dailyGrowth": "668",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "53.5k",
+      "dailyGrowth": "675",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 9,
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "totalStars": "80.5k",
-      "dailyGrowth": "667",
-      "description": "将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。"
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "totalStars": "26.5k",
+      "dailyGrowth": "664",
+      "description": "Notebook LM 的开源实现，具有更多灵活性和功能"
     },
     {
       "rank": 10,
-      "name": "zgwl/chinese-buy-us-stock-guide",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-      "totalStars": "3.2k",
-      "dailyGrowth": "576",
-      "description": ""
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "29.3k",
+      "dailyGrowth": "561",
+      "description": "学习它。建造它。寄给别人。"
     }
   ],
   "hackerNews": [
     {
-      "title": "现代相机镜头维修的难点（2024）",
-      "originalTitle": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 116
+      "title": "Valve P2P网络断线2个多月",
+      "originalTitle": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 76
     },
     {
-      "title": "法学硕士如何运作",
-      "originalTitle": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 88
+      "title": "克隆领域：马复制品如何主宰马球运动",
+      "originalTitle": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "score": 53
     },
     {
-      "title": "锁定模式",
-      "originalTitle": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "score": 25
+      "title": "代币经济学：量化代币在代理软件工程中的使用情况",
+      "originalTitle": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "score": 63
     },
     {
-      "title": "世界建设者的前现代军队，第一部分：他们为何战斗",
-      "originalTitle": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 15
+      "title": "线束工程：在代理优先的世界中利用 Codex",
+      "originalTitle": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 140
     },
     {
-      "title": "C++：编程语言封底提出了前面未回答的问题",
-      "originalTitle": "C++: The Programming Language back cover raises questions not answered by front",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "score": 8
+      "title": "Ntsc-rs – 模拟电视和 VHS 工件的开源视频仿真",
+      "originalTitle": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 306
     },
     {
-      "title": "宇航员在因漏气维修而避难后被告知返回国际空间站",
-      "originalTitle": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 372
+      "title": "公共领域图像档案",
+      "originalTitle": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 72
     },
     {
-      "title": "pg_durable：微软开源数据库内持久执行",
-      "originalTitle": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 361
+      "title": "阈限主义如何成为我们这个时代的美学定义",
+      "originalTitle": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "score": 28
     },
     {
-      "title": "新方法将海水变成饮用水，不浪费",
-      "originalTitle": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 307
+      "title": "Symbolica 2.0：Python 和 Rust 的可编程符号",
+      "originalTitle": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "score": 33
     },
     {
-      "title": "Gemma 4 QAT 模型：优化压缩以提高移动和笔记本电脑的效率",
-      "originalTitle": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 310
+      "title": "硼巴基球简介：B80 保持架无法制造的理论被推翻",
+      "originalTitle": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "score": 65
     },
     {
-      "title": "无鼠标 – macOS/Linux/Windows 的键盘驱动控制",
-      "originalTitle": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 496
+      "title": "Biohub 发布蛋白质生物学世界模型",
+      "originalTitle": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "score": 30
     }
   ],
-  "updateTime": "6/6/2026, 4:58:07 AM"
+  "updateTime": "6/7/2026, 5:26:58 AM"
 }
