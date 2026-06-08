@@ -10,6 +10,14 @@
     },
     {
       "rank": 2,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "totalStars": "30.4k",
+      "dailyGrowth": "1760",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+    },
+    {
+      "rank": 3,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "totalStars": "15.6k",
@@ -17,7 +25,7 @@
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "totalStars": "35.1k",
@@ -25,28 +33,20 @@
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": 4,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "43k",
-      "dailyGrowth": "824",
-      "description": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "rank": 5,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "totalStars": "41.2k",
+      "dailyGrowth": "1140",
+      "description": "我们为您编写可重复使用的计算机视觉工具。 💜"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "totalStars": "93.4k",
       "dailyGrowth": "788",
       "description": ""
-    },
-    {
-      "rank": 6,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "totalStars": "27.1k",
-      "dailyGrowth": "731",
-      "description": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": 7,
@@ -74,74 +74,74 @@
     },
     {
       "rank": 10,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "29.3k",
-      "dailyGrowth": "561",
-      "description": "学习它。建造它。寄给别人。"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "81.1k",
+      "dailyGrowth": "660",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     }
   ],
   "hackerNews": [
     {
-      "title": "Valve P2P网络断线2个多月",
-      "originalTitle": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 76
+      "title": "APC–2 – 用于制作原始播放光盘的专业唱片切割机",
+      "originalTitle": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
+      "score": 167
     },
     {
-      "title": "克隆领域：马复制品如何主宰马球运动",
-      "originalTitle": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 53
+      "title": "1k 数据泄露之后，披露滞后更加严重",
+      "originalTitle": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "score": 51
     },
     {
-      "title": "代币经济学：量化代币在代理软件工程中的使用情况",
-      "originalTitle": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
-      "score": 63
+      "title": "多巴胺水力压裂",
+      "originalTitle": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "score": 66
     },
     {
-      "title": "线束工程：在代理优先的世界中利用 Codex",
-      "originalTitle": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
+      "title": "您可以构建的最小大脑：Python 中的感知器",
+      "originalTitle": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "score": 140
     },
     {
-      "title": "Ntsc-rs – 模拟电视和 VHS 工件的开源视频仿真",
-      "originalTitle": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "score": 306
+      "title": "在吸毒、入狱和犯下重罪后从零开始",
+      "originalTitle": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 538
     },
     {
-      "title": "公共领域图像档案",
-      "originalTitle": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "score": 72
+      "title": "新药“功能性治愈”多种乙型肝炎病毒感染",
+      "originalTitle": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+      "score": 128
     },
     {
-      "title": "阈限主义如何成为我们这个时代的美学定义",
-      "originalTitle": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "score": 28
+      "title": "微型可破解 CUDA 语言模型实现",
+      "originalTitle": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
+      "score": 11
     },
     {
-      "title": "Symbolica 2.0：Python 和 Rust 的可编程符号",
-      "originalTitle": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 33
+      "title": "招聘中的算法单一文化",
+      "originalTitle": "Algorithmic Monocultures in Hiring",
+      "url": "https://algorithmichiring.github.io/",
+      "score": 53
     },
     {
-      "title": "硼巴基球简介：B80 保持架无法制造的理论被推翻",
-      "originalTitle": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "score": 65
+      "title": "1worldflag：透明背景上的蓝点",
+      "originalTitle": "1worldflag: A blue dot on a transparent background",
+      "url": "https://1worldflag.com/",
+      "score": 56
     },
     {
-      "title": "Biohub 发布蛋白质生物学世界模型",
-      "originalTitle": "Biohub releases a world model of protein biology",
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "score": 30
+      "title": "Show HN：我做了一个煎饼",
+      "originalTitle": "Show HN: I Derived a Pancake",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "score": 194
     }
   ],
-  "updateTime": "6/7/2026, 5:26:58 AM"
+  "updateTime": "6/8/2026, 5:56:58 AM"
 }
