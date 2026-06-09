@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "58.2k",
-      "dailyGrowth": "3177",
+      "totalStars": "63.4k",
+      "dailyGrowth": "5203",
       "description": ""
     },
     {
       "rank": 2,
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "30.4k",
-      "dailyGrowth": "1760",
+      "totalStars": "34.1k",
+      "dailyGrowth": "3658",
       "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": 3,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "15.6k",
-      "dailyGrowth": "1310",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 4,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "35.1k",
-      "dailyGrowth": "1300",
+      "totalStars": "38.3k",
+      "dailyGrowth": "3203",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": 5,
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "totalStars": "41.2k",
-      "dailyGrowth": "1140",
-      "description": "我们为您编写可重复使用的计算机视觉工具。 💜"
+      "rank": 4,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "18.5k",
+      "dailyGrowth": "2890",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "93.4k",
-      "dailyGrowth": "788",
+      "totalStars": "95.1k",
+      "dailyGrowth": "1755",
       "description": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "22.2k",
-      "dailyGrowth": "716",
+      "totalStars": "23.9k",
+      "dailyGrowth": "1738",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "53.5k",
-      "dailyGrowth": "675",
+      "totalStars": "55.1k",
+      "dailyGrowth": "1648",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
+      "rank": 8,
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "totalStars": "8.6k",
+      "dailyGrowth": "1585",
+      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     },
     {
       "rank": 9,
       "name": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
-      "totalStars": "26.5k",
-      "dailyGrowth": "664",
+      "totalStars": "27.9k",
+      "dailyGrowth": "1374",
       "description": "Notebook LM 的开源实现，具有更多灵活性和功能"
     },
     {
       "rank": 10,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "81.1k",
-      "dailyGrowth": "660",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "36.2k",
+      "dailyGrowth": "1084",
+      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
     }
   ],
   "hackerNews": [
     {
-      "title": "APC–2 – 用于制作原始播放光盘的专业唱片切割机",
-      "originalTitle": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 167
+      "title": "职位：巨石阵负责人",
+      "originalTitle": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "score": 99
     },
     {
-      "title": "1k 数据泄露之后，披露滞后更加严重",
-      "originalTitle": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 51
+      "title": "Apple 展示了围绕 Google Gemini 模型构建的新 AI 架构",
+      "originalTitle": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 454
     },
     {
-      "title": "多巴胺水力压裂",
-      "originalTitle": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 66
+      "title": "Old'aVista – 最强大的旧互联网指南",
+      "originalTitle": "Old'aVista – The most powerful guide to the old Internet",
+      "url": "https://oldavista.com/",
+      "score": 35
     },
     {
-      "title": "您可以构建的最小大脑：Python 中的感知器",
-      "originalTitle": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 140
+      "title": "Siri人工智能",
+      "originalTitle": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 496
     },
     {
-      "title": "在吸毒、入狱和犯下重罪后从零开始",
-      "originalTitle": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 538
+      "title": "xAI 看起来更像是数据中心 REIT，而不是前沿实验室",
+      "originalTitle": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 488
     },
     {
-      "title": "新药“功能性治愈”多种乙型肝炎病毒感染",
-      "originalTitle": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 128
+      "title": "Show HN：Performative-UI – 设计风格的 React 组件库",
+      "originalTitle": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 867
     },
     {
-      "title": "微型可破解 CUDA 语言模型实现",
-      "originalTitle": "Tiny hackable CUDA language model implementation",
-      "url": "https://github.com/markusheimerl/gpt",
-      "score": 11
+      "title": "MiMo-v2.5-Pro-UltraSpeed：1T 型号，每秒 1000 个代币",
+      "originalTitle": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 527
     },
     {
-      "title": "招聘中的算法单一文化",
-      "originalTitle": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
-      "score": 53
+      "title": "大米、茶叶和香料中发现欧盟禁用农药",
+      "originalTitle": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 297
     },
     {
-      "title": "1worldflag：透明背景上的蓝点",
-      "originalTitle": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "score": 56
+      "title": "GoGoGrandparent (YC S16) 正在招聘后端工程师",
+      "originalTitle": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "score": 1
     },
     {
-      "title": "Show HN：我做了一个煎饼",
-      "originalTitle": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 194
+      "title": "苹果核心人工智能框架",
+      "originalTitle": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 240
     }
   ],
-  "updateTime": "6/8/2026, 5:56:58 AM"
+  "updateTime": "6/9/2026, 5:11:10 AM"
 }
