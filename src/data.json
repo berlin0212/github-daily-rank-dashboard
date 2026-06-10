@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "63.4k",
-      "dailyGrowth": "5203",
-      "description": ""
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "totalStars": "37k",
+      "dailyGrowth": "2875",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": 2,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "34.1k",
-      "dailyGrowth": "3658",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
-    },
-    {
-      "rank": 3,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "38.3k",
-      "dailyGrowth": "3203",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": 4,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "18.5k",
-      "dailyGrowth": "2890",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 5,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "95.1k",
-      "dailyGrowth": "1755",
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "65.2k",
+      "dailyGrowth": "1773",
       "description": ""
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "20.3k",
+      "dailyGrowth": "1771",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
+      "rank": 4,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "83.5k",
+      "dailyGrowth": "1510",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "rank": 5,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "23.9k",
-      "dailyGrowth": "1738",
+      "totalStars": "25.5k",
+      "dailyGrowth": "1510",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 7,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "55.1k",
-      "dailyGrowth": "1648",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "totalStars": "8.6k",
-      "dailyGrowth": "1585",
+      "totalStars": "10k",
+      "dailyGrowth": "1453",
       "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     },
     {
+      "rank": 7,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "39.4k",
+      "dailyGrowth": "1139",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+    },
+    {
+      "rank": 8,
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "totalStars": "96.3k",
+      "dailyGrowth": "1133",
+      "description": ""
+    },
+    {
       "rank": 9,
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "totalStars": "27.9k",
-      "dailyGrowth": "1374",
-      "description": "Notebook LM 的开源实现，具有更多灵活性和功能"
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "totalStars": "51.4k",
+      "dailyGrowth": "1097",
+      "description": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
     },
     {
       "rank": 10,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "36.2k",
-      "dailyGrowth": "1084",
-      "description": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "45.8k",
+      "dailyGrowth": "1034",
+      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     }
   ],
   "hackerNews": [
     {
-      "title": "职位：巨石阵负责人",
-      "originalTitle": "Job: Head of Stonehenge",
-      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
-      "score": 99
+      "title": "macOS 容器机",
+      "originalTitle": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "score": 467
     },
     {
-      "title": "Apple 展示了围绕 Google Gemini 模型构建的新 AI 架构",
-      "originalTitle": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 454
+      "title": "克劳德寓言5",
+      "originalTitle": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 1982
     },
     {
-      "title": "Old'aVista – 最强大的旧互联网指南",
-      "originalTitle": "Old'aVista – The most powerful guide to the old Internet",
-      "url": "https://oldavista.com/",
-      "score": 35
+      "title": "npm v12 即将发生的重大变更",
+      "originalTitle": "Upcoming breaking changes for npm v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "score": 268
     },
     {
-      "title": "Siri人工智能",
-      "originalTitle": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 496
+      "title": "Rich Sutton 谈人工智能创造力和发现",
+      "originalTitle": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "score": 60
     },
     {
-      "title": "xAI 看起来更像是数据中心 REIT，而不是前沿实验室",
-      "originalTitle": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 488
+      "title": "德国裁决宣布谷歌对人工智能概述中的错误答案承担责任",
+      "originalTitle": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "score": 243
     },
     {
-      "title": "Show HN：Performative-UI – 设计风格的 React 组件库",
-      "originalTitle": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 867
+      "title": "现存最古老的动画长片，已有 100 年历史",
+      "originalTitle": "The oldest surviving animated feature film at 100",
+      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+      "score": 65
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed：1T 型号，每秒 1000 个代币",
-      "originalTitle": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 527
+      "title": "RIP 软件黑客马拉松。硬件黑客马拉松万岁",
+      "originalTitle": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "score": 106
     },
     {
-      "title": "大米、茶叶和香料中发现欧盟禁用农药",
-      "originalTitle": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 297
+      "title": "通过 Kolmogorov-Arnold 网络在 FPGA 上进行超快机器学习",
+      "originalTitle": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "score": 190
     },
     {
-      "title": "GoGoGrandparent (YC S16) 正在招聘后端工程师",
-      "originalTitle": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "score": 1
+      "title": "更多莫莉卫兵的作品",
+      "originalTitle": "More Molly Guards",
+      "url": "https://unsung.aresluna.org/more-molly-guards/",
+      "score": 81
     },
     {
-      "title": "苹果核心人工智能框架",
-      "originalTitle": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 240
+      "title": "与 Mythos 合作是什么感觉",
+      "originalTitle": "What it feels like to work with Mythos",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "score": 214
     }
   ],
-  "updateTime": "6/9/2026, 5:11:10 AM"
+  "updateTime": "6/10/2026, 5:23:32 AM"
 }
