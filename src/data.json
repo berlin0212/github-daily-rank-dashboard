@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "37k",
-      "dailyGrowth": "2875",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "totalStars": "38.9k",
+      "dailyGrowth": "1974",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": 2,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "65.2k",
-      "dailyGrowth": "1773",
-      "description": ""
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "51.3k",
+      "dailyGrowth": "1619",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 3,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "20.3k",
-      "dailyGrowth": "1771",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "66.8k",
+      "dailyGrowth": "1618",
+      "description": ""
     },
     {
       "rank": 4,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "83.5k",
-      "dailyGrowth": "1510",
+      "totalStars": "84.8k",
+      "dailyGrowth": "1317",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 5,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "25.5k",
-      "dailyGrowth": "1510",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "21.6k",
+      "dailyGrowth": "1279",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 6,
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "totalStars": "10k",
-      "dailyGrowth": "1453",
-      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "totalStars": "14.6k",
+      "dailyGrowth": "1274",
+      "description": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
     },
     {
       "rank": 7,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "39.4k",
-      "dailyGrowth": "1139",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": 8,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "96.3k",
-      "dailyGrowth": "1133",
+      "totalStars": "97.4k",
+      "dailyGrowth": "1177",
       "description": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
-      "totalStars": "51.4k",
-      "dailyGrowth": "1097",
+      "totalStars": "52.4k",
+      "dailyGrowth": "1008",
       "description": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "45.8k",
-      "dailyGrowth": "1034",
+      "totalStars": "46.7k",
+      "dailyGrowth": "852",
       "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+    },
+    {
+      "rank": 10,
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "totalStars": "10.7k",
+      "dailyGrowth": "695",
+      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     }
   ],
   "hackerNews": [
     {
-      "title": "macOS 容器机",
-      "originalTitle": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 467
+      "title": "AI 代理在 Fedora 和其他地方横行",
+      "originalTitle": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "score": 281
     },
     {
-      "title": "克劳德寓言5",
-      "originalTitle": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 1982
+      "title": "网络安全研究人员对《人类寓言》的护栏并不满意",
+      "originalTitle": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "score": 348
     },
     {
-      "title": "npm v12 即将发生的重大变更",
-      "originalTitle": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 268
+      "title": "πFS",
+      "originalTitle": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 639
     },
     {
-      "title": "Rich Sutton 谈人工智能创造力和发现",
-      "originalTitle": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 60
+      "title": "Anthropic 要求《寓言》和《神话》保留 30 天的数据",
+      "originalTitle": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "score": 313
     },
     {
-      "title": "德国裁决宣布谷歌对人工智能概述中的错误答案承担责任",
-      "originalTitle": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 243
+      "title": "WASM组件模型1.0之路",
+      "originalTitle": "The Road to the WASM Component Model 1.0",
+      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+      "score": 44
     },
     {
-      "title": "现存最古老的动画长片，已有 100 年历史",
-      "originalTitle": "The oldest surviving animated feature film at 100",
-      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-      "score": 65
+      "title": "塞阔亚的音节表为切罗基人创造了一种书面语言",
+      "originalTitle": "Sequoyah’s syllabary created a written language for the Cherokee",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "score": 136
     },
     {
-      "title": "RIP 软件黑客马拉松。硬件黑客马拉松万岁",
-      "originalTitle": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 106
+      "title": "OpenAI 考虑大幅降价与 Anthropic 争夺用户",
+      "originalTitle": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+      "score": 30
     },
     {
-      "title": "通过 Kolmogorov-Arnold 网络在 FPGA 上进行超快机器学习",
-      "originalTitle": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 190
+      "title": "真空成型标牌",
+      "originalTitle": "Vacuum-Form Signage",
+      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
+      "score": 48
     },
     {
-      "title": "更多莫莉卫兵的作品",
-      "originalTitle": "More Molly Guards",
-      "url": "https://unsung.aresluna.org/more-molly-guards/",
-      "score": 81
+      "title": "CSS：不可避免的坏部分",
+      "originalTitle": "CSS: Unavoidable Bad Parts",
+      "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+      "score": 41
     },
     {
-      "title": "与 Mythos 合作是什么感觉",
-      "originalTitle": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "score": 214
+      "title": "我是埃里克·里斯 (Eric Ries)，《精益创业》和新书《廉洁》一书的作者 – AMA",
+      "originalTitle": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "score": 601
     }
   ],
-  "updateTime": "6/10/2026, 5:23:32 AM"
+  "updateTime": "6/11/2026, 5:55:56 AM"
 }
