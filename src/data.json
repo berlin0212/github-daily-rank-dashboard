@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "38.9k",
-      "dailyGrowth": "1974",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
-    },
-    {
-      "rank": 2,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "51.3k",
-      "dailyGrowth": "1619",
+      "totalStars": "54.3k",
+      "dailyGrowth": "3027",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
+      "rank": 2,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "totalStars": "31.9k",
+      "dailyGrowth": "2389",
+      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    },
+    {
       "rank": 3,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "66.8k",
-      "dailyGrowth": "1618",
-      "description": ""
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "totalStars": "16.1k",
+      "dailyGrowth": "1495",
+      "description": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
     },
     {
       "rank": 4,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "84.8k",
-      "dailyGrowth": "1317",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
-    },
-    {
-      "rank": 5,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "21.6k",
-      "dailyGrowth": "1279",
+      "totalStars": "23k",
+      "dailyGrowth": "1395",
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
+      "rank": 5,
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "68.2k",
+      "dailyGrowth": "1368",
+      "description": ""
+    },
+    {
       "rank": 6,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "totalStars": "14.6k",
-      "dailyGrowth": "1274",
-      "description": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "86k",
+      "dailyGrowth": "1174",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 7,
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "97.4k",
-      "dailyGrowth": "1177",
+      "totalStars": "98.5k",
+      "dailyGrowth": "1019",
       "description": ""
     },
     {
       "rank": 8,
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "totalStars": "52.4k",
-      "dailyGrowth": "1008",
-      "description": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "57.3k",
+      "dailyGrowth": "773",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 9,
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "46.7k",
-      "dailyGrowth": "852",
+      "totalStars": "47.4k",
+      "dailyGrowth": "737",
       "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     },
     {
       "rank": 10,
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "totalStars": "10.7k",
-      "dailyGrowth": "695",
-      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "totalStars": "39.7k",
+      "dailyGrowth": "729",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     }
   ],
   "hackerNews": [
     {
-      "title": "AI 代理在 Fedora 和其他地方横行",
-      "originalTitle": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 281
+      "title": "没有人会因解决从未发生过的问题而获得荣誉 (2001) [pdf]",
+      "originalTitle": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 293
     },
     {
-      "title": "网络安全研究人员对《人类寓言》的护栏并不满意",
-      "originalTitle": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 348
+      "title": "如果您要求人类关注，请展示人类的努力",
+      "originalTitle": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 473
     },
     {
-      "title": "πFS",
-      "originalTitle": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 639
+      "title": "AI 特工在尝试扫描 DN42 时让他们的运营商破产",
+      "originalTitle": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 29
     },
     {
-      "title": "Anthropic 要求《寓言》和《神话》保留 30 天的数据",
-      "originalTitle": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 313
+      "title": "显示 HN：Homebrew 6.0.0",
+      "originalTitle": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 1116
     },
     {
-      "title": "WASM组件模型1.0之路",
-      "originalTitle": "The Road to the WASM Component Model 1.0",
-      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-      "score": 44
+      "title": "我们如何制作热门电子游戏《波斯王子》",
+      "originalTitle": "How we made hit video game Prince of Persia",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "score": 39
     },
     {
-      "title": "塞阔亚的音节表为切罗基人创造了一种书面语言",
-      "originalTitle": "Sequoyah’s syllabary created a written language for the Cherokee",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-      "score": 136
+      "title": "Show HN：FablePool – 在提示后汇集资金，Fable 公开构建它",
+      "originalTitle": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "score": 336
     },
     {
-      "title": "OpenAI 考虑大幅降价与 Anthropic 争夺用户",
-      "originalTitle": "OpenAI mulls slashing prices as it competes with Anthropic for users",
-      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-      "score": 30
+      "title": "克劳德·寓言始终积极主动",
+      "originalTitle": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 285
     },
     {
-      "title": "真空成型标牌",
-      "originalTitle": "Vacuum-Form Signage",
-      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
-      "score": 48
+      "title": "MiMo Code 现已发布并开源",
+      "originalTitle": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "score": 461
     },
     {
-      "title": "CSS：不可避免的坏部分",
-      "originalTitle": "CSS: Unavoidable Bad Parts",
-      "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-      "score": 41
+      "title": "人类为隐形的克劳德寓言护栏道歉",
+      "originalTitle": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 373
     },
     {
-      "title": "我是埃里克·里斯 (Eric Ries)，《精益创业》和新书《廉洁》一书的作者 – AMA",
-      "originalTitle": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-      "url": "https://news.ycombinator.com/item?id=48477135",
-      "score": 601
+      "title": "WikiLambda 终极版",
+      "originalTitle": "WikiLambda the Ultimate",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+      "score": 24
     }
   ],
-  "updateTime": "6/11/2026, 5:55:56 AM"
+  "updateTime": "6/12/2026, 5:53:06 AM"
 }
