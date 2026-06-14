@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "totalStars": "34.9k",
-      "dailyGrowth": "2939",
-      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "26k",
+      "dailyGrowth": "1529",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 2,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "56.6k",
-      "dailyGrowth": "2279",
+      "totalStars": "58.1k",
+      "dailyGrowth": "1508",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 3,
       "name": "XiaomiMiMo/MiMo-Code",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "totalStars": "6.5k",
-      "dailyGrowth": "2104",
+      "totalStars": "7.9k",
+      "dailyGrowth": "1307",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "24.4k",
-      "dailyGrowth": "1446",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "totalStars": "36.1k",
+      "dailyGrowth": "1269",
+      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
       "rank": 5,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "69.2k",
-      "dailyGrowth": "998",
-      "description": ""
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "totalStars": "4.3k",
+      "dailyGrowth": "955",
+      "description": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
       "rank": 6,
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "totalStars": "99.3k",
-      "dailyGrowth": "873",
-      "description": ""
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "totalStars": "41.1k",
+      "dailyGrowth": "870",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": 7,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "42.3k",
-      "dailyGrowth": "795",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "70k",
+      "dailyGrowth": "801",
+      "description": ""
     },
     {
       "rank": 8,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "58.1k",
-      "dailyGrowth": "779",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "43k",
+      "dailyGrowth": "713",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 9,
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
-      "totalStars": "16.9k",
-      "dailyGrowth": "763",
+      "totalStars": "17.6k",
+      "dailyGrowth": "695",
       "description": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
     },
     {
       "rank": 10,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "48.2k",
-      "dailyGrowth": "751",
-      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "totalStars": "3.1k",
+      "dailyGrowth": "674",
+      "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "关于美国政府指示暂停访问《神鬼寓言 5》和《神话 5》的声明",
-      "originalTitle": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 1603
+      "title": "第 10 代本田思域更新已使用 AOSP 测试密钥签名",
+      "originalTitle": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "score": 175
     },
     {
-      "title": "开源人工智能必须获胜",
-      "originalTitle": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 532
+      "title": "软件架构指南",
+      "originalTitle": "Software Architecture Guide",
+      "url": "https://martinfowler.com/architecture/",
+      "score": 31
     },
     {
-      "title": "不含稀土的电动机",
-      "originalTitle": "Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 328
+      "title": "Tribblix：复古 illumos 发行版",
+      "originalTitle": "Tribblix: the retro illumos distribution",
+      "url": "http://tribblix.org/",
+      "score": 8
     },
     {
-      "title": "我们对美国禁映《神鬼寓言 5》和《神话 5》的回应",
-      "originalTitle": "Our response to the US ban on Fable 5 and Mythos 5",
-      "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
-      "score": 25
+      "title": "人口普查局发布的统计产品禁止注入噪音",
+      "originalTitle": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 787
     },
     {
-      "title": "CRISPR 技术选择性地粉碎癌细胞，包括“无法成药”的癌症",
-      "originalTitle": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 762
+      "title": "GLM 5.2 已发布",
+      "originalTitle": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "score": 469
     },
     {
-      "title": "关于 CPU 物理和 CPU 周期",
-      "originalTitle": "On CPU Physics and CPU Cycles",
-      "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
-      "score": 11
+      "title": "吃豆人，但你是幽灵",
+      "originalTitle": "Pac-Man, but You're the Ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "score": 22
     },
     {
-      "title": "FFmpeg 中的二十一个零日漏洞",
-      "originalTitle": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "score": 159
+      "title": "每一帧都完美",
+      "originalTitle": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "score": 649
     },
     {
-      "title": "显示 HN: Putt.day 每日迷你高尔夫比赛",
-      "originalTitle": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
-      "score": 120
+      "title": "构建串行和 VGA“一切控制台”",
+      "originalTitle": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "score": 16
     },
     {
-      "title": "为什么计算机科学学位仍然打开隐藏的门",
-      "originalTitle": "Why a Computer Science Degree Still Opens Hidden Doors",
-      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "score": 44
+      "title": "FreeOberon – 开源、跨平台、免费 Pascal/Turbo Pascal 类语言",
+      "originalTitle": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
+      "score": 58
     },
     {
-      "title": "wasi-gfx 和 wasi:webgpu 的未来",
-      "originalTitle": "The Future of wasi-gfx and wasi:webgpu",
-      "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
-      "score": 10
+      "title": "治疗胰腺肿瘤可能揭示了癌症的主开关",
+      "originalTitle": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "score": 335
     }
   ],
-  "updateTime": "6/13/2026, 5:23:53 AM"
+  "updateTime": "6/14/2026, 5:55:42 AM"
 }
