@@ -10,14 +10,6 @@
     },
     {
       "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "58.1k",
-      "dailyGrowth": "1508",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 3,
       "name": "XiaomiMiMo/MiMo-Code",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "totalStars": "7.9k",
@@ -25,12 +17,20 @@
       "description": ""
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "totalStars": "36.1k",
       "dailyGrowth": "1269",
       "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    },
+    {
+      "rank": 4,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "59.4k",
+      "dailyGrowth": "1234",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 5,
@@ -42,19 +42,19 @@
     },
     {
       "rank": 6,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "41.1k",
-      "dailyGrowth": "870",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
-    },
-    {
-      "rank": 7,
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "totalStars": "70k",
       "dailyGrowth": "801",
       "description": ""
+    },
+    {
+      "rank": 7,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "totalStars": "41.9k",
+      "dailyGrowth": "791",
+      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": 8,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "第 10 代本田思域更新已使用 AOSP 测试密钥签名",
-      "originalTitle": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 175
+      "title": "你的 ePub 没问题",
+      "originalTitle": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 426
     },
     {
-      "title": "软件架构指南",
-      "originalTitle": "Software Architecture Guide",
-      "url": "https://martinfowler.com/architecture/",
-      "score": 31
+      "title": "Emacs 附带更多电池",
+      "originalTitle": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "score": 113
     },
     {
-      "title": "Tribblix：复古 illumos 发行版",
-      "originalTitle": "Tribblix: the retro illumos distribution",
-      "url": "http://tribblix.org/",
-      "score": 8
+      "title": "Curl 在 2026 年 7 月期间将不接受漏洞报告",
+      "originalTitle": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "score": 68
     },
     {
-      "title": "人口普查局发布的统计产品禁止注入噪音",
-      "originalTitle": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 787
+      "title": "Show HN: Kage – 将任何网站隐藏到单个二进制文件以供离线查看",
+      "originalTitle": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "score": 499
     },
     {
-      "title": "GLM 5.2 已发布",
-      "originalTitle": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 469
+      "title": "比西",
+      "originalTitle": "Bitsy",
+      "url": "https://bitsy.org/",
+      "score": 128
     },
     {
-      "title": "吃豆人，但你是幽灵",
-      "originalTitle": "Pac-Man, but You're the Ghost",
-      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "score": 22
+      "title": "赢得夹娃娃机来证明你是人类",
+      "originalTitle": "Prove you're human by winning a claw machine",
+      "url": "https://feralui.vercel.app/#/captcha",
+      "score": 48
     },
     {
-      "title": "每一帧都完美",
-      "originalTitle": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 649
+      "title": "21 年和盘点“分布式计算的八个谬误”（2025 年）",
+      "originalTitle": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "score": 57
     },
     {
-      "title": "构建串行和 VGA“一切控制台”",
-      "originalTitle": "Building a serial and VGA \"everything console\"",
-      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "score": 16
+      "title": "劈柴模拟器",
+      "originalTitle": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "score": 742
     },
     {
-      "title": "FreeOberon – 开源、跨平台、免费 Pascal/Turbo Pascal 类语言",
-      "originalTitle": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
-      "score": 58
+      "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并",
+      "originalTitle": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 325
     },
     {
-      "title": "治疗胰腺肿瘤可能揭示了癌症的主开关",
-      "originalTitle": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "score": 335
+      "title": "为什么纸折叠得这么好？",
+      "originalTitle": "Why does paper fold so well?",
+      "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
+      "score": 17
     }
   ],
-  "updateTime": "6/14/2026, 5:55:42 AM"
+  "updateTime": "6/15/2026, 6:30:39 AM"
 }
