@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "26k",
-      "dailyGrowth": "1529",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 2,
-      "name": "XiaomiMiMo/MiMo-Code",
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "totalStars": "7.9k",
-      "dailyGrowth": "1307",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "15k",
+      "dailyGrowth": "7243",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "28.7k",
+      "dailyGrowth": "2698",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
       "rank": 3,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "totalStars": "36.1k",
-      "dailyGrowth": "1269",
-      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "29.9k",
+      "dailyGrowth": "2614",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 4,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "59.4k",
-      "dailyGrowth": "1234",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 5,
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
-      "totalStars": "4.3k",
-      "dailyGrowth": "955",
+      "totalStars": "6.2k",
+      "dailyGrowth": "1903",
       "description": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
+      "rank": 5,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "60.3k",
+      "dailyGrowth": "1872",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
       "rank": 6,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "70k",
-      "dailyGrowth": "801",
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "totalStars": "4.8k",
+      "dailyGrowth": "1741",
       "description": ""
     },
     {
       "rank": 7,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "41.9k",
-      "dailyGrowth": "791",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "71.7k",
+      "dailyGrowth": "1649",
+      "description": ""
     },
     {
       "rank": 8,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "43k",
-      "dailyGrowth": "713",
+      "totalStars": "44.4k",
+      "dailyGrowth": "1409",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 9,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "totalStars": "17.6k",
-      "dailyGrowth": "695",
-      "description": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "totalStars": "37.4k",
+      "dailyGrowth": "1275",
+      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
       "rank": 10,
-      "name": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "totalStars": "3.1k",
-      "dailyGrowth": "674",
+      "name": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "totalStars": "9k",
+      "dailyGrowth": "1113",
       "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "你的 ePub 没问题",
-      "originalTitle": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 426
+      "title": "有一次 x86 模拟器团队发现代码非常糟糕，他们在模拟过程中修复了它",
+      "originalTitle": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "score": 127
     },
     {
-      "title": "Emacs 附带更多电池",
-      "originalTitle": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 113
+      "title": "我本可以参加 FIFA 世界杯。我只需要我的身份证",
+      "originalTitle": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
+      "url": "https://bobdahacker.com/blog/fifa-hack",
+      "score": 102
     },
     {
-      "title": "Curl 在 2026 年 7 月期间将不接受漏洞报告",
-      "originalTitle": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 68
+      "title": "LinkedIn 工作机会中的后门",
+      "originalTitle": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 978
     },
     {
-      "title": "Show HN: Kage – 将任何网站隐藏到单个二进制文件以供离线查看",
-      "originalTitle": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "score": 499
+      "title": "约翰·卡马克谈法布里斯·贝拉德",
+      "originalTitle": "John Carmack on Fabrice Bellard",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "score": 43
     },
     {
-      "title": "比西",
-      "originalTitle": "Bitsy",
-      "url": "https://bitsy.org/",
-      "score": 128
+      "title": "Wi-Fi 智能灯泡中的禁用图书库",
+      "originalTitle": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 305
     },
     {
-      "title": "赢得夹娃娃机来证明你是人类",
-      "originalTitle": "Prove you're human by winning a claw machine",
-      "url": "https://feralui.vercel.app/#/captcha",
-      "score": 48
+      "title": "伊罗1.0",
+      "originalTitle": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 1091
     },
     {
-      "title": "21 年和盘点“分布式计算的八个谬误”（2025 年）",
-      "originalTitle": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "score": 57
+      "title": "Show HN: Garden of Flowers – ASCII 艺术之前的图画排版档案",
+      "originalTitle": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/",
+      "score": 28
     },
     {
-      "title": "劈柴模拟器",
-      "originalTitle": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "score": 742
+      "title": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
+      "originalTitle": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "score": 871
     },
     {
-      "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并",
-      "originalTitle": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 325
+      "title": "TinyWind：具有真实风物理原理的像素海盗航海游戏（航行超过 38 万公里）",
+      "originalTitle": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 739
     },
     {
-      "title": "为什么纸折叠得这么好？",
-      "originalTitle": "Why does paper fold so well?",
-      "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
-      "score": 17
+      "title": "我侵入了最糟糕的电动自行车并修复了它[视频]",
+      "originalTitle": "I hacked into the worst e-bike and fixed it [video]",
+      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+      "score": 52
     }
   ],
-  "updateTime": "6/15/2026, 6:30:39 AM"
+  "updateTime": "6/16/2026, 6:36:42 AM"
 }
