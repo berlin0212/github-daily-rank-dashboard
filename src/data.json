@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "15k",
-      "dailyGrowth": "7243",
+      "totalStars": "23.7k",
+      "dailyGrowth": "8690",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "28.7k",
-      "dailyGrowth": "2698",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 3,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "29.9k",
-      "dailyGrowth": "2614",
+      "totalStars": "31.9k",
+      "dailyGrowth": "1989",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 4,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "totalStars": "6.2k",
-      "dailyGrowth": "1903",
-      "description": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "rank": 3,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "29.9k",
+      "dailyGrowth": "1214",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "60.3k",
-      "dailyGrowth": "1872",
+      "totalStars": "61.4k",
+      "dailyGrowth": "1080",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
+      "rank": 5,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "61.1k",
+      "dailyGrowth": "910",
+      "description": "AI 编码代理的生产级工程技能。"
+    },
+    {
       "rank": 6,
-      "name": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "totalStars": "4.8k",
-      "dailyGrowth": "1741",
-      "description": ""
-    },
-    {
-      "rank": 7,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "71.7k",
-      "dailyGrowth": "1649",
-      "description": ""
-    },
-    {
-      "rank": 8,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "44.4k",
-      "dailyGrowth": "1409",
+      "totalStars": "45.2k",
+      "dailyGrowth": "758",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
+      "rank": 7,
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "totalStars": "6.9k",
+      "dailyGrowth": "741",
+      "description": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+    },
+    {
+      "rank": 8,
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "totalStars": "72.4k",
+      "dailyGrowth": "734",
+      "description": ""
+    },
+    {
       "rank": 9,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "totalStars": "37.4k",
-      "dailyGrowth": "1275",
-      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "totalStars": "33.6k",
+      "dailyGrowth": "686",
+      "description": "学习它。建造它。寄给别人。"
     },
     {
       "rank": 10,
-      "name": "XiaomiMiMo/MiMo-Code",
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "totalStars": "9k",
-      "dailyGrowth": "1113",
-      "description": ""
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "50.3k",
+      "dailyGrowth": "656",
+      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     }
   ],
   "hackerNews": [
     {
-      "title": "有一次 x86 模拟器团队发现代码非常糟糕，他们在模拟过程中修复了它",
-      "originalTitle": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 127
+      "title": "GrapheneOS已移植至Android 17",
+      "originalTitle": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "score": 595
     },
     {
-      "title": "我本可以参加 FIFA 世界杯。我只需要我的身份证",
-      "originalTitle": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
-      "url": "https://bobdahacker.com/blog/fifa-hack",
-      "score": 102
+      "title": "现在运行本地模型很好",
+      "originalTitle": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 1187
     },
     {
-      "title": "LinkedIn 工作机会中的后门",
-      "originalTitle": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 978
+      "title": "羞辱 IIS 服务器以获得乐趣和牢狱之灾",
+      "originalTitle": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "score": 182
     },
     {
-      "title": "约翰·卡马克谈法布里斯·贝拉德",
-      "originalTitle": "John Carmack on Fabrice Bellard",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 43
+      "title": "美国司法部声称 xAI 的燃气轮机事关“国家和能源安全”",
+      "originalTitle": "DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "score": 29
     },
     {
-      "title": "Wi-Fi 智能灯泡中的禁用图书库",
-      "originalTitle": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 305
+      "title": "Wolfram 语言和 Mathematica 版本 15、AI 助手、符号音乐等",
+      "originalTitle": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "score": 132
     },
     {
-      "title": "伊罗1.0",
-      "originalTitle": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 1091
+      "title": "TIL：您可以使用 Bash /dev/TCP 发出 HTTP 请求，无需使用curl",
+      "originalTitle": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "score": 358
     },
     {
-      "title": "Show HN: Garden of Flowers – ASCII 艺术之前的图画排版档案",
-      "originalTitle": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "score": 28
+      "title": "在玻璃中工作",
+      "originalTitle": "Working in Glass",
+      "url": "https://www.asimov.press/p/glass",
+      "score": 16
     },
     {
-      "title": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
-      "originalTitle": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 871
+      "title": "卡尔文和霍布斯以及诚信的代价",
+      "originalTitle": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "score": 360
     },
     {
-      "title": "TinyWind：具有真实风物理原理的像素海盗航海游戏（航行超过 38 万公里）",
-      "originalTitle": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 739
+      "title": "GPT‑NL：荷兰的主权语言模型",
+      "originalTitle": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 182
     },
     {
-      "title": "我侵入了最糟糕的电动自行车并修复了它[视频]",
-      "originalTitle": "I hacked into the worst e-bike and fixed it [video]",
-      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
-      "score": 52
+      "title": "人工智能已经杀死了自助非小说类书籍吗？",
+      "originalTitle": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "score": 244
     }
   ],
-  "updateTime": "6/16/2026, 6:36:42 AM"
+  "updateTime": "6/17/2026, 6:20:19 AM"
 }
