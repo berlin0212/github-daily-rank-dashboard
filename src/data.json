@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "23.7k",
-      "dailyGrowth": "8690",
+      "totalStars": "30.8k",
+      "dailyGrowth": "7164",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "31.9k",
-      "dailyGrowth": "1989",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "31.2k",
+      "dailyGrowth": "1334",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 3,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "29.9k",
-      "dailyGrowth": "1214",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "62.7k",
+      "dailyGrowth": "1250",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 4,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "61.4k",
-      "dailyGrowth": "1080",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "33k",
+      "dailyGrowth": "1131",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 5,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "61.1k",
-      "dailyGrowth": "910",
+      "totalStars": "62.1k",
+      "dailyGrowth": "1031",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 6,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "45.2k",
-      "dailyGrowth": "758",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "totalStars": "21.8k",
+      "dailyGrowth": "799",
+      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
     },
     {
       "rank": 7,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "totalStars": "6.9k",
-      "dailyGrowth": "741",
-      "description": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "45.9k",
+      "dailyGrowth": "723",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 8,
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "totalStars": "72.4k",
-      "dailyGrowth": "734",
-      "description": ""
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "51k",
+      "dailyGrowth": "705",
+      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     },
     {
       "rank": 9,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "totalStars": "33.6k",
-      "dailyGrowth": "686",
-      "description": "学习它。建造它。寄给别人。"
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "totalStars": "3.4k",
+      "dailyGrowth": "690",
+      "description": ""
     },
     {
       "rank": 10,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "50.3k",
-      "dailyGrowth": "656",
-      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "totalStars": "89.3k",
+      "dailyGrowth": "547",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     }
   ],
   "hackerNews": [
     {
-      "title": "GrapheneOS已移植至Android 17",
-      "originalTitle": "GrapheneOS has been ported to Android 17",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 595
+      "title": "中途医疗",
+      "originalTitle": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 430
     },
     {
-      "title": "现在运行本地模型很好",
-      "originalTitle": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1187
+      "title": "我讨厌编译器",
+      "originalTitle": "I Hate Compilers",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "score": 21
     },
     {
-      "title": "羞辱 IIS 服务器以获得乐趣和牢狱之灾",
-      "originalTitle": "Humiliating IIS servers for fun and jail time",
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 182
+      "title": "Lore – 专为可扩展性而设计的开源版本控制系统",
+      "originalTitle": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "score": 1073
     },
     {
-      "title": "美国司法部声称 xAI 的燃气轮机事关“国家和能源安全”",
-      "originalTitle": "DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "score": 29
+      "title": "Local Qwen 并不是一个更差的 Opus，它是一个不同的工具",
+      "originalTitle": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 83
     },
     {
-      "title": "Wolfram 语言和 Mathematica 版本 15、AI 助手、符号音乐等",
-      "originalTitle": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "score": 132
+      "title": "美国暂缓将 DeepSeek 列入黑名单，100 多家公司被视为存在安全风险",
+      "originalTitle": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 422
     },
     {
-      "title": "TIL：您可以使用 Bash /dev/TCP 发出 HTTP 请求，无需使用curl",
-      "originalTitle": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "score": 358
+      "title": "闭眼目分类学（面包袋标签上的寄生蜂）",
+      "originalTitle": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "score": 119
     },
     {
-      "title": "在玻璃中工作",
-      "originalTitle": "Working in Glass",
-      "url": "https://www.asimov.press/p/glass",
-      "score": 16
+      "title": "Nim Conf 2026（在线，6 月 20 日星期六）",
+      "originalTitle": "Nim Conf 2026 (Online, Sat June 20)",
+      "url": "https://conf.nim-lang.org/",
+      "score": 19
     },
     {
-      "title": "卡尔文和霍布斯以及诚信的代价",
-      "originalTitle": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "score": 360
+      "title": "故事色彩 – 命名颜色目录",
+      "originalTitle": "Storied Colors – a catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "score": 136
     },
     {
-      "title": "GPT‑NL：荷兰的主权语言模型",
-      "originalTitle": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 182
+      "title": "[x86] AI 计算扩展 (ACE) 规范",
+      "originalTitle": "[x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "score": 26
     },
     {
-      "title": "人工智能已经杀死了自助非小说类书籍吗？",
-      "originalTitle": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 244
+      "title": "Go 上托管的 Clojure",
+      "originalTitle": "Clojure Hosted on Go",
+      "url": "https://github.com/glojurelang/glojure",
+      "score": 85
     }
   ],
-  "updateTime": "6/17/2026, 6:20:19 AM"
+  "updateTime": "6/18/2026, 5:59:45 AM"
 }
