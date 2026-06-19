@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "30.8k",
-      "dailyGrowth": "7164",
+      "totalStars": "36k",
+      "dailyGrowth": "5210",
       "description": ""
     },
     {
       "rank": 2,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "31.2k",
-      "dailyGrowth": "1334",
+      "totalStars": "33.8k",
+      "dailyGrowth": "2604",
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 3,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "62.7k",
-      "dailyGrowth": "1250",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "totalStars": "6.8k",
+      "dailyGrowth": "1785",
+      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
       "rank": 4,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "33k",
-      "dailyGrowth": "1131",
+      "totalStars": "34.3k",
+      "dailyGrowth": "1252",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 5,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "62.1k",
-      "dailyGrowth": "1031",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 6,
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
-      "totalStars": "21.8k",
-      "dailyGrowth": "799",
+      "totalStars": "22.9k",
+      "dailyGrowth": "1124",
       "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
     },
     {
+      "rank": 6,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "63.4k",
+      "dailyGrowth": "781",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
       "rank": 7,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "45.9k",
-      "dailyGrowth": "723",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "62.8k",
+      "dailyGrowth": "694",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 8,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "51k",
-      "dailyGrowth": "705",
-      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "46.5k",
+      "dailyGrowth": "633",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 9,
-      "name": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "totalStars": "3.4k",
-      "dailyGrowth": "690",
-      "description": ""
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "totalStars": "51.6k",
+      "dailyGrowth": "620",
+      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     },
     {
       "rank": 10,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "totalStars": "89.3k",
-      "dailyGrowth": "547",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "totalStars": "5.8k",
+      "dailyGrowth": "604",
+      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     }
   ],
   "hackerNews": [
     {
-      "title": "中途医疗",
-      "originalTitle": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 430
+      "title": "年轻患者可能会在意外深度低温中幸存（2025）",
+      "originalTitle": "Young patients may survive accidental deep hypothermia (2025)",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "score": 87
     },
     {
-      "title": "我讨厌编译器",
-      "originalTitle": "I Hate Compilers",
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-      "score": 21
+      "title": "为了研究芯片的工作原理，麻省理工学院的研究人员构建了自己的操作系统",
+      "originalTitle": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 126
     },
     {
-      "title": "Lore – 专为可扩展性而设计的开源版本控制系统",
-      "originalTitle": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "score": 1073
+      "title": "DuckDB 内部结构：为什么 DuckDB 很快？ （第 1 部分）",
+      "originalTitle": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "score": 70
     },
     {
-      "title": "Local Qwen 并不是一个更差的 Opus，它是一个不同的工具",
-      "originalTitle": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 83
+      "title": "Gribouille 0.3.0：Typst 图形语法",
+      "originalTitle": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 36
     },
     {
-      "title": "美国暂缓将 DeepSeek 列入黑名单，100 多家公司被视为存在安全风险",
-      "originalTitle": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 422
+      "title": "MCP 零接触 OAuth",
+      "originalTitle": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 165
     },
     {
-      "title": "闭眼目分类学（面包袋标签上的寄生蜂）",
-      "originalTitle": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "url": "https://www.horg.com/horg/?page_id=921",
-      "score": 119
+      "title": "我发现了 10k 个分发木马恶意软件的 GitHub 存储库",
+      "originalTitle": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 745
     },
     {
-      "title": "Nim Conf 2026（在线，6 月 20 日星期六）",
-      "originalTitle": "Nim Conf 2026 (Online, Sat June 20)",
-      "url": "https://conf.nim-lang.org/",
-      "score": 19
+      "title": "Datasette 应用程序：在 Datasette 内托管自定义 HTML 应用程序",
+      "originalTitle": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 61
     },
     {
-      "title": "故事色彩 – 命名颜色目录",
-      "originalTitle": "Storied Colors – a catalogue of named colors",
-      "url": "https://storiedcolors.com/",
-      "score": 136
+      "title": "在我的办公桌旁边建立一个机器人研究装置",
+      "originalTitle": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "score": 56
     },
     {
-      "title": "[x86] AI 计算扩展 (ACE) 规范",
-      "originalTitle": "[x86] AI Compute Extensions (ACE) Specification",
-      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-      "score": 26
+      "title": "今天许多 Let's Encrypt 续订都出现错误",
+      "originalTitle": "Many Let's Encrypt renewals had errors today",
+      "url": "https://letsencrypt.status.io/#2026",
+      "score": 116
     },
     {
-      "title": "Go 上托管的 Clojure",
-      "originalTitle": "Clojure Hosted on Go",
-      "url": "https://github.com/glojurelang/glojure",
-      "score": 85
+      "title": "Ubiquiti：企业 NAS，基于 ZFS 构建",
+      "originalTitle": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 312
     }
   ],
-  "updateTime": "6/18/2026, 5:59:45 AM"
+  "updateTime": "6/19/2026, 6:24:22 AM"
 }
