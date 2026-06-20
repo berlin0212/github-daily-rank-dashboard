@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "36k",
-      "dailyGrowth": "5210",
+      "totalStars": "39.7k",
+      "dailyGrowth": "3653",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "33.8k",
-      "dailyGrowth": "2604",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 3,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "6.8k",
-      "dailyGrowth": "1785",
+      "totalStars": "8k",
+      "dailyGrowth": "1172",
       "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
+      "rank": 3,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "totalStars": "24k",
+      "dailyGrowth": "1116",
+      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
       "rank": 4,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "34.3k",
-      "dailyGrowth": "1252",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "totalStars": "22.8k",
+      "dailyGrowth": "828",
+      "description": "Kilo 是一款一体化代理工程平台。使用最流行的开源编码代理更快地构建、发布和迭代。"
     },
     {
       "rank": 5,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "totalStars": "22.9k",
-      "dailyGrowth": "1124",
-      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "35k",
+      "dailyGrowth": "730",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 6,
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "63.4k",
-      "dailyGrowth": "781",
+      "totalStars": "64k",
+      "dailyGrowth": "553",
       "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 7,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "62.8k",
-      "dailyGrowth": "694",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 8,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "46.5k",
-      "dailyGrowth": "633",
+      "totalStars": "47k",
+      "dailyGrowth": "517",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
+      "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "63.3k",
+      "dailyGrowth": "503",
+      "description": "AI 编码代理的生产级工程技能。"
+    },
+    {
       "rank": 9,
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "totalStars": "51.6k",
-      "dailyGrowth": "620",
-      "description": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "totalStars": "4.5k",
+      "dailyGrowth": "421",
+      "description": "GLM-5：从 Vibe 编码到代理工程"
     },
     {
       "rank": 10,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "5.8k",
-      "dailyGrowth": "604",
-      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "name": "microsoft/presidio",
+      "url": "https://github.com/microsoft/presidio",
+      "totalStars": "9.1k",
+      "dailyGrowth": "407",
+      "description": "一个开源框架，用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据 (PII)。支持 NLP、模式匹配和可定制管道。"
     }
   ],
   "hackerNews": [
     {
-      "title": "年轻患者可能会在意外深度低温中幸存（2025）",
-      "originalTitle": "Young patients may survive accidental deep hypothermia (2025)",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "score": 87
+      "title": "数据压缩解释 (2012)",
+      "originalTitle": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 55
     },
     {
-      "title": "为了研究芯片的工作原理，麻省理工学院的研究人员构建了自己的操作系统",
-      "originalTitle": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 126
+      "title": "ATProto 中没有实例",
+      "originalTitle": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 384
     },
     {
-      "title": "DuckDB 内部结构：为什么 DuckDB 很快？ （第 1 部分）",
-      "originalTitle": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "title": "Snap 智能眼镜",
+      "originalTitle": "Snap Smart Glasses",
+      "url": "https://www.specs.com/smart-glasses/specs-27",
+      "score": 21
+    },
+    {
+      "title": "负载平衡系统令人惊讶的经济性",
+      "originalTitle": "Surprising economics of load-balanced systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
       "score": 70
     },
     {
-      "title": "Gribouille 0.3.0：Typst 图形语法",
-      "originalTitle": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "score": 36
+      "title": "挪威小学几乎禁止人工智能",
+      "originalTitle": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 547
     },
     {
-      "title": "MCP 零接触 OAuth",
-      "originalTitle": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 165
+      "title": "现代汽车收购波士顿动力公司",
+      "originalTitle": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 725
     },
     {
-      "title": "我发现了 10k 个分发木马恶意软件的 GitHub 存储库",
-      "originalTitle": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 745
+      "title": "来认识一下尼古拉·埃夫赖诺夫 (Nikolai Evreinov)，19 世纪的内森·菲尔德 (Nathan Fielder)",
+      "originalTitle": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
+      "score": 12
     },
     {
-      "title": "Datasette 应用程序：在 Datasette 内托管自定义 HTML 应用程序",
-      "originalTitle": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 61
+      "title": "《毁灭战士》、《德军总部 3D》和《毁灭公爵 3D》的作曲家鲍比·普林斯 (Bobby Prince) 去世",
+      "originalTitle": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "score": 285
     },
     {
-      "title": "在我的办公桌旁边建立一个机器人研究装置",
-      "originalTitle": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 56
+      "title": "Valhalla 项目解释：十年的工作成果如何融入 JDK 28",
+      "originalTitle": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 560
     },
     {
-      "title": "今天许多 Let's Encrypt 续订都出现错误",
-      "originalTitle": "Many Let's Encrypt renewals had errors today",
-      "url": "https://letsencrypt.status.io/#2026",
-      "score": 116
-    },
-    {
-      "title": "Ubiquiti：企业 NAS，基于 ZFS 构建",
-      "originalTitle": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 312
+      "title": "这一发现改变了科学家对记忆的看法 – IBM",
+      "originalTitle": "The discovery that changed how scientists think about memory – IBM",
+      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "score": 9
     }
   ],
-  "updateTime": "6/19/2026, 6:24:22 AM"
+  "updateTime": "6/20/2026, 5:20:54 AM"
 }
