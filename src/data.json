@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "39.7k",
-      "dailyGrowth": "3653",
+      "totalStars": "42.7k",
+      "dailyGrowth": "2990",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "8k",
-      "dailyGrowth": "1172",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "totalStars": "3k",
+      "dailyGrowth": "1269",
+      "description": "专为 AI 打造的 macOS 视频编辑器"
     },
     {
       "rank": 3,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "totalStars": "24k",
-      "dailyGrowth": "1116",
-      "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "totalStars": "9.2k",
+      "dailyGrowth": "1147",
+      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
       "rank": 4,
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "totalStars": "22.8k",
-      "dailyGrowth": "828",
-      "description": "Kilo 是一款一体化代理工程平台。使用最流行的开源编码代理更快地构建、发布和迭代。"
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "totalStars": "6.9k",
+      "dailyGrowth": "767",
+      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 5,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "35k",
-      "dailyGrowth": "730",
+      "totalStars": "35.7k",
+      "dailyGrowth": "734",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 6,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "64k",
-      "dailyGrowth": "553",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
-    },
-    {
-      "rank": 7,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "47k",
-      "dailyGrowth": "517",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": 8,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "63.3k",
-      "dailyGrowth": "503",
+      "totalStars": "64.1k",
+      "dailyGrowth": "731",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
+      "rank": 7,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "totalStars": "51.2k",
+      "dailyGrowth": "722",
+      "description": "Penpot：用于设计和代码协作的开源设计工具"
+    },
+    {
+      "rank": 8,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "47.6k",
+      "dailyGrowth": "587",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+    },
+    {
       "rank": 9,
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "totalStars": "4.5k",
-      "dailyGrowth": "421",
-      "description": "GLM-5：从 Vibe 编码到代理工程"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "totalStars": "64.5k",
+      "dailyGrowth": "491",
+      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": 10,
-      "name": "microsoft/presidio",
-      "url": "https://github.com/microsoft/presidio",
-      "totalStars": "9.1k",
-      "dailyGrowth": "407",
-      "description": "一个开源框架，用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据 (PII)。支持 NLP、模式匹配和可定制管道。"
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "totalStars": "57.6k",
+      "dailyGrowth": "472",
+      "description": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     }
   ],
   "hackerNews": [
     {
-      "title": "数据压缩解释 (2012)",
-      "originalTitle": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 55
+      "title": "构建可靠的代理人工智能系统",
+      "originalTitle": "Building Reliable Agentic AI Systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "score": 31
     },
     {
-      "title": "ATProto 中没有实例",
-      "originalTitle": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 384
+      "title": "开发者不了解 CORS（2019）",
+      "originalTitle": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 97
     },
     {
-      "title": "Snap 智能眼镜",
-      "originalTitle": "Snap Smart Glasses",
-      "url": "https://www.specs.com/smart-glasses/specs-27",
+      "title": "使用 AVX-512 进行 Zigzag 解码",
+      "originalTitle": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
       "score": 21
     },
     {
-      "title": "负载平衡系统令人惊讶的经济性",
-      "originalTitle": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 70
+      "title": "从图书馆租缝纫机",
+      "originalTitle": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 182
     },
     {
-      "title": "挪威小学几乎禁止人工智能",
-      "originalTitle": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 547
-    },
-    {
-      "title": "现代汽车收购波士顿动力公司",
-      "originalTitle": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 725
-    },
-    {
-      "title": "来认识一下尼古拉·埃夫赖诺夫 (Nikolai Evreinov)，19 世纪的内森·菲尔德 (Nathan Fielder)",
-      "originalTitle": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-      "score": 12
-    },
-    {
-      "title": "《毁灭战士》、《德军总部 3D》和《毁灭公爵 3D》的作曲家鲍比·普林斯 (Bobby Prince) 去世",
-      "originalTitle": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 285
-    },
-    {
-      "title": "Valhalla 项目解释：十年的工作成果如何融入 JDK 28",
-      "originalTitle": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 560
-    },
-    {
-      "title": "这一发现改变了科学家对记忆的看法 – IBM",
-      "originalTitle": "The discovery that changed how scientists think about memory – IBM",
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "title": "比例积分微分控制器",
+      "originalTitle": "Proportion-Integral-Derivative Controllers",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
       "score": 9
+    },
+    {
+      "title": "Loupe – 一款 iOS 应用程序，可提高人们对本机应用程序可以看到的内容的认识",
+      "originalTitle": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 176
+    },
+    {
+      "title": "Linux 中的 epoll 与 io_uring",
+      "originalTitle": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 111
+    },
+    {
+      "title": "Show HN：TownSquare，网站的小型存在层",
+      "originalTitle": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 132
+    },
+    {
+      "title": "缓慢呼吸调节大脑功能和危险行为",
+      "originalTitle": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 134
+    },
+    {
+      "title": "15 分钟家庭莱姆病蜱虫测试",
+      "originalTitle": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "score": 81
     }
   ],
-  "updateTime": "6/20/2026, 5:20:54 AM"
+  "updateTime": "6/21/2026, 6:08:27 AM"
 }
