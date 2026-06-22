@@ -26,6 +26,14 @@
     },
     {
       "rank": 4,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "totalStars": "44.3k",
+      "dailyGrowth": "810",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+    },
+    {
+      "rank": 5,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "totalStars": "6.9k",
@@ -33,20 +41,12 @@
       "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "totalStars": "35.7k",
       "dailyGrowth": "734",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
-    },
-    {
-      "rank": 6,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "64.1k",
-      "dailyGrowth": "731",
-      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 7,
@@ -58,90 +58,90 @@
     },
     {
       "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "64.7k",
+      "dailyGrowth": "625",
+      "description": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 9,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "31.5k",
+      "dailyGrowth": "612",
+      "description": "开源语音合成工作室"
+    },
+    {
+      "rank": 10,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "totalStars": "47.6k",
       "dailyGrowth": "587",
       "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": 9,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "64.5k",
-      "dailyGrowth": "491",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
-    },
-    {
-      "rank": 10,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "totalStars": "57.6k",
-      "dailyGrowth": "472",
-      "description": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     }
   ],
   "hackerNews": [
     {
-      "title": "构建可靠的代理人工智能系统",
-      "originalTitle": "Building Reliable Agentic AI Systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 31
+      "title": "Deno 桌面",
+      "originalTitle": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "score": 61
     },
     {
-      "title": "开发者不了解 CORS（2019）",
-      "originalTitle": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 97
+      "title": "我原来的工作只是因为欺诈而存在吗？",
+      "originalTitle": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 434
     },
     {
-      "title": "使用 AVX-512 进行 Zigzag 解码",
-      "originalTitle": "Zigzag Decoding with AVX-512",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 21
+      "title": "帮我不小心弄了个扭动图",
+      "originalTitle": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 119
     },
     {
-      "title": "从图书馆租缝纫机",
-      "originalTitle": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 182
+      "title": "Apertus – 主权人工智能的开放基础模型",
+      "originalTitle": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 314
     },
     {
-      "title": "比例积分微分控制器",
-      "originalTitle": "Proportion-Integral-Derivative Controllers",
-      "url": "https://en.wikipedia.org/wiki/PID_controller",
-      "score": 9
+      "title": "丹麦隐私活动家拉尔斯·安德森 (Lars Andersen) 遭警方突击搜查",
+      "originalTitle": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "score": 117
     },
     {
-      "title": "Loupe – 一款 iOS 应用程序，可提高人们对本机应用程序可以看到的内容的认识",
-      "originalTitle": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 176
+      "title": "坂名河豚",
+      "originalTitle": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
+      "score": 92
     },
     {
-      "title": "Linux 中的 epoll 与 io_uring",
-      "originalTitle": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 111
-    },
-    {
-      "title": "Show HN：TownSquare，网站的小型存在层",
-      "originalTitle": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
-      "score": 132
-    },
-    {
-      "title": "缓慢呼吸调节大脑功能和危险行为",
-      "originalTitle": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 134
-    },
-    {
-      "title": "15 分钟家庭莱姆病蜱虫测试",
-      "originalTitle": "15-minute at-home Lyme disease tick test",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "title": "内存安全内联汇编",
+      "originalTitle": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
       "score": 81
+    },
+    {
+      "title": "切换到开放模型的负面影响很小",
+      "originalTitle": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "score": 156
+    },
+    {
+      "title": "一切都是对数",
+      "originalTitle": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "score": 184
+    },
+    {
+      "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好",
+      "originalTitle": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "score": 91
     }
   ],
-  "updateTime": "6/21/2026, 6:08:27 AM"
+  "updateTime": "6/22/2026, 6:33:33 AM"
 }
