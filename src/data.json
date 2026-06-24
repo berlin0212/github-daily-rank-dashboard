@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "49.3k",
-      "dailyGrowth": "6639",
-      "description": ""
-    },
-    {
-      "rank": 2,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "46.8k",
-      "dailyGrowth": "5146",
-      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 3,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "11.5k",
-      "dailyGrowth": "4563",
+      "totalStars": "15.2k",
+      "dailyGrowth": "3686",
       "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
-      "rank": 4,
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "totalStars": "7.1k",
-      "dailyGrowth": "4050",
-      "description": "专为 AI 打造的 macOS 视频编辑器"
+      "rank": 2,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "52.1k",
+      "dailyGrowth": "2785",
+      "description": ""
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "totalStars": "48.3k",
+      "dailyGrowth": "1540",
+      "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
+      "rank": 4,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "11.3k",
-      "dailyGrowth": "2188",
+      "totalStars": "12.7k",
+      "dailyGrowth": "1336",
       "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
+      "rank": 5,
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "totalStars": "8.3k",
+      "dailyGrowth": "1232",
+      "description": "专为 AI 打造的 macOS 视频编辑器"
+    },
+    {
       "rank": 6,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "37.7k",
-      "dailyGrowth": "2002",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "totalStars": "46.9k",
+      "dailyGrowth": "1203",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
     },
     {
       "rank": 7,
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "totalStars": "66.1k",
-      "dailyGrowth": "1604",
-      "description": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "totalStars": "19.5k",
+      "dailyGrowth": "1006",
+      "description": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
     },
     {
       "rank": 8,
-      "name": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "totalStars": "52.8k",
-      "dailyGrowth": "1540",
-      "description": "Penpot：用于设计和代码协作的开源设计工具"
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "33k",
+      "dailyGrowth": "953",
+      "description": "开源语音合成工作室"
     },
     {
       "rank": 9,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "totalStars": "18.5k",
-      "dailyGrowth": "1483",
-      "description": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "totalStars": "40.3k",
+      "dailyGrowth": "825",
+      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
       "rank": 10,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "totalStars": "45.7k",
-      "dailyGrowth": "1404",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "38.5k",
+      "dailyGrowth": "790",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
   "hackerNews": [
     {
-      "title": "会是神话吗？",
-      "originalTitle": "Will It Mythos?",
-      "url": "https://swelljoe.com/post/will-it-mythos/",
-      "score": 38
+      "title": "漏洞报告不再特殊",
+      "originalTitle": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 158
     },
     {
-      "title": "蒸汽机今天推出",
-      "originalTitle": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1366
+      "title": "杰瑞的地图",
+      "originalTitle": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 380
     },
     {
-      "title": "GLM-5.2 – 如何在本地运行",
-      "originalTitle": "GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 272
+      "title": "FUTO Swipe – 一种新的滑动打字模式",
+      "originalTitle": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 388
     },
     {
-      "title": "VibeThinker：3B 参数模型在推理上击败 Opus 4.5，采用新颖的 SFT+GRPO",
-      "originalTitle": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "score": 70
+      "title": "Qwen-AgentWorld：一般代理的语言世界模型",
+      "originalTitle": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 23
     },
     {
-      "title": "对memcached的赞扬",
-      "originalTitle": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 86
+      "title": "纪念那个在文字下面画上红绿曲线的人",
+      "originalTitle": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 241
     },
     {
-      "title": "YOLO26 简介",
-      "originalTitle": "An Introduction to YOLO26",
-      "url": "https://blog.roboflow.com/yolo26/",
-      "score": 31
+      "title": "Show HN：ASCII 3D 渲染引擎",
+      "originalTitle": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "score": 25
     },
     {
-      "title": "Polymarket 在社交媒体上充斥着付费创作者制作的欺骗性视频",
-      "originalTitle": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "score": 109
+      "title": "打印高斯斑点",
+      "originalTitle": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 232
     },
     {
-      "title": "Cyber​​decks、模拟化和欢乐技术",
-      "originalTitle": "Cyberdecks, going analog, and convivial technology",
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-      "score": 76
+      "title": "Usbliter8：A12/A13 SecureROM 漏洞利用",
+      "originalTitle": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 115
     },
     {
-      "title": "巨型香蕉被拦下：司机称警察已拦住他数百次",
-      "originalTitle": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
-      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-      "score": 28
+      "title": "DiffusionBench：对生成扩散变压器进行整体评估",
+      "originalTitle": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "score": 17
     },
     {
-      "title": "Optocam Zero：基于 Pi Zero 的数码相机，使用现成组件制成",
-      "originalTitle": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 135
+      "title": "Swift Package Index 加入 Apple",
+      "originalTitle": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 190
     }
   ],
-  "updateTime": "6/23/2026, 5:07:29 AM"
+  "updateTime": "6/24/2026, 5:05:12 AM"
 }
