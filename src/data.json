@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "18.9k",
-      "dailyGrowth": "3709",
+      "totalStars": "21.8k",
+      "dailyGrowth": "2950",
       "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 2,
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "totalStars": "6.2k",
-      "dailyGrowth": "2778",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "57.7k",
+      "dailyGrowth": "2935",
       "description": ""
     },
     {
       "rank": 3,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "54.8k",
-      "dailyGrowth": "2674",
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "totalStars": "8.2k",
+      "dailyGrowth": "2041",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "totalStars": "41.9k",
-      "dailyGrowth": "1597",
-      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "totalStars": "18.9k",
+      "dailyGrowth": "1647",
+      "description": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
       "rank": 5,
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "totalStars": "21.5k",
-      "dailyGrowth": "1482",
-      "description": "6 行代码实现 AI 代理内存知识引擎"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "41.1k",
+      "dailyGrowth": "1572",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 6,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "totalStars": "48.3k",
-      "dailyGrowth": "1427",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "totalStars": "43.1k",
+      "dailyGrowth": "1167",
+      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
       "rank": 7,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "49.7k",
-      "dailyGrowth": "1406",
+      "totalStars": "50.8k",
+      "dailyGrowth": "1123",
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 8,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "14k",
-      "dailyGrowth": "1329",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "totalStars": "49.4k",
+      "dailyGrowth": "1114",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
     },
     {
       "rank": 9,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "totalStars": "20.5k",
-      "dailyGrowth": "971",
-      "description": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "totalStars": "20.3k",
+      "dailyGrowth": "1077",
+      "description": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
       "rank": 10,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "39.5k",
-      "dailyGrowth": "966",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "totalStars": "3k",
+      "dailyGrowth": "1002",
+      "description": "git推送无错误"
     }
   ],
   "hackerNews": [
     {
-      "title": "Anthropic称阿里巴巴非法提取Claude AI模型能力",
-      "originalTitle": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 225
+      "title": "奥姆·马利克去世",
+      "originalTitle": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 688
     },
     {
-      "title": "OpenAI 推出首款定制芯片，由 Broadcom 制造",
-      "originalTitle": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 625
+      "title": "第一次阅读完整的赫库兰尼姆古卷",
+      "originalTitle": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 1112
     },
     {
-      "title": "Cloudflare 为所有人推出了自我管理的 OAuth",
-      "originalTitle": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 63
+      "title": "自由条形码项目",
+      "originalTitle": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "score": 45
     },
     {
-      "title": "LuaJIT 3.0 提议的语法扩展",
-      "originalTitle": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 102
+      "title": "Framework的10G以太网模块暴露了USB-C的复杂性",
+      "originalTitle": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 97
     },
     {
-      "title": "博客可以只是陈述显而易见的事情",
-      "originalTitle": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 133
+      "title": "苹果将​​跳过高端 M6 Mac 芯片，转而专注于 AI 的 M7 系列",
+      "originalTitle": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 172
     },
     {
-      "title": "僵尸独角兽出没于硅谷",
-      "originalTitle": "Zombie unicorns are haunting Silicon Valley",
-      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "score": 37
+      "title": "2000 人试图破解我的人工智能助手后发生了什么",
+      "originalTitle": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "score": 34
     },
     {
-      "title": "Show HN：编写 SaaS 应用程序，让用户控制数据的存储位置",
-      "originalTitle": "Show HN: Write SaaS apps where users control where their data is stored",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "score": 27
+      "title": "互联网的“请提供文件”时代将摧毁您的隐私",
+      "originalTitle": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 542
     },
     {
-      "title": "陀思妥耶夫斯基并不难",
-      "originalTitle": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 91
+      "title": "过拟合 900KB 的 Transformer 将 100MB 的 CSV 压缩为 7MB",
+      "originalTitle": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+      "url": "https://news.ycombinator.com/item?id=48644463",
+      "score": 65
     },
     {
-      "title": "高通收购 Modular",
-      "originalTitle": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 178
+      "title": "垃圾收集手册：自动内存管理的艺术（第二版）（2023 年）",
+      "originalTitle": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "url": "https://gchandbook.org/",
+      "score": 86
     },
     {
-      "title": "混合视觉和文本代码",
-      "originalTitle": "Mixing Visual and Textual Code",
-      "url": "https://arxiv.org/abs/2603.15855",
-      "score": 28
+      "title": "氧化物计算机3D机架导览",
+      "originalTitle": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 335
     }
   ],
-  "updateTime": "6/25/2026, 5:09:32 AM"
+  "updateTime": "6/26/2026, 5:13:36 AM"
 }
