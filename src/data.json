@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "21.8k",
-      "dailyGrowth": "2950",
-      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "59.9k",
+      "dailyGrowth": "2188",
+      "description": ""
     },
     {
       "rank": 2,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "57.7k",
-      "dailyGrowth": "2935",
-      "description": ""
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "totalStars": "21k",
+      "dailyGrowth": "2141",
+      "description": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
       "rank": 3,
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "totalStars": "8.2k",
-      "dailyGrowth": "2041",
+      "totalStars": "10.3k",
+      "dailyGrowth": "2095",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "totalStars": "18.9k",
-      "dailyGrowth": "1647",
-      "description": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "totalStars": "23.4k",
+      "dailyGrowth": "1593",
+      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 5,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "41.1k",
-      "dailyGrowth": "1572",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "totalStars": "3k",
+      "dailyGrowth": "1244",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": 6,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "totalStars": "43.1k",
-      "dailyGrowth": "1167",
-      "description": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "42.2k",
+      "dailyGrowth": "1139",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 7,
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "totalStars": "50.8k",
-      "dailyGrowth": "1123",
+      "totalStars": "51.8k",
+      "dailyGrowth": "1013",
       "description": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 8,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "totalStars": "49.4k",
-      "dailyGrowth": "1114",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
-    },
-    {
-      "rank": 9,
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "totalStars": "20.3k",
-      "dailyGrowth": "1077",
+      "totalStars": "21.2k",
+      "dailyGrowth": "968",
       "description": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
+      "rank": 9,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "totalStars": "7.5k",
+      "dailyGrowth": "961",
+      "description": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+    },
+    {
       "rank": 10,
-      "name": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "totalStars": "3k",
-      "dailyGrowth": "1002",
-      "description": "git推送无错误"
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "totalStars": "70.3k",
+      "dailyGrowth": "841",
+      "description": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
     }
   ],
   "hackerNews": [
     {
-      "title": "奥姆·马利克去世",
-      "originalTitle": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 688
+      "title": "预览 GPT‑5.6 Sol：下一代模型",
+      "originalTitle": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 907
     },
     {
-      "title": "第一次阅读完整的赫库兰尼姆古卷",
-      "originalTitle": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1112
+      "title": "为什么动能随速度呈二次方而不是线性增加？ (2011)",
+      "originalTitle": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 154
     },
     {
-      "title": "自由条形码项目",
-      "originalTitle": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "score": 45
+      "title": "WordStar：作家的文字处理器 (1996)",
+      "originalTitle": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "score": 13
     },
     {
-      "title": "Framework的10G以太网模块暴露了USB-C的复杂性",
-      "originalTitle": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 97
+      "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI",
+      "originalTitle": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 309
     },
     {
-      "title": "苹果将​​跳过高端 M6 Mac 芯片，转而专注于 AI 的 M7 系列",
-      "originalTitle": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "score": 172
+      "title": "在火车站式翻转板上显示 HN：黑客新闻",
+      "originalTitle": "Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "score": 36
     },
     {
-      "title": "2000 人试图破解我的人工智能助手后发生了什么",
-      "originalTitle": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 34
+      "title": "极其缓慢的 13 级放气压缩",
+      "originalTitle": "Hellishly Slow Level 13 Deflate Compression",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "score": 20
     },
     {
-      "title": "互联网的“请提供文件”时代将摧毁您的隐私",
-      "originalTitle": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 542
+      "title": "MicroVM：运行具有完整生命周期控制的隔离沙箱",
+      "originalTitle": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "score": 293
     },
     {
-      "title": "过拟合 900KB 的 Transformer 将 100MB 的 CSV 压缩为 7MB",
-      "originalTitle": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-      "url": "https://news.ycombinator.com/item?id=48644463",
-      "score": 65
+      "title": "数学领域的人工智能正在提出重大问题",
+      "originalTitle": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "score": 78
     },
     {
-      "title": "垃圾收集手册：自动内存管理的艺术（第二版）（2023 年）",
-      "originalTitle": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
-      "url": "https://gchandbook.org/",
-      "score": 86
+      "title": "开放式权重法学硕士和闭源法学硕士之间的差距",
+      "originalTitle": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "score": 156
     },
     {
-      "title": "氧化物计算机3D机架导览",
-      "originalTitle": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "score": 335
+      "title": "美国政府将决定谁可以使用 GPT-5.6",
+      "originalTitle": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 915
     }
   ],
-  "updateTime": "6/26/2026, 5:13:36 AM"
+  "updateTime": "6/27/2026, 4:56:41 AM"
 }
