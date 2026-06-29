@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "玛法公共广播电台让你入睡",
-      "originalTitle": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 101
+      "title": "GLM 5.2 在我们的基准测试中击败了 Claude",
+      "originalTitle": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 658
     },
     {
-      "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由",
-      "originalTitle": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "score": 11
+      "title": "年龄验证只是语音自动归因的前奏",
+      "originalTitle": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "score": 233
     },
     {
-      "title": "Show HN：Decomp Academy – 学习将GameCube游戏反编译成匹配的C",
-      "originalTitle": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "score": 73
+      "title": "HackerRank 开源了其 ATS。我的简历得分为 90/100。哦等等 74。不 – 88",
+      "originalTitle": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "score": 133
     },
     {
-      "title": "AMD Strix Halo RDMA 集群设置指南",
-      "originalTitle": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 78
+      "title": "Herdr：位于您终端中的代理多路复用器",
+      "originalTitle": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "score": 14
     },
     {
-      "title": "匿名 GitHub 帐户大规模删除未公开的 0day",
-      "originalTitle": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 735
+      "title": "Lore – 向您的编码代理提供您团队所做的决策",
+      "originalTitle": "Lore – give your coding agent the decisions your team made",
+      "url": "https://github.com/itsthelore/rac-core",
+      "score": 7
     },
     {
-      "title": "开放RA",
-      "originalTitle": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 630
+      "title": "剖析苹果的稀疏图像格式（ASIF）",
+      "originalTitle": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "score": 9
     },
     {
-      "title": "选择公共 DNS 解析器",
-      "originalTitle": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 106
+      "title": "1960-2026 年内存历史价格",
+      "originalTitle": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 253
     },
     {
-      "title": "福特雇佣了人工智能并解雇了人类。结果适得其反",
-      "originalTitle": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "score": 75
+      "title": "纽约公共图书馆 Buttolph 藏品中的 5k 份菜单（1880-1920 年）",
+      "originalTitle": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 349
     },
     {
-      "title": "古代石板显示市场在经济学家做出解释之前已经运作了 4000 年",
-      "originalTitle": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-      "score": 18
+      "title": "我使用 Claude Code 来获得有关 MRI 的第二意见",
+      "originalTitle": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 391
     },
     {
-      "title": "“无处不在”的正则表达式",
-      "originalTitle": "Regular expressions that work \"everywhere\"",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-      "score": 32
+      "title": "黑盒大语言模型的知识蒸馏（2024）",
+      "originalTitle": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "score": 76
     }
   ],
-  "updateTime": "6/28/2026, 5:21:05 AM"
+  "updateTime": "6/29/2026, 5:55:32 AM"
 }
