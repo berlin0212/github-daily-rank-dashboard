@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "17.2k",
-      "dailyGrowth": "1845",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "67k",
+      "dailyGrowth": "5436",
+      "description": ""
     },
     {
       "rank": 2,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "61.6k",
-      "dailyGrowth": "1680",
-      "description": ""
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "totalStars": "21.2k",
+      "dailyGrowth": "3999",
+      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
       "rank": 3,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "25.1k",
-      "dailyGrowth": "1629",
+      "totalStars": "28.4k",
+      "dailyGrowth": "3319",
       "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 4,
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "totalStars": "22.2k",
-      "dailyGrowth": "1236",
-      "description": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "totalStars": "6.5k",
+      "dailyGrowth": "2523",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": 5,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "43.3k",
-      "dailyGrowth": "1139",
+      "totalStars": "45.6k",
+      "dailyGrowth": "2243",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 6,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "totalStars": "4k",
-      "dailyGrowth": "960",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "totalStars": "3.6k",
+      "dailyGrowth": "1469",
+      "description": ""
     },
     {
       "rank": 7,
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "totalStars": "23.9k",
-      "dailyGrowth": "788",
-      "description": "6 行代码实现 AI 代理内存知识引擎"
-    },
-    {
-      "rank": 8,
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "totalStars": "22k",
-      "dailyGrowth": "773",
+      "totalStars": "23.4k",
+      "dailyGrowth": "1411",
       "description": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
+      "rank": 8,
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "totalStars": "15k",
+      "dailyGrowth": "1354",
+      "description": "“Vibe-Trading：您的个人交易代理”"
+    },
+    {
       "rank": 9,
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "totalStars": "11k",
-      "dailyGrowth": "724",
-      "description": ""
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "totalStars": "34.3k",
+      "dailyGrowth": "1327",
+      "description": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
     },
     {
       "rank": 10,
       "name": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
-      "totalStars": "71k",
-      "dailyGrowth": "684",
+      "totalStars": "72.3k",
+      "dailyGrowth": "1272",
       "description": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
     }
   ],
   "hackerNews": [
     {
-      "title": "GLM 5.2 在我们的基准测试中击败了 Claude",
-      "originalTitle": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 658
+      "title": "Qwen 3.6 27B是本地开发的最佳选择",
+      "originalTitle": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 743
     },
     {
-      "title": "年龄验证只是语音自动归因的前奏",
-      "originalTitle": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 233
+      "title": ".self：旨在支持自托管的新顶级域名",
+      "originalTitle": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 406
     },
     {
-      "title": "HackerRank 开源了其 ATS。我的简历得分为 90/100。哦等等 74。不 – 88",
-      "originalTitle": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 133
+      "title": "释放图标",
+      "originalTitle": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 333
     },
     {
-      "title": "Herdr：位于您终端中的代理多路复用器",
-      "originalTitle": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 14
+      "title": "旧电脑挑战",
+      "originalTitle": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "score": 28
     },
     {
-      "title": "Lore – 向您的编码代理提供您团队所做的决策",
-      "originalTitle": "Lore – give your coding agent the decisions your team made",
-      "url": "https://github.com/itsthelore/rac-core",
-      "score": 7
+      "title": "内存安全上下文切换",
+      "originalTitle": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "score": 68
     },
     {
-      "title": "剖析苹果的稀疏图像格式（ASIF）",
-      "originalTitle": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 9
+      "title": "LongCat-2.0，大型MoE模型，总重1.6T，活动48B",
+      "originalTitle": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 68
     },
     {
-      "title": "1960-2026 年内存历史价格",
-      "originalTitle": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 253
+      "title": "探索 PDP-1 Lisp (1960)",
+      "originalTitle": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 39
     },
     {
-      "title": "纽约公共图书馆 Buttolph 藏品中的 5k 份菜单（1880-1920 年）",
-      "originalTitle": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 349
+      "title": "Rocketlab 收购铱星",
+      "originalTitle": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 387
     },
     {
-      "title": "我使用 Claude Code 来获得有关 MRI 的第二意见",
-      "originalTitle": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 391
+      "title": "以色列北部探索了 30 万年前的洞穴遗址",
+      "originalTitle": "300k-Year-Old Cave Site Explored in Northern Israel",
+      "url": "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/",
+      "score": 30
     },
     {
-      "title": "黑盒大语言模型的知识蒸馏（2024）",
-      "originalTitle": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "score": 76
+      "title": "科学家发现液态水中两种结构的分子水平证据",
+      "originalTitle": "Scientists find molecular-level evidence for two structures in liquid water",
+      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "score": 93
     }
   ],
-  "updateTime": "6/29/2026, 5:55:32 AM"
+  "updateTime": "6/30/2026, 5:09:43 AM"
 }
