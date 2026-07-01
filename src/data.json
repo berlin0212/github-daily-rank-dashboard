@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Qwen 3.6 27B是本地开发的最佳选择",
-      "originalTitle": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 743
+      "title": "克劳德十四行诗 5",
+      "originalTitle": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 1008
     },
     {
-      "title": ".self：旨在支持自托管的新顶级域名",
-      "originalTitle": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 406
+      "title": "Claude Code 正在以隐写方式标记请求",
+      "originalTitle": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1620
     },
     {
-      "title": "释放图标",
-      "originalTitle": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 333
+      "title": "采用人工智能的公司在采用后两年内员工人数增加了 10%",
+      "originalTitle": "Firms that adopt AI grow headcount 10% over the two years following adoption",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "score": 16
     },
     {
-      "title": "旧电脑挑战",
-      "originalTitle": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
-      "score": 28
+      "title": "Google copybara：在存储库之间移动代码",
+      "originalTitle": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "score": 134
     },
     {
-      "title": "内存安全上下文切换",
-      "originalTitle": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "score": 68
+      "title": "美国商务部取消了《克劳德寓言5》和《神话5》的出口管制",
+      "originalTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 478
     },
     {
-      "title": "LongCat-2.0，大型MoE模型，总重1.6T，活动48B",
-      "originalTitle": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 68
+      "title": "矩阵正交化可改善循环模型中的记忆",
+      "originalTitle": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "score": 3
     },
     {
-      "title": "探索 PDP-1 Lisp (1960)",
-      "originalTitle": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 39
+      "title": "福雷斯蒂耶雷地下花园",
+      "originalTitle": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "score": 46
     },
     {
-      "title": "Rocketlab 收购铱星",
-      "originalTitle": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 387
+      "title": "克劳德·科学",
+      "originalTitle": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 420
     },
     {
-      "title": "以色列北部探索了 30 万年前的洞穴遗址",
-      "originalTitle": "300k-Year-Old Cave Site Explored in Northern Israel",
-      "url": "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/",
-      "score": 30
+      "title": "第一个来自干细胞的早期人类卵子",
+      "originalTitle": "The first early human eggs from stem cells",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "score": 5
     },
     {
-      "title": "科学家发现液态水中两种结构的分子水平证据",
-      "originalTitle": "Scientists find molecular-level evidence for two structures in liquid water",
-      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "score": 93
+      "title": "纳米香蕉2 Lite",
+      "originalTitle": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "score": 336
     }
   ],
-  "updateTime": "6/30/2026, 5:09:43 AM"
+  "updateTime": "7/1/2026, 5:27:09 AM"
 }
