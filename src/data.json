@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "67k",
-      "dailyGrowth": "5436",
+      "totalStars": "70.3k",
+      "dailyGrowth": "3274",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "21.2k",
-      "dailyGrowth": "3999",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
-    },
-    {
-      "rank": 3,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "28.4k",
-      "dailyGrowth": "3319",
-      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
-    },
-    {
-      "rank": 4,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "totalStars": "6.5k",
-      "dailyGrowth": "2523",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
-    },
-    {
-      "rank": 5,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "45.6k",
-      "dailyGrowth": "2243",
+      "totalStars": "48.2k",
+      "dailyGrowth": "2619",
       "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "totalStars": "23.7k",
+      "dailyGrowth": "2409",
+      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+    },
+    {
+      "rank": 4,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "totalStars": "30.8k",
+      "dailyGrowth": "2382",
+      "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": 5,
       "name": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
-      "totalStars": "3.6k",
-      "dailyGrowth": "1469",
+      "totalStars": "5.7k",
+      "dailyGrowth": "2145",
       "description": ""
     },
     {
+      "rank": 6,
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "totalStars": "8.3k",
+      "dailyGrowth": "1892",
+      "description": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
+    },
+    {
       "rank": 7,
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "totalStars": "23.4k",
-      "dailyGrowth": "1411",
-      "description": "使用 AI 编码代理通过一个命令克隆任何网站"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "totalStars": "8.1k",
+      "dailyGrowth": "1569",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": 8,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "totalStars": "15k",
-      "dailyGrowth": "1354",
+      "totalStars": "16.4k",
+      "dailyGrowth": "1428",
       "description": "“Vibe-Trading：您的个人交易代理”"
     },
     {
       "rank": 9,
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "totalStars": "34.3k",
-      "dailyGrowth": "1327",
-      "description": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "totalStars": "29.4k",
+      "dailyGrowth": "1419",
+      "description": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。"
     },
     {
       "rank": 10,
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "totalStars": "72.3k",
-      "dailyGrowth": "1272",
-      "description": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "totalStars": "35.7k",
+      "dailyGrowth": "1416",
+      "description": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
     }
   ],
   "hackerNews": [
     {
-      "title": "克劳德十四行诗 5",
-      "originalTitle": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1008
+      "title": "ZCode – GLM-5.2 线束",
+      "originalTitle": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 304
     },
     {
-      "title": "Claude Code 正在以隐写方式标记请求",
-      "originalTitle": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1620
+      "title": "Oomwoo，您自己构建的开源扫地机器人",
+      "originalTitle": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 119
     },
     {
-      "title": "采用人工智能的公司在采用后两年内员工人数增加了 10%",
-      "originalTitle": "Firms that adopt AI grow headcount 10% over the two years following adoption",
-      "url": "https://ramp.com/data/ai-jobs-impact",
-      "score": 16
+      "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准",
+      "originalTitle": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "score": 35
     },
     {
-      "title": "Google copybara：在存储库之间移动代码",
-      "originalTitle": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "score": 134
+      "title": "第一次，从头开始构建的细胞生长并分裂",
+      "originalTitle": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 791
     },
     {
-      "title": "美国商务部取消了《克劳德寓言5》和《神话5》的出口管制",
-      "originalTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 478
+      "title": "把垃圾论坛带回来",
+      "originalTitle": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "score": 91
     },
     {
-      "title": "矩阵正交化可改善循环模型中的记忆",
-      "originalTitle": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "score": 3
+      "title": "成为一名图形程序员需要学习什么",
+      "originalTitle": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "score": 277
     },
     {
-      "title": "福雷斯蒂耶雷地下花园",
-      "originalTitle": "Forestiere Underground Gardens",
-      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-      "score": 46
+      "title": "PlayStation 新游戏的实体光盘制作将于 2028 年 1 月结束",
+      "originalTitle": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "score": 655
     },
     {
-      "title": "克劳德·科学",
-      "originalTitle": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 420
+      "title": "数据库流量控制",
+      "originalTitle": "Database Traffic Control",
+      "url": "https://planetscale.com/blog/introducing-database-traffic-control",
+      "score": 11
     },
     {
-      "title": "第一个来自干细胞的早期人类卵子",
-      "originalTitle": "The first early human eggs from stem cells",
-      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "score": 5
+      "title": "开放“零知识证明”技术，促进年龄保障中的隐私",
+      "originalTitle": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "score": 90
     },
     {
-      "title": "纳米香蕉2 Lite",
-      "originalTitle": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 336
+      "title": "FFmpeg 9.1 的新 AAC 编码器",
+      "originalTitle": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 323
     }
   ],
-  "updateTime": "7/1/2026, 5:27:09 AM"
+  "updateTime": "7/2/2026, 5:02:59 AM"
 }
