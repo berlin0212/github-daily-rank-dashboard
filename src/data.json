@@ -4,8 +4,8 @@
       "rank": 1,
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
-      "totalStars": "35.9k",
-      "dailyGrowth": "1560",
+      "totalStars": "36.9k",
+      "dailyGrowth": "1062",
       "description": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。"
     },
     {
@@ -52,8 +52,8 @@
       "rank": 7,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
-      "totalStars": "23k",
-      "dailyGrowth": "699",
+      "totalStars": "23.7k",
+      "dailyGrowth": "741",
       "description": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
@@ -74,74 +74,74 @@
     },
     {
       "rank": 10,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "26.1k",
-      "dailyGrowth": "615",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "69.5k",
+      "dailyGrowth": "637",
+      "description": "AI 编码代理的生产级工程技能。"
     }
   ],
   "hackerNews": [
     {
-      "title": "使用《神鬼寓言》将《命令与征服将军》原生移植到 macOS、iPhone、iPad",
-      "originalTitle": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 433
+      "title": "GPT-5.6 Sol Ultra 将出现在 Codex 中",
+      "originalTitle": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "score": 158
     },
     {
-      "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降",
-      "originalTitle": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 197
+      "title": "打开打印机",
+      "originalTitle": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "score": 586
     },
     {
-      "title": "如果你是一个按钮，你就有一份工作",
-      "originalTitle": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 52
+      "title": "尚未浏览太多",
+      "originalTitle": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "score": 155
     },
     {
-      "title": "水母可以在几分钟内治愈伤口。科学家想要他们的秘密",
-      "originalTitle": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 75
+      "title": "有机地图",
+      "originalTitle": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "score": 867
     },
     {
-      "title": "Google 图书（或类似）所有图书扫描 – 20 万美元赏金（2025 年）",
-      "originalTitle": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 388
+      "title": "通过支持与客户建立关系并没有达到预期效果",
+      "originalTitle": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "score": 45
     },
     {
-      "title": "泄露 YouTube 创作者的私人视频",
-      "originalTitle": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 537
+      "title": "代码清洁度会影响编码代理吗？",
+      "originalTitle": "Does Code Cleanliness Affect Coding Agents?",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "score": 74
     },
     {
-      "title": "原子力显微镜高速视频、不锈钢蚀刻、细菌等",
-      "originalTitle": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "score": 31
+      "title": "在 Coursera 上完成计算机科学学位",
+      "originalTitle": "Completing a computer science degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "score": 149
     },
     {
-      "title": "狡猾的猫：受猫科动物启发的艺术和手工艺品",
-      "originalTitle": "Artful Cats: Feline-Inspired Art and Artifacts",
-      "url": "https://www.si.edu/spotlight/art-cats",
-      "score": 7
+      "title": "个性化硬件时代即将到来",
+      "originalTitle": "The Age of Personalized Hardware Is Coming",
+      "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
+      "score": 25
     },
     {
-      "title": "Linux 上 htop/top 中可以看到的所有内容的解释（2019）",
-      "originalTitle": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "url": "https://peteris.rocks/blog/htop/",
-      "score": 444
+      "title": "显示 HN：主场比赛。我已经制作了 8 年的开源游戏平台",
+      "originalTitle": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "score": 117
     },
     {
-      "title": "更好的模型：更糟糕的工具",
-      "originalTitle": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 131
+      "title": "这不是实体游戏与数字游戏的问题，而是所有权的问题",
+      "originalTitle": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "score": 369
     }
   ],
-  "updateTime": "7/5/2026, 5:00:42 AM"
+  "updateTime": "7/6/2026, 5:17:39 AM"
 }
