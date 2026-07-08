@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
-      "totalStars": "19k",
-      "dailyGrowth": "3934",
+      "totalStars": "20.5k",
+      "dailyGrowth": "1457",
       "description": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
     },
     {
       "rank": 2,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "totalStars": "58.7k",
-      "dailyGrowth": "2386",
-      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "71.9k",
+      "dailyGrowth": "1334",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 3,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "75.8k",
-      "dailyGrowth": "2031",
-      "description": ""
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "totalStars": "60k",
+      "dailyGrowth": "1291",
+      "description": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": 4,
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "totalStars": "85.6k",
-      "dailyGrowth": "1832",
-      "description": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "totalStars": "78.4k",
+      "dailyGrowth": "1010",
+      "description": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     },
     {
       "rank": 5,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "totalStars": "11.1k",
-      "dailyGrowth": "1449",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "76.8k",
+      "dailyGrowth": "937",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "totalStars": "12.7k",
-      "dailyGrowth": "1437",
-      "description": "位于您终端中的代理多路复用器。"
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "totalStars": "5k",
+      "dailyGrowth": "890",
+      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     },
     {
       "rank": 7,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "51.9k",
-      "dailyGrowth": "1435",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "79.4k",
+      "dailyGrowth": "803",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": 8,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "27.3k",
-      "dailyGrowth": "1216",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
-    },
-    {
-      "rank": 9,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "totalStars": "34.2k",
-      "dailyGrowth": "1213",
+      "totalStars": "34.9k",
+      "dailyGrowth": "706",
       "description": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
+      "rank": 9,
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "totalStars": "13.4k",
+      "dailyGrowth": "663",
+      "description": "位于您终端中的代理多路复用器。"
+    },
+    {
       "rank": 10,
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "totalStars": "6.4k",
-      "dailyGrowth": "1101",
-      "description": "完全可定制且可供代理使用的开源设计系统"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "52.6k",
+      "dailyGrowth": "651",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
   "hackerNews": [
     {
-      "title": "《寓言》变成了《哈利·波特》中汤姆·里德尔的日记",
-      "originalTitle": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 258
+      "title": "经济学家总是错的吗？",
+      "originalTitle": "Is The Economist Always Wrong?",
+      "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+      "score": 66
     },
     {
-      "title": "OpenWrt One – 开放硬件路由器",
-      "originalTitle": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 499
+      "title": "美国政府问责局：美国能源部过早地排除了较便宜的核清理方案",
+      "originalTitle": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "score": 151
     },
     {
-      "title": "如何在家对自己的 DNA 进行测序",
-      "originalTitle": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 113
+      "title": "腾达固件（多个版本）包含隐藏认证后门",
+      "originalTitle": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 82
     },
     {
-      "title": "CoMaps – 自由和开源软件离线地图",
-      "originalTitle": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 384
+      "title": "计算机程序的结构和解释视频讲座（1986）",
+      "originalTitle": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "score": 69
     },
     {
-      "title": "GLM 5.2 和即将到来的人工智能利润率崩溃",
-      "originalTitle": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 249
+      "title": "加拿大唯一一所80年后仍在运转的制表学校",
+      "originalTitle": "Canada's only watchmaking school still ticking after 80 years",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+      "score": 75
     },
     {
-      "title": "小型人工智能模型在网络不可靠的地方受到关注",
-      "originalTitle": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 65
+      "title": "使用 Kokoro 进行本地、CPU 友好、高质量 TTS（文本转语音）",
+      "originalTitle": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 332
     },
     {
-      "title": "Ternlight – 在浏览器中运行的 7 MB 嵌入模型 (WASM)",
-      "originalTitle": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 140
+      "title": "StreetComplete：修复 OpenStreetMap，一次完成一个小任务",
+      "originalTitle": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "score": 720
     },
     {
-      "title": "语言模型中的全局工作区",
-      "originalTitle": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 315
+      "title": "聊天控制 1.0 和 2.0 解释",
+      "originalTitle": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 493
     },
     {
-      "title": "将 RAG 上下文修剪为答案实际需要的内容",
-      "originalTitle": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 73
+      "title": "我们将在 7 月 12 日之前延长所有付费套餐对《神鬼寓言 5》的使用期限",
+      "originalTitle": "We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "score": 107
     },
     {
-      "title": "重置 Xbox",
-      "originalTitle": "Resetting Xbox",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 534
+      "title": "如何在没有 Synology、QNAP、TrueNAS 的情况下构建最小的 ZFS NAS",
+      "originalTitle": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "score": 4
     }
   ],
-  "updateTime": "7/7/2026, 4:57:36 AM"
+  "updateTime": "7/8/2026, 4:18:37 AM"
 }
