@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "totalStars": "14.9k",
-      "dailyGrowth": "4534",
+      "totalStars": "18.4k",
+      "dailyGrowth": "3477",
       "description": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
     {
       "rank": 2,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "totalStars": "11.6k",
-      "dailyGrowth": "1752",
-      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 3,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "73.7k",
-      "dailyGrowth": "1729",
+      "totalStars": "75.7k",
+      "dailyGrowth": "2054",
       "description": "AI 编码代理的生产级工程技能。"
     },
     {
+      "rank": 3,
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "totalStars": "13.3k",
+      "dailyGrowth": "1705",
+      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+    },
+    {
       "rank": 4,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "77.9k",
-      "dailyGrowth": "1115",
-      "description": ""
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "39.9k",
+      "dailyGrowth": "1205",
+      "description": "开源语音合成工作室"
     },
     {
       "rank": 5,
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "totalStars": "21.5k",
-      "dailyGrowth": "1058",
-      "description": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "79.1k",
+      "dailyGrowth": "1176",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "totalStars": "5.9k",
-      "dailyGrowth": "905",
-      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 7,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "totalStars": "14.3k",
-      "dailyGrowth": "876",
-      "description": "位于您终端中的代理多路复用器。"
-    },
-    {
-      "rank": 8,
       "name": "safishamsi/graphify",
       "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "80.3k",
-      "dailyGrowth": "855",
+      "totalStars": "81.1k",
+      "dailyGrowth": "883",
       "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "totalStars": "14.1k",
-      "dailyGrowth": "684",
+      "totalStars": "15k",
+      "dailyGrowth": "878",
       "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": 8,
+      "name": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G",
+      "totalStars": "3.3k",
+      "dailyGrowth": "850",
+      "description": ""
+    },
+    {
+      "rank": 9,
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "totalStars": "6.6k",
+      "dailyGrowth": "652",
+      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+    },
+    {
       "rank": 10,
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "totalStars": "79k",
-      "dailyGrowth": "650",
-      "description": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "53.8k",
+      "dailyGrowth": "643",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
   "hackerNews": [
     {
-      "title": "根据联邦贸易委员会和解协议，约翰迪尔所有者将获得维修设备的权利",
-      "originalTitle": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 529
+      "title": "Show HN：在我的慢速计算机上运行 GLM 5.2",
+      "originalTitle": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 472
     },
     {
-      "title": "Chatto 现已开源",
-      "originalTitle": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 834
+      "title": "欧盟议会批准聊天控制 1.0",
+      "originalTitle": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 1103
     },
     {
-      "title": "云焰掉落",
-      "originalTitle": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "score": 339
+      "title": "显示 HN：18 个字",
+      "originalTitle": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 892
     },
     {
-      "title": "在编码评估中将信号与噪声分离",
-      "originalTitle": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 188
+      "title": "仅由一个人创建的火车模拟游戏被称为有史以来最好的火车模拟游戏",
+      "originalTitle": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "score": 386
     },
     {
-      "title": "远程认证",
-      "originalTitle": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 53
+      "title": "GPT-5.6",
+      "originalTitle": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1143
     },
     {
-      "title": "Mistral 的 Robostral Navigate：最先进的机器人导航模型",
-      "originalTitle": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 440
+      "title": "采访 Mitchell Hashimoto 关于 Ghostty 和 Zig",
+      "originalTitle": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "score": 173
     },
     {
-      "title": "修补 MechCommander 的“左臂错误”以获取乐趣和利润",
-      "originalTitle": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 38
+      "title": "Apple Silicon Exec 解释 Mac Mini 人工智能需求和设备上的未来",
+      "originalTitle": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 18
     },
     {
-      "title": "Show HN：微软发布 Flint，一种用于 AI 代理的可视化语言",
-      "originalTitle": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 235
+      "title": "Postgres 用 Rust 重写，现已通过 100% 的 Postgres 回归测试",
+      "originalTitle": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 476
     },
     {
-      "title": "Show HN：Yamanote.fun – 东京 Yamanote 系列的完整音景",
-      "originalTitle": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-      "url": "https://www.yamanote.fun/",
-      "score": 96
+      "title": "HY3",
+      "originalTitle": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "score": 417
     },
     {
-      "title": "在 Databricks 数百万行代码库上对编码代理进行基准测试",
-      "originalTitle": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "score": 30
+      "title": "研究：“妈妈，你比我更爱你的手机吗？”",
+      "originalTitle": "Study: \"Mommy, do you love your phone more than me?\"",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "score": 40
     }
   ],
-  "updateTime": "7/9/2026, 5:03:11 AM"
+  "updateTime": "7/10/2026, 4:57:23 AM"
 }
