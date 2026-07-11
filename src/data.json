@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "totalStars": "18.4k",
-      "dailyGrowth": "3477",
+      "totalStars": "20.5k",
+      "dailyGrowth": "2102",
       "description": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
     {
       "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "75.7k",
-      "dailyGrowth": "2054",
-      "description": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 3,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "totalStars": "13.3k",
-      "dailyGrowth": "1705",
+      "totalStars": "14.3k",
+      "dailyGrowth": "1055",
       "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 4,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "39.9k",
-      "dailyGrowth": "1205",
-      "description": "开源语音合成工作室"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "79.1k",
-      "dailyGrowth": "1176",
+      "totalStars": "80k",
+      "dailyGrowth": "995",
       "description": ""
     },
     {
+      "rank": 4,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "76.7k",
+      "dailyGrowth": "975",
+      "description": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 5,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "15.9k",
+      "dailyGrowth": "901",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
       "rank": 6,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "81.1k",
-      "dailyGrowth": "883",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "14.9k",
+      "dailyGrowth": "710",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
       "rank": 7,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "15k",
-      "dailyGrowth": "878",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "81.8k",
+      "dailyGrowth": "691",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": 8,
       "name": "x4gKing/X4G",
       "url": "https://github.com/x4gKing/X4G",
-      "totalStars": "3.3k",
-      "dailyGrowth": "850",
+      "totalStars": "3.9k",
+      "dailyGrowth": "638",
       "description": ""
     },
     {
       "rank": 9,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "totalStars": "6.6k",
-      "dailyGrowth": "652",
-      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "54.4k",
+      "dailyGrowth": "600",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 10,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "53.8k",
-      "dailyGrowth": "643",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "totalStars": "7.1k",
+      "dailyGrowth": "594",
+      "description": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     }
   ],
   "hackerNews": [
     {
-      "title": "Show HN：在我的慢速计算机上运行 GLM 5.2",
-      "originalTitle": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 472
+      "title": "新研究表明爱因斯坦的相对论规则了重元素中的化学键",
+      "originalTitle": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 144
     },
     {
-      "title": "欧盟议会批准聊天控制 1.0",
-      "originalTitle": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1103
+      "title": "QuadRF 可以发现无人机并透过墙壁查看 WiFi",
+      "originalTitle": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 496
     },
     {
-      "title": "显示 HN：18 个字",
-      "originalTitle": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 892
+      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密",
+      "originalTitle": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 717
     },
     {
-      "title": "仅由一个人创建的火车模拟游戏被称为有史以来最好的火车模拟游戏",
-      "originalTitle": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 386
+      "title": "iroh 供电的智能风扇",
+      "originalTitle": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "score": 47
     },
     {
-      "title": "GPT-5.6",
-      "originalTitle": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1143
+      "title": "住宅代理和抓取情况的更新",
+      "originalTitle": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "score": 129
     },
     {
-      "title": "采访 Mitchell Hashimoto 关于 Ghostty 和 Zig",
-      "originalTitle": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 173
+      "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf]",
+      "originalTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 388
     },
     {
-      "title": "Apple Silicon Exec 解释 Mac Mini 人工智能需求和设备上的未来",
-      "originalTitle": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 18
+      "title": "SpaceX 希望再发射 10 万颗 Starlink 卫星，带宽增加 100 倍",
+      "originalTitle": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "score": 115
     },
     {
-      "title": "Postgres 用 Rust 重写，现已通过 100% 的 Postgres 回归测试",
-      "originalTitle": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 476
+      "title": "《终结者 2》的技术——口述历史 (2017)",
+      "originalTitle": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 189
     },
     {
-      "title": "HY3",
-      "originalTitle": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 417
+      "title": "MiMo v2.5 推理优化：将混合 SWA 效率推向极限",
+      "originalTitle": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "score": 56
     },
     {
-      "title": "研究：“妈妈，你比我更爱你的手机吗？”",
-      "originalTitle": "Study: \"Mommy, do you love your phone more than me?\"",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-      "score": 40
+      "title": "好工具是看不见的",
+      "originalTitle": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 382
     }
   ],
-  "updateTime": "7/10/2026, 4:57:23 AM"
+  "updateTime": "7/11/2026, 4:17:08 AM"
 }
