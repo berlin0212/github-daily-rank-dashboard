@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "totalStars": "20.5k",
-      "dailyGrowth": "2102",
-      "description": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "totalStars": "15k",
+      "dailyGrowth": "707",
+      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
       "rank": 2,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "totalStars": "14.3k",
-      "dailyGrowth": "1055",
-      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "15.6k",
+      "dailyGrowth": "685",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
       "rank": 3,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "80k",
-      "dailyGrowth": "995",
+      "totalStars": "80.7k",
+      "dailyGrowth": "628",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "totalStars": "76.7k",
-      "dailyGrowth": "975",
-      "description": "AI 编码代理的生产级工程技能。"
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "totalStars": "7.7k",
+      "dailyGrowth": "589",
+      "description": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     },
     {
       "rank": 5,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "15.9k",
-      "dailyGrowth": "901",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "totalStars": "77.3k",
+      "dailyGrowth": "586",
+      "description": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 6,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "14.9k",
-      "dailyGrowth": "710",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
-    },
-    {
-      "rank": 7,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "81.8k",
-      "dailyGrowth": "691",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": 8,
       "name": "x4gKing/X4G",
       "url": "https://github.com/x4gKing/X4G",
-      "totalStars": "3.9k",
-      "dailyGrowth": "638",
+      "totalStars": "4.4k",
+      "dailyGrowth": "535",
       "description": ""
     },
     {
+      "rank": 7,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "totalStars": "21k",
+      "dailyGrowth": "532",
+      "description": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
+    },
+    {
+      "rank": 8,
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "totalStars": "23.1k",
+      "dailyGrowth": "524",
+      "description": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
+    },
+    {
       "rank": 9,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "totalStars": "54.4k",
-      "dailyGrowth": "600",
-      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "82.3k",
+      "dailyGrowth": "498",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": 10,
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "totalStars": "7.1k",
-      "dailyGrowth": "594",
-      "description": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "totalStars": "19.6k",
+      "dailyGrowth": "492",
+      "description": "“Vibe-Trading：您的个人交易代理”"
     }
   ],
   "hackerNews": [
     {
-      "title": "新研究表明爱因斯坦的相对论规则了重元素中的化学键",
-      "originalTitle": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 144
+      "title": "我们知道简单的流体可以流动。事实证明，有些会骨折",
+      "originalTitle": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "score": 41
     },
     {
-      "title": "QuadRF 可以发现无人机并透过墙壁查看 WiFi",
-      "originalTitle": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 496
+      "title": "Mesh LLM：iroh 上的分布式 AI 计算",
+      "originalTitle": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 154
     },
     {
-      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密",
-      "originalTitle": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 717
+      "title": "为什么要在 2026 年编写代码",
+      "originalTitle": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "score": 4
     },
     {
-      "title": "iroh 供电的智能风扇",
-      "originalTitle": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "title": "一个纯方案的Web编程工具",
+      "originalTitle": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "score": 42
+    },
+    {
+      "title": "Show HN：Ant – JavaScript 运行时和生态系统",
+      "originalTitle": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 210
+    },
+    {
+      "title": "我没有杀斯坦利·利伯：如何画画（与 9front 合作）",
+      "originalTitle": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "score": 32
+    },
+    {
+      "title": "RISCBoy 是一款开源便携式游戏机，从头开始设计",
+      "originalTitle": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 84
+    },
+    {
+      "title": "蜂窝计算的能源成本 (2012)",
+      "originalTitle": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "score": 14
+    },
+    {
+      "title": "Nvidia、CoreWeave 和 Nebius：GPU 繁荣的循环融资内部",
+      "originalTitle": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 197
+    },
+    {
+      "title": "可靠唤醒的坞站",
+      "originalTitle": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
       "score": 47
-    },
-    {
-      "title": "住宅代理和抓取情况的更新",
-      "originalTitle": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 129
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf]",
-      "originalTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 388
-    },
-    {
-      "title": "SpaceX 希望再发射 10 万颗 Starlink 卫星，带宽增加 100 倍",
-      "originalTitle": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "score": 115
-    },
-    {
-      "title": "《终结者 2》的技术——口述历史 (2017)",
-      "originalTitle": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 189
-    },
-    {
-      "title": "MiMo v2.5 推理优化：将混合 SWA 效率推向极限",
-      "originalTitle": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "score": 56
-    },
-    {
-      "title": "好工具是看不见的",
-      "originalTitle": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 382
     }
   ],
-  "updateTime": "7/11/2026, 4:17:08 AM"
+  "updateTime": "7/12/2026, 4:28:40 AM"
 }
