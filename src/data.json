@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
-      "totalStars": "65.6k",
-      "dailyGrowth": "3500",
+      "totalStars": "69k",
+      "dailyGrowth": "3347",
       "description": "开源 CapCut 替代方案"
     },
     {
       "rank": 2,
       "name": "safishamsi/graphify",
       "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "84.4k",
-      "dailyGrowth": "2045",
+      "totalStars": "86.1k",
+      "dailyGrowth": "1719",
       "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": 3,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "totalStars": "21.6k",
-      "dailyGrowth": "1994",
+      "totalStars": "22.7k",
+      "dailyGrowth": "1162",
       "description": "“Vibe-Trading：您的个人交易代理”"
     },
     {
       "rank": 4,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "18.1k",
-      "dailyGrowth": "1757",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "totalStars": "6k",
+      "dailyGrowth": "1018",
+      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
       "rank": 5,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "82.2k",
-      "dailyGrowth": "1499",
-      "description": ""
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "19k",
+      "dailyGrowth": "942",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
       "rank": 6,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "16.7k",
-      "dailyGrowth": "1123",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "83k",
+      "dailyGrowth": "844",
+      "description": ""
     },
     {
       "rank": 7,
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "totalStars": "3.8k",
-      "dailyGrowth": "1039",
-      "description": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
-    },
-    {
-      "rank": 8,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "totalStars": "16k",
-      "dailyGrowth": "1001",
-      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 9,
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "totalStars": "12.5k",
-      "dailyGrowth": "968",
+      "totalStars": "13.3k",
+      "dailyGrowth": "824",
       "description": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
     },
     {
+      "rank": 8,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "totalStars": "39.2k",
+      "dailyGrowth": "763",
+      "description": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
+    },
+    {
+      "rank": 9,
+      "name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "totalStars": "51.5k",
+      "dailyGrowth": "762",
+      "description": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
+    },
+    {
       "rank": 10,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "totalStars": "31k",
-      "dailyGrowth": "959",
-      "description": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "totalStars": "16.7k",
+      "dailyGrowth": "633",
+      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     }
   ],
   "hackerNews": [
     {
-      "title": "日本开发出一种从废旧电动汽车电池中回收高达 90% 锂的方法",
-      "originalTitle": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 89
+      "title": "侏罗纪公园电脑的细节令人难以忍受",
+      "originalTitle": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 44
     },
     {
-      "title": "无线通信基础知识",
-      "originalTitle": "Fundamentals of Wireless Communication",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 52
+      "title": "温哥华警察局网站设有“快速退出”按钮，可将其从历史记录中删除",
+      "originalTitle": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 177
     },
     {
-      "title": "Git历史命令值得更多关注",
-      "originalTitle": "The Git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 119
+      "title": "TS-2026-009：Tailscale SSH 中的不安全参数处理允许 root 访问",
+      "originalTitle": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 70
     },
     {
-      "title": "递归自我完善的经济学 [pdf]",
-      "originalTitle": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 33
+      "title": "Bonsai 27B：在手机上运行的 27B 级模型",
+      "originalTitle": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 487
     },
     {
-      "title": "无需打开 Xcode 即可构建和发布 Mac 和 iOS 应用程序",
-      "originalTitle": "Building and shipping Mac and iOS apps without opening Xcode",
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 352
+      "title": "Dependabot 版本更新引入默认包冷却时间",
+      "originalTitle": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 127
     },
     {
-      "title": "Apple 的新 SpeechAnalyzer API，以 Whisper 及其前身为基准",
-      "originalTitle": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 488
+      "title": "使用 20 个并行运行的 Codex 帐户解决 20 个 Erdős 问题",
+      "originalTitle": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 73
     },
     {
-      "title": "一位在摄影术流行之前描绘印度的英国女人",
-      "originalTitle": "An Englishwoman who sketched India before photography took hold",
-      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "score": 78
+      "title": "塔不断拔地而起",
+      "originalTitle": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "score": 384
     },
     {
-      "title": "x86 准备好 ACE 了吗？",
-      "originalTitle": "Is x86 ready to ACE it?",
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 24
+      "title": "光标 0day：当完全披露成为唯一的保护时",
+      "originalTitle": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 285
     },
     {
-      "title": "我们还剩下什么工作要做？",
-      "originalTitle": "What will be left for us to work on?",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "score": 61
+      "title": "为人工智能热潮融资：从现金流到债务 [pdf]",
+      "originalTitle": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 112
     },
     {
-      "title": "卫星跟踪器 – Starlink 和 30k 卫星的实时地图",
-      "originalTitle": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "url": "https://satellitemap.space/",
-      "score": 22
+      "title": "LeMario：在超级马里奥兄弟上训练 JEPA 世界模型",
+      "originalTitle": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 68
     }
   ],
-  "updateTime": "7/14/2026, 4:07:13 AM"
+  "updateTime": "7/15/2026, 4:09:03 AM"
 }
