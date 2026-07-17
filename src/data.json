@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Inkling：我们的开放重量模型",
-      "originalTitle": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 792
+      "title": "Kimi K3：开放前沿智能",
+      "originalTitle": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1303
     },
     {
-      "title": "SQLite 应该有（Rust 风格）版本",
-      "originalTitle": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 155
+      "title": "微软漫画聊天现已开源",
+      "originalTitle": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 589
     },
     {
-      "title": "Grok Build 是开源的",
-      "originalTitle": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 322
+      "title": "USB Type-С 工程师指南 (2024)",
+      "originalTitle": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 27
     },
     {
-      "title": "G# – 一种现代 .NET 语言，采用 Go、Kotlin 和 Swift 人体工程学设计",
-      "originalTitle": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 58
+      "title": "LM Studio Bionic：开放模型的 AI 代理",
+      "originalTitle": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 188
     },
     {
-      "title": "蓝天商标 ATProto",
-      "originalTitle": "Bluesky Trademarks ATProto",
-      "url": "https://atproto.com/blog/at-protocol-trademark",
-      "score": 36
+      "title": "诱饵字体",
+      "originalTitle": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 452
     },
     {
-      "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf]",
-      "originalTitle": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 122
+      "title": "100 美元 AI 音乐视频：克劳德寓言 5 与 GPT-5.6 Sol",
+      "originalTitle": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 175
     },
     {
-      "title": "Tokio/Rayon 陷阱以及为什么 Async/Await 无法实现并发",
-      "originalTitle": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "score": 15
+      "title": "人在循环中很累",
+      "originalTitle": "The Human-in-the-Loop Is Tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "score": 62
     },
     {
-      "title": "人工智能互动地图",
-      "originalTitle": "An Interactive Map of AI",
-      "url": "https://artifipedia.com/map",
-      "score": 4
+      "title": "M 3.9 实验爆炸 – 佛罗里达州庞塞湾 ENE 147 公里",
+      "originalTitle": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "score": 44
     },
     {
-      "title": "如果你想从头开始创建一个按钮，你必须首先创建宇宙",
-      "originalTitle": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "score": 5
+      "title": "NotebookLM 现在更名为 Gemini Notebook",
+      "originalTitle": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 269
     },
     {
-      "title": "Stripe 和 Advent 已联合提出收购 PayPal——消息人士",
-      "originalTitle": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 389
+      "title": "Solod：Go 可以成为更好的 C",
+      "originalTitle": "Solod: Go can be a better C",
+      "url": "https://solod.dev",
+      "score": 71
     }
   ],
-  "updateTime": "7/16/2026, 4:12:37 AM"
+  "updateTime": "7/17/2026, 4:11:37 AM"
 }
