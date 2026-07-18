@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "totalStars": "71.2k",
-      "dailyGrowth": "2210",
-      "description": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 2,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "totalStars": "8k",
-      "dailyGrowth": "1984",
-      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": 3,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "87.6k",
-      "dailyGrowth": "1505",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": 4,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "totalStars": "17.6k",
-      "dailyGrowth": "979",
-      "description": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 5,
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "totalStars": "14.2k",
-      "dailyGrowth": "933",
-      "description": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
-    },
-    {
-      "rank": 6,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "83.9k",
-      "dailyGrowth": "916",
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "totalStars": "16k",
+      "dailyGrowth": "4159",
       "description": ""
     },
     {
-      "rank": 7,
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "totalStars": "23.6k",
-      "dailyGrowth": "843",
-      "description": "“Vibe-Trading：您的个人交易代理”"
+      "rank": 2,
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "totalStars": "8.6k",
+      "dailyGrowth": "3359",
+      "description": ""
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "totalStars": "12k",
+      "dailyGrowth": "1317",
+      "description": "用于从流数据重建场景的前馈 3D 基础模型"
+    },
+    {
+      "rank": 4,
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "90.1k",
+      "dailyGrowth": "1268",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+    },
+    {
+      "rank": 5,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "totalStars": "11.9k",
+      "dailyGrowth": "1265",
+      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": 6,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "totalStars": "74.7k",
+      "dailyGrowth": "894",
+      "description": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 7,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "totalStars": "19.8k",
-      "dailyGrowth": "758",
+      "totalStars": "21.1k",
+      "dailyGrowth": "614",
       "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": 8,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "totalStars": "85.2k",
+      "dailyGrowth": "565",
+      "description": ""
+    },
+    {
       "rank": 9,
-      "name": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "totalStars": "52.2k",
-      "dailyGrowth": "740",
-      "description": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "totalStars": "27.3k",
+      "dailyGrowth": "492",
+      "description": "《DeepTutor：Agent-原生个性化学习助手》"
     },
     {
       "rank": 10,
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "totalStars": "5.8k",
-      "dailyGrowth": "648",
-      "description": "成为一名出色的 AI/ML 研究工程师"
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "totalStars": "17.6k",
+      "dailyGrowth": "489",
+      "description": "位于您终端中的代理多路复用器。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Kimi K3：开放前沿智能",
-      "originalTitle": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1303
+      "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟",
+      "originalTitle": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 370
     },
     {
-      "title": "微软漫画聊天现已开源",
-      "originalTitle": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 589
+      "title": "AWS：预估账单数据不准确 – 17 亿美元",
+      "originalTitle": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1086
     },
     {
-      "title": "USB Type-С 工程师指南 (2024)",
-      "originalTitle": "An Engineer's Guide to USB Typе-С (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 27
+      "title": "感谢 HN 15 年来的支持并帮助我找到了我一生的工作",
+      "originalTitle": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 426
     },
     {
-      "title": "LM Studio Bionic：开放模型的 AI 代理",
-      "originalTitle": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 188
+      "title": "Zilog Z80 已经 50 岁了",
+      "originalTitle": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 183
     },
     {
-      "title": "诱饵字体",
-      "originalTitle": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 452
+      "title": "在遥远恒星的宜居带中的类地行星上发现了第一个大气层",
+      "originalTitle": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 397
     },
     {
-      "title": "100 美元 AI 音乐视频：克劳德寓言 5 与 GPT-5.6 Sol",
-      "originalTitle": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 175
+      "title": "Moonstone：用 Zig 编写的现代跨平台 Lua 运行时和包管理器",
+      "originalTitle": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "score": 19
     },
     {
-      "title": "人在循环中很累",
-      "originalTitle": "The Human-in-the-Loop Is Tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "score": 62
+      "title": "Isomorphic Labs 药物设计引擎开启了 AlphaFold 之外的新领域",
+      "originalTitle": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 50
     },
     {
-      "title": "M 3.9 实验爆炸 – 佛罗里达州庞塞湾 ENE 147 公里",
-      "originalTitle": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "score": 44
+      "title": "TP-Link Kasa 相机通过未经身份验证的 UDP 泄露家庭 GPS 长达 6 年",
+      "originalTitle": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 60
     },
     {
-      "title": "NotebookLM 现在更名为 Gemini Notebook",
-      "originalTitle": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 269
+      "title": "我开始了一本“污垢笔记本”",
+      "originalTitle": "I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 28
     },
     {
-      "title": "Solod：Go 可以成为更好的 C",
-      "originalTitle": "Solod: Go can be a better C",
-      "url": "https://solod.dev",
-      "score": 71
+      "title": "了解有关运行 SQLite 的一些知识",
+      "originalTitle": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 186
     }
   ],
-  "updateTime": "7/17/2026, 4:11:37 AM"
+  "updateTime": "7/18/2026, 4:03:57 AM"
 }
