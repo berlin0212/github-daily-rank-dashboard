@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "totalStars": "16k",
-      "dailyGrowth": "4159",
-      "description": ""
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "totalStars": "3.6k",
+      "dailyGrowth": "3632",
+      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
     },
     {
       "rank": 2,
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "totalStars": "8.6k",
-      "dailyGrowth": "3359",
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "totalStars": "18.5k",
+      "dailyGrowth": "2493",
       "description": ""
     },
     {
       "rank": 3,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "totalStars": "12k",
-      "dailyGrowth": "1317",
-      "description": "用于从流数据重建场景的前馈 3D 基础模型"
-    },
-    {
-      "rank": 4,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "90.1k",
-      "dailyGrowth": "1268",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": 5,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "totalStars": "11.9k",
-      "dailyGrowth": "1265",
-      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": 6,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "totalStars": "74.7k",
-      "dailyGrowth": "894",
-      "description": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 7,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "21.1k",
-      "dailyGrowth": "614",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": 8,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "85.2k",
-      "dailyGrowth": "565",
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "totalStars": "9.7k",
+      "dailyGrowth": "1100",
       "description": ""
     },
     {
+      "rank": 4,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "totalStars": "12.8k",
+      "dailyGrowth": "903",
+      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": 5,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "totalStars": "12.7k",
+      "dailyGrowth": "770",
+      "description": "用于从流数据重建场景的前馈 3D 基础模型"
+    },
+    {
+      "rank": 6,
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "90.8k",
+      "dailyGrowth": "761",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+    },
+    {
+      "rank": 7,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "totalStars": "75.3k",
+      "dailyGrowth": "645",
+      "description": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 8,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "21.7k",
+      "dailyGrowth": "642",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
       "rank": 9,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "totalStars": "27.3k",
-      "dailyGrowth": "492",
-      "description": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "totalStars": "42.6k",
+      "dailyGrowth": "590",
+      "description": "开源语音合成工作室"
     },
     {
       "rank": 10,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "totalStars": "17.6k",
-      "dailyGrowth": "489",
-      "description": "位于您终端中的代理多路复用器。"
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "totalStars": "9.3k",
+      "dailyGrowth": "495",
+      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     }
   ],
   "hackerNews": [
     {
-      "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟",
-      "originalTitle": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 370
+      "title": "转录.cpp",
+      "originalTitle": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 220
     },
     {
-      "title": "AWS：预估账单数据不准确 – 17 亿美元",
-      "originalTitle": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1086
+      "title": "小于 500kb 的语音识别和 TTS",
+      "originalTitle": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 344
     },
     {
-      "title": "感谢 HN 15 年来的支持并帮助我找到了我一生的工作",
-      "originalTitle": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 426
+      "title": "比 IPTV 更好、更便宜",
+      "originalTitle": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 76
     },
     {
-      "title": "Zilog Z80 已经 50 岁了",
-      "originalTitle": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 183
+      "title": "FDA 批准新型胆固醇药",
+      "originalTitle": "FDA approves new kind of cholesterol pill",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "score": 17
     },
     {
-      "title": "在遥远恒星的宜居带中的类地行星上发现了第一个大气层",
-      "originalTitle": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 397
+      "title": "数学家仍然不知道最快的数字乘法",
+      "originalTitle": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "score": 40
     },
     {
-      "title": "Moonstone：用 Zig 编写的现代跨平台 Lua 运行时和包管理器",
-      "originalTitle": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
-      "score": 19
+      "title": "经典 Amiga 游戏，免费下载",
+      "originalTitle": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "score": 77
     },
     {
-      "title": "Isomorphic Labs 药物设计引擎开启了 AlphaFold 之外的新领域",
-      "originalTitle": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "score": 50
+      "title": "LLM-综合多变量微积分课程",
+      "originalTitle": "LLM-Integrated Multivariable Calculus Course",
+      "url": "https://calculus.academa.ai/",
+      "score": 15
     },
     {
-      "title": "TP-Link Kasa 相机通过未经身份验证的 UDP 泄露家庭 GPS 长达 6 年",
-      "originalTitle": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 60
+      "title": "如果你建造它，他们就会来",
+      "originalTitle": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "score": 322
     },
     {
-      "title": "我开始了一本“污垢笔记本”",
-      "originalTitle": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 28
+      "title": "复古 Macintosh 软件的视觉目录",
+      "originalTitle": "A Visual Catalog of Retro Macintosh Software",
+      "url": "https://www.marciot.com/mac68k-visual-catalog/",
+      "score": 13
     },
     {
-      "title": "了解有关运行 SQLite 的一些知识",
-      "originalTitle": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 186
+      "title": "GPT-5.6使用提示缩小了凸优化30年的差距",
+      "originalTitle": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 525
     }
   ],
-  "updateTime": "7/18/2026, 4:03:57 AM"
+  "updateTime": "7/19/2026, 4:24:48 AM"
 }
