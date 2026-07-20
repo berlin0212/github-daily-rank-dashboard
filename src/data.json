@@ -68,80 +68,80 @@
       "rank": 9,
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "42.6k",
-      "dailyGrowth": "590",
+      "totalStars": "43.2k",
+      "dailyGrowth": "574",
       "description": "开源语音合成工作室"
     },
     {
       "rank": 10,
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
       "totalStars": "9.3k",
-      "dailyGrowth": "495",
-      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "dailyGrowth": "545",
+      "description": "适用于边缘设备的快速准确的自动语音识别 (ASR)"
     }
   ],
   "hackerNews": [
     {
-      "title": "转录.cpp",
-      "originalTitle": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 220
+      "title": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统",
+      "originalTitle": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 1805
     },
     {
-      "title": "小于 500kb 的语音识别和 TTS",
-      "originalTitle": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 344
+      "title": "Claude Code 现在使用 Rust 编写的 Bun",
+      "originalTitle": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 433
     },
     {
-      "title": "比 IPTV 更好、更便宜",
-      "originalTitle": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 76
+      "title": "克劳德·寓言提出了雅可比猜想的反例",
+      "originalTitle": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "score": 118
     },
     {
-      "title": "FDA 批准新型胆固醇药",
-      "originalTitle": "FDA approves new kind of cholesterol pill",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
-      "score": 17
+      "title": "Moonshine：让您可以将游戏从 PC 传输到任何运行 Moonlight 的设备",
+      "originalTitle": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "score": 30
     },
     {
-      "title": "数学家仍然不知道最快的数字乘法",
-      "originalTitle": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 40
+      "title": "我从销售 2,500 台 MIDI 录音机中学到的东西：硬件并不难",
+      "originalTitle": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 438
     },
     {
-      "title": "经典 Amiga 游戏，免费下载",
-      "originalTitle": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 77
+      "title": "并行编程之禅",
+      "originalTitle": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 131
     },
     {
-      "title": "LLM-综合多变量微积分课程",
-      "originalTitle": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "score": 15
+      "title": "Kagi 的 Orion 浏览器",
+      "originalTitle": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "score": 101
     },
     {
-      "title": "如果你建造它，他们就会来",
-      "originalTitle": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 322
+      "title": "Minecraft：Java 版现在使用 SDL3",
+      "originalTitle": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 286
     },
     {
-      "title": "复古 Macintosh 软件的视觉目录",
-      "originalTitle": "A Visual Catalog of Retro Macintosh Software",
-      "url": "https://www.marciot.com/mac68k-visual-catalog/",
-      "score": 13
+      "title": "最大的概率计算机将噪音转化为答案",
+      "originalTitle": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "score": 53
     },
     {
-      "title": "GPT-5.6使用提示缩小了凸优化30年的差距",
-      "originalTitle": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 525
+      "title": "美国的荷马是谁？",
+      "originalTitle": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "score": 54
     }
   ],
-  "updateTime": "7/19/2026, 4:24:48 AM"
+  "updateTime": "7/20/2026, 4:39:02 AM"
 }
