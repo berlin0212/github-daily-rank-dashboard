@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统",
-      "originalTitle": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "score": 1805
+      "title": "谁害怕中国模特？",
+      "originalTitle": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 401
     },
     {
-      "title": "Claude Code 现在使用 Rust 编写的 Bun",
-      "originalTitle": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 433
+      "title": "由 10 磅 3D 打印机废料制成的锦鲤池马赛克",
+      "originalTitle": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "score": 7
     },
     {
-      "title": "克劳德·寓言提出了雅可比猜想的反例",
-      "originalTitle": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 118
+      "title": "基米工作",
+      "originalTitle": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 444
     },
     {
-      "title": "Moonshine：让您可以将游戏从 PC 传输到任何运行 Moonlight 的设备",
-      "originalTitle": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "score": 30
+      "title": "Jelly UI：原生 HTML 表单控件的软体物理",
+      "originalTitle": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 393
     },
     {
-      "title": "我从销售 2,500 台 MIDI 录音机中学到的东西：硬件并不难",
-      "originalTitle": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 438
+      "title": "人类数学家正在被反例击败",
+      "originalTitle": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "score": 266
     },
     {
-      "title": "并行编程之禅",
-      "originalTitle": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 131
+      "title": "Jellyfin 创始人 Andrew 离开团队",
+      "originalTitle": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "score": 151
     },
     {
-      "title": "Kagi 的 Orion 浏览器",
-      "originalTitle": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "score": 101
+      "title": "黑客擦除罗马尼亚土地登记数据库",
+      "originalTitle": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 601
     },
     {
-      "title": "Minecraft：Java 版现在使用 SDL3",
-      "originalTitle": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 286
+      "title": "在我们的定制 CPU 上运行 Doom 并迅速走红",
+      "originalTitle": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "score": 5
     },
     {
-      "title": "最大的概率计算机将噪音转化为答案",
-      "originalTitle": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "score": 53
+      "title": "多次向市议会、警察和公众撒谎，导致信誉丧失",
+      "originalTitle": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "score": 211
     },
     {
-      "title": "美国的荷马是谁？",
-      "originalTitle": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "score": 54
+      "title": "Nativ：在 Mac 上本地运行前沿开放模型",
+      "originalTitle": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 217
     }
   ],
-  "updateTime": "7/20/2026, 4:39:02 AM"
+  "updateTime": "7/21/2026, 4:18:03 AM"
 }
