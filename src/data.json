@@ -6,7 +6,7 @@
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "totalStars": "3.6k",
       "dailyGrowth": "3632",
-      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
+      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一个命令：/council"
     },
     {
       "rank": 2,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件",
-      "originalTitle": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 849
+      "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话",
+      "originalTitle": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 695
     },
     {
-      "title": "Kimi K3与神鬼寓言有竞争力； 《Kimi K3》和《神鬼寓言》是 SoTA",
-      "originalTitle": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 407
+      "title": "高质量的非小说类书籍是人工智能的对立面",
+      "originalTitle": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 225
     },
     {
-      "title": "LG 将禁止智能电视应用程序使用住宅代理",
-      "originalTitle": "LG to ban residential proxies from smart TV apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "score": 80
+      "title": "git 的 –end-of-options 标志",
+      "originalTitle": "git's –end-of-options Flag",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "score": 15
     },
     {
-      "title": "FreeInk：电子阅读器的开放生态系统",
-      "originalTitle": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
-      "score": 456
+      "title": "GigaToken：语言模型标记化速度提高约 1000 倍",
+      "originalTitle": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 408
     },
     {
-      "title": "雅可比猜想反例的消化",
-      "originalTitle": "A digestion of the Jacobian conjecture counterexample",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "score": 214
+      "title": "Show HN: Bento - 一个 HTML 文件中的整个 PowerPoint（编辑+查看+数据+协作）",
+      "originalTitle": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 707
     },
     {
-      "title": "在 ChatGPT 中做广告",
-      "originalTitle": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "score": 491
+      "title": "美第奇家族400多年之谜或将解开",
+      "originalTitle": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 96
     },
     {
-      "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
-      "originalTitle": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 638
+      "title": "每个人都应该知道SIMD",
+      "originalTitle": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "score": 309
     },
     {
-      "title": "Late.sh – 计算机人的命令行俱乐部",
-      "originalTitle": "Late.sh – a command-line Clubhouse for computer people",
-      "url": "https://late.sh/",
-      "score": 27
+      "title": "人工智能实验室是鹈鹕最大化吗？",
+      "originalTitle": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 426
     },
     {
-      "title": "迈向幸福的十步 (2015)",
-      "originalTitle": "Ten Steps Towards Happiness (2015)",
-      "url": "http://hintjens.com/blog:99",
-      "score": 53
+      "title": "ascdraw：ASCII/UTF-8 图表编辑器（144FPS）",
+      "originalTitle": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "url": "https://github.com/exlee/ascdraw",
+      "score": 14
     },
     {
-      "title": "法官批准用于训练克劳德的盗版书籍的 $1.5B 人为和解",
-      "originalTitle": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "score": 191
+      "title": "重组 GitHub 的 bug 赏金计划",
+      "originalTitle": "Restructuring GitHub's bug bounty program",
+      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "score": 16
     }
   ],
-  "updateTime": "7/22/2026, 4:20:50 AM"
+  "updateTime": "7/23/2026, 4:19:07 AM"
 }
