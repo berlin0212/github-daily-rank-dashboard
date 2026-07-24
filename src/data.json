@@ -6,7 +6,7 @@
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "totalStars": "3.6k",
       "dailyGrowth": "3632",
-      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一个命令：/council"
+      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
     },
     {
       "rank": 2,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话",
-      "originalTitle": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 695
+      "title": "98.CSS",
+      "originalTitle": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 347
     },
     {
-      "title": "高质量的非小说类书籍是人工智能的对立面",
-      "originalTitle": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 225
+      "title": "Plex 的企业扩张：为什么是时候转向 Jellyfin 了",
+      "originalTitle": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+      "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+      "score": 42
     },
     {
-      "title": "git 的 –end-of-options 标志",
-      "originalTitle": "git's –end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 15
+      "title": "手写对大脑有好处",
+      "originalTitle": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 1066
     },
     {
-      "title": "GigaToken：语言模型标记化速度提高约 1000 倍",
-      "originalTitle": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 408
+      "title": "视觉6502",
+      "originalTitle": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 70
     },
     {
-      "title": "Show HN: Bento - 一个 HTML 文件中的整个 PowerPoint（编辑+查看+数据+协作）",
-      "originalTitle": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 707
+      "title": "显示 HN：Echo – 使用开放权重模型以 1/3 成本获得寓言级结果",
+      "originalTitle": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 268
     },
     {
-      "title": "美第奇家族400多年之谜或将解开",
-      "originalTitle": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 96
+      "title": "光束发动机",
+      "originalTitle": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 209
     },
     {
-      "title": "每个人都应该知道SIMD",
-      "originalTitle": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 309
+      "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能",
+      "originalTitle": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 795
     },
     {
-      "title": "人工智能实验室是鹈鹕最大化吗？",
-      "originalTitle": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 426
+      "title": "TheNumbers.com 发生了什么",
+      "originalTitle": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 316
     },
     {
-      "title": "ascdraw：ASCII/UTF-8 图表编辑器（144FPS）",
-      "originalTitle": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "url": "https://github.com/exlee/ascdraw",
-      "score": 14
+      "title": "人们还在gradient.horse上画了什么？",
+      "originalTitle": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "score": 66
     },
     {
-      "title": "重组 GitHub 的 bug 赏金计划",
-      "originalTitle": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "score": 16
+      "title": "为什么软件工厂失败（或者：利用工程还不够）",
+      "originalTitle": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 220
     }
   ],
-  "updateTime": "7/23/2026, 4:19:07 AM"
+  "updateTime": "7/24/2026, 4:19:24 AM"
 }
