@@ -6,7 +6,7 @@
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "totalStars": "3.6k",
       "dailyGrowth": "3632",
-      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一个命令：/council"
+      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
     },
     {
       "rank": 2,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "近距离工作5",
-      "originalTitle": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1385
+      "title": "Show HN：我绘制了美国每个高尔夫球场的地图 - 超过 16,000 个球场，免费，无需注册",
+      "originalTitle": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "url": "https://golfcoursebrowser.com/",
+      "score": 56
     },
     {
-      "title": "Postgres LISTEN/NOTIFY 实际上可以扩展",
-      "originalTitle": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 238
+      "title": "捷零航空",
+      "originalTitle": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "score": 92
     },
     {
-      "title": "泰勒农场致电白宫试图推迟环孢菌召回",
-      "originalTitle": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "score": 68
+      "title": "我办公桌上的基于 ESP32 的平面雷达",
+      "originalTitle": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "score": 32
     },
     {
-      "title": "抹香鲸通过吹泡泡来实现安宁的垂直睡眠",
-      "originalTitle": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "score": 55
+      "title": "人类并没有停止进化",
+      "originalTitle": "Humans Haven't Stopped Evolving",
+      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+      "score": 24
     },
     {
-      "title": "印度第一枚私人开发的火箭首次发射进入轨道",
-      "originalTitle": "India's first privately-developed rocket reaches orbit on debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 538
+      "title": "被盗的纽扣",
+      "originalTitle": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "score": 638
     },
     {
-      "title": "回复：再见头像",
-      "originalTitle": "Re: Bye Bye Gravatar",
-      "url": "https://unattributed.cc/re-bye-bye-gravatar",
-      "score": 9
+      "title": "Inflect-Micro-v2：9.36M参数的完整语音",
+      "originalTitle": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "score": 53
     },
     {
-      "title": "Opus 5 目前在人工智能分析排行榜上排名第一",
-      "originalTitle": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "score": 189
+      "title": "Claude 5代模型的上下文工程新规则",
+      "originalTitle": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 216
     },
     {
-      "title": "我的安全摄像头在其登录页面中发送了 GitHub 管理令牌",
-      "originalTitle": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 535
+      "title": "系统和延误",
+      "originalTitle": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "score": 39
     },
     {
-      "title": "Show HN：我根据真实石油贸易数据模拟关闭霍尔木兹海峡",
-      "originalTitle": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 127
+      "title": "几十年来的临床失败率：哎呀",
+      "originalTitle": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "score": 71
     },
     {
-      "title": "如果编码已经解决了，为什么软件却越来越糟糕？",
-      "originalTitle": "If coding has been solved, why does software keep getting worse?",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 617
+      "title": "Cloudflare 为客户提供的新 AI 流量选项",
+      "originalTitle": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "score": 65
     }
   ],
-  "updateTime": "7/25/2026, 4:15:25 AM"
+  "updateTime": "7/26/2026, 4:30:20 AM"
 }
