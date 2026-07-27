@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "0xNyk/council-of-high-intelligence",
-      "url": "https://github.com/0xNyk/council-of-high-intelligence",
-      "totalStars": "3.6k",
-      "dailyGrowth": "3632",
-      "description": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "totalStars": "11.6k",
+      "dailyGrowth": "2104",
+      "description": "蜂巢思维交流平台"
     },
     {
       "rank": 2,
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "totalStars": "18.5k",
-      "dailyGrowth": "2493",
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "totalStars": "4.7k",
+      "dailyGrowth": "1350",
       "description": ""
     },
     {
       "rank": 3,
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "totalStars": "9.7k",
-      "dailyGrowth": "1100",
-      "description": ""
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "29.9k",
+      "dailyGrowth": "1257",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
       "rank": 4,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "totalStars": "12.8k",
-      "dailyGrowth": "903",
-      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "3.4k",
+      "dailyGrowth": "1002",
+      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
     },
     {
       "rank": 5,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "totalStars": "12.7k",
-      "dailyGrowth": "770",
-      "description": "用于从流数据重建场景的前馈 3D 基础模型"
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "totalStars": "4.9k",
+      "dailyGrowth": "725",
+      "description": "Instatic 是一个现代的自托管视觉 CMS - 1 分钟内即可运行"
     },
     {
       "rank": 6,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "90.8k",
-      "dailyGrowth": "761",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": 7,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "totalStars": "75.3k",
-      "dailyGrowth": "645",
-      "description": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 8,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "totalStars": "21.7k",
-      "dailyGrowth": "642",
+      "totalStars": "28.9k",
+      "dailyGrowth": "675",
       "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": 7,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "totalStars": "19.7k",
+      "dailyGrowth": "672",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "rank": 8,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "totalStars": "17.6k",
+      "dailyGrowth": "626",
+      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
       "rank": 9,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "totalStars": "43.2k",
-      "dailyGrowth": "574",
-      "description": "开源语音合成工作室"
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "totalStars": "95.7k",
+      "dailyGrowth": "584",
+      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": 10,
-      "name": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "totalStars": "9.3k",
-      "dailyGrowth": "545",
-      "description": "适用于边缘设备的快速准确的自动语音识别 (ASR)"
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "totalStars": "70.5k",
+      "dailyGrowth": "543",
+      "description": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
     }
   ],
   "hackerNews": [
     {
-      "title": "Show HN：我绘制了美国每个高尔夫球场的地图 - 超过 16,000 个球场，免费，无需注册",
-      "originalTitle": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-      "url": "https://golfcoursebrowser.com/",
-      "score": 56
+      "title": "PGSimCity - PostgreSQL 的工作原理",
+      "originalTitle": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 269
     },
     {
-      "title": "捷零航空",
-      "originalTitle": "JetZero",
-      "url": "https://www.jetzero.aero",
-      "score": 92
+      "title": "Show HN：可以放在房间里的物理精确黑洞",
+      "originalTitle": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "score": 139
     },
     {
-      "title": "我办公桌上的基于 ESP32 的平面雷达",
-      "originalTitle": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 32
+      "title": "Baby 的雅可比猜想",
+      "originalTitle": "Jacobian Conjecture for Baby",
+      "url": "https://muchmirul.github.io/jacobian-conjecture/",
+      "score": 60
     },
     {
-      "title": "人类并没有停止进化",
-      "originalTitle": "Humans Haven't Stopped Evolving",
-      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-      "score": 24
+      "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台",
+      "originalTitle": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 260
     },
     {
-      "title": "被盗的纽扣",
-      "originalTitle": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 638
+      "title": "法国消防员首次遭遇“火积雨云”",
+      "originalTitle": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 230
     },
     {
-      "title": "Inflect-Micro-v2：9.36M参数的完整语音",
-      "originalTitle": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "score": 53
+      "title": "Vercel 的 Scriptc：TypeScript 到 Native 编译器，二进制中没有 JavaScript 引擎",
+      "originalTitle": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "score": 67
     },
     {
-      "title": "Claude 5代模型的上下文工程新规则",
-      "originalTitle": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 216
+      "title": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控",
+      "originalTitle": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 388
     },
     {
-      "title": "系统和延误",
-      "originalTitle": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "score": 39
+      "title": "我们现在有证明自动化",
+      "originalTitle": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 119
     },
     {
-      "title": "几十年来的临床失败率：哎呀",
-      "originalTitle": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "score": 71
+      "title": "Htmx 4.0，第一个专门在 Game Boy 上发布的 JavaScript 库",
+      "originalTitle": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 389
     },
     {
-      "title": "Cloudflare 为客户提供的新 AI 流量选项",
-      "originalTitle": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "score": 65
+      "title": "面向数据的设计简介 [pdf]",
+      "originalTitle": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 140
     }
   ],
-  "updateTime": "7/26/2026, 4:30:20 AM"
+  "updateTime": "7/27/2026, 4:40:58 AM"
 }
