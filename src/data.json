@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "totalStars": "11.6k",
-      "dailyGrowth": "2104",
-      "description": "蜂巢思维交流平台"
-    },
-    {
-      "rank": 2,
       "name": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
-      "totalStars": "4.7k",
-      "dailyGrowth": "1350",
+      "totalStars": "8.5k",
+      "dailyGrowth": "3774",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "totalStars": "32k",
+      "dailyGrowth": "3403",
+      "description": "蓝牙网状聊天、IRC 氛围"
+    },
+    {
       "rank": 3,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "29.9k",
-      "dailyGrowth": "1257",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "totalStars": "14.5k",
+      "dailyGrowth": "2923",
+      "description": "蜂巢思维交流平台"
     },
     {
       "rank": 4,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "3.4k",
-      "dailyGrowth": "1002",
-      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
-    },
-    {
-      "rank": 5,
-      "name": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "totalStars": "4.9k",
-      "dailyGrowth": "725",
-      "description": "Instatic 是一个现代的自托管视觉 CMS - 1 分钟内即可运行"
-    },
-    {
-      "rank": 6,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "28.9k",
-      "dailyGrowth": "675",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": 7,
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "totalStars": "19.7k",
-      "dailyGrowth": "672",
+      "totalStars": "22.6k",
+      "dailyGrowth": "2861",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
+      "rank": 5,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "32k",
+      "dailyGrowth": "2135",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+    },
+    {
+      "rank": 6,
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "5.4k",
+      "dailyGrowth": "1981",
+      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
+    },
+    {
+      "rank": 7,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "totalStars": "14.6k",
+      "dailyGrowth": "1817",
+      "description": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
+    },
+    {
       "rank": 8,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "totalStars": "17.6k",
-      "dailyGrowth": "626",
-      "description": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "30.7k",
+      "dailyGrowth": "1772",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
       "rank": 9,
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "totalStars": "95.7k",
-      "dailyGrowth": "584",
-      "description": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "totalStars": "78.9k",
+      "dailyGrowth": "1406",
+      "description": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
       "rank": 10,
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "totalStars": "70.5k",
-      "dailyGrowth": "543",
-      "description": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "51.4k",
+      "dailyGrowth": "1362",
+      "description": "设计语言可以让您的 AI 线束更好地进行设计。"
     }
   ],
   "hackerNews": [
     {
-      "title": "PGSimCity - PostgreSQL 的工作原理",
-      "originalTitle": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 269
+      "title": "我们对开放重量模型的立场",
+      "originalTitle": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 595
     },
     {
-      "title": "Show HN：可以放在房间里的物理精确黑洞",
-      "originalTitle": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 139
+      "title": "使用开放模型感觉出奇的好",
+      "originalTitle": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "score": 80
     },
     {
-      "title": "Baby 的雅可比猜想",
-      "originalTitle": "Jacobian Conjecture for Baby",
-      "url": "https://muchmirul.github.io/jacobian-conjecture/",
-      "score": 60
+      "title": "售价 500 美元的 RL 9B 开放式模型在目录审查中击败了前沿模型",
+      "originalTitle": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "score": 49
     },
     {
-      "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台",
-      "originalTitle": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 260
+      "title": "在 SlopCodeBench 上对 Opus 5 进行基准测试",
+      "originalTitle": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 184
     },
     {
-      "title": "法国消防员首次遭遇“火积雨云”",
-      "originalTitle": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 230
+      "title": "宇航员描述六个月任务后持续的“观察者”感觉",
+      "originalTitle": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 121
     },
     {
-      "title": "Vercel 的 Scriptc：TypeScript 到 Native 编译器，二进制中没有 JavaScript 引擎",
-      "originalTitle": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "score": 67
+      "title": "住宅代理是国家安全威胁",
+      "originalTitle": "Residential Proxies Are a National Security Threat",
+      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
+      "score": 24
     },
     {
-      "title": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控",
-      "originalTitle": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 388
+      "title": "RTX 2080 Ti 内存升级至 22 GB",
+      "originalTitle": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "score": 53
     },
     {
-      "title": "我们现在有证明自动化",
-      "originalTitle": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 119
+      "title": "EYG：人类编程语言",
+      "originalTitle": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "score": 26
     },
     {
-      "title": "Htmx 4.0，第一个专门在 Game Boy 上发布的 JavaScript 库",
-      "originalTitle": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 389
+      "title": "观察 Go 的新垃圾收集器在堆中移动",
+      "originalTitle": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 182
     },
     {
-      "title": "面向数据的设计简介 [pdf]",
-      "originalTitle": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 140
+      "title": "为 Zig 打包的 C/C++ 项目",
+      "originalTitle": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "score": 39
     }
   ],
-  "updateTime": "7/27/2026, 4:40:58 AM"
+  "updateTime": "7/28/2026, 4:14:26 AM"
 }
