@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "totalStars": "8.5k",
-      "dailyGrowth": "3774",
-      "description": ""
-    },
-    {
-      "rank": 2,
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "totalStars": "32k",
-      "dailyGrowth": "3403",
-      "description": "蓝牙网状聊天、IRC 氛围"
-    },
-    {
-      "rank": 3,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "totalStars": "14.5k",
-      "dailyGrowth": "2923",
-      "description": "蜂巢思维交流平台"
-    },
-    {
-      "rank": 4,
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "totalStars": "22.6k",
-      "dailyGrowth": "2861",
+      "totalStars": "24.3k",
+      "dailyGrowth": "1674",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "totalStars": "9.9k",
+      "dailyGrowth": "1479",
+      "description": ""
+    },
+    {
+      "rank": 3,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "totalStars": "12.5k",
+      "dailyGrowth": "1278",
+      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
+      "rank": 4,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "32k",
-      "dailyGrowth": "2135",
+      "totalStars": "33k",
+      "dailyGrowth": "999",
       "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
-      "rank": 6,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "5.4k",
-      "dailyGrowth": "1981",
-      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
-    },
-    {
-      "rank": 7,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "totalStars": "14.6k",
-      "dailyGrowth": "1817",
-      "description": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "totalStars": "30.7k",
-      "dailyGrowth": "1772",
+      "totalStars": "31.7k",
+      "dailyGrowth": "994",
       "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": 6,
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "totalStars": "11.9k",
+      "dailyGrowth": "983",
+      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+    },
+    {
+      "rank": 7,
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "totalStars": "33k",
+      "dailyGrowth": "982",
+      "description": "蓝牙网状聊天、IRC 氛围"
+    },
+    {
+      "rank": 8,
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "totalStars": "15.3k",
+      "dailyGrowth": "839",
+      "description": "蜂巢思维交流平台"
+    },
+    {
       "rank": 9,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "totalStars": "78.9k",
-      "dailyGrowth": "1406",
-      "description": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "totalStars": "52.2k",
+      "dailyGrowth": "787",
+      "description": "设计语言可以让您的 AI 线束更好地进行设计。"
     },
     {
       "rank": 10,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "51.4k",
-      "dailyGrowth": "1362",
-      "description": "设计语言可以让您的 AI 线束更好地进行设计。"
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "totalStars": "15.4k",
+      "dailyGrowth": "783",
+      "description": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     }
   ],
   "hackerNews": [
     {
-      "title": "我们对开放重量模型的立场",
-      "originalTitle": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 595
+      "title": "法典安全",
+      "originalTitle": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 399
     },
     {
-      "title": "使用开放模型感觉出奇的好",
-      "originalTitle": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "score": 80
+      "title": "LearnVector – 吴恩达的人工智能公司构建一对一的学习体验",
+      "originalTitle": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 78
     },
     {
-      "title": "售价 500 美元的 RL 9B 开放式模型在目录审查中击败了前沿模型",
-      "originalTitle": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 49
+      "title": "显示 HN：我厌倦了为每个 HN 链接打开 2 个选项卡，所以我制作了一个用户脚本",
+      "originalTitle": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 187
     },
     {
-      "title": "在 SlopCodeBench 上对 Opus 5 进行基准测试",
-      "originalTitle": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 184
+      "title": "《半条命》移植到 Mac OS 9",
+      "originalTitle": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 186
     },
     {
-      "title": "宇航员描述六个月任务后持续的“观察者”感觉",
-      "originalTitle": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 121
+      "title": "子堆栈作者，您需要一个网站",
+      "originalTitle": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 457
     },
     {
-      "title": "住宅代理是国家安全威胁",
-      "originalTitle": "Residential Proxies Are a National Security Threat",
-      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-      "score": 24
+      "title": "Wayland 中的多个鼠标光标",
+      "originalTitle": "Multiple Mouse Cursors in Wayland",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "score": 46
     },
     {
-      "title": "RTX 2080 Ti 内存升级至 22 GB",
-      "originalTitle": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 53
+      "title": "Hubble：为您和您的代理提供的开源笔记应用程序",
+      "originalTitle": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "score": 67
     },
     {
-      "title": "EYG：人类编程语言",
-      "originalTitle": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 26
+      "title": "十年自学编程（1998）",
+      "originalTitle": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 77
     },
     {
-      "title": "观察 Go 的新垃圾收集器在堆中移动",
-      "originalTitle": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 182
+      "title": "真相不是方向：Tarski 对 LLM 探测器的攻击",
+      "originalTitle": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 40
     },
     {
-      "title": "为 Zig 打包的 C/C++ 项目",
-      "originalTitle": "C/C++ projects packaged for Zig",
-      "url": "https://github.com/allyourcodebase",
-      "score": 39
+      "title": "ReFrame – 电子纸相机",
+      "originalTitle": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 59
     }
   ],
-  "updateTime": "7/28/2026, 4:14:26 AM"
+  "updateTime": "7/29/2026, 4:16:35 AM"
 }
