@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "totalStars": "24.3k",
-      "dailyGrowth": "1674",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    },
-    {
-      "rank": 2,
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "totalStars": "9.9k",
-      "dailyGrowth": "1479",
+      "name": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "totalStars": "5.3k",
+      "dailyGrowth": "1940",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "totalStars": "26.1k",
+      "dailyGrowth": "1868",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
       "rank": 3,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "totalStars": "12.5k",
-      "dailyGrowth": "1278",
-      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
-    },
-    {
-      "rank": 4,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "33k",
-      "dailyGrowth": "999",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
-    },
-    {
-      "rank": 5,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "31.7k",
-      "dailyGrowth": "994",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": 6,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "totalStars": "11.9k",
-      "dailyGrowth": "983",
-      "description": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 7,
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "totalStars": "33k",
-      "dailyGrowth": "982",
-      "description": "蓝牙网状聊天、IRC 氛围"
-    },
-    {
-      "rank": 8,
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
-      "totalStars": "15.3k",
-      "dailyGrowth": "839",
+      "totalStars": "16.8k",
+      "dailyGrowth": "1449",
       "description": "蜂巢思维交流平台"
     },
     {
+      "rank": 4,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "totalStars": "12.5k",
+      "dailyGrowth": "1327",
+      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+    },
+    {
+      "rank": 5,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "34k",
+      "dailyGrowth": "998",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+    },
+    {
+      "rank": 6,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "32.6k",
+      "dailyGrowth": "960",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
+      "rank": 7,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "totalStars": "19.5k",
+      "dailyGrowth": "922",
+      "description": ""
+    },
+    {
+      "rank": 8,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "totalStars": "13.4k",
+      "dailyGrowth": "879",
+      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
       "rank": 9,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "totalStars": "52.2k",
-      "dailyGrowth": "787",
-      "description": "设计语言可以让您的 AI 线束更好地进行设计。"
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "totalStars": "10.3k",
+      "dailyGrowth": "837",
+      "description": "系统交易的精彩库、软件包、策略、书籍、博客、教程的精选列表。"
     },
     {
       "rank": 10,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "totalStars": "15.4k",
-      "dailyGrowth": "783",
-      "description": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "62.4k",
+      "dailyGrowth": "779",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
   "hackerNews": [
     {
-      "title": "法典安全",
-      "originalTitle": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "score": 399
+      "title": "NSF 试行四年制博士学位与行业研究实习",
+      "originalTitle": "NSF pilots 4-year PhDs with industry research placements",
+      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "score": 45
     },
     {
-      "title": "LearnVector – 吴恩达的人工智能公司构建一对一的学习体验",
-      "originalTitle": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "score": 78
+      "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果",
+      "originalTitle": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 290
     },
     {
-      "title": "显示 HN：我厌倦了为每个 HN 链接打开 2 个选项卡，所以我制作了一个用户脚本",
-      "originalTitle": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 187
+      "title": "Vision Pro 最酷的用途",
+      "originalTitle": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 471
     },
     {
-      "title": "《半条命》移植到 Mac OS 9",
-      "originalTitle": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 186
+      "title": "显示 HN：在任何 M 系列 Mac 上运行 Gemma 4 26B、2 GB RAM 的开源引擎",
+      "originalTitle": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "score": 694
     },
     {
-      "title": "子堆栈作者，您需要一个网站",
-      "originalTitle": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 457
+      "title": "超逻辑",
+      "originalTitle": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "score": 569
     },
     {
-      "title": "Wayland 中的多个鼠标光标",
-      "originalTitle": "Multiple Mouse Cursors in Wayland",
-      "url": "https://blinry.org/multi-seat-wayland/",
-      "score": 46
+      "title": "法学硕士蜜罐",
+      "originalTitle": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 110
     },
     {
-      "title": "Hubble：为您和您的代理提供的开源笔记应用程序",
-      "originalTitle": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
-      "score": 67
+      "title": "Keychron 发布首款游戏鼠标开源固件",
+      "originalTitle": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 317
     },
     {
-      "title": "十年自学编程（1998）",
-      "originalTitle": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
-      "score": 77
+      "title": "冰冷的电子邮件",
+      "originalTitle": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 126
     },
     {
-      "title": "真相不是方向：Tarski 对 LLM 探测器的攻击",
-      "originalTitle": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "score": 40
+      "title": "前沿实验室特工入侵剖析：2026 年 7 月事件的时间表",
+      "originalTitle": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "score": 319
     },
     {
-      "title": "ReFrame – 电子纸相机",
-      "originalTitle": "ReFrame – The EPaper Camera",
-      "url": "https://reframe.camera/",
-      "score": 59
+      "title": "生产力的幻象",
+      "originalTitle": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 90
     }
   ],
-  "updateTime": "7/29/2026, 4:16:35 AM"
+  "updateTime": "7/30/2026, 4:10:01 AM"
 }
