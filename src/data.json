@@ -30,7 +30,7 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "totalStars": "13.6k",
       "dailyGrowth": "1089",
-      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 5,
@@ -50,14 +50,6 @@
     },
     {
       "rank": 7,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "totalStars": "14.1k",
-      "dailyGrowth": "796",
-      "description": "编码剂线束"
-    },
-    {
-      "rank": 8,
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "totalStars": "8.6k",
@@ -65,12 +57,20 @@
       "description": "使用开源模型构建本地语音代理"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "totalStars": "18.6k",
       "dailyGrowth": "758",
       "description": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
+    },
+    {
+      "rank": 9,
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "totalStars": "11.7k",
+      "dailyGrowth": "748",
+      "description": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
     },
     {
       "rank": 10,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "加州含水层可能已经到了无可挽回的地步",
-      "originalTitle": "A California aquifer may have crossed the point of no return",
-      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-      "score": 71
+      "title": "Flint：AI时代的可视化语言",
+      "originalTitle": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 29
     },
     {
-      "title": "人工智能美学",
-      "originalTitle": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "score": 195
+      "title": "电梯",
+      "originalTitle": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 1023
     },
     {
-      "title": "在购买电视流媒体棒之前请先阅读此内容",
-      "originalTitle": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 622
+      "title": "开发管道是一个生产系统",
+      "originalTitle": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 29
     },
     {
-      "title": "我标记了两篇假作者的研究论文，并且都被接受为口头论文",
-      "originalTitle": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 131
+      "title": "如何存在",
+      "originalTitle": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 75
     },
     {
-      "title": "人工智能交易现在依靠借来的资金进行，贷方正在重新定价",
-      "originalTitle": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "url": "https://greyswansignals.com/?theme=dark",
-      "score": 4
+      "title": "qm – 多人工作代理工具",
+      "originalTitle": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "score": 510
     },
     {
-      "title": "Stacked PR 现已发布在 GitHub 上",
-      "originalTitle": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 522
+      "title": "合一软件",
+      "originalTitle": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "score": 52
     },
     {
-      "title": "代理技能以 ASD-STE100 简化技术英语强制文档",
-      "originalTitle": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 243
+      "title": "宝马蜘蛛侠车内广告",
+      "originalTitle": "BMW Spider-Man in-car advertising",
+      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+      "score": 72
     },
     {
-      "title": "Gemini Robotics 2 为机器人带来全身智能",
-      "originalTitle": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 506
+      "title": "渐进式 Web 组件",
+      "originalTitle": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 119
     },
     {
-      "title": "与像穴居人这样的特工交谈可以节省 65% 的代币吗？我们测试",
-      "originalTitle": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
-      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-      "score": 30
+      "title": "矩阵一周",
+      "originalTitle": "A Week in Matrix",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "score": 12
     },
     {
-      "title": "债券市场并不买美联储主席沃什所推销的东西",
-      "originalTitle": "The bond market isn't buying what Fed Chair Warsh is selling",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
-      "score": 40
+      "title": "阿尔贝·加缪的荒诞",
+      "originalTitle": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 75
     }
   ],
-  "updateTime": "7/31/2026, 4:26:59 AM"
+  "updateTime": "8/1/2026, 4:23:35 AM"
 }
