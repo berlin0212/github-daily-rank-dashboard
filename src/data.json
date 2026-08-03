@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "插电式太阳能即将到来。插入式电池应遵循",
-      "originalTitle": "Plug-in solar is coming. Plug-in batteries should follow",
-      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-      "score": 55
+      "title": "Qwen3.8-Max：编码和协作的新标杆",
+      "originalTitle": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "score": 185
     },
     {
-      "title": "Go 1.27 互动导览",
-      "originalTitle": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 84
+      "title": "显示 HN：Isopolis – SF 的等距像素图",
+      "originalTitle": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "score": 105
     },
     {
-      "title": "MkLinux 和 Apple Workgroup Server 9150",
-      "originalTitle": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 19
+      "title": "CP/M-386 – 用于 386 保护模式的 CP/M，源自 CP/M-68K",
+      "originalTitle": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "score": 45
     },
     {
-      "title": "种子舞2.5",
-      "originalTitle": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 225
+      "title": "卡帕蒂鹈鹕",
+      "originalTitle": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 493
     },
     {
-      "title": "双向性",
-      "originalTitle": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 247
+      "title": "显示 HN: ssh ssh.place",
+      "originalTitle": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "score": 66
     },
     {
-      "title": "华擎 BC-250：打造经济实惠的蒸汽机",
-      "originalTitle": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 31
+      "title": "Show HN：手写博客平台",
+      "originalTitle": "Show HN: A Handwritten Blogging Platform",
+      "url": "https://handwritten.blog/",
+      "score": 37
     },
     {
-      "title": "深海车辆在太平洋深处发现“外星”鲨鱼",
-      "originalTitle": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-      "score": 14
+      "title": "为什么图书角不会将贡献同步回 OpenStreetMap",
+      "originalTitle": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "score": 66
     },
     {
-      "title": "Show HN：我是一名 15 岁的工程师，这是我建造的摆线齿轮箱",
-      "originalTitle": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 49
+      "title": "6502 处理器上的自回归语言模型",
+      "originalTitle": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 75
     },
     {
-      "title": "RFC 10015：弃用 TLS 1.2 和 DTLS 1.2 中过时的密钥交换方法",
-      "originalTitle": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "score": 43
+      "title": "Show HN：Kakehashi – 在 Linux ARM 上运行 macOS 二进制文件的实验用户空间",
+      "originalTitle": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "score": 194
     },
     {
-      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-      "originalTitle": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 221
+      "title": "笔记和个人知识管理",
+      "originalTitle": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "score": 157
     }
   ],
-  "updateTime": "8/2/2026, 4:26:46 AM"
+  "updateTime": "8/3/2026, 4:34:16 AM"
 }
