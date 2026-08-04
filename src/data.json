@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "totalStars": "56.8k",
-      "dailyGrowth": "3084",
-      "description": "12 周，24 节课，全民人工智能！"
-    },
-    {
-      "rank": 2,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "totalStars": "20.3k",
-      "dailyGrowth": "2024",
-      "description": "蜂巢思维交流平台"
-    },
-    {
-      "rank": 3,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "36.9k",
-      "dailyGrowth": "1933",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
-    },
-    {
-      "rank": 4,
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "totalStars": "29.1k",
-      "dailyGrowth": "1808",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    },
-    {
-      "rank": 5,
-      "name": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "totalStars": "10.1k",
-      "dailyGrowth": "1569",
-      "description": "使用开源模型构建本地语音代理"
-    },
-    {
-      "rank": 6,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "totalStars": "35.1k",
-      "dailyGrowth": "1397",
-      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": 7,
-      "name": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "totalStars": "19.9k",
-      "dailyGrowth": "1314",
-      "description": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
-    },
-    {
-      "rank": 8,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "93.4k",
-      "dailyGrowth": "1140",
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "totalStars": "9.2k",
+      "dailyGrowth": "4372",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "totalStars": "60.6k",
+      "dailyGrowth": "3810",
+      "description": "12 周，24 节课，全民人工智能！"
+    },
+    {
+      "rank": 3,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "totalStars": "15.4k",
+      "dailyGrowth": "3692",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "rank": 4,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "totalStars": "38.7k",
+      "dailyGrowth": "1763",
+      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+    },
+    {
+      "rank": 5,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "totalStars": "11.9k",
+      "dailyGrowth": "1740",
+      "description": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
+    },
+    {
+      "rank": 6,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "totalStars": "65.6k",
+      "dailyGrowth": "1714",
+      "description": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+    },
+    {
+      "rank": 7,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "totalStars": "30.8k",
+      "dailyGrowth": "1687",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "rank": 8,
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "totalStars": "21.7k",
+      "dailyGrowth": "1460",
+      "description": "蜂巢思维交流平台"
+    },
+    {
       "rank": 9,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "totalStars": "56.6k",
-      "dailyGrowth": "1140",
-      "description": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "totalStars": "36.5k",
+      "dailyGrowth": "1410",
+      "description": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
       "rank": 10,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "totalStars": "11.7k",
-      "dailyGrowth": "1127",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "totalStars": "26.8k",
+      "dailyGrowth": "1327",
+      "description": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     }
   ],
   "hackerNews": [
     {
-      "title": "Qwen3.8-Max：编码和协作的新标杆",
-      "originalTitle": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 185
+      "title": "法学硕士奖励专业知识",
+      "originalTitle": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 593
     },
     {
-      "title": "显示 HN：Isopolis – SF 的等距像素图",
-      "originalTitle": "Show HN: Isopolis – Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "score": 105
+      "title": "亚马逊文明估计 3% 的森林面积中有 300 万人",
+      "originalTitle": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "score": 81
     },
     {
-      "title": "CP/M-386 – 用于 386 保护模式的 CP/M，源自 CP/M-68K",
-      "originalTitle": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "score": 45
+      "title": "Show HN：在 Mac 上运行 4.3 GB RAM 中的 80B Qwen，在 iPhone 上运行 35B",
+      "originalTitle": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "score": 35
     },
     {
-      "title": "卡帕蒂鹈鹕",
-      "originalTitle": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 493
+      "title": "数学和理论计算机科学的十大进展",
+      "originalTitle": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 478
     },
     {
-      "title": "显示 HN: ssh ssh.place",
-      "originalTitle": "Show HN: ssh ssh.place",
-      "url": "https://ssh.place",
-      "score": 66
+      "title": "开发工具必须是开源的",
+      "originalTitle": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "score": 536
     },
     {
-      "title": "Show HN：手写博客平台",
-      "originalTitle": "Show HN: A Handwritten Blogging Platform",
-      "url": "https://handwritten.blog/",
-      "score": 37
+      "title": "那次我微软面试没通过",
+      "originalTitle": "That time when I failed the Microsoft interview",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "score": 21
     },
     {
-      "title": "为什么图书角不会将贡献同步回 OpenStreetMap",
-      "originalTitle": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "score": 66
+      "title": "问 HN：谁在招聘？ （2026 年 8 月）",
+      "originalTitle": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "score": 129
     },
     {
-      "title": "6502 处理器上的自回归语言模型",
-      "originalTitle": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 75
+      "title": "更小、更快、更安全：大规模运行 Kimi 和 GLM",
+      "originalTitle": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "score": 170
     },
     {
-      "title": "Show HN：Kakehashi – 在 Linux ARM 上运行 macOS 二进制文件的实验用户空间",
-      "originalTitle": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "score": 194
+      "title": "适用于 Itanium 的 Windows XP 2002：肆无忌惮的愤怒",
+      "originalTitle": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "score": 74
     },
     {
-      "title": "笔记和个人知识管理",
-      "originalTitle": "Note-Taking and Personal Knowledge Management",
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "score": 157
+      "title": "询问 HN：谁想被雇用？ （2026 年 8 月）",
+      "originalTitle": "Ask HN: Who wants to be hired? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156682",
+      "score": 81
     }
   ],
-  "updateTime": "8/3/2026, 4:34:16 AM"
+  "updateTime": "8/4/2026, 4:17:21 AM"
 }
