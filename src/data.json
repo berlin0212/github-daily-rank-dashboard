@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "totalStars": "17.7k",
-      "dailyGrowth": "2258",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "rank": 2,
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "9.8k",
-      "dailyGrowth": "1837",
-      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
-    },
-    {
-      "rank": 3,
-      "name": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "totalStars": "11k",
-      "dailyGrowth": "1793",
-      "description": ""
-    },
-    {
-      "rank": 4,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "totalStars": "13.3k",
-      "dailyGrowth": "1369",
+      "totalStars": "14.9k",
+      "dailyGrowth": "1629",
       "description": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
+      "rank": 2,
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "totalStars": "6k",
+      "dailyGrowth": "1584",
+      "description": ""
+    },
+    {
+      "rank": 3,
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "totalStars": "11.3k",
+      "dailyGrowth": "1477",
+      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+    },
+    {
+      "rank": 4,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "totalStars": "19k",
+      "dailyGrowth": "1316",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
       "rank": 5,
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "totalStars": "28.2k",
-      "dailyGrowth": "1367",
-      "description": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "totalStars": "16.9k",
+      "dailyGrowth": "595",
+      "description": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 6,
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "totalStars": "4.5k",
-      "dailyGrowth": "1291",
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "totalStars": "11.6k",
+      "dailyGrowth": "594",
       "description": ""
     },
     {
       "rank": 7,
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "totalStars": "48.1k",
-      "dailyGrowth": "1133",
-      "description": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
-    },
-    {
-      "rank": 8,
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "totalStars": "61.6k",
-      "dailyGrowth": "1021",
-      "description": "12 周，24 节课，全民人工智能！"
-    },
-    {
-      "rank": 9,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "totalStars": "95.8k",
-      "dailyGrowth": "995",
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "totalStars": "3.4k",
+      "dailyGrowth": "525",
       "description": ""
     },
     {
+      "rank": 8,
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "totalStars": "19.7k",
+      "dailyGrowth": "510",
+      "description": "使用编码代理编辑视频"
+    },
+    {
+      "rank": 9,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "totalStars": "17.2k",
+      "dailyGrowth": "505",
+      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
       "rank": 10,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "totalStars": "39.5k",
-      "dailyGrowth": "873",
-      "description": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "8.7k",
+      "dailyGrowth": "364",
+      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
     }
   ],
   "hackerNews": [
     {
-      "title": "libexpat 现在由慕尼黑市资助长达 6 个月",
-      "originalTitle": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 192
+      "title": "各国政府正在对人工智能热潮做出危险的赌注",
+      "originalTitle": "Governments are making a dangerous bet on the AI boom",
+      "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+      "score": 27
     },
     {
-      "title": "损失后，散户投资者涌向 3 倍杠杆，因为 2 倍产品受到限制",
-      "originalTitle": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
-      "score": 39
+      "title": "纳什维尔使用征用权封锁动物园附近的数据中心",
+      "originalTitle": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "score": 107
     },
     {
-      "title": "Pi的极简主义是它的优势",
-      "originalTitle": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 180
+      "title": "探索环路",
+      "originalTitle": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "score": 649
     },
     {
-      "title": "Mistral 的 Shieldstral：用于多模式调节的 3B 开放权重模型",
-      "originalTitle": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 339
+      "title": "Zed DeltaDB",
+      "originalTitle": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 336
     },
     {
-      "title": "关于软件工程和 GenAI 的八个误区",
-      "originalTitle": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 115
+      "title": "谷歌 DeepMind 人事变动：Demis Hassabis 从首席执行官转为董事长，Jeff Dean 离职",
+      "originalTitle": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 539
     },
     {
-      "title": "WebKit 中的 IP 和 DNS 泄漏影响代理浏览器和 iCloud Private Relay",
-      "originalTitle": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 61
+      "title": "鸟儿喜欢飞翔吗？加拉 (E Roseicapilla) 飞行后的影响分析",
+      "originalTitle": "Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)",
+      "url": "https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml",
+      "score": 12
     },
     {
-      "title": "DuckDB – 适用于笔记本电脑的数据强大工具，现已在 Clojure 中提供（2023 年）",
-      "originalTitle": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 68
+      "title": "《银翼杀手》中的标题卡太棒了",
+      "originalTitle": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 189
     },
     {
-      "title": "Show HN：简单的算法和色彩空间来生成多样化的肤色",
-      "originalTitle": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 479
+      "title": "Muse 代码和 Muse Spark 1.2",
+      "originalTitle": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 208
     },
     {
-      "title": "Zigbee 与 Matter over Thread：了解物联网协议的实践性能",
-      "originalTitle": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "url": "https://arxiv.org/abs/2603.04221",
-      "score": 43
+      "title": "法学硕士不会破坏对称加密",
+      "originalTitle": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "score": 56
     },
     {
-      "title": "Show HN：Maple-Preview – 三元 20B MoE 在 iPhone 上以 120 tok/s 运行",
-      "originalTitle": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-      "url": "https://deepgrove.ai/maple-preview",
-      "score": 77
+      "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol",
+      "originalTitle": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 250
     }
   ],
-  "updateTime": "8/5/2026, 4:15:12 AM"
+  "updateTime": "8/6/2026, 4:17:35 AM"
 }
