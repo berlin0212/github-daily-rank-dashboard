@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc",
-      "totalStars": "7.8k",
-      "dailyGrowth": "3008",
+      "totalStars": "10.7k",
+      "dailyGrowth": "2909",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "totalStars": "4.6k",
-      "dailyGrowth": "1971",
-      "description": "给你的代理人一台电脑👾"
-    },
-    {
-      "rank": 3,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "totalStars": "16.2k",
-      "dailyGrowth": "1257",
+      "totalStars": "17.4k",
+      "dailyGrowth": "1242",
       "description": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
-      "rank": 4,
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "totalStars": "7.1k",
-      "dailyGrowth": "1067",
-      "description": ""
+      "rank": 3,
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "totalStars": "5.5k",
+      "dailyGrowth": "816",
+      "description": "给你的代理人一台电脑👾"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "12.3k",
-      "dailyGrowth": "1023",
+      "totalStars": "13k",
+      "dailyGrowth": "709",
       "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
-      "rank": 6,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "totalStars": "19.8k",
-      "dailyGrowth": "772",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      "rank": 5,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "totalStars": "18.2k",
+      "dailyGrowth": "693",
+      "description": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
-      "totalStars": "2.8k",
-      "dailyGrowth": "710",
+      "totalStars": "3.3k",
+      "dailyGrowth": "587",
       "description": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
     },
     {
-      "rank": 8,
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "totalStars": "17.5k",
-      "dailyGrowth": "583",
-      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "totalStars": "17.7k",
-      "dailyGrowth": "471",
+      "totalStars": "18.1k",
+      "dailyGrowth": "409",
       "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
+      "rank": 8,
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "totalStars": "3.2k",
+      "dailyGrowth": "408",
+      "description": ""
+    },
+    {
+      "rank": 9,
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "totalStars": "19.6k",
+      "dailyGrowth": "387",
+      "description": "这是为什么运行？"
+    },
+    {
       "rank": 10,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "9.1k",
-      "dailyGrowth": "404",
-      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "totalStars": "7.4k",
+      "dailyGrowth": "343",
+      "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "AMD 收购 Taalas，通过在硅中蚀刻模型来提高推理性能",
-      "originalTitle": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 450
+      "title": "Nixpkgs核心团队已解散",
+      "originalTitle": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "score": 118
     },
     {
-      "title": "黑客通过劫持儿童智能手表来跟踪我",
-      "originalTitle": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-      "score": 23
+      "title": "NASA 将让其已有 48 年历史的航行者 2 号探测器再运行一年",
+      "originalTitle": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 35
     },
     {
-      "title": "马里奥遇见帕累托",
-      "originalTitle": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 925
+      "title": "DeepSeek V4 闪存 0731",
+      "originalTitle": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 488
     },
     {
-      "title": "科学家发现太阳表面的开尔文-亥姆霍兹不稳定性",
-      "originalTitle": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 168
+      "title": "美国能源部启动 Genesis 开放模型计划",
+      "originalTitle": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "score": 119
     },
     {
-      "title": "我不再信任 USB-C 电缆标签并开始测试它们",
-      "originalTitle": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "score": 113
+      "title": "耻辱大会堂",
+      "originalTitle": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "score": 269
     },
     {
-      "title": "剩下的就是味道",
-      "originalTitle": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 250
+      "title": "古代图书馆 – 1,060 篇希腊/拉丁文本，点击任意单词即可解析",
+      "originalTitle": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 160
     },
     {
-      "title": "欢迎尼泊尔政府让我被抓",
-      "originalTitle": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "score": 108
+      "title": "如果整个阶层的工人对自己的职业失去信心会发生什么",
+      "originalTitle": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 457
     },
     {
-      "title": "生物工程口香糖可能提供对抗 HPV 和其他微生物的方法",
-      "originalTitle": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 69
-    },
-    {
-      "title": "Herdr 即将加入 Y Combinator。运行时保持开放",
-      "originalTitle": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "title": "应对关键网络能力的下一个前沿",
+      "originalTitle": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
       "score": 163
     },
     {
-      "title": "改进 ChatGPT 中的 GPT-5.6 Sol，扩展免费用户的 GPT-5.6 Luna 访问权限",
-      "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 173
+      "title": "超级杜珀勒",
+      "originalTitle": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "score": 16
+    },
+    {
+      "title": "大规模管理人工智能编码成本",
+      "originalTitle": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 177
     }
   ],
-  "updateTime": "8/7/2026, 3:52:58 AM"
+  "updateTime": "8/8/2026, 2:56:28 AM"
 }
