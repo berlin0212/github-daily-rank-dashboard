@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "totalStars": "8.5k",
-      "dailyGrowth": "2213",
+      "totalStars": "12.9k",
+      "dailyGrowth": "4381",
       "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 2,
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "totalStars": "12k",
-      "dailyGrowth": "1297",
-      "description": ""
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "totalStars": "4k",
+      "dailyGrowth": "1446",
+      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": 3,
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "totalStars": "6.5k",
-      "dailyGrowth": "1027",
-      "description": "给你的代理人一台电脑👾"
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "totalStars": "13.4k",
+      "dailyGrowth": "1356",
+      "description": ""
     },
     {
       "rank": 4,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "totalStars": "18.1k",
-      "dailyGrowth": "723",
+      "totalStars": "19.3k",
+      "dailyGrowth": "1195",
       "description": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
       "rank": 5,
       "name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "totalStars": "18.8k",
-      "dailyGrowth": "606",
-      "description": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "totalStars": "19.9k",
+      "dailyGrowth": "1115",
+      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 6,
       "name": "FareedKhan-dev/kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "totalStars": "3.7k",
-      "dailyGrowth": "499",
+      "totalStars": "4.6k",
+      "dailyGrowth": "908",
       "description": ""
     },
     {
       "rank": 7,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "totalStars": "10.6k",
-      "dailyGrowth": "465",
-      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "totalStars": "7.4k",
+      "dailyGrowth": "894",
+      "description": "给你的代理人一台电脑👾"
     },
     {
       "rank": 8,
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "13.4k",
-      "dailyGrowth": "440",
+      "totalStars": "14.3k",
+      "dailyGrowth": "881",
       "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": 9,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "totalStars": "18.5k",
-      "dailyGrowth": "388",
-      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "totalStars": "16.4k",
+      "dailyGrowth": "627",
+      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": 10,
-      "name": "denoland/celld",
-      "url": "https://github.com/denoland/celld",
-      "totalStars": "2.5k",
-      "dailyGrowth": "343",
-      "description": "自托管、分布式持久对象"
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "totalStars": "19.1k",
+      "dailyGrowth": "595",
+      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     }
   ],
   "hackerNews": [
     {
-      "title": "HackerOne 发生了什么？",
-      "originalTitle": "What Happened to HackerOne?",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "title": "英国的匿名战争已经蔓延至美国",
+      "originalTitle": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "score": 294
+    },
+    {
+      "title": "Antirez/h3.c：适用于 Mac 计算机的 MiniMax H3 推理引擎",
+      "originalTitle": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "url": "https://github.com/antirez/h3.c",
       "score": 39
     },
     {
-      "title": "我如何利用法学硕士学习复杂的主题",
-      "originalTitle": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 472
+      "title": "鸡计划6.0",
+      "originalTitle": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 73
     },
     {
-      "title": "我们如何将 CDC 推入 Postgres",
-      "originalTitle": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 36
+      "title": "显示 HN：滚动浏览所有 43252003274489856000 魔方状态",
+      "originalTitle": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 91
     },
     {
-      "title": "问 HN：你在做什么？ （2026 年 8 月）",
-      "originalTitle": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 186
+      "title": "毁了马克·吐温一生的“机械奇迹”",
+      "originalTitle": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 66
     },
     {
-      "title": "新西兰失去了音乐媒体，以及我们正在建设的东西来取代它",
-      "originalTitle": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "score": 85
+      "title": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人",
+      "originalTitle": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 207
     },
     {
-      "title": "Picophysics：适用于 N64、PSX、DC 等平台上游戏的单文件物理",
-      "originalTitle": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "score": 25
+      "title": "随着 Meta 回归开放模型，马克·扎克伯格攻击“封闭”的人工智能竞争对手",
+      "originalTitle": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 401
     },
     {
-      "title": "出租车司机很少死于阿尔茨海默氏症",
-      "originalTitle": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 201
+      "title": "世界火车地图 – 世界各地 1247 条火车路线",
+      "originalTitle": "World Train Map – 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "score": 58
     },
     {
-      "title": "“波斯语 MâR-Nâmeh Or，从蛇身上获取预兆的书”（1892 年）",
-      "originalTitle": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "score": 35
+      "title": "回收 – 软盘",
+      "originalTitle": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "score": 7
     },
     {
-      "title": "燕尾服 No. 2 – 鸡尾酒配方",
-      "originalTitle": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "score": 54
-    },
-    {
-      "title": "很酷的 URI 不会改变 (1998)",
-      "originalTitle": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 197
+      "title": "GPU 上的 Rust SIMD",
+      "originalTitle": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "score": 142
     }
   ],
-  "updateTime": "8/10/2026, 3:13:31 AM"
+  "updateTime": "8/11/2026, 3:05:50 AM"
 }
