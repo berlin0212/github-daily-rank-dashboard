@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "totalStars": "13.9k",
-      "dailyGrowth": "1087",
-      "description": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "totalStars": "9.7k",
+      "dailyGrowth": "3039",
+      "description": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
     },
     {
       "rank": 2,
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "totalStars": "14.3k",
-      "dailyGrowth": "966",
-      "description": ""
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "totalStars": "14.8k",
+      "dailyGrowth": "871",
+      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 3,
       "name": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "4.8k",
-      "dailyGrowth": "815",
+      "totalStars": "5.6k",
+      "dailyGrowth": "826",
       "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": 4,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "totalStars": "19.6k",
-      "dailyGrowth": "578",
-      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "totalStars": "15k",
+      "dailyGrowth": "694",
+      "description": ""
     },
     {
       "rank": 5,
-      "name": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "totalStars": "4.1k",
-      "dailyGrowth": "567",
-      "description": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
-    },
-    {
-      "rank": 6,
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "totalStars": "19.8k",
-      "dailyGrowth": "492",
-      "description": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
-    },
-    {
-      "rank": 7,
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "totalStars": "18.3k",
-      "dailyGrowth": "471",
-      "description": "用于放大人类能力的代理人工智能基础设施。"
-    },
-    {
-      "rank": 8,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "totalStars": "17.2k",
-      "dailyGrowth": "373",
-      "description": "编码剂线束"
-    },
-    {
-      "rank": 9,
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "14.6k",
-      "dailyGrowth": "339",
+      "totalStars": "15k",
+      "dailyGrowth": "335",
       "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
-      "rank": 10,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "totalStars": "18.2k",
-      "dailyGrowth": "281",
+      "rank": 6,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "totalStars": "20k",
+      "dailyGrowth": "315",
+      "description": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
+      "rank": 7,
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "totalStars": "11.7k",
+      "dailyGrowth": "280",
+      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+    },
+    {
+      "rank": 8,
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "totalStars": "5.1k",
+      "dailyGrowth": "264",
       "description": ""
+    },
+    {
+      "rank": 9,
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "totalStars": "4.4k",
+      "dailyGrowth": "236",
+      "description": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
+    },
+    {
+      "rank": 10,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "totalStars": "12.4k",
+      "dailyGrowth": "222",
+      "description": "使用开源模型构建本地语音代理"
     }
   ],
   "hackerNews": [
     {
-      "title": "压缩就是预测",
-      "originalTitle": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 306
+      "title": "DeepSeek V4 Pro 0813",
+      "originalTitle": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 787
     },
     {
-      "title": "WorldClaw Agentic 3D 大规模开放世界生成",
-      "originalTitle": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 148
+      "title": "三角洲",
+      "originalTitle": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 436
     },
     {
-      "title": "Nvidia Nemotron 3.5 Lightning 和 NeMo Switchyard",
-      "originalTitle": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 192
+      "title": "Tailscale 追踪数据库损坏至 16y/o SQLite WAL 重置错误",
+      "originalTitle": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 852
     },
     {
-      "title": "魔力1.0",
-      "originalTitle": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 315
+      "title": "Qwen3.8-2.4T",
+      "originalTitle": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 521
     },
     {
-      "title": "曼哈顿最勤奋的字体 (2025)",
-      "originalTitle": "The hardest working font in Manhattan (2025)",
-      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "score": 28
+      "title": "《数学原理》既现代又富有洞察力",
+      "originalTitle": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 68
     },
     {
-      "title": "从专有的 LLM API 中窃取推理痕迹",
-      "originalTitle": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 531
+      "title": "祝 IBM PC 和 Model F/XT 45 岁生日快乐",
+      "originalTitle": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 38
     },
     {
-      "title": "退休抽象",
-      "originalTitle": "Retire the Abstractions",
-      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
-      "score": 30
+      "title": "为什么要以 Common Lisp 为目标来生成代码？",
+      "originalTitle": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 46
     },
     {
-      "title": "OpenAI 道德主管加入不到一年就离职",
-      "originalTitle": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 315
+      "title": "建造宽阔，运输狭窄",
+      "originalTitle": "Build Wide, Ship Narrow",
+      "url": "https://adapt.com/blog/build-wide-ship-narrow",
+      "score": 44
     },
     {
-      "title": "鲎蓝色血液中隐藏的救生秘密",
-      "originalTitle": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-      "score": 12
+      "title": "2026 年日食网络摄像头",
+      "originalTitle": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 459
     },
     {
-      "title": "新贝德福德警官被指控使用 Flock 摄像头追踪前伴侣",
-      "originalTitle": "New Bedford police officer accused of using Flock cameras to track ex-partner",
-      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
-      "score": 53
+      "title": "AmigaDOS 开发者 Tim King 去世",
+      "originalTitle": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 242
     }
   ],
-  "updateTime": "8/12/2026, 3:24:52 AM"
+  "updateTime": "8/13/2026, 3:28:23 AM"
 }
