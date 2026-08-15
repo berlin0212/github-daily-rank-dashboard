@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "totalStars": "13.9k",
-      "dailyGrowth": "4211",
+      "totalStars": "17k",
+      "dailyGrowth": "3120",
       "description": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
     },
     {
       "rank": 2,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "6.5k",
-      "dailyGrowth": "865",
-      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
-    },
-    {
-      "rank": 3,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "totalStars": "2.5k",
-      "dailyGrowth": "856",
-      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
-    },
-    {
-      "rank": 4,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "4.8k",
-      "dailyGrowth": "704",
-      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
-    },
-    {
-      "rank": 5,
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "totalStars": "15.6k",
-      "dailyGrowth": "616",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "7.7k",
+      "dailyGrowth": "2461",
       "description": ""
     },
     {
+      "rank": 3,
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "totalStars": "7.4k",
+      "dailyGrowth": "986",
+      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
+    },
+    {
+      "rank": 4,
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "totalStars": "7.2k",
+      "dailyGrowth": "671",
+      "description": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+    },
+    {
+      "rank": 5,
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "totalStars": "5.5k",
+      "dailyGrowth": "663",
+      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+    },
+    {
       "rank": 6,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "totalStars": "15.4k",
-      "dailyGrowth": "566",
-      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "totalStars": "5.9k",
+      "dailyGrowth": "512",
+      "description": "使用本地 AI 从图像生成 3D 模型的桌面应用程序 — 完全在您的 GPU 上运行"
     },
     {
       "rank": 7,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "totalStars": "12k",
-      "dailyGrowth": "349",
-      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "totalStars": "15.9k",
+      "dailyGrowth": "492",
+      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 8,
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "15.3k",
-      "dailyGrowth": "298",
-      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "totalStars": "12.5k",
+      "dailyGrowth": "456",
+      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": 9,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "11.7k",
-      "dailyGrowth": "285",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "totalStars": "3k",
+      "dailyGrowth": "436",
+      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
     },
     {
       "rank": 10,
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "totalStars": "5.4k",
-      "dailyGrowth": "277",
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "totalStars": "16.1k",
+      "dailyGrowth": "433",
       "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "双子座3.7闪存",
-      "originalTitle": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 656
+      "title": "里氏 7.7 级地震 – 印度、印度尼西亚西北偏北 68 公里",
+      "originalTitle": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "score": 45
     },
     {
-      "title": "SparrowMap – 监视政府车辆的摄像头",
-      "originalTitle": "SparrowMap – Cameras that watch government vehicles",
-      "url": "https://sparrowmap.com/",
-      "score": 93
+      "title": "骐文3.8 27B",
+      "originalTitle": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 918
     },
     {
-      "title": "加速 GPT-5.6 Sol 超快",
-      "originalTitle": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 463
+      "title": "走向黑暗和执法黑客时代",
+      "originalTitle": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "score": 216
     },
     {
-      "title": "蓝天协议服务",
-      "originalTitle": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 88
+      "title": "Ploopy A+ 轨迹球就在这里",
+      "originalTitle": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "score": 24
     },
     {
-      "title": "你好，我。已经有一段时间了",
-      "originalTitle": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 49
+      "title": "为什么 Opus 5 使用起来感觉更糟糕？",
+      "originalTitle": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 797
     },
     {
-      "title": "DeepSeek Harness 开发者预览版",
-      "originalTitle": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 579
+      "title": "简化和重构微积分入门",
+      "originalTitle": "Simplifying and Refactoring Introductory Calculus",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "score": 21
     },
     {
-      "title": "米斯特拉尔 OCR 4.1",
-      "originalTitle": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 267
+      "title": "彻底改革美国科学的理由",
+      "originalTitle": "The case for overhauling American science",
+      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "score": 46
     },
     {
-      "title": "选择镗削技术 (2015)",
-      "originalTitle": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 277
+      "title": "谷歌正在通过同态加密使私人人工智能变得实用",
+      "originalTitle": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 288
     },
     {
-      "title": "面条化的 DRAM",
-      "originalTitle": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 515
+      "title": "RustDesk 现在支持 Wayland 上真正的无人值守远程访问",
+      "originalTitle": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 228
     },
     {
-      "title": "理解是新的瓶颈",
-      "originalTitle": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 230
+      "title": "高保真录音机永远改变了收音机",
+      "originalTitle": "Hi-Fi Tape Recorder Changed Radio Forever",
+      "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
+      "score": 10
     }
   ],
-  "updateTime": "8/14/2026, 3:25:35 AM"
+  "updateTime": "8/15/2026, 2:15:22 AM"
 }
