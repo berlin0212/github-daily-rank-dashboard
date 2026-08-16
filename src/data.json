@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "totalStars": "17k",
-      "dailyGrowth": "3120",
-      "description": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
-    },
-    {
-      "rank": 2,
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "7.7k",
-      "dailyGrowth": "2461",
+      "totalStars": "9.6k",
+      "dailyGrowth": "1841",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "totalStars": "18.4k",
+      "dailyGrowth": "1426",
+      "description": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
+    },
+    {
       "rank": 3,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "7.4k",
-      "dailyGrowth": "986",
-      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "10.8k",
+      "dailyGrowth": "553",
+      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
     },
     {
       "rank": 4,
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "totalStars": "7.2k",
-      "dailyGrowth": "671",
-      "description": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+      "name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "totalStars": "13.4k",
+      "dailyGrowth": "503",
+      "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
     },
     {
       "rank": 5,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "5.5k",
-      "dailyGrowth": "663",
+      "totalStars": "6k",
+      "dailyGrowth": "482",
       "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": 6,
-      "name": "lightningpixel/modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "totalStars": "5.9k",
-      "dailyGrowth": "512",
-      "description": "使用本地 AI 从图像生成 3D 模型的桌面应用程序 — 完全在您的 GPU 上运行"
-    },
-    {
-      "rank": 7,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "totalStars": "15.9k",
-      "dailyGrowth": "492",
-      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
-    },
-    {
-      "rank": 8,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "totalStars": "12.5k",
-      "dailyGrowth": "456",
+      "totalStars": "12.9k",
+      "dailyGrowth": "460",
       "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
+      "rank": 7,
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "totalStars": "7.9k",
+      "dailyGrowth": "431",
+      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
+    },
+    {
+      "rank": 8,
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "totalStars": "7.6k",
+      "dailyGrowth": "407",
+      "description": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+    },
+    {
       "rank": 9,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "totalStars": "3k",
-      "dailyGrowth": "436",
-      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "totalStars": "16.2k",
+      "dailyGrowth": "350",
+      "description": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
     },
     {
       "rank": 10,
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "totalStars": "16.1k",
-      "dailyGrowth": "433",
-      "description": ""
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "totalStars": "17.6k",
+      "dailyGrowth": "289",
+      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     }
   ],
   "hackerNews": [
     {
-      "title": "里氏 7.7 级地震 – 印度、印度尼西亚西北偏北 68 公里",
-      "originalTitle": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "score": 45
+      "title": "华硕自行车助推器",
+      "originalTitle": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 92
     },
     {
-      "title": "骐文3.8 27B",
-      "originalTitle": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 918
+      "title": "DuckDB 中的异步 I/O：工作、线程、工作",
+      "originalTitle": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "score": 18
     },
     {
-      "title": "走向黑暗和执法黑客时代",
-      "originalTitle": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "title": "索马鲁肽可降低痴呆风险预测",
+      "originalTitle": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 355
+    },
+    {
+      "title": "Show HN: Mic Drop，一款实时多人卡拉 OK 游戏",
+      "originalTitle": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "url": "https://www.micdrop.gg/",
+      "score": 9
+    },
+    {
+      "title": "培养新想法诞生的心态（2023）",
+      "originalTitle": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 85
+    },
+    {
+      "title": "Tea5767-收音机调谐器",
+      "originalTitle": "Tea5767-Radio-Tuner",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "score": 23
+    },
+    {
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+      "originalTitle": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 98
+    },
+    {
+      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见",
+      "originalTitle": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+      "url": "https://arxiv.org/abs/2608.13328",
+      "score": 3
+    },
+    {
+      "title": "在家检测受感染的蜱虫可以改善莱姆病的诊断",
+      "originalTitle": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
       "score": 216
     },
     {
-      "title": "Ploopy A+ 轨迹球就在这里",
-      "originalTitle": "The Ploopy A+ Trackball Is Here",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "score": 24
-    },
-    {
-      "title": "为什么 Opus 5 使用起来感觉更糟糕？",
-      "originalTitle": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 797
-    },
-    {
-      "title": "简化和重构微积分入门",
-      "originalTitle": "Simplifying and Refactoring Introductory Calculus",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "score": 21
-    },
-    {
-      "title": "彻底改革美国科学的理由",
-      "originalTitle": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "score": 46
-    },
-    {
-      "title": "谷歌正在通过同态加密使私人人工智能变得实用",
-      "originalTitle": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 288
-    },
-    {
-      "title": "RustDesk 现在支持 Wayland 上真正的无人值守远程访问",
-      "originalTitle": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 228
-    },
-    {
-      "title": "高保真录音机永远改变了收音机",
-      "originalTitle": "Hi-Fi Tape Recorder Changed Radio Forever",
-      "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-      "score": 10
+      "title": "腹部脂肪比体重指数更能预测心脏病风险",
+      "originalTitle": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "score": 165
     }
   ],
-  "updateTime": "8/15/2026, 2:15:22 AM"
+  "updateTime": "8/16/2026, 2:22:24 AM"
 }
