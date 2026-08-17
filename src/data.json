@@ -28,8 +28,8 @@
       "rank": 4,
       "name": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
-      "totalStars": "13.4k",
-      "dailyGrowth": "503",
+      "totalStars": "13.8k",
+      "dailyGrowth": "484",
       "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
     },
     {
@@ -58,90 +58,90 @@
     },
     {
       "rank": 8,
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "totalStars": "7.6k",
-      "dailyGrowth": "407",
-      "description": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
-    },
-    {
-      "rank": 9,
       "name": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "totalStars": "16.2k",
       "dailyGrowth": "350",
-      "description": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "totalStars": "17.6k",
       "dailyGrowth": "289",
       "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+    },
+    {
+      "rank": 10,
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "totalStars": "3.2k",
+      "dailyGrowth": "282",
+      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
     }
   ],
   "hackerNews": [
     {
-      "title": "华硕自行车助推器",
-      "originalTitle": "Asus Bike Booster",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 92
+      "title": "直接文件的生与死 [pdf]",
+      "originalTitle": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "score": 67
     },
     {
-      "title": "DuckDB 中的异步 I/O：工作、线程、工作",
-      "originalTitle": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 18
+      "title": "Qwen 3.8 27B 很优秀，但它默认想太多",
+      "originalTitle": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 65
     },
     {
-      "title": "索马鲁肽可降低痴呆风险预测",
-      "originalTitle": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 355
+      "title": "Rhombus 1.1 现已推出",
+      "originalTitle": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "score": 17
     },
     {
-      "title": "Show HN: Mic Drop，一款实时多人卡拉 OK 游戏",
-      "originalTitle": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-      "url": "https://www.micdrop.gg/",
-      "score": 9
+      "title": "第三世界嵌入式工程师回应“他们应该更了解 RISC-V”",
+      "originalTitle": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 381
     },
     {
-      "title": "培养新想法诞生的心态（2023）",
-      "originalTitle": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 85
+      "title": "克劳德：系统提示",
+      "originalTitle": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 553
     },
     {
-      "title": "Tea5767-收音机调谐器",
-      "originalTitle": "Tea5767-Radio-Tuner",
-      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-      "score": 23
+      "title": "90 年代的 SIMD：Intel Pentium MMX 编程",
+      "originalTitle": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "score": 75
     },
     {
-      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-      "originalTitle": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 98
+      "title": "Reticulum – 去中心化网状网络",
+      "originalTitle": "Reticulum – Decentralized Mesh Network",
+      "url": "https://reticulum.network/",
+      "score": 19
     },
     {
-      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见",
-      "originalTitle": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "url": "https://arxiv.org/abs/2608.13328",
-      "score": 3
+      "title": "低技术陶瓷水过滤器",
+      "originalTitle": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "score": 96
     },
     {
-      "title": "在家检测受感染的蜱虫可以改善莱姆病的诊断",
-      "originalTitle": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 216
+      "title": "AGI-64 为 Commodore 64 带来 Sierra Adventures",
+      "originalTitle": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "score": 4
     },
     {
-      "title": "腹部脂肪比体重指数更能预测心脏病风险",
-      "originalTitle": "Abdominal fat predicts heart disease risk better than BMI",
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "score": 165
+      "title": "专访《太阳领域精英》主创阿米特·帕特尔",
+      "originalTitle": "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+      "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+      "score": 11
     }
   ],
-  "updateTime": "8/16/2026, 2:22:24 AM"
+  "updateTime": "8/17/2026, 2:21:01 AM"
 }
