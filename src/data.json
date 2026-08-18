@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "9.6k",
-      "dailyGrowth": "1841",
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "totalStars": "11.6k",
+      "dailyGrowth": "5770",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "totalStars": "18.4k",
-      "dailyGrowth": "1426",
-      "description": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "7.5k",
+      "dailyGrowth": "4539",
+      "description": ""
     },
     {
       "rank": 3,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "10.8k",
-      "dailyGrowth": "553",
-      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "13.2k",
+      "dailyGrowth": "3688",
+      "description": ""
     },
     {
       "rank": 4,
-      "name": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
-      "totalStars": "13.8k",
-      "dailyGrowth": "484",
-      "description": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "totalStars": "4.5k",
+      "dailyGrowth": "1700",
+      "description": ""
     },
     {
       "rank": 5,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "6k",
-      "dailyGrowth": "482",
-      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "totalStars": "5.5k",
+      "dailyGrowth": "1494",
+      "description": "时空可组合性元框架"
     },
     {
       "rank": 6,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "totalStars": "12.9k",
-      "dailyGrowth": "460",
-      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "name": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "totalStars": "4.1k",
+      "dailyGrowth": "1387",
+      "description": ""
     },
     {
       "rank": 7,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "7.9k",
-      "dailyGrowth": "431",
-      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "name": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "totalStars": "3.4k",
+      "dailyGrowth": "1254",
+      "description": ""
     },
     {
       "rank": 8,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "totalStars": "16.2k",
-      "dailyGrowth": "350",
-      "description": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "totalStars": "7.1k",
+      "dailyGrowth": "1075",
+      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": 9,
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "totalStars": "17.6k",
-      "dailyGrowth": "289",
-      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "totalStars": "13.8k",
+      "dailyGrowth": "888",
+      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": 10,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "totalStars": "3.2k",
-      "dailyGrowth": "282",
-      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "totalStars": "18.3k",
+      "dailyGrowth": "711",
+      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     }
   ],
   "hackerNews": [
     {
-      "title": "直接文件的生与死 [pdf]",
-      "originalTitle": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "score": 67
+      "title": "Bluesky 如何在屏幕截图上绘制其徽标",
+      "originalTitle": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 241
     },
     {
-      "title": "Qwen 3.8 27B 很优秀，但它默认想太多",
-      "originalTitle": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 65
+      "title": "Quake Shareware，CD-ROM 有点太满了",
+      "originalTitle": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 154
     },
     {
-      "title": "Rhombus 1.1 现已推出",
-      "originalTitle": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "score": 17
+      "title": "GPT-5.6 Sol 定价降低 50%",
+      "originalTitle": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 139
     },
     {
-      "title": "第三世界嵌入式工程师回应“他们应该更了解 RISC-V”",
-      "originalTitle": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 381
+      "title": "DuckDB v2.0 预览",
+      "originalTitle": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 546
     },
     {
-      "title": "克劳德：系统提示",
-      "originalTitle": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 553
+      "title": "Fairphone 6 和 PostmarketOS 工作主摄像头",
+      "originalTitle": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 85
     },
     {
-      "title": "90 年代的 SIMD：Intel Pentium MMX 编程",
-      "originalTitle": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "score": 75
+      "title": "Rust 中的 GPU 卸载：便携、安全且快速",
+      "originalTitle": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 165
     },
     {
-      "title": "Reticulum – 去中心化网状网络",
-      "originalTitle": "Reticulum – Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
-      "score": 19
+      "title": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害",
+      "originalTitle": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 318
     },
     {
-      "title": "低技术陶瓷水过滤器",
-      "originalTitle": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "score": 96
+      "title": "AI;DR（AI；未读）",
+      "originalTitle": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 608
     },
     {
-      "title": "AGI-64 为 Commodore 64 带来 Sierra Adventures",
-      "originalTitle": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "score": 4
+      "title": "问 HN：还有其他人觉得一切都不重要了吗？",
+      "originalTitle": "Ask HN: Does anyone else feel like nothing matters anymore?",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "score": 38
     },
     {
-      "title": "专访《太阳领域精英》主创阿米特·帕特尔",
-      "originalTitle": "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
-      "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-      "score": 11
+      "title": "奥洛（彩色）",
+      "originalTitle": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "score": 327
     }
   ],
-  "updateTime": "8/17/2026, 2:21:01 AM"
+  "updateTime": "8/18/2026, 2:16:56 AM"
 }
