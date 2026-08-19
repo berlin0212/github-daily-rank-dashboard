@@ -4,144 +4,138 @@
       "rank": 1,
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "11.6k",
-      "dailyGrowth": "5770",
+      "totalStars": "13.5k",
+      "dailyGrowth": "1977",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "7.5k",
-      "dailyGrowth": "4539",
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "totalStars": "6k",
+      "dailyGrowth": "1512",
       "description": ""
     },
     {
       "rank": 3,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "13.2k",
-      "dailyGrowth": "3688",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "8.8k",
+      "dailyGrowth": "1273",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "yjh051108/dsh-routing-suite",
-      "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "totalStars": "4.5k",
-      "dailyGrowth": "1700",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "14.4k",
+      "dailyGrowth": "1131",
       "description": ""
     },
     {
       "rank": 5,
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "totalStars": "5.5k",
-      "dailyGrowth": "1494",
-      "description": "时空可组合性元框架"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "2.6k",
+      "dailyGrowth": "695",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 6,
-      "name": "zhu1090093659/dsh-web-ui",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "totalStars": "4.1k",
-      "dailyGrowth": "1387",
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "totalStars": "9.8k",
+      "dailyGrowth": "649",
       "description": ""
     },
     {
       "rank": 7,
-      "name": "xiaobright/dsh-anchored-standard",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "totalStars": "3.4k",
-      "dailyGrowth": "1254",
-      "description": ""
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "totalStars": "6.1k",
+      "dailyGrowth": "557",
+      "description": "时空可组合性元框架"
     },
     {
       "rank": 8,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "7.1k",
-      "dailyGrowth": "1075",
-      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "totalStars": "8.9k",
+      "dailyGrowth": "473",
+      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": 9,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "totalStars": "13.8k",
-      "dailyGrowth": "888",
-      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "name": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "totalStars": "4.6k",
+      "dailyGrowth": "472",
+      "description": ""
     },
     {
       "rank": 10,
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "totalStars": "18.3k",
-      "dailyGrowth": "711",
-      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "totalStars": "19.3k",
+      "dailyGrowth": "401",
+      "description": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     }
   ],
   "hackerNews": [
     {
-      "title": "Bluesky 如何在屏幕截图上绘制其徽标",
-      "originalTitle": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 241
+      "title": "新论文显示，2021 年至 2024 年期间，美国 37% 的工人实际工资下降 [pdf]",
+      "originalTitle": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "score": 101
     },
     {
-      "title": "Quake Shareware，CD-ROM 有点太满了",
-      "originalTitle": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 154
+      "title": "大脑CS-4",
+      "originalTitle": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "score": 61
     },
     {
-      "title": "GPT-5.6 Sol 定价降低 50%",
-      "originalTitle": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 139
+      "title": "macOS 桌面上的 3D 果蝇由真正的 FlyWire 连接组提供支持",
+      "originalTitle": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 170
     },
     {
-      "title": "DuckDB v2.0 预览",
-      "originalTitle": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 546
+      "title": "亚马逊税",
+      "originalTitle": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 956
     },
     {
-      "title": "Fairphone 6 和 PostmarketOS 工作主摄像头",
-      "originalTitle": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 85
+      "title": "Solo – 静态 Linux 二进制文件的 .so 加载器",
+      "originalTitle": "Solo – a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "score": 51
     },
     {
-      "title": "Rust 中的 GPU 卸载：便携、安全且快速",
-      "originalTitle": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 165
+      "title": "为什么加密货币最好的基础设施公司看起来不再像加密货币了？",
+      "originalTitle": "Why crypto's best infrastructure companies stopped looking like crypto?",
+      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+      "score": 21
     },
     {
-      "title": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害",
-      "originalTitle": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 318
+      "title": "科学家对超低排放区儿童肺部恢复情况感到震惊",
+      "originalTitle": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "score": 31
     },
     {
-      "title": "AI;DR（AI；未读）",
-      "originalTitle": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 608
+      "title": "宜家是如何为其产品起名字的？",
+      "originalTitle": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 238
     },
     {
-      "title": "问 HN：还有其他人觉得一切都不重要了吗？",
-      "originalTitle": "Ask HN: Does anyone else feel like nothing matters anymore?",
-      "url": "https://news.ycombinator.com/item?id=49340013",
-      "score": 38
-    },
-    {
-      "title": "奥洛（彩色）",
-      "originalTitle": "Olo (Color)",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 327
+      "title": "Turbovec – Google 的 TurboQuant，用于 Rust 中的矢量搜索",
+      "originalTitle": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 212
     }
   ],
-  "updateTime": "8/18/2026, 2:16:56 AM"
+  "updateTime": "8/19/2026, 2:20:00 AM"
 }
