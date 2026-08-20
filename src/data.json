@@ -4,138 +4,144 @@
       "rank": 1,
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "13.5k",
-      "dailyGrowth": "1977",
+      "totalStars": "15.1k",
+      "dailyGrowth": "1545",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "yjh051108/dsh-routing-suite",
-      "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "totalStars": "6k",
-      "dailyGrowth": "1512",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "10k",
+      "dailyGrowth": "1228",
       "description": ""
     },
     {
       "rank": 3,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "8.8k",
-      "dailyGrowth": "1273",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "15.2k",
+      "dailyGrowth": "812",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "14.4k",
-      "dailyGrowth": "1131",
-      "description": ""
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "totalStars": "15.6k",
+      "dailyGrowth": "694",
+      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     },
     {
       "rank": 5,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
       "totalStars": "2.6k",
-      "dailyGrowth": "695",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "dailyGrowth": "642",
+      "description": "本地多智能体利用"
     },
     {
       "rank": 6,
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "totalStars": "9.8k",
-      "dailyGrowth": "649",
-      "description": ""
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "3.2k",
+      "dailyGrowth": "553",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 7,
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "totalStars": "6.1k",
-      "dailyGrowth": "557",
-      "description": "时空可组合性元框架"
-    },
-    {
-      "rank": 8,
       "name": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "8.9k",
-      "dailyGrowth": "473",
+      "totalStars": "9.5k",
+      "dailyGrowth": "519",
       "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
+      "rank": 8,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "3.6k",
+      "dailyGrowth": "498",
+      "description": "光标插件规范和官方插件"
+    },
+    {
       "rank": 9,
-      "name": "zhu1090093659/dsh-web-ui",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "totalStars": "4.6k",
-      "dailyGrowth": "472",
-      "description": ""
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "totalStars": "19.8k",
+      "dailyGrowth": "444",
+      "description": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
       "rank": 10,
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "totalStars": "19.3k",
-      "dailyGrowth": "401",
-      "description": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "totalStars": "10.1k",
+      "dailyGrowth": "357",
+      "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "新论文显示，2021 年至 2024 年期间，美国 37% 的工人实际工资下降 [pdf]",
-      "originalTitle": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 101
+      "title": "OpenRouter 即将加入 Stripe",
+      "originalTitle": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 651
     },
     {
-      "title": "大脑CS-4",
-      "originalTitle": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "score": 61
+      "title": "去1.27",
+      "originalTitle": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 457
     },
     {
-      "title": "macOS 桌面上的 3D 果蝇由真正的 FlyWire 连接组提供支持",
-      "originalTitle": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 170
+      "title": "Google 将某些源代码的 Git 标签替换为通过 Google Drive 获取",
+      "originalTitle": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 305
     },
     {
-      "title": "亚马逊税",
-      "originalTitle": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 956
+      "title": "解锁锁定/停用的电子垃圾 Cricut Maker",
+      "originalTitle": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 140
     },
     {
-      "title": "Solo – 静态 Linux 二进制文件的 .so 加载器",
-      "originalTitle": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 51
+      "title": "小坂学的手工纸雕",
+      "originalTitle": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 40
     },
     {
-      "title": "为什么加密货币最好的基础设施公司看起来不再像加密货币了？",
-      "originalTitle": "Why crypto's best infrastructure companies stopped looking like crypto?",
-      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-      "score": 21
+      "title": "Unsloth Dynamic 3.0 GGUF",
+      "originalTitle": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 190
     },
     {
-      "title": "科学家对超低排放区儿童肺部恢复情况感到震惊",
-      "originalTitle": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 31
+      "title": "一次笑话般的域名购买变成了地缘政治战争",
+      "originalTitle": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 767
     },
     {
-      "title": "宜家是如何为其产品起名字的？",
-      "originalTitle": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 238
+      "title": "Os8088.com：IBM XT OS 现在有浏览器、带有 Z80 内核的 CP/M 2.2 和 MS Word 1.1a",
+      "originalTitle": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 46
     },
     {
-      "title": "Turbovec – Google 的 TurboQuant，用于 Rust 中的矢量搜索",
-      "originalTitle": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 212
+      "title": "卡西欧 F-B100W-1A",
+      "originalTitle": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "score": 279
+    },
+    {
+      "title": "使用几何和 CUDA 编程对随机岛屿进行地理定位",
+      "originalTitle": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "score": 410
     }
   ],
-  "updateTime": "8/19/2026, 2:20:00 AM"
+  "updateTime": "8/20/2026, 2:18:48 AM"
 }
