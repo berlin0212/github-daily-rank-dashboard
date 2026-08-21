@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "15.1k",
-      "dailyGrowth": "1545",
+      "totalStars": "16.4k",
+      "dailyGrowth": "1329",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "10k",
-      "dailyGrowth": "1228",
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "totalStars": "3k",
+      "dailyGrowth": "967",
       "description": ""
     },
     {
       "rank": 3,
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "15.2k",
-      "dailyGrowth": "812",
+      "totalStars": "16k",
+      "dailyGrowth": "779",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "totalStars": "15.6k",
-      "dailyGrowth": "694",
-      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
+      "name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "totalStars": "5.1k",
+      "dailyGrowth": "655",
+      "description": ""
     },
     {
       "rank": 5,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "totalStars": "2.6k",
-      "dailyGrowth": "642",
-      "description": "本地多智能体利用"
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "10.6k",
+      "dailyGrowth": "596",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "3.2k",
-      "dailyGrowth": "553",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "totalStars": "11k",
+      "dailyGrowth": "591",
+      "description": ""
     },
     {
       "rank": 7,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "totalStars": "9.5k",
-      "dailyGrowth": "519",
-      "description": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "name": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "totalStars": "13.4k",
+      "dailyGrowth": "471",
+      "description": "绘制好看的地图海报的 Python 库。该项目可以将 OpenStreetMap 的地图数据绘制成漂亮的地图海报，上手简单可自定义填充颜色。"
     },
     {
       "rank": 8,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "3.6k",
-      "dailyGrowth": "498",
-      "description": "光标插件规范和官方插件"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "totalStars": "3.1k",
+      "dailyGrowth": "460",
+      "description": "本地多智能体利用"
     },
     {
       "rank": 9,
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "totalStars": "19.8k",
-      "dailyGrowth": "444",
-      "description": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "4k",
+      "dailyGrowth": "373",
+      "description": "光标插件规范和官方插件"
     },
     {
       "rank": 10,
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "totalStars": "10.1k",
-      "dailyGrowth": "357",
-      "description": ""
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "3.5k",
+      "dailyGrowth": "328",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     }
   ],
   "hackerNews": [
     {
-      "title": "OpenRouter 即将加入 Stripe",
-      "originalTitle": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 651
+      "title": "在欧盟，版权不保护人工智能生成的内容",
+      "originalTitle": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 126
     },
     {
-      "title": "去1.27",
-      "originalTitle": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "score": 457
+      "title": "8 月 17 日的停电以及未来的工作",
+      "originalTitle": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 339
     },
     {
-      "title": "Google 将某些源代码的 Git 标签替换为通过 Google Drive 获取",
-      "originalTitle": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 305
+      "title": "亚马逊称其为合理使用，这是时代的标志",
+      "originalTitle": "It is a sign of the times that Amazon gets to call this fair use",
+      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "score": 53
     },
     {
-      "title": "解锁锁定/停用的电子垃圾 Cricut Maker",
-      "originalTitle": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 140
+      "title": "消费者权益维基",
+      "originalTitle": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 231
     },
     {
-      "title": "小坂学的手工纸雕",
-      "originalTitle": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 40
+      "title": "我喜欢厚厚的：向我的英语老师道歉",
+      "originalTitle": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 572
     },
     {
-      "title": "Unsloth Dynamic 3.0 GGUF",
-      "originalTitle": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 190
+      "title": "AliExpress 运行静默 WebAudio 指纹识别，破坏蓝牙多点",
+      "originalTitle": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 900
     },
     {
-      "title": "一次笑话般的域名购买变成了地缘政治战争",
-      "originalTitle": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 767
+      "title": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果",
+      "originalTitle": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 1039
     },
     {
-      "title": "Os8088.com：IBM XT OS 现在有浏览器、带有 Z80 内核的 CP/M 2.2 和 MS Word 1.1a",
-      "originalTitle": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 46
+      "title": "小型软件团队已经不复存在",
+      "originalTitle": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "score": 26
     },
     {
-      "title": "卡西欧 F-B100W-1A",
-      "originalTitle": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 279
+      "title": "HTML 可以做到这一点",
+      "originalTitle": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 590
     },
     {
-      "title": "使用几何和 CUDA 编程对随机岛屿进行地理定位",
-      "originalTitle": "Geolocating a random island using geometry and CUDA programming",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 410
+      "title": "我应该喜欢生物学（2020）",
+      "originalTitle": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 203
     }
   ],
-  "updateTime": "8/20/2026, 2:18:48 AM"
+  "updateTime": "8/21/2026, 2:24:38 AM"
 }
