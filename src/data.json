@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "16.4k",
-      "dailyGrowth": "1329",
+      "totalStars": "17.5k",
+      "dailyGrowth": "1112",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "s1dashu/ip-as-logo-skill",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "totalStars": "3k",
-      "dailyGrowth": "967",
-      "description": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "12.7k",
+      "dailyGrowth": "1017",
+      "description": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 3,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "16k",
-      "dailyGrowth": "779",
-      "description": ""
+      "name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "totalStars": "2.2k",
+      "dailyGrowth": "687",
+      "description": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
     },
     {
       "rank": 4,
-      "name": "amadeusprotocol/node",
-      "url": "https://github.com/amadeusprotocol/node",
-      "totalStars": "5.1k",
-      "dailyGrowth": "655",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "16.6k",
+      "dailyGrowth": "595",
       "description": ""
     },
     {
       "rank": 5,
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "10.6k",
-      "dailyGrowth": "596",
+      "totalStars": "11.1k",
+      "dailyGrowth": "520",
       "description": ""
     },
     {
       "rank": 6,
-      "name": "vercel-labs/portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "totalStars": "11k",
-      "dailyGrowth": "591",
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "totalStars": "3.5k",
+      "dailyGrowth": "451",
       "description": ""
     },
     {
       "rank": 7,
-      "name": "marceloprates/prettymaps",
-      "url": "https://github.com/marceloprates/prettymaps",
-      "totalStars": "13.4k",
-      "dailyGrowth": "471",
-      "description": "绘制好看的地图海报的 Python 库。该项目可以将 OpenStreetMap 的地图数据绘制成漂亮的地图海报，上手简单可自定义填充颜色。"
+      "name": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "totalStars": "5.3k",
+      "dailyGrowth": "397",
+      "description": "全栈 AI 红队平台通过代理扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。"
     },
     {
       "rank": 8,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "totalStars": "3.1k",
-      "dailyGrowth": "460",
-      "description": "本地多智能体利用"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "3.9k",
+      "dailyGrowth": "397",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 9,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "totalStars": "4k",
-      "dailyGrowth": "373",
+      "totalStars": "4.3k",
+      "dailyGrowth": "350",
       "description": "光标插件规范和官方插件"
     },
     {
       "rank": 10,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "3.5k",
-      "dailyGrowth": "328",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "totalStars": "16.2k",
+      "dailyGrowth": "297",
+      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     }
   ],
   "hackerNews": [
     {
-      "title": "在欧盟，版权不保护人工智能生成的内容",
-      "originalTitle": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "score": 126
+      "title": "软件没有理由再慢了",
+      "originalTitle": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 46
     },
     {
-      "title": "8 月 17 日的停电以及未来的工作",
-      "originalTitle": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 339
+      "title": "重罪长凳",
+      "originalTitle": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 538
     },
     {
-      "title": "亚马逊称其为合理使用，这是时代的标志",
-      "originalTitle": "It is a sign of the times that Amazon gets to call this fair use",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "score": 53
+      "title": "Kobo 现在可以运行应用程序",
+      "originalTitle": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 444
     },
     {
-      "title": "消费者权益维基",
-      "originalTitle": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "score": 231
+      "title": "Rust Glancer：Rust LSP 使用的 RAM 减少了 100 倍",
+      "originalTitle": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 36
     },
     {
-      "title": "我喜欢厚厚的：向我的英语老师道歉",
-      "originalTitle": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 572
+      "title": "科学家发布最大的二维宇宙地图",
+      "originalTitle": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 154
     },
     {
-      "title": "AliExpress 运行静默 WebAudio 指纹识别，破坏蓝牙多点",
-      "originalTitle": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 900
+      "title": "我成熟过程中的三个重要步骤",
+      "originalTitle": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "score": 57
     },
     {
-      "title": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果",
-      "originalTitle": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "score": 1039
+      "title": "显示 HN：OzBrain，代理和团队之间的知识共享大脑",
+      "originalTitle": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 40
     },
     {
-      "title": "小型软件团队已经不复存在",
-      "originalTitle": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "score": 26
+      "title": "Kagi 添加了从搜索结果中删除付费链接的设置",
+      "originalTitle": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 1022
     },
     {
-      "title": "HTML 可以做到这一点",
-      "originalTitle": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 590
+      "title": "我们与摩托罗拉合作的最初重点是常规非折叠设备",
+      "originalTitle": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "score": 12
     },
     {
-      "title": "我应该喜欢生物学（2020）",
-      "originalTitle": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "score": 203
+      "title": "我不小心记录了数十万通打往军事基地的电话",
+      "originalTitle": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "score": 456
     }
   ],
-  "updateTime": "8/21/2026, 2:24:38 AM"
+  "updateTime": "8/22/2026, 2:16:51 AM"
 }
