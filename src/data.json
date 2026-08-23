@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "17.5k",
-      "dailyGrowth": "1112",
-      "description": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "13.7k",
+      "dailyGrowth": "979",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 2,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "12.7k",
-      "dailyGrowth": "1017",
-      "description": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "totalStars": "18.3k",
+      "dailyGrowth": "755",
+      "description": ""
     },
     {
       "rank": 3,
-      "name": "mahlernim/google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "totalStars": "2.2k",
-      "dailyGrowth": "687",
-      "description": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "17k",
+      "dailyGrowth": "433",
+      "description": ""
     },
     {
       "rank": 4,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "16.6k",
-      "dailyGrowth": "595",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "11.5k",
+      "dailyGrowth": "378",
       "description": ""
     },
     {
       "rank": 5,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "11.1k",
-      "dailyGrowth": "520",
-      "description": ""
+      "name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "totalStars": "2.5k",
+      "dailyGrowth": "373",
+      "description": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
     },
     {
       "rank": 6,
-      "name": "s1dashu/ip-as-logo-skill",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "totalStars": "3.5k",
-      "dailyGrowth": "451",
-      "description": ""
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "totalStars": "19.7k",
+      "dailyGrowth": "345",
+      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": 7,
-      "name": "Tencent/AI-Infra-Guard",
-      "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "totalStars": "5.3k",
-      "dailyGrowth": "397",
-      "description": "全栈 AI 红队平台通过代理扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。"
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "totalStars": "3.8k",
+      "dailyGrowth": "290",
+      "description": ""
     },
     {
       "rank": 8,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "3.9k",
-      "dailyGrowth": "397",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 9,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "totalStars": "4.3k",
-      "dailyGrowth": "350",
+      "totalStars": "4.6k",
+      "dailyGrowth": "270",
       "description": "光标插件规范和官方插件"
     },
     {
+      "rank": 9,
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "totalStars": "8.6k",
+      "dailyGrowth": "258",
+      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+    },
+    {
       "rank": 10,
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "totalStars": "16.2k",
-      "dailyGrowth": "297",
-      "description": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "totalStars": "3.6k",
+      "dailyGrowth": "253",
+      "description": "本地多智能体利用"
     }
   ],
   "hackerNews": [
     {
-      "title": "软件没有理由再慢了",
-      "originalTitle": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "score": 46
+      "title": "Figmimic – 一个书签，可将任何网页作为可编辑图层复制到 Figma 中",
+      "originalTitle": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "score": 42
     },
     {
-      "title": "重罪长凳",
-      "originalTitle": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 538
+      "title": "NanoGPT 速跑前沿",
+      "originalTitle": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 51
     },
     {
-      "title": "Kobo 现在可以运行应用程序",
-      "originalTitle": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 444
+      "title": "废品 (2006)",
+      "originalTitle": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 317
     },
     {
-      "title": "Rust Glancer：Rust LSP 使用的 RAM 减少了 100 倍",
-      "originalTitle": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 36
+      "title": "为什么你当地的法学硕士感觉比实际情况更愚蠢",
+      "originalTitle": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 194
     },
     {
-      "title": "科学家发布最大的二维宇宙地图",
-      "originalTitle": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 154
+      "title": "十一实验室、十二实验室、十三实验室",
+      "originalTitle": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 314
     },
     {
-      "title": "我成熟过程中的三个重要步骤",
-      "originalTitle": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 57
+      "title": "Hister – 由您控制的私人完整内容搜索索引",
+      "originalTitle": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 242
     },
     {
-      "title": "显示 HN：OzBrain，代理和团队之间的知识共享大脑",
-      "originalTitle": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 40
+      "title": "我为图书营销骗子设置了陷阱（2025）",
+      "originalTitle": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "score": 8
     },
     {
-      "title": "Kagi 添加了从搜索结果中删除付费链接的设置",
-      "originalTitle": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 1022
+      "title": "打字",
+      "originalTitle": "typ.ing",
+      "url": "https://typ.ing/",
+      "score": 188
     },
     {
-      "title": "我们与摩托罗拉合作的最初重点是常规非折叠设备",
-      "originalTitle": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 12
+      "title": "射频咖啡厅",
+      "originalTitle": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "score": 152
     },
     {
-      "title": "我不小心记录了数十万通打往军事基地的电话",
-      "originalTitle": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 456
+      "title": "NetBSD 和我的生活 (2005)",
+      "originalTitle": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 99
     }
   ],
-  "updateTime": "8/22/2026, 2:16:51 AM"
+  "updateTime": "8/23/2026, 2:24:46 AM"
 }
