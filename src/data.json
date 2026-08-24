@@ -26,6 +26,14 @@
     },
     {
       "rank": 4,
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "totalStars": "17.1k",
+      "dailyGrowth": "429",
+      "description": "来自浙大 LLM 课程的开源教材，系统讲解 Transformer、预训练、对齐、推理优化、评测等内容。配合代码示例与实验，可用于学习构建 LLM 的完整技术栈。"
+    },
+    {
+      "rank": 5,
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "totalStars": "11.5k",
@@ -33,7 +41,7 @@
       "description": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "mahlernim/google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "totalStars": "2.5k",
@@ -41,7 +49,7 @@
       "description": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "totalStars": "19.7k",
@@ -49,7 +57,7 @@
       "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "totalStars": "3.8k",
@@ -57,7 +65,7 @@
       "description": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "totalStars": "4.6k",
@@ -65,83 +73,75 @@
       "description": "光标插件规范和官方插件"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "totalStars": "8.6k",
       "dailyGrowth": "258",
       "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
-    },
-    {
-      "rank": 10,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "totalStars": "3.6k",
-      "dailyGrowth": "253",
-      "description": "本地多智能体利用"
     }
   ],
   "hackerNews": [
     {
-      "title": "Figmimic – 一个书签，可将任何网页作为可编辑图层复制到 Figma 中",
-      "originalTitle": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
-      "score": 42
+      "title": "我拥有的一切，拥有的一切",
+      "originalTitle": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 304
     },
     {
-      "title": "NanoGPT 速跑前沿",
-      "originalTitle": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 51
+      "title": "作为一名工程师，我如何找到需要解决的问题",
+      "originalTitle": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 278
     },
     {
-      "title": "废品 (2006)",
-      "originalTitle": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "title": "随着更便宜的工具蓬勃发展，Anthropic 最好的人工智能模型难以吸引用户",
+      "originalTitle": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 246
+    },
+    {
+      "title": "Google Workspace 认为我的域名是电子邮件提供商 (2025)",
+      "originalTitle": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 189
+    },
+    {
+      "title": "我的 agent.md 用于提高 LLM 辅助的代码质量",
+      "originalTitle": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 175
+    },
+    {
+      "title": "什么是安全带？",
+      "originalTitle": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
       "score": 317
     },
     {
-      "title": "为什么你当地的法学硕士感觉比实际情况更愚蠢",
-      "originalTitle": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 194
+      "title": "复杂系统如何失败 (1998)",
+      "originalTitle": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 246
     },
     {
-      "title": "十一实验室、十二实验室、十三实验室",
-      "originalTitle": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 314
+      "title": "恶意软件感染基于 Android 的汽车主机固件",
+      "originalTitle": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 215
     },
     {
-      "title": "Hister – 由您控制的私人完整内容搜索索引",
-      "originalTitle": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "score": 242
+      "title": "在纯 CMake 中实现 GPT-2",
+      "originalTitle": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 36
     },
     {
-      "title": "我为图书营销骗子设置了陷阱（2025）",
-      "originalTitle": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "score": 8
-    },
-    {
-      "title": "打字",
-      "originalTitle": "typ.ing",
-      "url": "https://typ.ing/",
-      "score": 188
-    },
-    {
-      "title": "射频咖啡厅",
-      "originalTitle": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 152
-    },
-    {
-      "title": "NetBSD 和我的生活 (2005)",
-      "originalTitle": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 99
+      "title": "使用 Robocopy、SMB 多通道将 Synology NAS 迁移到 UniFi UNAS Pro 8",
+      "originalTitle": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "score": 5
     }
   ],
-  "updateTime": "8/23/2026, 2:24:46 AM"
+  "updateTime": "8/24/2026, 2:24:00 AM"
 }
