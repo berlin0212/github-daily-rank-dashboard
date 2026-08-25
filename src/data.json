@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "13.7k",
-      "dailyGrowth": "979",
-      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "totalStars": "15.4k",
+      "dailyGrowth": "2721",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
       "rank": 2,
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "18.3k",
-      "dailyGrowth": "755",
-      "description": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "15.7k",
+      "dailyGrowth": "2016",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 3,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "17k",
-      "dailyGrowth": "433",
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "totalStars": "19.6k",
+      "dailyGrowth": "1376",
       "description": ""
     },
     {
       "rank": 4,
-      "name": "ZJU-LLMs/Foundations-of-LLMs",
-      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
-      "totalStars": "17.1k",
-      "dailyGrowth": "429",
-      "description": "来自浙大 LLM 课程的开源教材，系统讲解 Transformer、预训练、对齐、推理优化、评测等内容。配合代码示例与实验，可用于学习构建 LLM 的完整技术栈。"
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "17.9k",
+      "dailyGrowth": "867",
+      "description": ""
     },
     {
       "rank": 5,
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "11.5k",
-      "dailyGrowth": "378",
+      "totalStars": "12.2k",
+      "dailyGrowth": "732",
       "description": ""
     },
     {
       "rank": 6,
-      "name": "mahlernim/google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "totalStars": "2.5k",
-      "dailyGrowth": "373",
-      "description": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "totalStars": "2.8k",
+      "dailyGrowth": "652",
+      "description": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     },
     {
       "rank": 7,
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "totalStars": "19.7k",
-      "dailyGrowth": "345",
-      "description": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
-    },
-    {
-      "rank": 8,
-      "name": "s1dashu/ip-as-logo-skill",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "totalStars": "3.8k",
-      "dailyGrowth": "290",
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "totalStars": "3.4k",
+      "dailyGrowth": "559",
       "description": ""
     },
     {
+      "rank": 8,
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "13.2k",
+      "dailyGrowth": "478",
+      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
+    },
+    {
       "rank": 9,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "4.6k",
-      "dailyGrowth": "270",
-      "description": "光标插件规范和官方插件"
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "totalStars": "11.6k",
+      "dailyGrowth": "458",
+      "description": "自托管部署平台"
     },
     {
       "rank": 10,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "8.6k",
-      "dailyGrowth": "258",
-      "description": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "totalStars": "4.1k",
+      "dailyGrowth": "440",
+      "description": "本地多智能体利用"
     }
   ],
   "hackerNews": [
     {
-      "title": "我拥有的一切，拥有的一切",
-      "originalTitle": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "score": 304
+      "title": "iCloud+ 隐藏我的电子邮件地址将保留在 icloud.com 上",
+      "originalTitle": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "score": 240
     },
     {
-      "title": "作为一名工程师，我如何找到需要解决的问题",
-      "originalTitle": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 278
+      "title": "小米：新CPU匹配Apple核心单线程，多线程更快",
+      "originalTitle": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 736
     },
     {
-      "title": "随着更便宜的工具蓬勃发展，Anthropic 最好的人工智能模型难以吸引用户",
-      "originalTitle": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 246
+      "title": "MS Paint 和 Photos 甚至可以使用 GUID 为本地生成的输出添加隐形水印",
+      "originalTitle": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "score": 568
     },
     {
-      "title": "Google Workspace 认为我的域名是电子邮件提供商 (2025)",
-      "originalTitle": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 189
+      "title": "月亮 (2024)",
+      "originalTitle": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "score": 108
     },
     {
-      "title": "我的 agent.md 用于提高 LLM 辅助的代码质量",
-      "originalTitle": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 175
+      "title": "大学应如何培养创始人",
+      "originalTitle": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "score": 18
     },
     {
-      "title": "什么是安全带？",
-      "originalTitle": "What Is a Harness?",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 317
+      "title": "整个旧金山市就像一个电子游戏",
+      "originalTitle": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 356
     },
     {
-      "title": "复杂系统如何失败 (1998)",
-      "originalTitle": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 246
+      "title": "欧洲如何扼杀创客和微型企业家",
+      "originalTitle": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "score": 1077
     },
     {
-      "title": "恶意软件感染基于 Android 的汽车主机固件",
-      "originalTitle": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 215
-    },
-    {
-      "title": "在纯 CMake 中实现 GPT-2",
-      "originalTitle": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "title": "Bookshelf – 在对象存储上运行的自托管电子书库",
+      "originalTitle": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
       "score": 36
     },
     {
-      "title": "使用 Robocopy、SMB 多通道将 Synology NAS 迁移到 UniFi UNAS Pro 8",
-      "originalTitle": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-      "score": 5
+      "title": "公共厕所都去哪儿了？",
+      "originalTitle": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "score": 161
+    },
+    {
+      "title": "Jabber/XMPP：25 年的数字独立",
+      "originalTitle": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "score": 172
     }
   ],
-  "updateTime": "8/24/2026, 2:24:00 AM"
+  "updateTime": "8/25/2026, 2:19:14 AM"
 }
