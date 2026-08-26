@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "totalStars": "15.4k",
-      "dailyGrowth": "2721",
+      "totalStars": "17.4k",
+      "dailyGrowth": "2071",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
       "rank": 2,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "15.7k",
-      "dailyGrowth": "2016",
-      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "totalStars": "16.1k",
+      "dailyGrowth": "812",
+      "description": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": 3,
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "totalStars": "19.6k",
-      "dailyGrowth": "1376",
-      "description": ""
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "11.4k",
+      "dailyGrowth": "713",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 4,
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "totalStars": "17.9k",
-      "dailyGrowth": "867",
-      "description": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "16.4k",
+      "dailyGrowth": "628",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 5,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "12.2k",
-      "dailyGrowth": "732",
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "totalStars": "3.9k",
+      "dailyGrowth": "483",
       "description": ""
     },
     {
       "rank": 6,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
-      "totalStars": "2.8k",
-      "dailyGrowth": "652",
+      "totalStars": "3.3k",
+      "dailyGrowth": "438",
       "description": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     },
     {
       "rank": 7,
-      "name": "MengTo/threeui",
-      "url": "https://github.com/MengTo/threeui",
-      "totalStars": "3.4k",
-      "dailyGrowth": "559",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "totalStars": "12.6k",
+      "dailyGrowth": "396",
       "description": ""
     },
     {
       "rank": 8,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "13.2k",
-      "dailyGrowth": "478",
-      "description": "最适合您和您的 AI 代理并行工作的浏览器。"
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "totalStars": "18.2k",
+      "dailyGrowth": "383",
+      "description": ""
     },
     {
       "rank": 9,
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "totalStars": "11.6k",
-      "dailyGrowth": "458",
-      "description": "自托管部署平台"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "totalStars": "4.4k",
+      "dailyGrowth": "323",
+      "description": "本地多智能体利用"
     },
     {
       "rank": 10,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "totalStars": "4.1k",
-      "dailyGrowth": "440",
-      "description": "本地多智能体利用"
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "totalStars": "17.5k",
+      "dailyGrowth": "274",
+      "description": "来自浙大 LLM 课程的开源教材，系统讲解 Transformer、预训练、对齐、推理优化、评测等内容。配合代码示例与实验，可用于学习构建 LLM 的完整技术栈。"
     }
   ],
   "hackerNews": [
     {
-      "title": "iCloud+ 隐藏我的电子邮件地址将保留在 icloud.com 上",
-      "originalTitle": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 240
+      "title": "FDA 授权首款可监测酮和血糖水平的可穿戴设备",
+      "originalTitle": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 290
     },
     {
-      "title": "小米：新CPU匹配Apple核心单线程，多线程更快",
-      "originalTitle": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 736
+      "title": "Apple 推出 M6 和 M5 Ultra",
+      "originalTitle": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 978
     },
     {
-      "title": "MS Paint 和 Photos 甚至可以使用 GUID 为本地生成的输出添加隐形水印",
-      "originalTitle": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 568
+      "title": "OpenAI Jalapeo：比 Nvidia Blackwell 更好",
+      "originalTitle": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 345
     },
     {
-      "title": "月亮 (2024)",
-      "originalTitle": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "score": 108
+      "title": "配备 M5 Max 和 M5 Ultra 的全新 Mac Studio",
+      "originalTitle": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 708
     },
     {
-      "title": "大学应如何培养创始人",
-      "originalTitle": "How Universities Should Prepare Founders",
-      "url": "https://paulgraham.com/prepare.html",
-      "score": 18
+      "title": "黑洞奇点是一个面而不是一个点",
+      "originalTitle": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "score": 194
     },
     {
-      "title": "整个旧金山市就像一个电子游戏",
-      "originalTitle": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 356
+      "title": "当 str.lower() 是 Python 中的安全漏洞时 – Seth Larson",
+      "originalTitle": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "score": 69
     },
     {
-      "title": "欧洲如何扼杀创客和微型企业家",
-      "originalTitle": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1077
+      "title": "Maiao：适用于 GitHub、GitLab、Gitea 等的 Gerrit 风格代码审查工作流程",
+      "originalTitle": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "score": 30
     },
     {
-      "title": "Bookshelf – 在对象存储上运行的自托管电子书库",
-      "originalTitle": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "score": 36
+      "title": "大脑可能即将迎来臭氧时刻",
+      "originalTitle": "The brain may be about to have its Ozempic moment",
+      "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+      "score": 23
     },
     {
-      "title": "公共厕所都去哪儿了？",
-      "originalTitle": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 161
+      "title": "C2PA 相机无法与现实接触",
+      "originalTitle": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "score": 85
     },
     {
-      "title": "Jabber/XMPP：25 年的数字独立",
-      "originalTitle": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 172
+      "title": "新款 Mac mini，配备 M6 和 M5 Pro",
+      "originalTitle": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 437
     }
   ],
-  "updateTime": "8/25/2026, 2:19:14 AM"
+  "updateTime": "8/26/2026, 2:26:08 AM"
 }
