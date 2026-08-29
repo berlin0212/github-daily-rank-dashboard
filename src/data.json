@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "AI代理已root",
-      "originalTitle": "AI Agent Has Root",
-      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
-      "score": 27
+      "title": "三星的内存处理 (PIM)",
+      "originalTitle": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 21
     },
     {
-      "title": "利用散度定理进行超快体积计算",
-      "originalTitle": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "title": "通过 Apple 的 Virtualization.framework 启动虚拟 iPhone",
+      "originalTitle": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 236
+    },
+    {
+      "title": "GUI 应该完全由键盘驱动",
+      "originalTitle": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 753
+    },
+    {
+      "title": "TurboKV：速度极快的 Rust 键值存储",
+      "originalTitle": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 78
+    },
+    {
+      "title": "HTMX 4.0",
+      "originalTitle": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "score": 628
+    },
+    {
+      "title": "美国对 A/I 集体的制裁",
+      "originalTitle": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 565
+    },
+    {
+      "title": "e 是一个可定制的、具有自我意识的、类似 Emacs 的编辑器，用 Chez Scheme 编写",
+      "originalTitle": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+      "url": "https://github.com/paveluv/e",
+      "score": 7
+    },
+    {
+      "title": "苏美尔国王名单与古气候事件相符吗？",
+      "originalTitle": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "score": 91
+    },
+    {
+      "title": "我不小心把LLM记忆变成了程序分析",
+      "originalTitle": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "score": 112
     },
     {
-      "title": "OpenAI：迁移到 HTTPX2",
-      "originalTitle": "OpenAI: Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "score": 14
-    },
-    {
-      "title": "Show HN：SubSmith – 将您自己的视频变成语言学习材料",
-      "originalTitle": "Show HN: SubSmith – Turn your own videos into language-learning material",
-      "url": "https://subsmith.app",
-      "score": 15
-    },
-    {
-      "title": "通过优化 1.1.1.1 的 DNS 缓存节省 100 TB 内存",
-      "originalTitle": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 810
-    },
-    {
-      "title": "小型号已经到货",
-      "originalTitle": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "score": 692
-    },
-    {
-      "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
-      "originalTitle": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "score": 32
-    },
-    {
-      "title": "Sovereign Tech Agency 向 Flatpak 投资 50 万欧元",
-      "originalTitle": "Sovereign Tech Agency invests €500k in Flatpak",
-      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-      "score": 182
-    },
-    {
-      "title": "507 机械机芯",
-      "originalTitle": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "score": 603
-    },
-    {
-      "title": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植",
-      "originalTitle": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "score": 184
+      "title": "如今，仅仅关于错误的谣言就足以找到漏洞",
+      "originalTitle": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 300
     }
   ],
-  "updateTime": "8/28/2026, 12:37:16 PM"
+  "updateTime": "8/29/2026, 7:45:27 AM"
 }
