@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "totalStars": "3.3k",
-      "dailyGrowth": "421",
-      "description": ""
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "totalStars": "12.4k",
+      "dailyGrowth": "1471",
+      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 2,
-      "name": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "totalStars": "11.3k",
-      "dailyGrowth": "387",
-      "description": ""
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "totalStars": "3.4k",
+      "dailyGrowth": "790",
+      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
     },
     {
       "rank": 3,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "12.2k",
-      "dailyGrowth": "364",
-      "description": ""
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "14.5k",
+      "dailyGrowth": "522",
+      "description": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": 4,
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "totalStars": "16.5k",
-      "dailyGrowth": "349",
-      "description": ""
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "13.4k",
+      "dailyGrowth": "437",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 5,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "5.7k",
-      "dailyGrowth": "303",
-      "description": ""
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "totalStars": "2.8k",
+      "dailyGrowth": "286",
+      "description": "帮助 AI 编码代理编写现代 Go"
     },
     {
       "rank": 6,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "17.1k",
-      "dailyGrowth": "299",
-      "description": ""
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "totalStars": "13.5k",
+      "dailyGrowth": "263",
+      "description": "用于构建实时语音 AI 代理的框架🤖🎙️📹"
     },
     {
       "rank": 7,
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "totalStars": "13.2k",
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "totalStars": "5.5k",
       "dailyGrowth": "256",
-      "description": ""
+      "description": "本地多智能体利用"
     },
     {
       "rank": 8,
-      "name": "marin-community/marin",
-      "url": "https://github.com/marin-community/marin",
-      "totalStars": "2.7k",
-      "dailyGrowth": "245",
-      "description": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "17.6k",
+      "dailyGrowth": "235",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 9,
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "totalStars": "3.3k",
-      "dailyGrowth": "238",
-      "description": ""
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "6.1k",
+      "dailyGrowth": "229",
+      "description": "光标插件规范和官方插件"
     },
     {
       "rank": 10,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "14k",
-      "dailyGrowth": "232",
-      "description": ""
+      "name": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "totalStars": "5.5k",
+      "dailyGrowth": "206",
+      "description": "编码代理的本地优先会话搜索、分析、见解和令牌使用统计，支持 Claude Code、Codex 和 20 多个其他代理。"
     }
   ],
   "hackerNews": [
     {
-      "title": "三星的内存处理 (PIM)",
-      "originalTitle": "Samsung's Processing-in-Memory (PIM)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "score": 21
+      "title": "虫盲",
+      "originalTitle": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "score": 174
     },
     {
-      "title": "通过 Apple 的 Virtualization.framework 启动虚拟 iPhone",
-      "originalTitle": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 236
+      "title": "CPython 现已正式支持 RISC-V",
+      "originalTitle": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "score": 95
     },
     {
-      "title": "GUI 应该完全由键盘驱动",
-      "originalTitle": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 753
+      "title": "Hy4 预览",
+      "originalTitle": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 253
     },
     {
-      "title": "TurboKV：速度极快的 Rust 键值存储",
-      "originalTitle": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "score": 78
+      "title": "FreeCORE TrueNAS 核心 – 续",
+      "originalTitle": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "score": 70
     },
     {
-      "title": "HTMX 4.0",
-      "originalTitle": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 628
+      "title": "为 Linux 创建 Teensy ELF 可执行文件（或者“大小就是一切”）",
+      "originalTitle": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "score": 28
     },
     {
-      "title": "美国对 A/I 集体的制裁",
-      "originalTitle": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
-      "score": 565
+      "title": "Tether：Linux 上的 iMessage、SMS 等",
+      "originalTitle": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "score": 421
     },
     {
-      "title": "e 是一个可定制的、具有自我意识的、类似 Emacs 的编辑器，用 Chez Scheme 编写",
-      "originalTitle": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-      "url": "https://github.com/paveluv/e",
-      "score": 7
+      "title": "袖珍推理基准测试",
+      "originalTitle": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "score": 24
     },
     {
-      "title": "苏美尔国王名单与古气候事件相符吗？",
-      "originalTitle": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "score": 91
+      "title": "本杰明·富兰克林的另一个自我给了他最大的自由",
+      "originalTitle": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+      "score": 38
     },
     {
-      "title": "我不小心把LLM记忆变成了程序分析",
-      "originalTitle": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 112
+      "title": "南希·格雷斯·罗马太空望远镜",
+      "originalTitle": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "score": 176
     },
     {
-      "title": "如今，仅仅关于错误的谣言就足以找到漏洞",
-      "originalTitle": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "score": 300
+      "title": "加州立法者一致通过 Linux 年龄验证法豁免",
+      "originalTitle": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "score": 77
     }
   ],
-  "updateTime": "8/29/2026, 7:45:27 AM"
+  "updateTime": "8/30/2026, 6:23:04 AM"
 }
