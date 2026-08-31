@@ -22,7 +22,7 @@
       "url": "https://github.com/every-app/open-seo",
       "totalStars": "14.5k",
       "dailyGrowth": "522",
-      "description": "Semrush 和 Ahrefs 的开源替代品"
+      "description": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": 4,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "虫盲",
-      "originalTitle": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 174
+      "title": "“我只是仔细选词”",
+      "originalTitle": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "score": 591
     },
     {
-      "title": "CPython 现已正式支持 RISC-V",
-      "originalTitle": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 95
+      "title": "P99 0 ms* 240M 域名自动完成",
+      "originalTitle": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 61
     },
     {
-      "title": "Hy4 预览",
-      "originalTitle": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 253
+      "title": "令人毛骨悚然的爬虫",
+      "originalTitle": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 1053
     },
     {
-      "title": "FreeCORE TrueNAS 核心 – 续",
-      "originalTitle": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "score": 70
+      "title": "需要 5 个云服务才能听到我的门铃",
+      "originalTitle": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "score": 101
     },
     {
-      "title": "为 Linux 创建 Teensy ELF 可执行文件（或者“大小就是一切”）",
-      "originalTitle": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "score": 28
+      "title": "通过以太网跳线传输文件",
+      "originalTitle": "Transfer files over an Ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "score": 37
     },
     {
-      "title": "Tether：Linux 上的 iMessage、SMS 等",
-      "originalTitle": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 421
+      "title": "我的爱好是制作微缩模型和拍摄漂亮的照片",
+      "originalTitle": "My hobby of building miniatures and taking pretty pictures",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "score": 55
     },
     {
-      "title": "袖珍推理基准测试",
-      "originalTitle": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 24
+      "title": "Matrox：专业图形",
+      "originalTitle": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 81
     },
     {
-      "title": "本杰明·富兰克林的另一个自我给了他最大的自由",
-      "originalTitle": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "score": 38
+      "title": "为什么存在面向对象编程",
+      "originalTitle": "Why OOP Exists",
+      "url": "https://mathspp.com/blog/why-oop-exists",
+      "score": 12
     },
     {
-      "title": "南希·格雷斯·罗马太空望远镜",
-      "originalTitle": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 176
+      "title": "OpenClaw 2.0，意外",
+      "originalTitle": "OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "score": 54
     },
     {
-      "title": "加州立法者一致通过 Linux 年龄验证法豁免",
-      "originalTitle": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "score": 77
+      "title": "俳句 R1/beta6 已发布",
+      "originalTitle": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 294
     }
   ],
-  "updateTime": "8/30/2026, 6:23:04 AM"
+  "updateTime": "8/31/2026, 6:50:52 AM"
 }
