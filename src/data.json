@@ -22,7 +22,7 @@
       "url": "https://github.com/every-app/open-seo",
       "totalStars": "14.5k",
       "dailyGrowth": "522",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
+      "description": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": 4,
@@ -34,6 +34,14 @@
     },
     {
       "rank": 5,
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "totalStars": "10.5k",
+      "dailyGrowth": "330",
+      "description": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
+    },
+    {
+      "rank": 6,
       "name": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "totalStars": "2.8k",
@@ -41,7 +49,7 @@
       "description": "帮助 AI 编码代理编写现代 Go"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "livekit/agents",
       "url": "https://github.com/livekit/agents",
       "totalStars": "13.5k",
@@ -49,7 +57,7 @@
       "description": "用于构建实时语音 AI 代理的框架🤖🎙️📹"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "totalStars": "5.5k",
@@ -57,7 +65,7 @@
       "description": "本地多智能体利用"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "totalStars": "17.6k",
@@ -65,83 +73,75 @@
       "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "totalStars": "6.1k",
       "dailyGrowth": "229",
       "description": "光标插件规范和官方插件"
-    },
-    {
-      "rank": 10,
-      "name": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "totalStars": "5.5k",
-      "dailyGrowth": "206",
-      "description": "编码代理的本地优先会话搜索、分析、见解和令牌使用统计，支持 Claude Code、Codex 和 20 多个其他代理。"
     }
   ],
   "hackerNews": [
     {
-      "title": "“我只是仔细选词”",
-      "originalTitle": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 591
+      "title": "GPU世界",
+      "originalTitle": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 67
     },
     {
-      "title": "P99 0 ms* 240M 域名自动完成",
-      "originalTitle": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 61
+      "title": "快点",
+      "originalTitle": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 174
     },
     {
-      "title": "令人毛骨悚然的爬虫",
-      "originalTitle": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1053
+      "title": "卫生间档案",
+      "originalTitle": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "score": 66
     },
     {
-      "title": "需要 5 个云服务才能听到我的门铃",
-      "originalTitle": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 101
+      "title": "人工智能也能让你吸得更快",
+      "originalTitle": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "score": 4
     },
     {
-      "title": "通过以太网跳线传输文件",
-      "originalTitle": "Transfer files over an Ethernet patch cable",
-      "url": "https://maurycyz.com/misc/etherfiles/",
-      "score": 37
+      "title": "我把我的安全摄像头变成了自动鸟类识别系统",
+      "originalTitle": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 441
     },
     {
-      "title": "我的爱好是制作微缩模型和拍摄漂亮的照片",
-      "originalTitle": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 55
+      "title": "普拉亚电话",
+      "originalTitle": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 580
     },
     {
-      "title": "Matrox：专业图形",
-      "originalTitle": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 81
+      "title": "一个 HTML 文件中的可步行 ASCII 赛博朋克城市 [视频]",
+      "originalTitle": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 288
     },
     {
-      "title": "为什么存在面向对象编程",
-      "originalTitle": "Why OOP Exists",
-      "url": "https://mathspp.com/blog/why-oop-exists",
-      "score": 12
+      "title": "关于拖延症的一项有影响力的研究中的欺诈证据",
+      "originalTitle": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "score": 162
     },
     {
-      "title": "OpenClaw 2.0，意外",
-      "originalTitle": "OpenClaw 2.0, Accidentally",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "score": 54
+      "title": "陶哲轩解释 6 个基本数学概念 [视频]",
+      "originalTitle": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 344
     },
     {
-      "title": "俳句 R1/beta6 已发布",
-      "originalTitle": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 294
+      "title": "Vermell – 使用 epoll 的最小、无依赖的 C++ Web 框架",
+      "originalTitle": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+      "url": "https://github.com/vermellcc/vermell",
+      "score": 13
     }
   ],
-  "updateTime": "8/31/2026, 6:50:52 AM"
+  "updateTime": "9/1/2026, 6:09:35 AM"
 }
