@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "12.4k",
-      "dailyGrowth": "1471",
-      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "totalStars": "6k",
+      "dailyGrowth": "3119",
+      "description": "用于可测量、计算机可执行研究的自主研究系统。"
     },
     {
       "rank": 2,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "totalStars": "3.4k",
-      "dailyGrowth": "790",
-      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "totalStars": "15.2k",
+      "dailyGrowth": "2871",
+      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 3,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "14.5k",
-      "dailyGrowth": "522",
-      "description": "Semrush 和 Ahrefs 的开源替代品"
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "totalStars": "5.5k",
+      "dailyGrowth": "2131",
+      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
     },
     {
       "rank": 4,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "13.4k",
-      "dailyGrowth": "437",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "16.1k",
+      "dailyGrowth": "1550",
+      "description": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": 5,
-      "name": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "totalStars": "10.5k",
-      "dailyGrowth": "330",
-      "description": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "totalStars": "6.7k",
+      "dailyGrowth": "1040",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
     {
       "rank": 6,
-      "name": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "totalStars": "2.8k",
-      "dailyGrowth": "286",
-      "description": "帮助 AI 编码代理编写现代 Go"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "14.4k",
+      "dailyGrowth": "1000",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 7,
-      "name": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "totalStars": "13.5k",
-      "dailyGrowth": "263",
-      "description": "用于构建实时语音 AI 代理的框架🤖🎙️📹"
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "totalStars": "17.8k",
+      "dailyGrowth": "945",
+      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": 8,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "totalStars": "5.5k",
-      "dailyGrowth": "256",
-      "description": "本地多智能体利用"
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "totalStars": "4.5k",
+      "dailyGrowth": "897",
+      "description": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
     },
     {
       "rank": 9,
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "17.6k",
-      "dailyGrowth": "235",
+      "totalStars": "18.3k",
+      "dailyGrowth": "746",
       "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 10,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "6.1k",
-      "dailyGrowth": "229",
-      "description": "光标插件规范和官方插件"
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "totalStars": "10.2k",
+      "dailyGrowth": "666",
+      "description": ""
     }
   ],
   "hackerNews": [
     {
-      "title": "GPU世界",
-      "originalTitle": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "score": 67
+      "title": "克劳德寓言5.1和克劳德神话5.1",
+      "originalTitle": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 1064
     },
     {
-      "title": "快点",
-      "originalTitle": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "score": 174
+      "title": "真实失业率",
+      "originalTitle": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "score": 101
     },
     {
-      "title": "卫生间档案",
-      "originalTitle": "Restroom Archive",
-      "url": "https://restroomarchive.com",
-      "score": 66
+      "title": "人工神经网络的新兴符号结构",
+      "originalTitle": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "score": 32
     },
     {
-      "title": "人工智能也能让你吸得更快",
-      "originalTitle": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "score": 4
+      "title": "Ed Zitron 的人工智能怀疑论者预测有多准确？",
+      "originalTitle": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 563
     },
     {
-      "title": "我把我的安全摄像头变成了自动鸟类识别系统",
-      "originalTitle": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 441
+      "title": "网络FPGA",
+      "originalTitle": "WebFPGA",
+      "url": "https://webfpga.io/",
+      "score": 23
     },
     {
-      "title": "普拉亚电话",
-      "originalTitle": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "score": 580
+      "title": "好吧，我将构建自己的文本编辑器",
+      "originalTitle": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "score": 34
     },
     {
-      "title": "一个 HTML 文件中的可步行 ASCII 赛博朋克城市 [视频]",
-      "originalTitle": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 288
+      "title": "FBI 调查服务销售超过 1.53 亿张驾驶执照",
+      "originalTitle": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "score": 116
     },
     {
-      "title": "关于拖延症的一项有影响力的研究中的欺诈证据",
-      "originalTitle": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "score": 162
+      "title": "我在 M4 Pro Mac Mini 上的本地模型设置",
+      "originalTitle": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "score": 124
     },
     {
-      "title": "陶哲轩解释 6 个基本数学概念 [视频]",
-      "originalTitle": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 344
+      "title": "LLM推理的有效前沿",
+      "originalTitle": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 78
     },
     {
-      "title": "Vermell – 使用 epoll 的最小、无依赖的 C++ Web 框架",
-      "originalTitle": "Vermell – Minimal, dependency-free C++ web framework using epoll",
-      "url": "https://github.com/vermellcc/vermell",
-      "score": 13
+      "title": "Show HN：Weedout – 隐藏 YouTube AI 标签视频的 Safari 扩展",
+      "originalTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 92
     }
   ],
-  "updateTime": "9/1/2026, 6:09:35 AM"
+  "updateTime": "9/2/2026, 5:35:29 AM"
 }
