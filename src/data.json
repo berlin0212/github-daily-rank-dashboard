@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST",
-      "totalStars": "6k",
-      "dailyGrowth": "3119",
+      "totalStars": "6.8k",
+      "dailyGrowth": "741",
       "description": "用于可测量、计算机可执行研究的自主研究系统。"
     },
     {
       "rank": 2,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "15.2k",
-      "dailyGrowth": "2871",
+      "totalStars": "15.9k",
+      "dailyGrowth": "710",
       "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 3,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "totalStars": "5.5k",
-      "dailyGrowth": "2131",
-      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "totalStars": "14.4k",
+      "dailyGrowth": "691",
+      "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": 4,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "16.1k",
-      "dailyGrowth": "1550",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
-    },
-    {
-      "rank": 5,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "totalStars": "6.7k",
-      "dailyGrowth": "1040",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-    },
-    {
-      "rank": 6,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "14.4k",
-      "dailyGrowth": "1000",
-      "description": "免费开源 macOS 菜单栏工具包。"
-    },
-    {
-      "rank": 7,
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "17.8k",
-      "dailyGrowth": "945",
+      "totalStars": "18.4k",
+      "dailyGrowth": "586",
       "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "totalStars": "8.1k",
+      "dailyGrowth": "519",
+      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+    },
+    {
+      "rank": 6,
       "name": "MakazhanAlpamys/Soup",
       "url": "https://github.com/MakazhanAlpamys/Soup",
-      "totalStars": "4.5k",
-      "dailyGrowth": "897",
+      "totalStars": "4.9k",
+      "dailyGrowth": "428",
       "description": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
     },
     {
+      "rank": 7,
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "totalStars": "7.1k",
+      "dailyGrowth": "388",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "rank": 8,
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "totalStars": "5.9k",
+      "dailyGrowth": "368",
+      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+    },
+    {
       "rank": 9,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "18.3k",
-      "dailyGrowth": "746",
-      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "16.4k",
+      "dailyGrowth": "261",
+      "description": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": 10,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "totalStars": "10.2k",
-      "dailyGrowth": "666",
-      "description": ""
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "14.7k",
+      "dailyGrowth": "236",
+      "description": "免费开源 macOS 菜单栏工具包。"
     }
   ],
   "hackerNews": [
     {
-      "title": "克劳德寓言5.1和克劳德神话5.1",
-      "originalTitle": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1064
+      "title": "缪斯火花1.3",
+      "originalTitle": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 481
     },
     {
-      "title": "真实失业率",
-      "originalTitle": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "score": 101
+      "title": "Gemini 3.8 Flash 和 3.8 Flash Cyber",
+      "originalTitle": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 925
     },
     {
-      "title": "人工神经网络的新兴符号结构",
-      "originalTitle": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "score": 32
+      "title": "霍顿的闪电飞行",
+      "originalTitle": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 111
     },
     {
-      "title": "Ed Zitron 的人工智能怀疑论者预测有多准确？",
-      "originalTitle": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 563
+      "title": "谷歌避免拆分其广告技术业务",
+      "originalTitle": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 324
     },
     {
-      "title": "网络FPGA",
-      "originalTitle": "WebFPGA",
-      "url": "https://webfpga.io/",
-      "score": 23
+      "title": "三个网站制作了 215,128 个人工智能“最佳软件”页面。困惑引用了他们",
+      "originalTitle": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 356
     },
     {
-      "title": "好吧，我将构建自己的文本编辑器",
-      "originalTitle": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 34
+      "title": "使用 ImHex 对未知文件格式进行逆向工程",
+      "originalTitle": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "score": 151
     },
     {
-      "title": "FBI 调查服务销售超过 1.53 亿张驾驶执照",
-      "originalTitle": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 116
+      "title": "法学硕士时代语言多样性的萎缩",
+      "originalTitle": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "score": 94
     },
     {
-      "title": "我在 M4 Pro Mac Mini 上的本地模型设置",
-      "originalTitle": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 124
+      "title": "推出 HN：RonanRX (YC S26) – 个性化肽和 GLP-1",
+      "originalTitle": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "score": 41
     },
     {
-      "title": "LLM推理的有效前沿",
-      "originalTitle": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 78
+      "title": "创建备份存储很糟糕",
+      "originalTitle": "Creating Backup Storage Sucks",
+      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+      "score": 15
     },
     {
-      "title": "Show HN：Weedout – 隐藏 YouTube AI 标签视频的 Safari 扩展",
-      "originalTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "score": 92
+      "title": "我可以选择不将我的输入或输出数据用于训练吗？",
+      "originalTitle": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 405
     }
   ],
-  "updateTime": "9/2/2026, 5:35:29 AM"
+  "updateTime": "9/3/2026, 5:35:39 AM"
 }
