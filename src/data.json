@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "totalStars": "6.8k",
-      "dailyGrowth": "741",
-      "description": "用于可测量、计算机可执行研究的自主研究系统。"
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "totalStars": "16k",
+      "dailyGrowth": "1616",
+      "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": 2,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "15.9k",
-      "dailyGrowth": "710",
+      "totalStars": "16.9k",
+      "dailyGrowth": "919",
       "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 3,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "totalStars": "14.4k",
-      "dailyGrowth": "691",
-      "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+      "name": "sngyai/Sequoia",
+      "url": "https://github.com/sngyai/Sequoia",
+      "totalStars": "6.5k",
+      "dailyGrowth": "476",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
     },
     {
       "rank": 4,
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "18.4k",
-      "dailyGrowth": "586",
-      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "totalStars": "12k",
+      "dailyGrowth": "403",
+      "description": "将端口号替换为稳定的、命名的本地 URL。对于人类和特工来说。"
     },
     {
       "rank": 5,
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "totalStars": "8.1k",
-      "dailyGrowth": "519",
-      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "totalStars": "18.8k",
+      "dailyGrowth": "348",
+      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": 6,
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "totalStars": "4.9k",
-      "dailyGrowth": "428",
-      "description": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "15k",
+      "dailyGrowth": "309",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 7,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "totalStars": "7.1k",
-      "dailyGrowth": "388",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "totalStars": "9.6k",
+      "dailyGrowth": "304",
+      "description": "Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的 CRM。"
     },
     {
       "rank": 8,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "totalStars": "5.9k",
-      "dailyGrowth": "368",
-      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "3.1k",
+      "dailyGrowth": "290",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 9,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "16.4k",
-      "dailyGrowth": "261",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "totalStars": "9.6k",
+      "dailyGrowth": "285",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
     },
     {
       "rank": 10,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "14.7k",
-      "dailyGrowth": "236",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "16.6k",
+      "dailyGrowth": "263",
+      "description": "Semrush 和 Ahrefs 的开源替代方案"
     }
   ],
   "hackerNews": [
     {
-      "title": "缪斯火花1.3",
-      "originalTitle": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 481
+      "title": "GPT-6 阿斯特拉",
+      "originalTitle": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 1563
     },
     {
-      "title": "Gemini 3.8 Flash 和 3.8 Flash Cyber",
-      "originalTitle": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 925
+      "title": ".name 终止",
+      "originalTitle": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 1573
     },
     {
-      "title": "霍顿的闪电飞行",
-      "originalTitle": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "score": 111
+      "title": "Qwen 3.8 27B 在 Cerebras 上可用，速度为 1500 个代币/秒",
+      "originalTitle": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 504
     },
     {
-      "title": "谷歌避免拆分其广告技术业务",
-      "originalTitle": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 324
+      "title": "一种神秘的肾脏疾病已抵达德克萨斯州",
+      "originalTitle": "A Mysterious Kidney Disease Has Arrived in Texas",
+      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "score": 51
     },
     {
-      "title": "三个网站制作了 215,128 个人工智能“最佳软件”页面。困惑引用了他们",
-      "originalTitle": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 356
+      "title": "“世外桃源”项目：事后诸葛亮",
+      "originalTitle": "Project Xanadu: Even More Hindsight",
+      "url": "https://gwern.net/xanadu",
+      "score": 55
     },
     {
-      "title": "使用 ImHex 对未知文件格式进行逆向工程",
-      "originalTitle": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "score": 151
+      "title": "Grep 击败 LSP？为什么编码代理会忽略您更高级的工具",
+      "originalTitle": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "score": 47
     },
     {
-      "title": "法学硕士时代语言多样性的萎缩",
-      "originalTitle": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "score": 94
+      "title": "麻省理工学院的一个研究项目如何成为 Julia 编程语言",
+      "originalTitle": "How an MIT research project became the Julia programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "score": 58
     },
     {
-      "title": "推出 HN：RonanRX (YC S26) – 个性化肽和 GLP-1",
-      "originalTitle": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "score": 41
+      "title": "最大的电动飞机刚刚飞过[视频]",
+      "originalTitle": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 250
     },
     {
-      "title": "创建备份存储很糟糕",
-      "originalTitle": "Creating Backup Storage Sucks",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+      "title": "从叉簧到坟墓",
+      "originalTitle": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
       "score": 15
     },
     {
-      "title": "我可以选择不将我的输入或输出数据用于训练吗？",
-      "originalTitle": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 405
+      "title": "人工海狸水坝使银大麻哈鱼幼鱼的存活率从 8% 提高到 60%",
+      "originalTitle": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "score": 205
     }
   ],
-  "updateTime": "9/3/2026, 5:35:39 AM"
+  "updateTime": "9/4/2026, 5:44:31 AM"
 }
