@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "totalStars": "16k",
-      "dailyGrowth": "1616",
+      "totalStars": "17.6k",
+      "dailyGrowth": "1592",
       "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": 2,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "16.9k",
-      "dailyGrowth": "919",
+      "totalStars": "17.4k",
+      "dailyGrowth": "536",
       "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 3,
-      "name": "sngyai/Sequoia",
-      "url": "https://github.com/sngyai/Sequoia",
-      "totalStars": "6.5k",
-      "dailyGrowth": "476",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "19.2k",
+      "dailyGrowth": "500",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 4,
-      "name": "vercel-labs/portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "totalStars": "12k",
-      "dailyGrowth": "403",
-      "description": "将端口号替换为稳定的、命名的本地 URL。对于人类和特工来说。"
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "totalStars": "2.3k",
+      "dailyGrowth": "426",
+      "description": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
     {
       "rank": 5,
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "totalStars": "18.8k",
-      "dailyGrowth": "348",
-      "description": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "totalStars": "8.7k",
+      "dailyGrowth": "406",
+      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
     },
     {
       "rank": 6,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "15k",
-      "dailyGrowth": "309",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "17k",
+      "dailyGrowth": "351",
+      "description": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": 7,
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "totalStars": "9.6k",
-      "dailyGrowth": "304",
-      "description": "Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的 CRM。"
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "totalStars": "16.1k",
+      "dailyGrowth": "264",
+      "description": "AI 代理技能的安全扫描器。在安装之前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
     },
     {
       "rank": 8,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "3.1k",
-      "dailyGrowth": "290",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "15.2k",
+      "dailyGrowth": "232",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 9,
-      "name": "zyronon/TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "totalStars": "9.6k",
-      "dailyGrowth": "285",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "totalStars": "7.4k",
+      "dailyGrowth": "168",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
     {
       "rank": 10,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "16.6k",
-      "dailyGrowth": "263",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "totalStars": "4.2k",
+      "dailyGrowth": "159",
+      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
     }
   ],
   "hackerNews": [
     {
-      "title": "GPT-6 阿斯特拉",
-      "originalTitle": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 1563
+      "title": "在所有 Chromium 版本中积极利用沙箱 RCE",
+      "originalTitle": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "score": 378
     },
     {
-      "title": ".name 终止",
-      "originalTitle": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "score": 1573
+      "title": "形式化费马大定理",
+      "originalTitle": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "score": 561
     },
     {
-      "title": "Qwen 3.8 27B 在 Cerebras 上可用，速度为 1500 个代币/秒",
-      "originalTitle": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 504
+      "title": "发现新的 OpenAI 代理留言板",
+      "originalTitle": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "score": 1583
     },
     {
-      "title": "一种神秘的肾脏疾病已抵达德克萨斯州",
-      "originalTitle": "A Mysterious Kidney Disease Has Arrived in Texas",
-      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
-      "score": 51
+      "title": "Statichost.eu – 欧洲静态网站托管",
+      "originalTitle": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "score": 207
     },
     {
-      "title": "“世外桃源”项目：事后诸葛亮",
-      "originalTitle": "Project Xanadu: Even More Hindsight",
-      "url": "https://gwern.net/xanadu",
-      "score": 55
+      "title": "OpenRouter 上的 GPT-6 Astra",
+      "originalTitle": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "score": 169
     },
     {
-      "title": "Grep 击败 LSP？为什么编码代理会忽略您更高级的工具",
-      "originalTitle": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-      "score": 47
+      "title": "AI还能设计电路板吗？",
+      "originalTitle": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 213
     },
     {
-      "title": "麻省理工学院的一个研究项目如何成为 Julia 编程语言",
-      "originalTitle": "How an MIT research project became the Julia programming language",
-      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-      "score": 58
+      "title": "人工智能分析智能指数 v4.2",
+      "originalTitle": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "score": 90
     },
     {
-      "title": "最大的电动飞机刚刚飞过[视频]",
-      "originalTitle": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "score": 250
+      "title": "Git 子模块作为包管理器",
+      "originalTitle": "Git Submodules as a Package Manager",
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "score": 28
     },
     {
-      "title": "从叉簧到坟墓",
-      "originalTitle": "From Hookswitch to Grave",
-      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
-      "score": 15
+      "title": "关闭我们的公共加密 DNS",
+      "originalTitle": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "score": 300
     },
     {
-      "title": "人工海狸水坝使银大麻哈鱼幼鱼的存活率从 8% 提高到 60%",
-      "originalTitle": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "score": 205
+      "title": "Nitter 的工作实例比被删除之前更多",
+      "originalTitle": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "score": 69
     }
   ],
-  "updateTime": "9/4/2026, 5:44:31 AM"
+  "updateTime": "9/5/2026, 5:29:12 AM"
 }
