@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "totalStars": "17.6k",
-      "dailyGrowth": "1592",
+      "totalStars": "18.8k",
+      "dailyGrowth": "1205",
       "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": 2,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "17.4k",
-      "dailyGrowth": "536",
-      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": 3,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "19.2k",
-      "dailyGrowth": "500",
-      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
-    },
-    {
-      "rank": 4,
       "name": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "totalStars": "2.3k",
-      "dailyGrowth": "426",
+      "totalStars": "3.1k",
+      "dailyGrowth": "776",
       "description": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
     {
-      "rank": 5,
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "totalStars": "8.7k",
-      "dailyGrowth": "406",
-      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "rank": 3,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "totalStars": "17.9k",
+      "dailyGrowth": "538",
+      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "totalStars": "10.7k",
+      "dailyGrowth": "296",
+      "description": ""
+    },
+    {
+      "rank": 5,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
-      "totalStars": "17k",
-      "dailyGrowth": "351",
+      "totalStars": "17.2k",
+      "dailyGrowth": "269",
       "description": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
-      "rank": 7,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "totalStars": "16.1k",
-      "dailyGrowth": "264",
-      "description": "AI 代理技能的安全扫描器。在安装之前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
+      "rank": 6,
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "totalStars": "19.5k",
+      "dailyGrowth": "247",
+      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "15.2k",
-      "dailyGrowth": "232",
+      "totalStars": "15.4k",
+      "dailyGrowth": "227",
       "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
+      "rank": 8,
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "totalStars": "6.9k",
+      "dailyGrowth": "212",
+      "description": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
+    },
+    {
       "rank": 9,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "totalStars": "7.4k",
-      "dailyGrowth": "168",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "totalStars": "4.7k",
+      "dailyGrowth": "197",
+      "description": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。您可以自行报告这些问题，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
     },
     {
       "rank": 10,
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "totalStars": "4.2k",
-      "dailyGrowth": "159",
-      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "totalStars": "13.2k",
+      "dailyGrowth": "185",
+      "description": "Stremio - 自由流媒体"
     }
   ],
   "hackerNews": [
     {
-      "title": "在所有 Chromium 版本中积极利用沙箱 RCE",
-      "originalTitle": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 378
+      "title": "瓶中云：让每个人都可以使用自托管",
+      "originalTitle": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "score": 273
     },
     {
-      "title": "形式化费马大定理",
-      "originalTitle": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 561
+      "title": "读者的反抗",
+      "originalTitle": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "score": 236
+    },
+    {
+      "title": "机器人手臂上的 GPT-6 Astra",
+      "originalTitle": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "score": 124
+    },
+    {
+      "title": "OpenBSD 故事：奇怪的中世纪设备",
+      "originalTitle": "OpenBSD Stories: Strange Medieval Devices",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "score": 30
+    },
+    {
+      "title": "摄影最重要的 24 个方块 ColorChecker 迎来 50 岁生日",
+      "originalTitle": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "score": 23
+    },
+    {
+      "title": "Chrome再次免除谷歌用户网站数据设置的责任",
+      "originalTitle": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "score": 235
+    },
+    {
+      "title": "使用 OCaml 学习编程",
+      "originalTitle": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "score": 219
+    },
+    {
+      "title": "德国私人火箭创造历史，从欧洲土地进入轨道",
+      "originalTitle": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "score": 465
+    },
+    {
+      "title": "“60 美元游戏电脑”——AMD BC-250 (2025)",
+      "originalTitle": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "score": 322
     },
     {
       "title": "发现新的 OpenAI 代理留言板",
       "originalTitle": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 1583
-    },
-    {
-      "title": "Statichost.eu – 欧洲静态网站托管",
-      "originalTitle": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
-      "score": 207
-    },
-    {
-      "title": "OpenRouter 上的 GPT-6 Astra",
-      "originalTitle": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "score": 169
-    },
-    {
-      "title": "AI还能设计电路板吗？",
-      "originalTitle": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 213
-    },
-    {
-      "title": "人工智能分析智能指数 v4.2",
-      "originalTitle": "Artificial Analysis Intelligence Index v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "score": 90
-    },
-    {
-      "title": "Git 子模块作为包管理器",
-      "originalTitle": "Git Submodules as a Package Manager",
-      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-      "score": 28
-    },
-    {
-      "title": "关闭我们的公共加密 DNS",
-      "originalTitle": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "score": 300
-    },
-    {
-      "title": "Nitter 的工作实例比被删除之前更多",
-      "originalTitle": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 69
+      "score": 2154
     }
   ],
-  "updateTime": "9/5/2026, 5:29:12 AM"
+  "updateTime": "9/6/2026, 5:43:10 AM"
 }
