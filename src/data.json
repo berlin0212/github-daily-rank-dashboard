@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "totalStars": "18.8k",
-      "dailyGrowth": "1205",
-      "description": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
-    },
-    {
-      "rank": 2,
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "totalStars": "3.1k",
-      "dailyGrowth": "776",
-      "description": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
-    },
-    {
-      "rank": 3,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "17.9k",
-      "dailyGrowth": "538",
-      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": 4,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "totalStars": "10.7k",
-      "dailyGrowth": "296",
-      "description": ""
-    },
-    {
-      "rank": 5,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "17.2k",
-      "dailyGrowth": "269",
-      "description": "Semrush 和 Ahrefs 的开源替代品"
-    },
-    {
-      "rank": 6,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "totalStars": "19.5k",
-      "dailyGrowth": "247",
-      "description": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
-    },
-    {
-      "rank": 7,
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "15.4k",
-      "dailyGrowth": "227",
+      "totalStars": "16.7k",
+      "dailyGrowth": "1210",
       "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "totalStars": "4.6k",
+      "dailyGrowth": "1011",
+      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
+    },
+    {
+      "rank": 3,
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "totalStars": "8.4k",
+      "dailyGrowth": "937",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "rank": 4,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "totalStars": "18.9k",
+      "dailyGrowth": "931",
+      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+    },
+    {
+      "rank": 5,
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "totalStars": "4k",
+      "dailyGrowth": "900",
+      "description": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
+    },
+    {
+      "rank": 6,
+      "name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "totalStars": "3.7k",
+      "dailyGrowth": "885",
+      "description": "开源、浏览器内且无需注册的工具列表！"
+    },
+    {
+      "rank": 7,
       "name": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
-      "totalStars": "6.9k",
-      "dailyGrowth": "212",
+      "totalStars": "7.8k",
+      "dailyGrowth": "819",
       "description": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
     },
     {
+      "rank": 8,
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "totalStars": "3.4k",
+      "dailyGrowth": "769",
+      "description": ""
+    },
+    {
       "rank": 9,
-      "name": "bikini/exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "totalStars": "4.7k",
-      "dailyGrowth": "197",
-      "description": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。请随意自行举报，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "totalStars": "5.2k",
+      "dailyGrowth": "503",
+      "description": "在几分钟内建立您的自主对冲基金。 AutoHedge 利用群体智能和人工智能代理的力量来自动化市场分析、风险管理和交易执行。"
     },
     {
       "rank": 10,
-      "name": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "totalStars": "13.4k",
-      "dailyGrowth": "174",
-      "description": "Stremio - 自由流媒体"
+      "name": "zgwl/chinese-buy-us-stock-guide",
+      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+      "totalStars": "7k",
+      "dailyGrowth": "498",
+      "description": "美股指南"
     }
   ],
   "hackerNews": [
     {
-      "title": "保持我们的服务器运行",
-      "originalTitle": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 161
-    },
-    {
-      "title": "用 1024 字节制作一个 Python 解释器",
-      "originalTitle": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 168
-    },
-    {
-      "title": "我是电脑的导盲犬",
-      "originalTitle": "I'm a seeing-eye dog for a computer",
-      "url": "https://claytonwramsey.com/blog/seeing-eye/",
-      "score": 33
-    },
-    {
-      "title": "在 Anubis 中发布 WebAssembly 花了一年时间",
-      "originalTitle": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 208
-    },
-    {
-      "title": "问 HN：《神鬼寓言》黑了我的钢琴，我可以公布结果吗？",
-      "originalTitle": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "score": 74
-    },
-    {
-      "title": "询问 HN：您如何管理技能文件？",
-      "originalTitle": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
+      "title": "我们有一年的时间来修复各地的安全问题",
+      "originalTitle": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
       "score": 53
     },
     {
-      "title": "GitSpawn：不受信任的存储库可以通过人工智能编码代理执行代码",
-      "originalTitle": "GitSpawn: Untrusted repos can execute code via AI coding agents",
-      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "score": 8
+      "title": "我已经分解了 90 年代证书颁发机构的 RSA 密钥",
+      "originalTitle": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 226
     },
     {
-      "title": "有人看到我的钥匙了吗？机架级安全的密钥层次策略",
-      "originalTitle": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-      "url": "https://rfd.shared.oxide.computer/rfd/0301",
-      "score": 9
+      "title": "我的饲料，我的方式",
+      "originalTitle": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "score": 17
     },
     {
-      "title": "Nitter 和 XCancel 在法律建议后恢复服务",
-      "originalTitle": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 599
+      "title": "代理使用测试/验证技术的情况如何？",
+      "originalTitle": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "score": 41
     },
     {
-      "title": "NX 位不仅仅是安全性",
-      "originalTitle": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "score": 48
+      "title": "TALA 是开源的",
+      "originalTitle": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "score": 161
+    },
+    {
+      "title": "我在同一个 Three.js 任务中测试了 10 个模型/线束组合",
+      "originalTitle": "I tested 10 model/harness combinations on the same Three.js task",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "score": 23
+    },
+    {
+      "title": "Arm Mali G2-Ultra NX GPU：具有 AI 原生图形的桌面级移动游戏",
+      "originalTitle": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "score": 16
+    },
+    {
+      "title": "GamersNexus 和 LG：或者为什么 root 电视不是一个好主意",
+      "originalTitle": "GamersNexus and LG: Or why rooting your TV is a bad idea",
+      "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+      "score": 21
+    },
+    {
+      "title": "果冻12.0",
+      "originalTitle": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "score": 236
+    },
+    {
+      "title": "观看洛杉矶的建设，一次建造一栋建筑（1880-2026）",
+      "originalTitle": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "score": 263
     }
   ],
-  "updateTime": "9/7/2026, 5:53:05 AM"
+  "updateTime": "9/8/2026, 5:46:01 AM"
 }
