@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "我们有一年的时间来修复各地的安全问题",
-      "originalTitle": "We have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "score": 53
+      "title": "Muse – Meta 的个人人工智能代理",
+      "originalTitle": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 425
     },
     {
-      "title": "我已经分解了 90 年代证书颁发机构的 RSA 密钥",
-      "originalTitle": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 226
+      "title": "张力木：既能弯曲又能伸直植物的“肌肉”",
+      "originalTitle": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "score": 81
     },
     {
-      "title": "我的饲料，我的方式",
-      "originalTitle": "My Feed, My Way",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "title": "研究人员利用地球磁场发现假古代陶器",
+      "originalTitle": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
       "score": 17
     },
     {
-      "title": "代理使用测试/验证技术的情况如何？",
-      "originalTitle": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "score": 41
+      "title": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]",
+      "originalTitle": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 1493
     },
     {
-      "title": "TALA 是开源的",
-      "originalTitle": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 161
+      "title": "如何建造一台打印机",
+      "originalTitle": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "score": 237
     },
     {
-      "title": "我在同一个 Three.js 任务中测试了 10 个模型/线束组合",
-      "originalTitle": "I tested 10 model/harness combinations on the same Three.js task",
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "score": 23
+      "title": "AlphaGenome Atlas：人类 DNA 的高分辨率图谱",
+      "originalTitle": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 529
     },
     {
-      "title": "Arm Mali G2-Ultra NX GPU：具有 AI 原生图形的桌面级移动游戏",
-      "originalTitle": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "score": 16
+      "title": "大型语言模型通过适应性探索形成新的社会偏见",
+      "originalTitle": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "score": 133
     },
     {
-      "title": "GamersNexus 和 LG：或者为什么 root 电视不是一个好主意",
-      "originalTitle": "GamersNexus and LG: Or why rooting your TV is a bad idea",
-      "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+      "title": "水星2.5",
+      "originalTitle": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "score": 162
+    },
+    {
+      "title": "伙伴电脑机箱的由来",
+      "originalTitle": "The origins of Partner’s computer case",
+      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
       "score": 21
     },
     {
-      "title": "果冻12.0",
-      "originalTitle": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 236
-    },
-    {
-      "title": "观看洛杉矶的建设，一次建造一栋建筑（1880-2026）",
-      "originalTitle": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 263
+      "title": "Cloudflare 技术架构师 Lee Holloway 的传记（第 1 部分）",
+      "originalTitle": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+      "score": 12
     }
   ],
-  "updateTime": "9/8/2026, 5:46:01 AM"
+  "updateTime": "9/9/2026, 5:50:07 AM"
 }
