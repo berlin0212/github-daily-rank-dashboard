@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "16.7k",
-      "dailyGrowth": "1210",
+      "totalStars": "17.7k",
+      "dailyGrowth": "657",
       "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 2,
-      "name": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "totalStars": "4.6k",
-      "dailyGrowth": "1011",
-      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "totalStars": "3.8k",
+      "dailyGrowth": "530",
+      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
     },
     {
       "rank": 3,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "totalStars": "8.4k",
-      "dailyGrowth": "937",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "totalStars": "10.8k",
+      "dailyGrowth": "444",
+      "description": "适用于 AI 代理的隐形无头浏览器 — 绕过 Cloudflare、机器人检测和反抓取。替代木偶师/剧作家。"
     },
     {
       "rank": 4,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "totalStars": "18.9k",
-      "dailyGrowth": "931",
-      "description": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "totalStars": "2.8k",
+      "dailyGrowth": "361",
+      "description": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
     },
     {
       "rank": 5,
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "totalStars": "4k",
-      "dailyGrowth": "900",
-      "description": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "totalStars": "5.5k",
+      "dailyGrowth": "358",
+      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": 6,
-      "name": "BraveOPotato/FckSignups",
-      "url": "https://github.com/BraveOPotato/FckSignups",
-      "totalStars": "3.7k",
-      "dailyGrowth": "885",
-      "description": "开源、浏览器内且无需注册的工具列表！"
-    },
-    {
-      "rank": 7,
-      "name": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "totalStars": "7.8k",
-      "dailyGrowth": "819",
-      "description": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
-    },
-    {
-      "rank": 8,
-      "name": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "totalStars": "3.4k",
-      "dailyGrowth": "769",
-      "description": ""
-    },
-    {
-      "rank": 9,
       "name": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "totalStars": "5.2k",
-      "dailyGrowth": "503",
+      "totalStars": "5.9k",
+      "dailyGrowth": "313",
       "description": "在几分钟内建立您的自主对冲基金。 AutoHedge 利用群体智能和人工智能代理的力量来自动化市场分析、风险管理和交易执行。"
     },
     {
+      "rank": 7,
+      "name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "totalStars": "11.6k",
+      "dailyGrowth": "302",
+      "description": "📱 使用 scrcpy 以图形方式显示和控制您的 Android 设备。"
+    },
+    {
+      "rank": 8,
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "totalStars": "18.7k",
+      "dailyGrowth": "270",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+    },
+    {
+      "rank": 9,
+      "name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "totalStars": "10.4k",
+      "dailyGrowth": "248",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+    },
+    {
       "rank": 10,
-      "name": "zgwl/chinese-buy-us-stock-guide",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-      "totalStars": "7k",
-      "dailyGrowth": "498",
-      "description": "美股指南"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "18.1k",
+      "dailyGrowth": "202",
+      "description": "Semrush 和 Ahrefs 的开源替代方案"
     }
   ],
   "hackerNews": [
     {
-      "title": "Muse – Meta 的个人人工智能代理",
-      "originalTitle": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "score": 425
+      "title": "iPhone 双核",
+      "originalTitle": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 1069
     },
     {
-      "title": "张力木：既能弯曲又能伸直植物的“肌肉”",
-      "originalTitle": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 81
+      "title": "Show HN：如果光速是 5 公里/小时会怎样？",
+      "originalTitle": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "score": 156
     },
     {
-      "title": "研究人员利用地球磁场发现假古代陶器",
-      "originalTitle": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "score": 17
+      "title": "ESP32 Bit Pirate 硬件黑客套件，带有支持各种协议的 Web 工具",
+      "originalTitle": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+      "score": 45
     },
     {
-      "title": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]",
-      "originalTitle": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1493
+      "title": "Shopify 收购 Tailwind",
+      "originalTitle": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 974
     },
     {
-      "title": "如何建造一台打印机",
-      "originalTitle": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 237
+      "title": "版本控制再临",
+      "originalTitle": "Version Control Second Coming",
+      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+      "score": 14
     },
     {
-      "title": "AlphaGenome Atlas：人类 DNA 的高分辨率图谱",
-      "originalTitle": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 529
+      "title": "维萨卡和万事达卡是做什么的？卡网络简介",
+      "originalTitle": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 462
     },
     {
-      "title": "大型语言模型通过适应性探索形成新的社会偏见",
-      "originalTitle": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 133
+      "title": "越来越多的证据表明自动驾驶汽车可以拯救生命",
+      "originalTitle": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 299
     },
     {
-      "title": "水星2.5",
-      "originalTitle": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "score": 162
+      "title": "将 3.8B LLM 培训至 0.384 CORE，仅需 998 美元 – Hugo Vergnes",
+      "originalTitle": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "score": 38
     },
     {
-      "title": "伙伴电脑机箱的由来",
-      "originalTitle": "The origins of Partner’s computer case",
-      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-      "score": 21
+      "title": "AirPods 5",
+      "originalTitle": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 423
     },
     {
-      "title": "Cloudflare 技术架构师 Lee Holloway 的传记（第 1 部分）",
-      "originalTitle": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-      "score": 12
+      "title": "Show HN：多项式计算速度提高两倍",
+      "originalTitle": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "score": 53
     }
   ],
-  "updateTime": "9/9/2026, 5:50:07 AM"
+  "updateTime": "9/10/2026, 5:44:39 AM"
 }
