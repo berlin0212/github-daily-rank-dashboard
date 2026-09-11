@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "17.7k",
-      "dailyGrowth": "657",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "totalStars": "3.7k",
+      "dailyGrowth": "788",
+      "description": "让每个团队的 AI 都原生化"
     },
     {
       "rank": 2,
-      "name": "XiaoDuoYa/codex-with-chatgpt",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "totalStars": "3.8k",
-      "dailyGrowth": "530",
-      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "totalStars": "18.7k",
+      "dailyGrowth": "727",
+      "description": "《系统设计访谈 - 业内人士指南》一书的注释"
     },
     {
       "rank": 3,
-      "name": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "totalStars": "10.8k",
-      "dailyGrowth": "444",
-      "description": "适用于 AI 代理的隐形无头浏览器 — 绕过 Cloudflare、机器人检测和反抓取。替代木偶师/剧作家。"
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "totalStars": "2.2k",
+      "dailyGrowth": "600",
+      "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
     },
     {
       "rank": 4,
-      "name": "ashemag/human-atlas",
-      "url": "https://github.com/ashemag/human-atlas",
-      "totalStars": "2.8k",
-      "dailyGrowth": "361",
-      "description": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
+      "name": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "totalStars": "8.2k",
+      "dailyGrowth": "340",
+      "description": "从任何文章中删除 20 多种 AI 废话模式。"
     },
     {
       "rank": 5,
-      "name": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "totalStars": "5.5k",
-      "dailyGrowth": "358",
-      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "totalStars": "15.3k",
+      "dailyGrowth": "329",
+      "description": "CAD、CAE 和 CAM 代理技能库"
     },
     {
       "rank": 6,
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "totalStars": "5.9k",
-      "dailyGrowth": "313",
-      "description": "在几分钟内建立您的自主对冲基金。 AutoHedge 利用群体智能和人工智能代理的力量来自动化市场分析、风险管理和交易执行。"
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "totalStars": "5.8k",
+      "dailyGrowth": "328",
+      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": 7,
-      "name": "viarotel-org/escrcpy",
-      "url": "https://github.com/viarotel-org/escrcpy",
-      "totalStars": "11.6k",
-      "dailyGrowth": "302",
-      "description": "📱 使用 scrcpy 以图形方式显示和控制您的 Android 设备。"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "18k",
+      "dailyGrowth": "305",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 8,
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "totalStars": "18.7k",
-      "dailyGrowth": "270",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "totalStars": "3.1k",
+      "dailyGrowth": "246",
+      "description": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
     },
     {
       "rank": 9,
-      "name": "MoonTechLab/LunaTV",
-      "url": "https://github.com/MoonTechLab/LunaTV",
-      "totalStars": "10.4k",
-      "dailyGrowth": "248",
-      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "totalStars": "18.9k",
+      "dailyGrowth": "232",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
     },
     {
       "rank": 10,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "18.1k",
-      "dailyGrowth": "202",
-      "description": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "totalStars": "7.5k",
+      "dailyGrowth": "219",
+      "description": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。"
     }
   ],
   "hackerNews": [
     {
-      "title": "iPhone 双核",
-      "originalTitle": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 1069
+      "title": "Shopify 正在从 React Native 迁移回 Swift 和 Kotlin",
+      "originalTitle": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 934
     },
     {
-      "title": "Show HN：如果光速是 5 公里/小时会怎样？",
-      "originalTitle": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "score": 156
+      "title": "面包上的小孔正在告诉你一些事情",
+      "originalTitle": "The little holes in your bread are telling you something",
+      "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
+      "score": 17
     },
     {
-      "title": "ESP32 Bit Pirate 硬件黑客套件，带有支持各种协议的 Web 工具",
-      "originalTitle": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
-      "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
-      "score": 45
+      "title": "不要让任何人拿走你的大盒子电缆",
+      "originalTitle": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 418
     },
     {
-      "title": "Shopify 收购 Tailwind",
-      "originalTitle": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 974
+      "title": "九种编码线束与您的笔记本电脑",
+      "originalTitle": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "score": 30
     },
     {
-      "title": "版本控制再临",
-      "originalTitle": "Version Control Second Coming",
-      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-      "score": 14
+      "title": "OpenAI 代理 API",
+      "originalTitle": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 202
     },
     {
-      "title": "维萨卡和万事达卡是做什么的？卡网络简介",
-      "originalTitle": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 462
+      "title": "Cognition 推出新的 SWE-2 模型，与 Fable 5.1 和 GPT-Astra 相媲美",
+      "originalTitle": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 390
     },
     {
-      "title": "越来越多的证据表明自动驾驶汽车可以拯救生命",
-      "originalTitle": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "score": 299
+      "title": "Gemini 应用程序现已可用于 Windows",
+      "originalTitle": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "score": 7
     },
     {
-      "title": "将 3.8B LLM 培训至 0.384 CORE，仅需 998 美元 – Hugo Vergnes",
-      "originalTitle": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "score": 38
+      "title": "Deathray：不受信任的站点冻结 Mac 的简单方法",
+      "originalTitle": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "score": 131
     },
     {
-      "title": "AirPods 5",
-      "originalTitle": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 423
+      "title": "操纵卫星照片的技术现在揭示了古代图像（2025）",
+      "originalTitle": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 304
     },
     {
-      "title": "Show HN：多项式计算速度提高两倍",
-      "originalTitle": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
-      "score": 53
+      "title": "谷歌将从芬兰一处核电站购买一半的电力",
+      "originalTitle": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "score": 168
     }
   ],
-  "updateTime": "9/10/2026, 5:44:39 AM"
+  "updateTime": "9/11/2026, 5:44:31 AM"
 }
