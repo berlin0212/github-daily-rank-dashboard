@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "totalStars": "3.7k",
-      "dailyGrowth": "788",
-      "description": "让每个团队的 AI 都原生化"
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "totalStars": "19.3k",
+      "dailyGrowth": "616",
+      "description": "《系统设计访谈 - 业内人士指南》一书的注释"
     },
     {
       "rank": 2,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
       "totalStars": "18.7k",
-      "dailyGrowth": "727",
-      "description": "《系统设计访谈 - 业内人士指南》一书的注释"
+      "dailyGrowth": "616",
+      "description": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
     },
     {
       "rank": 3,
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
-      "totalStars": "2.2k",
-      "dailyGrowth": "600",
+      "totalStars": "2.7k",
+      "dailyGrowth": "512",
       "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
     },
     {
       "rank": 4,
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "totalStars": "8.2k",
-      "dailyGrowth": "340",
-      "description": "从任何文章中删除 20 多种 AI 废话模式。"
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "totalStars": "2.1k",
+      "dailyGrowth": "502",
+      "description": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
     },
     {
       "rank": 5,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "totalStars": "15.3k",
-      "dailyGrowth": "329",
-      "description": "CAD、CAE 和 CAM 代理技能库"
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "totalStars": "4.2k",
+      "dailyGrowth": "463",
+      "description": "让每个团队的 AI 都原生化"
     },
     {
       "rank": 6,
-      "name": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "totalStars": "5.8k",
-      "dailyGrowth": "328",
-      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "totalStars": "9.2k",
+      "dailyGrowth": "346",
+      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
     },
     {
       "rank": 7,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "18k",
-      "dailyGrowth": "305",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "totalStars": "4.7k",
+      "dailyGrowth": "324",
+      "description": "图形创建工具"
     },
     {
       "rank": 8,
-      "name": "ashemag/human-atlas",
-      "url": "https://github.com/ashemag/human-atlas",
-      "totalStars": "3.1k",
-      "dailyGrowth": "246",
-      "description": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "18.3k",
+      "dailyGrowth": "272",
+      "description": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": 9,
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "totalStars": "18.9k",
-      "dailyGrowth": "232",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "totalStars": "6.1k",
+      "dailyGrowth": "269",
+      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": 10,
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "totalStars": "7.5k",
-      "dailyGrowth": "219",
-      "description": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。"
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "totalStars": "19.1k",
+      "dailyGrowth": "254",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Shopify 正在从 React Native 迁移回 Swift 和 Kotlin",
-      "originalTitle": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 934
+      "title": "Google 不再在搜索结果中提供直接网址",
+      "originalTitle": "Google no longer provides direct URLs in search results",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 185
     },
     {
-      "title": "面包上的小孔正在告诉你一些事情",
-      "originalTitle": "The little holes in your bread are telling you something",
-      "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-      "score": 17
+      "title": "Usenet 倒带档案搜索引擎",
+      "originalTitle": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "score": 22
     },
     {
-      "title": "不要让任何人拿走你的大盒子电缆",
-      "originalTitle": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 418
+      "title": "人工智能在数学中的错位",
+      "originalTitle": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 784
     },
     {
-      "title": "九种编码线束与您的笔记本电脑",
-      "originalTitle": "Nine coding harnesses vs. your laptop",
-      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "title": "克莱数学研究所纳维-斯托克斯问题",
+      "originalTitle": "Clay Mathematics Institute on the Navier-Stokes Problem",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
       "score": 30
     },
     {
-      "title": "OpenAI 代理 API",
-      "originalTitle": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 202
+      "title": "我在 Google 应用广告上花费了 220 美元，60% 的安装是机器人",
+      "originalTitle": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 412
     },
     {
-      "title": "Cognition 推出新的 SWE-2 模型，与 Fable 5.1 和 GPT-Astra 相媲美",
-      "originalTitle": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 390
+      "title": "五大湖鲟鱼可能已有400岁：科学家重新思考如何拯救它们",
+      "originalTitle": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "score": 33
     },
     {
-      "title": "Gemini 应用程序现已可用于 Windows",
-      "originalTitle": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "score": 7
+      "title": "Async/Await 的设计空间探索",
+      "originalTitle": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 213
     },
     {
-      "title": "Deathray：不受信任的站点冻结 Mac 的简单方法",
-      "originalTitle": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 131
+      "title": "熊猫应该灭绝",
+      "originalTitle": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "score": 97
     },
     {
-      "title": "操纵卫星照片的技术现在揭示了古代图像（2025）",
-      "originalTitle": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 304
+      "title": "使用 CSS 设计双屏和可折叠设备 (2023)",
+      "originalTitle": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "score": 14
     },
     {
-      "title": "谷歌将从芬兰一处核电站购买一半的电力",
-      "originalTitle": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "score": 168
+      "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击",
+      "originalTitle": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 526
     }
   ],
-  "updateTime": "9/11/2026, 5:44:31 AM"
+  "updateTime": "9/12/2026, 5:31:47 AM"
 }
