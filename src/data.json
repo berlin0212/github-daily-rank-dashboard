@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Google 不再在搜索结果中提供直接网址",
-      "originalTitle": "Google no longer provides direct URLs in search results",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "score": 185
+      "title": "临时计算机博物馆",
+      "originalTitle": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "score": 64
     },
     {
-      "title": "Usenet 倒带档案搜索引擎",
-      "originalTitle": "Usenet rewind archive search engine",
-      "url": "https://www.usenet-rewind.com/",
-      "score": 22
+      "title": "对 OpenStreetMap 进行首次编辑",
+      "originalTitle": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "score": 393
     },
     {
-      "title": "人工智能在数学中的错位",
-      "originalTitle": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 784
+      "title": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试",
+      "originalTitle": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 192
     },
     {
-      "title": "克莱数学研究所纳维-斯托克斯问题",
-      "originalTitle": "Clay Mathematics Institute on the Navier-Stokes Problem",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "score": 30
+      "title": "我用 ESP32 制作了一个非 Wi-Fi 三菱 AC Smart",
+      "originalTitle": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
+      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "score": 26
     },
     {
-      "title": "我在 Google 应用广告上花费了 220 美元，60% 的安装是机器人",
-      "originalTitle": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 412
+      "title": "不要称自己为手工程序员",
+      "originalTitle": "Don't call yourself an artisanal programmer",
+      "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+      "score": 26
     },
     {
-      "title": "五大湖鲟鱼可能已有400岁：科学家重新思考如何拯救它们",
-      "originalTitle": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "score": 33
+      "title": "Nvidia是人工智能的中央银行",
+      "originalTitle": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 439
     },
     {
-      "title": "Async/Await 的设计空间探索",
-      "originalTitle": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 213
+      "title": "从 Git 到化石",
+      "originalTitle": "From Git to Fossil",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "score": 37
     },
     {
-      "title": "熊猫应该灭绝",
-      "originalTitle": "Pandas Should Go Extinct",
-      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-      "score": 97
+      "title": "为什么人工智能代理会撒谎、欺骗和协调？",
+      "originalTitle": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "score": 51
     },
     {
-      "title": "使用 CSS 设计双屏和可折叠设备 (2023)",
-      "originalTitle": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "title": "Apple iPod 雕刻机 (2019)",
+      "originalTitle": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "score": 178
+    },
+    {
+      "title": "一场导致英格兰分裂的继承危机",
+      "originalTitle": "A succession crisis that tore England apart",
+      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
       "score": 14
-    },
-    {
-      "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击",
-      "originalTitle": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "score": 526
     }
   ],
-  "updateTime": "9/12/2026, 5:31:47 AM"
+  "updateTime": "9/13/2026, 5:51:08 AM"
 }
