@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "totalStars": "19.3k",
-      "dailyGrowth": "616",
-      "description": "《系统设计访谈 - 业内人士指南》一书的注释"
+      "name": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "totalStars": "3k",
+      "dailyGrowth": "474",
+      "description": "代理驱动的研究知识库。代理收集、搜索网络研究并将其综合到持久的、可搜索的维基中。"
     },
     {
       "rank": 2,
-      "name": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "totalStars": "18.7k",
-      "dailyGrowth": "616",
-      "description": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "totalStars": "1.7k",
+      "dailyGrowth": "438",
+      "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
     },
     {
       "rank": 3,
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "totalStars": "2.7k",
-      "dailyGrowth": "512",
-      "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "totalStars": "19.1k",
+      "dailyGrowth": "416",
+      "description": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
     },
     {
       "rank": 4,
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "totalStars": "2.1k",
-      "dailyGrowth": "502",
-      "description": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "totalStars": "1.6k",
+      "dailyGrowth": "374",
+      "description": "使用任何模型运行并行研究代理"
     },
     {
       "rank": 5,
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "totalStars": "4.2k",
-      "dailyGrowth": "463",
-      "description": "让每个团队的 AI 都原生化"
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "totalStars": "2.4k",
+      "dailyGrowth": "352",
+      "description": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
     },
     {
       "rank": 6,
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "totalStars": "9.2k",
-      "dailyGrowth": "346",
-      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "totalStars": "3.1k",
+      "dailyGrowth": "324",
+      "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
     },
     {
       "rank": 7,
-      "name": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "totalStars": "4.7k",
-      "dailyGrowth": "324",
-      "description": "图形创建工具"
+      "name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "totalStars": "5.1k",
+      "dailyGrowth": "262",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
     },
     {
       "rank": 8,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "totalStars": "18.3k",
-      "dailyGrowth": "272",
-      "description": "免费开源 macOS 菜单栏工具包。"
+      "name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "totalStars": "1.4k",
+      "dailyGrowth": "248",
+      "description": "网络堆栈研究工具。具有可插拔传输的 TCP 隧道。"
     },
     {
       "rank": 9,
       "name": "lnkiai/m3e-canvas",
       "url": "https://github.com/lnkiai/m3e-canvas",
-      "totalStars": "6.1k",
-      "dailyGrowth": "269",
+      "totalStars": "6.3k",
+      "dailyGrowth": "208",
       "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": 10,
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "totalStars": "19.1k",
-      "dailyGrowth": "254",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "totalStars": "4.9k",
+      "dailyGrowth": "206",
+      "description": "图形创建工具"
     }
   ],
   "hackerNews": [
     {
-      "title": "临时计算机博物馆",
-      "originalTitle": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "score": 64
+      "title": "《寓言 5.1》破解了 Cyphral Distich，一个有 370 年历史的密码",
+      "originalTitle": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 713
     },
     {
-      "title": "对 OpenStreetMap 进行首次编辑",
-      "originalTitle": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 393
+      "title": "为什么谷歌仍然提供不可靠的广告？",
+      "originalTitle": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 727
     },
     {
-      "title": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试",
-      "originalTitle": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "score": 192
+      "title": "宇宙飞船（反向小行星）",
+      "originalTitle": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "score": 130
     },
     {
-      "title": "我用 ESP32 制作了一个非 Wi-Fi 三菱 AC Smart",
-      "originalTitle": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "title": "在 Signal 上没有电话号码的注册将使用零知识证明",
+      "originalTitle": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "score": 179
+    },
+    {
+      "title": "开源人工智能和开放模型阅读列表",
+      "originalTitle": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 75
+    },
+    {
+      "title": "针对 JPEG XL 的案例",
+      "originalTitle": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "score": 91
+    },
+    {
+      "title": "苹果的尺寸图",
+      "originalTitle": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "score": 113
+    },
+    {
+      "title": "从 2025 年开始，Astra 和 Fable 仍然在研究对齐评估的简单变体",
+      "originalTitle": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "score": 414
+    },
+    {
+      "title": "绳索、麻线和线：石器时代的隐形技术",
+      "originalTitle": "Rope, twine and thread: Invisible technologies of the Stone Age",
+      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
       "score": 26
     },
     {
-      "title": "不要称自己为手工程序员",
-      "originalTitle": "Don't call yourself an artisanal programmer",
-      "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-      "score": 26
-    },
-    {
-      "title": "Nvidia是人工智能的中央银行",
-      "originalTitle": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 439
-    },
-    {
-      "title": "从 Git 到化石",
-      "originalTitle": "From Git to Fossil",
-      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-      "score": 37
-    },
-    {
-      "title": "为什么人工智能代理会撒谎、欺骗和协调？",
-      "originalTitle": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 51
-    },
-    {
-      "title": "Apple iPod 雕刻机 (2019)",
-      "originalTitle": "Apple iPod Engraver (2019)",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "score": 178
-    },
-    {
-      "title": "一场导致英格兰分裂的继承危机",
-      "originalTitle": "A succession crisis that tore England apart",
-      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "score": 14
+      "title": "谁来定义人工智能的规则？",
+      "originalTitle": "Who Gets to Define the Rules for AI?",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "score": 10
     }
   ],
-  "updateTime": "9/13/2026, 5:51:08 AM"
+  "updateTime": "9/14/2026, 5:58:01 AM"
 }
