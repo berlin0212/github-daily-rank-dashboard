@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "jordan-gibbs/hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "totalStars": "3k",
-      "dailyGrowth": "474",
-      "description": "代理驱动的研究知识库。代理收集、搜索网络研究并将其综合到持久的、可搜索的维基中。"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "4.4k",
+      "dailyGrowth": "1099",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 2,
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "totalStars": "1.7k",
-      "dailyGrowth": "438",
-      "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "totalStars": "4.6k",
+      "dailyGrowth": "1079",
+      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
     },
     {
       "rank": 3,
-      "name": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "totalStars": "19.1k",
-      "dailyGrowth": "416",
-      "description": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "totalStars": "8.2k",
+      "dailyGrowth": "1007",
+      "description": "YuE2：具有象征性规划、零镜头翻唱和代理音乐编辑的前沿音乐生成。"
     },
     {
       "rank": 4,
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "totalStars": "1.6k",
-      "dailyGrowth": "374",
-      "description": "使用任何模型运行并行研究代理"
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "totalStars": "5.9k",
+      "dailyGrowth": "903",
+      "description": "Ever® Gauzy™ - 开放式业务管理平台 (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
     },
     {
       "rank": 5,
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "totalStars": "2.4k",
-      "dailyGrowth": "352",
-      "description": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
+      "name": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "totalStars": "9.5k",
+      "dailyGrowth": "869",
+      "description": "从任何文章中删除 20 多种 AI 废话模式。"
     },
     {
       "rank": 6,
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "totalStars": "3.1k",
-      "dailyGrowth": "324",
-      "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "totalStars": "2.4k",
+      "dailyGrowth": "813",
+      "description": "将您的编码代理转变为研究代理"
     },
     {
       "rank": 7,
-      "name": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "totalStars": "5.1k",
-      "dailyGrowth": "262",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "totalStars": "2.5k",
+      "dailyGrowth": "753",
+      "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
     },
     {
       "rank": 8,
-      "name": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "totalStars": "1.4k",
-      "dailyGrowth": "248",
-      "description": "网络堆栈研究工具。具有可插拔传输的 TCP 隧道。"
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "totalStars": "12.3k",
+      "dailyGrowth": "723",
+      "description": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍 — 1,800 多个网站，无需终端。适用于 Windows、macOS 和 Linux 的免费开源桌面应用程序，带有内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 提供支持。您的文件保留在您的计算机上。"
     },
     {
       "rank": 9,
-      "name": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "totalStars": "6.3k",
-      "dailyGrowth": "208",
-      "description": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "totalStars": "3.6k",
+      "dailyGrowth": "539",
+      "description": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
     },
     {
       "rank": 10,
-      "name": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "totalStars": "4.9k",
-      "dailyGrowth": "206",
-      "description": "图形创建工具"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "totalStars": "19k",
+      "dailyGrowth": "447",
+      "description": "免费开源 macOS 菜单栏工具包。"
     }
   ],
   "hackerNews": [
     {
-      "title": "《寓言 5.1》破解了 Cyphral Distich，一个有 370 年历史的密码",
-      "originalTitle": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 713
+      "title": "从零开始的Linux",
+      "originalTitle": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 33
     },
     {
-      "title": "为什么谷歌仍然提供不可靠的广告？",
-      "originalTitle": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 727
+      "title": "iOS 27、iPadOS 27 和 macOS 27",
+      "originalTitle": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 512
     },
     {
-      "title": "宇宙飞船（反向小行星）",
-      "originalTitle": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 130
+      "title": "OpenArm：开源 7DOF 人形手臂",
+      "originalTitle": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 25
     },
     {
-      "title": "在 Signal 上没有电话号码的注册将使用零知识证明",
-      "originalTitle": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 179
+      "title": "萨卡拉发现 4,400 年前埃及法官坟墓，墙壁上有彩色图案",
+      "originalTitle": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 88
     },
     {
-      "title": "开源人工智能和开放模型阅读列表",
-      "originalTitle": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 75
+      "title": "Pion，旨在自主运营任何公司的代理",
+      "originalTitle": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 356
     },
     {
-      "title": "针对 JPEG XL 的案例",
-      "originalTitle": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "score": 91
+      "title": "巴西经济中的每张发票都运行在 SOAP 1.2 上。我们绘制了这一切",
+      "originalTitle": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
+      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
+      "score": 49
     },
     {
-      "title": "苹果的尺寸图",
-      "originalTitle": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 113
+      "title": "为聊天构建的图表",
+      "originalTitle": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 180
     },
     {
-      "title": "从 2025 年开始，Astra 和 Fable 仍然在研究对齐评估的简单变体",
-      "originalTitle": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 414
+      "title": "通过 Memoization（非 AI Gen）将 eBPF CPU 成本降低约 90%",
+      "originalTitle": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 83
     },
     {
-      "title": "绳索、麻线和线：石器时代的隐形技术",
-      "originalTitle": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 26
+      "title": "X取消服务已暂停，直至另行通知",
+      "originalTitle": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 555
     },
     {
-      "title": "谁来定义人工智能的规则？",
-      "originalTitle": "Who Gets to Define the Rules for AI?",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "score": 10
+      "title": "显示 HN：macOS 中使用 Behringer FCB1010 MIDI 踏板的宏",
+      "originalTitle": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 54
     }
   ],
-  "updateTime": "9/14/2026, 5:58:01 AM"
+  "updateTime": "9/15/2026, 5:59:13 AM"
 }
