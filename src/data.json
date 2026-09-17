@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "totalStars": "12.9k",
-      "dailyGrowth": "961",
-      "description": ""
-    },
-    {
-      "rank": 2,
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "totalStars": "3.2k",
-      "dailyGrowth": "779",
+      "totalStars": "4.2k",
+      "dailyGrowth": "1032",
       "description": "将您的编码代理转变为研究代理"
     },
     {
-      "rank": 3,
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "totalStars": "5.3k",
-      "dailyGrowth": "682",
-      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
-    },
-    {
-      "rank": 4,
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "totalStars": "8.9k",
-      "dailyGrowth": "663",
-      "description": "YuE2：具有象征性规划、零镜头翻唱和代理音乐编辑的前沿音乐生成。"
-    },
-    {
-      "rank": 5,
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "totalStars": "6.5k",
-      "dailyGrowth": "637",
-      "description": "Ever® Gauzy™ - 开放式业务管理平台 (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "name": "tonhowtf/omniget",
       "url": "https://github.com/tonhowtf/omniget",
-      "totalStars": "12.8k",
-      "dailyGrowth": "491",
+      "totalStars": "13.5k",
+      "dailyGrowth": "723",
       "description": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍 — 1,800 多个网站，无需终端。适用于 Windows、macOS 和 Linux 的免费开源桌面应用程序，带有内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 提供支持。您的文件保留在您的计算机上。"
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "totalStars": "7.2k",
+      "dailyGrowth": "702",
+      "description": "Ever® Gauzy™ - 开放式业务管理平台 (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
+      "rank": 4,
+      "name": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "totalStars": "1.8k",
+      "dailyGrowth": "478",
+      "description": "📺 Homebrew 的官方 macOS GUI"
+    },
+    {
+      "rank": 5,
       "name": "peetzweg/opendisplay",
       "url": "https://github.com/peetzweg/opendisplay",
-      "totalStars": "4k",
-      "dailyGrowth": "469",
+      "totalStars": "4.4k",
+      "dailyGrowth": "398",
       "description": "免费、开源的 Sidecar/Duet 替代方案 - 通过 USB 或 WiFi 使用您的 iPhone、iPad 或 Mac 作为主 Mac 的真正第二个显示器。低延迟 H.264、Retina HiDPI、触摸输入。"
     },
     {
+      "rank": 6,
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "totalStars": "13.3k",
+      "dailyGrowth": "391",
+      "description": ""
+    },
+    {
+      "rank": 7,
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "totalStars": "9.3k",
+      "dailyGrowth": "384",
+      "description": "YuE2：具有象征性规划、零镜头翻唱和代理音乐编辑的前沿音乐生成。"
+    },
+    {
       "rank": 8,
-      "name": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "totalStars": "2.4k",
-      "dailyGrowth": "385",
-      "description": "Hermes Agent 的多合一插件 ⚚ 编码智能、长期记忆系统和模型优化的工作流程包"
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "totalStars": "4.8k",
+      "dailyGrowth": "382",
+      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
     },
     {
       "rank": 9,
-      "name": "Arindam200/awesome-ai-apps",
-      "url": "https://github.com/Arindam200/awesome-ai-apps",
-      "totalStars": "15.4k",
-      "dailyGrowth": "354",
-      "description": "展示 RAG、代理、工作流程和其他 AI 用例的项目集合"
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "totalStars": "5.7k",
+      "dailyGrowth": "380",
+      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
     },
     {
       "rank": 10,
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "totalStars": "9.8k",
-      "dailyGrowth": "339",
-      "description": "从任何文章中删除 20 多种 AI 废话模式。"
+      "name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "totalStars": "1.5k",
+      "dailyGrowth": "355",
+      "description": "ASC 是一款专为代理/移动研究人员设计的超快速 Android 反编译器前端。"
     }
   ],
   "hackerNews": [
     {
-      "title": "系统一模型和 Jev 简介",
-      "originalTitle": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1061
+      "title": "不包括密钥：恢复美国驾驶执照条形码的签名密钥",
+      "originalTitle": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 95
     },
     {
-      "title": "Apple 参考图像：验证摄影的新方法",
-      "originalTitle": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "score": 126
+      "title": "Nvidia 宣布使用 Rust 进行原生 GPU 编程",
+      "originalTitle": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "score": 510
     },
     {
-      "title": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图",
-      "originalTitle": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1469
+      "title": "训练 4B 模型生成比 Postgres 快 81% 的查询计划",
+      "originalTitle": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 483
     },
     {
-      "title": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客",
-      "originalTitle": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "score": 83
+      "title": "小米 Mimo 2.6 实时训练后仪表板",
+      "originalTitle": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "score": 367
     },
     {
-      "title": "消极之地、文化干扰和创造新事物的艺术",
-      "originalTitle": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "score": 58
+      "title": "备份并不简单",
+      "originalTitle": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "score": 168
     },
     {
-      "title": "Wayback Machine 访问更新",
-      "originalTitle": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "score": 478
+      "title": "使用 Verus 开发可证明正确的 Rust 代码",
+      "originalTitle": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "score": 74
     },
     {
-      "title": "双子座3.8直播和3.8直播延伸思考",
-      "originalTitle": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 369
+      "title": "编程小技巧",
+      "originalTitle": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 470
     },
     {
-      "title": "Datamimic – 不要让你的编码代理发明自己的测试世界",
-      "originalTitle": "Datamimic – don't let your coding agent invent its own test world",
-      "url": "https://github.com/rapiddweller/datamimic",
-      "score": 8
+      "title": "打破三元法学硕士的 1.58 位障碍",
+      "originalTitle": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 176
     },
     {
-      "title": "在一个月内为 M4 Mac Mini 构建 Linux GPU 驱动程序",
-      "originalTitle": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "score": 231
+      "title": "一个 32 岁的 bug 闯入 Telnet 服务器",
+      "originalTitle": "A 32-year-old bug walks into a Telnet server",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "score": 28
     },
     {
-      "title": "德国莱茵金属开源其Battlesuite连接武器系统协议",
-      "originalTitle": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "score": 175
+      "title": "AWS表示无法恢复伊朗袭击的中东设施的部分数据",
+      "originalTitle": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "score": 326
     }
   ],
-  "updateTime": "9/16/2026, 5:49:39 AM"
+  "updateTime": "9/17/2026, 5:56:24 AM"
 }
