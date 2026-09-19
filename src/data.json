@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "totalStars": "10.2k",
-      "dailyGrowth": "3291",
-      "description": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+      "totalStars": "13.2k",
+      "dailyGrowth": "2973",
+      "description": "用于多阶段安全审计的编码代理技能，具有独立验证的机器可读结果"
     },
     {
       "rank": 2,
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "totalStars": "4.8k",
-      "dailyGrowth": "605",
-      "description": "将您的编码代理转变为研究代理"
-    },
-    {
-      "rank": 3,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "totalStars": "13.7k",
-      "dailyGrowth": "450",
-      "description": ""
-    },
-    {
-      "rank": 4,
-      "name": "bobeff/open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "totalStars": "14.9k",
-      "dailyGrowth": "444",
-      "description": "开源游戏列表。"
-    },
-    {
-      "rank": 5,
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "8.7k",
-      "dailyGrowth": "419",
+      "totalStars": "10k",
+      "dailyGrowth": "1331",
       "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
+      "rank": 3,
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "totalStars": "5.2k",
+      "dailyGrowth": "1144",
+      "description": "让 AI 代理使用您真实登录的浏览器，而不会中断您的工作。 CLI + 扩展，可跨任何支持 shell 的 AI 代理实现浏览器自动化。"
+    },
+    {
+      "rank": 4,
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "totalStars": "4.9k",
+      "dailyGrowth": "899",
+      "description": "您自己的搜索引擎"
+    },
+    {
+      "rank": 5,
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "3.9k",
+      "dailyGrowth": "517",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+    },
+    {
       "rank": 6,
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "totalStars": "5.7k",
-      "dailyGrowth": "396",
-      "description": "用于可测量、计算机可执行研究的自主研究系统。"
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "totalStars": "5.3k",
+      "dailyGrowth": "445",
+      "description": "将您的编码代理转变为研究代理"
     },
     {
       "rank": 7,
-      "name": "XiaoDuoYa/codex-with-chatgpt",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "totalStars": "5.2k",
-      "dailyGrowth": "387",
-      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "totalStars": "6.4k",
+      "dailyGrowth": "339",
+      "description": "Tinycast — 一个小型、完全原生的 macOS 启动器、热键和剪贴板历史记录。"
     },
     {
       "rank": 8,
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "totalStars": "6k",
-      "dailyGrowth": "317",
-      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "totalStars": "2.6k",
+      "dailyGrowth": "315",
+      "description": "盆景演示"
     },
     {
       "rank": 9,
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
-      "totalStars": "7.5k",
-      "dailyGrowth": "266",
+      "totalStars": "7.7k",
+      "dailyGrowth": "269",
       "description": "Ever® Gauzy™ - 开放式业务管理平台 (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
     },
     {
       "rank": 10,
-      "name": "rowboatlabs/rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "totalStars": "17.9k",
-      "dailyGrowth": "250",
-      "description": "多人工作个人助理"
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "totalStars": "5.4k",
+      "dailyGrowth": "269",
+      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
     }
   ],
   "hackerNews": [
     {
-      "title": "黑客 OpenAI",
-      "originalTitle": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "score": 181
+      "title": "旧金山洋葱期货公司",
+      "originalTitle": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 79
     },
     {
-      "title": "Waymo 在新加坡",
-      "originalTitle": "Waymo in Singapore",
-      "url": "https://waymo.com/waymo-in-singapore/",
-      "score": 61
+      "title": "Android 17 是自 3.x 以来第一个在不发布到 AOSP 的情况下添加新 API 的版本",
+      "originalTitle": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 706
     },
     {
-      "title": "法律阿斯特拉",
-      "originalTitle": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "score": 416
+      "title": "SDCC – 小型设备 C 编译器",
+      "originalTitle": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "score": 39
     },
     {
-      "title": "Bonsai 2 27B：近乎无损压缩，占地面积缩小 9 倍",
-      "originalTitle": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 335
+      "title": "类型安全计算机使用推动 Mac 迈向每步 1/50 美分的目标",
+      "originalTitle": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "score": 29
     },
     {
-      "title": "前希腊语：隐藏在古希腊语中的失落语言",
-      "originalTitle": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-      "score": 31
+      "title": "科学是开放软件",
+      "originalTitle": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "score": 47
     },
     {
-      "title": "Bend – 一种在 CPU 和 GPU 上通过证明阻止 AI 错误的语言",
-      "originalTitle": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "score": 386
+      "title": "OpenAI 如何利用自己的法学硕士来设计 Jalapeo 芯片",
+      "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "score": 95
     },
     {
-      "title": "Hister：一个私人搜索引擎，用于搜索您访问的页面和您保存的文件",
-      "originalTitle": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "score": 540
+      "title": "Cloudflare 快速隧道",
+      "originalTitle": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 649
     },
     {
-      "title": "Qwen 3.8 全向闪光灯",
-      "originalTitle": "Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "score": 128
+      "title": "又节省 100TB RAM",
+      "originalTitle": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 297
     },
     {
-      "title": "x86 仿真的祸害",
-      "originalTitle": "The Scourge of x86 Emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "score": 12
+      "title": "为什么构建 Rust LSP 很困难",
+      "originalTitle": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "score": 30
     },
     {
-      "title": "蜡马达",
-      "originalTitle": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "score": 314
+      "title": "法学硕士如何写作",
+      "originalTitle": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 450
     }
   ],
-  "updateTime": "9/18/2026, 5:42:54 AM"
+  "updateTime": "9/19/2026, 5:37:35 AM"
 }
