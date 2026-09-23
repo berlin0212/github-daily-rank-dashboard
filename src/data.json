@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "totalStars": "15.3k",
-      "dailyGrowth": "7375",
-      "description": "最快、最便宜的网络代理"
-    },
-    {
-      "rank": 2,
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
-      "totalStars": "9.4k",
-      "dailyGrowth": "5499",
+      "totalStars": "15.9k",
+      "dailyGrowth": "6556",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "totalStars": "17.9k",
+      "dailyGrowth": "2598",
+      "description": "最快、最便宜的网络代理"
+    },
+    {
       "rank": 3,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "totalStars": "18.9k",
-      "dailyGrowth": "2904",
-      "description": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "totalStars": "5.3k",
+      "dailyGrowth": "1584",
+      "description": "Laya 类型决策模型的原生 MLX 运行时 — M3 Max 上的 7-14 毫秒短决策。没有文本生成、PyTorch 或云 API。"
     },
     {
       "rank": 4,
-      "name": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "totalStars": "4.7k",
-      "dailyGrowth": "2144",
-      "description": "开源人工智能品牌知名度和竞争对手报告。官网：https://niubigeo.ai/|付费服务：AI真人测试、GEO优化。定价：https://niubigeo.ai/pricing"
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "totalStars": "3.9k",
+      "dailyGrowth": "1522",
+      "description": "类似于 Jev 的小型决策模型系列，构建在 Qwen3.5 之上，您可以自行训练和运行"
     },
     {
       "rank": 5,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "4.3k",
-      "dailyGrowth": "1951",
-      "description": "适用于 Mac 的 Photoshop 替代品"
-    },
-    {
-      "rank": 6,
-      "name": "tamaratran/fast-jev-compaction",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "totalStars": "5.9k",
-      "dailyGrowth": "1838",
-      "description": "Claude Code 插件，用 Jev 决策替换压缩摘要：每个工具调用和结果都会在一个快速请求中进行评分，过时的会被删除或截断，所有内容都保持逐字记录。"
-    },
-    {
-      "rank": 7,
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "12.6k",
-      "dailyGrowth": "1710",
+      "totalStars": "13.8k",
+      "dailyGrowth": "1233",
       "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "totalStars": "17.5k",
-      "dailyGrowth": "1582",
-      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格，设置个性化提醒，并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
+      "totalStars": "18.3k",
+      "dailyGrowth": "759",
+      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格、设置个性化提醒并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
+    },
+    {
+      "rank": 7,
+      "name": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "totalStars": "6.2k",
+      "dailyGrowth": "709",
+      "description": "Z.ai 的编码代理线束。强大、智能、可扩展。"
+    },
+    {
+      "rank": 8,
+      "name": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "totalStars": "3.8k",
+      "dailyGrowth": "697",
+      "description": "来自开放模型的语义 ifs，在家里的 3090 上。独立的;不隶属于 Jev 或 TypeSafe。"
     },
     {
       "rank": 9,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "5.5k",
-      "dailyGrowth": "823",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "totalStars": "8.7k",
+      "dailyGrowth": "523",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具"
     },
     {
       "rank": 10,
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "totalStars": "10.7k",
-      "dailyGrowth": "809",
-      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "4.8k",
+      "dailyGrowth": "521",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     }
   ],
   "hackerNews": [
     {
-      "title": "小米 v2.6",
-      "originalTitle": "MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 738
+      "title": "GPT-6 索尔和露娜",
+      "originalTitle": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1376
     },
     {
-      "title": "Apple Music 将在巴特西发电站开设音乐会场地",
-      "originalTitle": "Apple Music to open concert venue in Battersea Power Station",
-      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
-      "score": 12
+      "title": "近距离工作 5.5",
+      "originalTitle": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1389
     },
     {
-      "title": "间谍标记，而不是水印",
-      "originalTitle": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "score": 281
+      "title": "交通奖励（Waymo 支付您乘坐火车的费用）",
+      "originalTitle": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 74
     },
     {
-      "title": "变形金刚直观解释",
-      "originalTitle": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 301
+      "title": "纯数据攻击比您想象的更容易 (2024)",
+      "originalTitle": "Data-only attacks are easier than you think (2024)",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "score": 16
     },
     {
-      "title": "注意力就是你的全部",
-      "originalTitle": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 685
+      "title": "OpenAI GPT–6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息",
+      "originalTitle": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 618
     },
     {
-      "title": "Sun 做错了什么",
-      "originalTitle": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 553
+      "title": "微软在 2007 年杀死了 FoxPro。无论如何，FoxPro 又复活了",
+      "originalTitle": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "score": 254
     },
     {
-      "title": "我不想读你没写的东西",
-      "originalTitle": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "score": 503
+      "title": "“我们入侵了联邦调查局：”黑客称他们拥有所有联邦调查局员工的数据",
+      "originalTitle": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "score": 521
     },
     {
-      "title": "美国宇航局火星样本返回任务失败",
-      "originalTitle": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 360
+      "title": "ReBarUEFI：可调整大小的 BAR，适用于几乎所有 UEFI 系统",
+      "originalTitle": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "score": 109
     },
     {
-      "title": "AI 编码使 CI 成为瓶颈，因此我们重新设计了我们的编码以跟上",
-      "originalTitle": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 195
+      "title": "加州从灌溉渠上建造的太阳能电池板中学到了什么",
+      "originalTitle": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "score": 173
     },
     {
-      "title": "期待 Git 2.56 和 3.0",
-      "originalTitle": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "score": 75
+      "title": "SAML：不良设计的分形",
+      "originalTitle": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "score": 202
     }
   ],
-  "updateTime": "9/22/2026, 5:58:04 AM"
+  "updateTime": "9/23/2026, 5:43:34 AM"
 }
