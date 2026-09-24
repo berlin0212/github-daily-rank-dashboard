@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "totalStars": "15.9k",
-      "dailyGrowth": "6556",
-      "description": ""
-    },
-    {
-      "rank": 2,
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "totalStars": "17.9k",
-      "dailyGrowth": "2598",
-      "description": "最快、最便宜的网络代理"
-    },
-    {
-      "rank": 3,
-      "name": "mizorewww/laya-mlx",
-      "url": "https://github.com/mizorewww/laya-mlx",
-      "totalStars": "5.3k",
-      "dailyGrowth": "1584",
-      "description": "Laya 类型决策模型的原生 MLX 运行时 — M3 Max 上的 7-14 毫秒短决策。没有文本生成、PyTorch 或云 API。"
-    },
-    {
-      "rank": 4,
       "name": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "3.9k",
-      "dailyGrowth": "1522",
+      "totalStars": "5.8k",
+      "dailyGrowth": "1900",
       "description": "类似于 Jev 的小型决策模型系列，构建在 Qwen3.5 之上，您可以自行训练和运行"
     },
     {
-      "rank": 5,
+      "rank": 2,
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "13.8k",
-      "dailyGrowth": "1233",
+      "totalStars": "15.3k",
+      "dailyGrowth": "1539",
       "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
+      "rank": 3,
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "totalStars": "5.2k",
+      "dailyGrowth": "1506",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+    },
+    {
+      "rank": 4,
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "totalStars": "8.8k",
+      "dailyGrowth": "1388",
+      "description": "Google 的开放代理编排运行时"
+    },
+    {
+      "rank": 5,
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "totalStars": "19k",
+      "dailyGrowth": "1070",
+      "description": "最快、最便宜的网络代理"
+    },
+    {
       "rank": 6,
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "totalStars": "18.3k",
-      "dailyGrowth": "759",
-      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格、设置个性化提醒并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "totalStars": "16.2k",
+      "dailyGrowth": "913",
+      "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
     },
     {
       "rank": 7,
-      "name": "zai-org/ZCode",
-      "url": "https://github.com/zai-org/ZCode",
-      "totalStars": "6.2k",
-      "dailyGrowth": "709",
-      "description": "Z.ai 的编码代理线束。强大、智能、可扩展。"
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "totalStars": "5.9k",
+      "dailyGrowth": "612",
+      "description": "Laya 类型决策模型的原生 MLX 运行时 — M3 Max 上的 7-14 毫秒短决策。没有文本生成、PyTorch 或云 API。"
     },
     {
       "rank": 8,
-      "name": "TheoLeeCJ/SemIf",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "totalStars": "3.8k",
-      "dailyGrowth": "697",
-      "description": "来自开放模型的语义 ifs，在家里的 3090 上。独立的;不隶属于 Jev 或 TypeSafe。"
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "totalStars": "3.4k",
+      "dailyGrowth": "528",
+      "description": "Agent Substrate：核心系统"
     },
     {
       "rank": 9,
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "totalStars": "8.7k",
-      "dailyGrowth": "523",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具"
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "totalStars": "2.6k",
+      "dailyGrowth": "461",
+      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
     },
     {
       "rank": 10,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "4.8k",
-      "dailyGrowth": "521",
-      "description": "适用于 Mac 的 Photoshop 替代品"
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "totalStars": "14.4k",
+      "dailyGrowth": "458",
+      "description": "MVT（移动验证工具包）有助于对移动设备进行取证，以发现潜在危害的迹象。"
     }
   ],
   "hackerNews": [
     {
-      "title": "GPT-6 索尔和露娜",
-      "originalTitle": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1376
+      "title": "Snapdragon X2 系列即将支持 Linux",
+      "originalTitle": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "score": 290
     },
     {
-      "title": "近距离工作 5.5",
-      "originalTitle": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1389
+      "title": "克劳德发现了一种具有类似 CRISPR 重复序列的新型酶系统",
+      "originalTitle": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 586
     },
     {
-      "title": "交通奖励（Waymo 支付您乘坐火车的费用）",
-      "originalTitle": "Transit rewards (Waymo pays you to take the train)",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "score": 74
+      "title": "使我的便携式电脑 C 编译器变得可移植",
+      "originalTitle": "Making portable my unportable transputer C compiler",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "score": 24
     },
     {
-      "title": "纯数据攻击比您想象的更容易 (2024)",
-      "originalTitle": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "score": 16
+      "title": "ArXiv 获得多年承诺，支持其作为独立非营利组织",
+      "originalTitle": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 120
     },
     {
-      "title": "OpenAI GPT–6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息",
-      "originalTitle": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 618
+      "title": "美联储将人工智能批评者视为“外国代理人”",
+      "originalTitle": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "score": 194
     },
     {
-      "title": "微软在 2007 年杀死了 FoxPro。无论如何，FoxPro 又复活了",
-      "originalTitle": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "score": 254
+      "title": "VSCode 的 SSH 代理是 Bananas (2025)",
+      "originalTitle": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 183
     },
     {
-      "title": "“我们入侵了联邦调查局：”黑客称他们拥有所有联邦调查局员工的数据",
-      "originalTitle": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "score": 521
+      "title": "关于开源桌面现代化的想法",
+      "originalTitle": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "score": 34
     },
     {
-      "title": "ReBarUEFI：可调整大小的 BAR，适用于几乎所有 UEFI 系统",
-      "originalTitle": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
-      "score": 109
+      "title": "Virtio-nvgpu：KVM 来宾内部近乎原生的 Nvidia GPU 访问",
+      "originalTitle": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "score": 54
     },
     {
-      "title": "加州从灌溉渠上建造的太阳能电池板中学到了什么",
-      "originalTitle": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "score": 173
+      "title": "元VR眼镜",
+      "originalTitle": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "score": 336
     },
     {
-      "title": "SAML：不良设计的分形",
-      "originalTitle": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "score": 202
+      "title": "“Windows XP 盒子”(2003)",
+      "originalTitle": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "score": 106
     }
   ],
-  "updateTime": "9/23/2026, 5:43:34 AM"
+  "updateTime": "9/24/2026, 5:58:39 AM"
 }
