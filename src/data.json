@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "5.8k",
-      "dailyGrowth": "1900",
-      "description": "类似于 Jev 的小型决策模型系列，构建在 Qwen3.5 之上，您可以自行训练和运行"
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "totalStars": "10.2k",
+      "dailyGrowth": "1310",
+      "description": "Google 的开放代理编排运行时"
     },
     {
       "rank": 2,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "15.3k",
-      "dailyGrowth": "1539",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "totalStars": "17.4k",
+      "dailyGrowth": "1195",
+      "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
     },
     {
       "rank": 3,
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "totalStars": "5.2k",
-      "dailyGrowth": "1506",
-      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "totalStars": "6.7k",
+      "dailyGrowth": "899",
+      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
     },
     {
       "rank": 4,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "totalStars": "8.8k",
-      "dailyGrowth": "1388",
-      "description": "Google 的开放代理编排运行时"
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "totalStars": "6k",
+      "dailyGrowth": "800",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
     },
     {
       "rank": 5,
       "name": "browser-use/jev-ultrafast",
       "url": "https://github.com/browser-use/jev-ultrafast",
-      "totalStars": "19k",
-      "dailyGrowth": "1070",
+      "totalStars": "19.7k",
+      "dailyGrowth": "758",
       "description": "最快、最便宜的网络代理"
     },
     {
       "rank": 6,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "totalStars": "16.2k",
-      "dailyGrowth": "913",
-      "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "16.1k",
+      "dailyGrowth": "733",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 7,
-      "name": "mizorewww/laya-mlx",
-      "url": "https://github.com/mizorewww/laya-mlx",
-      "totalStars": "5.9k",
-      "dailyGrowth": "612",
-      "description": "Laya 类型决策模型的原生 MLX 运行时 — M3 Max 上的 7-14 毫秒短决策。没有文本生成、PyTorch 或云 API。"
-    },
-    {
-      "rank": 8,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "totalStars": "3.4k",
-      "dailyGrowth": "528",
-      "description": "Agent Substrate：核心系统"
-    },
-    {
-      "rank": 9,
       "name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
-      "totalStars": "2.6k",
-      "dailyGrowth": "461",
+      "totalStars": "3.1k",
+      "dailyGrowth": "478",
       "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
     },
     {
+      "rank": 8,
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "totalStars": "8.2k",
+      "dailyGrowth": "428",
+      "description": "构建代理线束并对其进行端到端控制。用于 Python 和 TypeScript 中的生产 AI 代理的开源 SDK - 任何模型、任何云。"
+    },
+    {
+      "rank": 9,
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "totalStars": "19.1k",
+      "dailyGrowth": "415",
+      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格，设置个性化提醒，并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
+    },
+    {
       "rank": 10,
-      "name": "mvt-project/mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "totalStars": "14.4k",
-      "dailyGrowth": "458",
-      "description": "MVT（移动验证工具包）有助于对移动设备进行取证，以发现潜在危害的迹象。"
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "totalStars": "3.7k",
+      "dailyGrowth": "315",
+      "description": "Agent Substrate：核心系统"
     }
   ],
   "hackerNews": [
     {
-      "title": "Snapdragon X2 系列即将支持 Linux",
-      "originalTitle": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 290
+      "title": "再见谷歌",
+      "originalTitle": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "score": 56
     },
     {
-      "title": "克劳德发现了一种具有类似 CRISPR 重复序列的新型酶系统",
-      "originalTitle": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 586
+      "title": "F-机器人2.0",
+      "originalTitle": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 1094
     },
     {
-      "title": "使我的便携式电脑 C 编译器变得可移植",
-      "originalTitle": "Making portable my unportable transputer C compiler",
-      "url": "https://nanochess.org/transputer_c_compiler.html",
-      "score": 24
+      "title": "Show HN：制作类似 Times New Bastard 的诅咒字体",
+      "originalTitle": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 582
     },
     {
-      "title": "ArXiv 获得多年承诺，支持其作为独立非营利组织",
-      "originalTitle": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 120
+      "title": "Show HN：Whiteboard (YC W26) – 用于深思熟虑的软件设计的开源 IDE",
+      "originalTitle": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 256
     },
     {
-      "title": "美联储将人工智能批评者视为“外国代理人”",
-      "originalTitle": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "score": 194
+      "title": "为什么肝脏的再生能力如此奇怪？",
+      "originalTitle": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 349
     },
     {
-      "title": "VSCode 的 SSH 代理是 Bananas (2025)",
-      "originalTitle": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 183
+      "title": "2D 永不死亡",
+      "originalTitle": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 182
     },
     {
-      "title": "关于开源桌面现代化的想法",
-      "originalTitle": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "score": 34
+      "title": "无畏SIMD v1.0",
+      "originalTitle": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 227
     },
     {
-      "title": "Virtio-nvgpu：KVM 来宾内部近乎原生的 Nvidia GPU 访问",
-      "originalTitle": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "score": 54
+      "title": "Rails World 2026 开幕主题演讲 [视频]",
+      "originalTitle": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "score": 294
     },
     {
-      "title": "元VR眼镜",
-      "originalTitle": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 336
+      "title": "丰田正在采用卡罗拉电动车",
+      "originalTitle": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "score": 284
     },
     {
-      "title": "“Windows XP 盒子”(2003)",
-      "originalTitle": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 106
+      "title": "我奇怪的新爱好：在 Google 地图上在东京闲逛",
+      "originalTitle": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "score": 282
     }
   ],
-  "updateTime": "9/24/2026, 5:58:39 AM"
+  "updateTime": "9/25/2026, 5:59:59 AM"
 }
