@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "google/ax",
       "url": "https://github.com/google/ax",
-      "totalStars": "10.2k",
-      "dailyGrowth": "1310",
+      "totalStars": "11.4k",
+      "dailyGrowth": "1209",
       "description": "Google 的开放代理编排运行时"
     },
     {
       "rank": 2,
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "totalStars": "17.4k",
-      "dailyGrowth": "1195",
+      "totalStars": "18.3k",
+      "dailyGrowth": "903",
       "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
     },
     {
       "rank": 3,
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "6.7k",
-      "dailyGrowth": "899",
-      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
-    },
-    {
-      "rank": 4,
       "name": "jev-chat/jev-chat-jarvis",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "totalStars": "6k",
-      "dailyGrowth": "800",
+      "totalStars": "6.5k",
+      "dailyGrowth": "506",
       "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
     },
     {
+      "rank": 4,
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "6.6k",
+      "dailyGrowth": "399",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
+    },
+    {
       "rank": 5,
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "totalStars": "19.7k",
-      "dailyGrowth": "758",
-      "description": "最快、最便宜的网络代理"
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "totalStars": "4.4k",
+      "dailyGrowth": "355",
+      "description": "量化、蒸馏、剪枝、神经架构搜索、推测解码等 SOTA 模型优化技术的统一库。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
     },
     {
       "rank": 6,
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "16.1k",
-      "dailyGrowth": "733",
+      "totalStars": "16.4k",
+      "dailyGrowth": "318",
       "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 7,
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "totalStars": "3.1k",
-      "dailyGrowth": "478",
-      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "totalStars": "7k",
+      "dailyGrowth": "271",
+      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
     },
     {
       "rank": 8,
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "totalStars": "8.2k",
-      "dailyGrowth": "428",
-      "description": "构建代理线束并对其进行端到端控制。用于 Python 和 TypeScript 中的生产 AI 代理的开源 SDK - 任何模型、任何云。"
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "totalStars": "3.3k",
+      "dailyGrowth": "252",
+      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
     },
     {
       "rank": 9,
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "totalStars": "19.1k",
-      "dailyGrowth": "415",
-      "description": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格，设置个性化提醒，并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
+      "name": "julyx10/lap",
+      "url": "https://github.com/julyx10/lap",
+      "totalStars": "3.1k",
+      "dailyGrowth": "240",
+      "description": "适用于大型本地图书馆的离线优先照片管理器"
     },
     {
       "rank": 10,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "totalStars": "3.7k",
-      "dailyGrowth": "315",
-      "description": "Agent Substrate：核心系统"
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "totalStars": "8.4k",
+      "dailyGrowth": "222",
+      "description": "构建代理线束并对其进行端到端控制。用于 Python 和 TypeScript 中的生产 AI 代理的开源 SDK - 任何模型、任何云。"
     }
   ],
   "hackerNews": [
     {
-      "title": "再见谷歌",
-      "originalTitle": "Goodbye Google",
-      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "score": 56
+      "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
+      "originalTitle": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 359
     },
     {
-      "title": "F-机器人2.0",
-      "originalTitle": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1094
+      "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
+      "originalTitle": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 22
     },
     {
-      "title": "Show HN：制作类似 Times New Bastard 的诅咒字体",
-      "originalTitle": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 582
+      "title": "Ollaya – Ollama 用于开源、Jev 风格的决策模型",
+      "originalTitle": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 394
     },
     {
-      "title": "Show HN：Whiteboard (YC W26) – 用于深思熟虑的软件设计的开源 IDE",
-      "originalTitle": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 256
+      "title": "计划模式已死",
+      "originalTitle": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 215
     },
     {
-      "title": "为什么肝脏的再生能力如此奇怪？",
-      "originalTitle": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 349
-    },
-    {
-      "title": "2D 永不死亡",
-      "originalTitle": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
+      "title": "Show HN：Jev 玩神奇宝贝红",
+      "originalTitle": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
       "score": 182
     },
     {
-      "title": "无畏SIMD v1.0",
-      "originalTitle": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 227
+      "title": "现在操作系统是什么？",
+      "originalTitle": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 143
     },
     {
-      "title": "Rails World 2026 开幕主题演讲 [视频]",
-      "originalTitle": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 294
+      "title": "我们需要更多的数学家",
+      "originalTitle": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 70
     },
     {
-      "title": "丰田正在采用卡罗拉电动车",
-      "originalTitle": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 284
+      "title": "Postgres SELECT DISTINCT 无法扩展",
+      "originalTitle": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "score": 47
     },
     {
-      "title": "我奇怪的新爱好：在 Google 地图上在东京闲逛",
-      "originalTitle": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 282
+      "title": "陪审团裁定 Facebook 在 Cambridge Analytica 案件中欺骗用户负有责任",
+      "originalTitle": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "score": 150
+    },
+    {
+      "title": "苏联诞生的俄罗斯方块的黑暗历史",
+      "originalTitle": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 19
     }
   ],
-  "updateTime": "9/25/2026, 5:59:59 AM"
+  "updateTime": "9/26/2026, 5:59:31 AM"
 }
