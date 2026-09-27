@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "totalStars": "11.4k",
-      "dailyGrowth": "1209",
-      "description": "Google 的开放代理编排运行时"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "7.4k",
+      "dailyGrowth": "823",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 2,
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "totalStars": "18.3k",
-      "dailyGrowth": "903",
+      "totalStars": "19.1k",
+      "dailyGrowth": "799",
       "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
     },
     {
       "rank": 3,
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "totalStars": "6.5k",
-      "dailyGrowth": "506",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "totalStars": "11.9k",
+      "dailyGrowth": "516",
+      "description": "Google 的开放代理编排运行时"
     },
     {
       "rank": 4,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "6.6k",
-      "dailyGrowth": "399",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
-    },
-    {
-      "rank": 5,
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "totalStars": "4.4k",
-      "dailyGrowth": "355",
+      "totalStars": "4.7k",
+      "dailyGrowth": "302",
       "description": "量化、蒸馏、剪枝、神经架构搜索、推测解码等 SOTA 模型优化技术的统一库。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
     },
     {
-      "rank": 6,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "16.4k",
-      "dailyGrowth": "318",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "rank": 5,
+      "name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "totalStars": "8k",
+      "dailyGrowth": "271",
+      "description": "OpenBao 是一款用于管理、存储和分发敏感数据（包括机密、证书和密钥）的软件解决方案。"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "7k",
-      "dailyGrowth": "271",
+      "totalStars": "7.2k",
+      "dailyGrowth": "213",
       "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
     },
     {
+      "rank": 7,
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "totalStars": "12.3k",
+      "dailyGrowth": "186",
+      "description": "将您的用户连接到他们的应用程序"
+    },
+    {
       "rank": 8,
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "totalStars": "3.3k",
-      "dailyGrowth": "252",
-      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "totalStars": "11.2k",
+      "dailyGrowth": "178",
+      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
     },
     {
       "rank": 9,
-      "name": "julyx10/lap",
-      "url": "https://github.com/julyx10/lap",
-      "totalStars": "3.1k",
-      "dailyGrowth": "240",
-      "description": "适用于大型本地图书馆的离线优先照片管理器"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "totalStars": "4k",
+      "dailyGrowth": "170",
+      "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
     },
     {
       "rank": 10,
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "totalStars": "8.4k",
-      "dailyGrowth": "222",
-      "description": "构建代理线束并对其进行端到端控制。用于 Python 和 TypeScript 中的生产 AI 代理的开源 SDK - 任何模型、任何云。"
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "5.7k",
+      "dailyGrowth": "169",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     }
   ],
   "hackerNews": [
     {
-      "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
-      "originalTitle": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "score": 359
+      "title": "Go 并发提炼",
+      "originalTitle": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 153
     },
     {
-      "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
-      "originalTitle": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 22
+      "title": "PipePipe：NewPipe 硬分叉实现 SponsorBlock",
+      "originalTitle": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 377
     },
     {
-      "title": "Ollaya – Ollama 用于开源、Jev 风格的决策模型",
-      "originalTitle": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 394
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "originalTitle": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "score": 221
     },
     {
-      "title": "计划模式已死",
-      "originalTitle": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 215
+      "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+      "originalTitle": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "score": 64
     },
     {
-      "title": "Show HN：Jev 玩神奇宝贝红",
-      "originalTitle": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "score": 182
+      "title": "Show HN：Reladraw – 一种图表语言，您可以在其中决定放置东西的位置",
+      "originalTitle": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 258
     },
     {
-      "title": "现在操作系统是什么？",
-      "originalTitle": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 143
+      "title": "如果我们不停下来互相帮助，我们会变成什么样子？",
+      "originalTitle": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "score": 155
     },
     {
-      "title": "我们需要更多的数学家",
-      "originalTitle": "We're gonna need a lot more mathematicians",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "score": 70
+      "title": "也门的面积有多大？ (2024)",
+      "originalTitle": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "score": 96
     },
     {
-      "title": "Postgres SELECT DISTINCT 无法扩展",
-      "originalTitle": "Postgres SELECT DISTINCT Does Not Scale",
-      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "score": 47
+      "title": "人工智能时代不断发展的编程语言",
+      "originalTitle": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "score": 79
     },
     {
-      "title": "陪审团裁定 Facebook 在 Cambridge Analytica 案件中欺骗用户负有责任",
-      "originalTitle": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "score": 150
+      "title": "在翻转点上翻转流体",
+      "originalTitle": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "score": 7
     },
     {
-      "title": "苏联诞生的俄罗斯方块的黑暗历史",
-      "originalTitle": "The Murky History of Soviet-Born Tetris",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "score": 19
+      "title": "可搜索的 1915 年以来被遗忘的公共领域电影片段库",
+      "originalTitle": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 149
     }
   ],
-  "updateTime": "9/26/2026, 5:59:31 AM"
+  "updateTime": "9/27/2026, 6:26:47 AM"
 }
