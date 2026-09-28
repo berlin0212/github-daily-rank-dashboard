@@ -50,6 +50,14 @@
     },
     {
       "rank": 7,
+      "name": "cirruslabs/tart",
+      "url": "https://github.com/cirruslabs/tart",
+      "totalStars": "7.1k",
+      "dailyGrowth": "196",
+      "description": "Apple Silicon 上的 macOS 和 Linux 虚拟机可用于 CI 和其他自动化"
+    },
+    {
+      "rank": 8,
       "name": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
       "totalStars": "12.3k",
@@ -57,7 +65,7 @@
       "description": "将您的用户连接到他们的应用程序"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "totalStars": "11.2k",
@@ -65,83 +73,75 @@
       "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "totalStars": "4k",
       "dailyGrowth": "170",
       "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
-    },
-    {
-      "rank": 10,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "5.7k",
-      "dailyGrowth": "169",
-      "description": "适用于 Mac 的 Photoshop 替代品"
     }
   ],
   "hackerNews": [
     {
-      "title": "Go 并发提炼",
-      "originalTitle": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 153
+      "title": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
+      "originalTitle": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "score": 55
     },
     {
-      "title": "PipePipe：NewPipe 硬分叉实现 SponsorBlock",
-      "originalTitle": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 377
+      "title": "欠英伟达 10 亿美元股票",
+      "originalTitle": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "score": 425
     },
     {
-      "title": "DeepSeek 弹性计算 (DSec)",
-      "originalTitle": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "score": 221
+      "title": "余烬-1",
+      "originalTitle": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 425
     },
     {
-      "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-      "originalTitle": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad",
-      "score": 64
+      "title": "谷歌什么时候变得这么奇怪了？",
+      "originalTitle": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 1076
     },
     {
-      "title": "Show HN：Reladraw – 一种图表语言，您可以在其中决定放置东西的位置",
-      "originalTitle": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "score": 258
+      "title": "可延展的软件：在锁定应用程序的世界中恢复用户代理（2025）",
+      "originalTitle": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "score": 41
     },
     {
-      "title": "如果我们不停下来互相帮助，我们会变成什么样子？",
-      "originalTitle": "If we do not stop to help each other, what do we become?",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "score": 155
+      "title": "在奥古斯丁时代默读不寻常吗？",
+      "originalTitle": "Was silent reading unusual during Augustine's time?",
+      "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
+      "score": 32
     },
     {
-      "title": "也门的面积有多大？ (2024)",
-      "originalTitle": "What is the size of Yemen? (2024)",
-      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "score": 96
+      "title": "Alan Kay 对“ENIAC 有 BIOS 吗？”的回答",
+      "originalTitle": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "score": 104
     },
     {
-      "title": "人工智能时代不断发展的编程语言",
-      "originalTitle": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "score": 79
+      "title": "代码审查不仅仅是（自动化）检测",
+      "originalTitle": "There is more to code review than (automatable) detection",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "score": 113
     },
     {
-      "title": "在翻转点上翻转流体",
-      "originalTitle": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "score": 7
+      "title": "功能性机械同情[视频]",
+      "originalTitle": "Functional Mechanical Sympathy [video]",
+      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+      "score": 3
     },
     {
-      "title": "可搜索的 1915 年以来被遗忘的公共领域电影片段库",
-      "originalTitle": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "score": 149
+      "title": "2026 年 Rust 中 SIMD 的状态",
+      "originalTitle": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "score": 124
     }
   ],
-  "updateTime": "9/27/2026, 6:26:47 AM"
+  "updateTime": "9/28/2026, 6:33:41 AM"
 }
