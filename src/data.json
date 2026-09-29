@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "7.4k",
-      "dailyGrowth": "823",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
+      "name": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "totalStars": "8.2k",
+      "dailyGrowth": "928",
+      "description": "用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、仿真器、模拟器和真实设备）"
     },
     {
       "rank": 2,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "totalStars": "19.1k",
-      "dailyGrowth": "799",
-      "description": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "17.2k",
+      "dailyGrowth": "898",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 3,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "totalStars": "11.9k",
-      "dailyGrowth": "516",
-      "description": "Google 的开放代理编排运行时"
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "totalStars": "13.3k",
+      "dailyGrowth": "823",
+      "description": "自托管部署平台"
     },
     {
       "rank": 4,
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "totalStars": "4.7k",
-      "dailyGrowth": "302",
-      "description": "量化、蒸馏、剪枝、神经架构搜索、推测解码等 SOTA 模型优化技术的统一库。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "8.2k",
+      "dailyGrowth": "811",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 5,
-      "name": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "totalStars": "8k",
-      "dailyGrowth": "271",
-      "description": "OpenBao 是一款用于管理、存储和分发敏感数据（包括机密、证书和密钥）的软件解决方案。"
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "totalStars": "12.4k",
+      "dailyGrowth": "532",
+      "description": "Google 的开放代理编排运行时"
     },
     {
       "rank": 6,
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "7.2k",
-      "dailyGrowth": "213",
-      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
-    },
-    {
-      "rank": 7,
-      "name": "cirruslabs/tart",
-      "url": "https://github.com/cirruslabs/tart",
-      "totalStars": "7.1k",
-      "dailyGrowth": "196",
-      "description": "Apple Silicon 上的 macOS 和 Linux 虚拟机可用于 CI 和其他自动化"
-    },
-    {
-      "rank": 8,
       "name": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "12.3k",
-      "dailyGrowth": "186",
+      "totalStars": "12.7k",
+      "dailyGrowth": "441",
       "description": "将您的用户连接到他们的应用程序"
     },
     {
+      "rank": 7,
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "totalStars": "7.6k",
+      "dailyGrowth": "438",
+      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
+    },
+    {
+      "rank": 8,
+      "name": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "totalStars": "12.5k",
+      "dailyGrowth": "434",
+      "description": "使用 ChatGPT Web（包括 Pro）作为 Codex 中的本机模型 — 具有上下文、工具、流媒体和图像，无需使用 Codex 配额。"
+    },
+    {
       "rank": 9,
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "totalStars": "11.2k",
-      "dailyGrowth": "178",
-      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "5.5k",
+      "dailyGrowth": "405",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     },
     {
       "rank": 10,
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "totalStars": "4k",
-      "dailyGrowth": "170",
-      "description": "开源人工智能销售操作系统——带有原生人工智能代理的自托管 CRM + WhatsApp (WAHA)。为任何通过聊天进行销售的企业提供 Kommo、Octadesk 和 Intercom 的开放替代方案。 MCP 就绪、多租户、LGPD。"
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "totalStars": "11.6k",
+      "dailyGrowth": "386",
+      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
     }
   ],
   "hackerNews": [
     {
-      "title": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-      "originalTitle": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "score": 55
+      "title": "叶序：音频反应 LED 显示屏",
+      "originalTitle": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 74
     },
     {
-      "title": "欠英伟达 10 亿美元股票",
-      "originalTitle": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "score": 425
+      "title": "盗版海盗",
+      "originalTitle": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 520
     },
     {
-      "title": "余烬-1",
-      "originalTitle": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 425
+      "title": "由于葡萄酒需求下降，加州农民正在努力出售葡萄",
+      "originalTitle": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "score": 169
     },
     {
-      "title": "谷歌什么时候变得这么奇怪了？",
-      "originalTitle": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 1076
+      "title": "MicroLLM Lab – 在浏览器中尝试 7 个微型 LLM",
+      "originalTitle": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 209
     },
     {
-      "title": "可延展的软件：在锁定应用程序的世界中恢复用户代理（2025）",
-      "originalTitle": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "url": "https://www.inkandswitch.com/essay/malleable-software/",
-      "score": 41
+      "title": "Show HN：Pac-Bench – 对吃豆人游戏的一次性建模效果如何？",
+      "originalTitle": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "score": 36
     },
     {
-      "title": "在奥古斯丁时代默读不寻常吗？",
-      "originalTitle": "Was silent reading unusual during Augustine's time?",
-      "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
-      "score": 32
+      "title": "Jeff – Jev 兼容的 0.8B 决策模型，在家训练，约 30 毫秒",
+      "originalTitle": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "score": 442
     },
     {
-      "title": "Alan Kay 对“ENIAC 有 BIOS 吗？”的回答",
-      "originalTitle": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 104
+      "title": "ESP32S3集群运行1.58位（BitNet）语言模型",
+      "originalTitle": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "score": 77
     },
     {
-      "title": "代码审查不仅仅是（自动化）检测",
-      "originalTitle": "There is more to code review than (automatable) detection",
-      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "score": 113
+      "title": "12000年前的哥贝克力石阵墓葬解释了散落的骨头",
+      "originalTitle": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "score": 123
     },
     {
-      "title": "功能性机械同情[视频]",
-      "originalTitle": "Functional Mechanical Sympathy [video]",
-      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
-      "score": 3
+      "title": "罐体问题",
+      "originalTitle": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
+      "score": 68
     },
     {
-      "title": "2026 年 Rust 中 SIMD 的状态",
-      "originalTitle": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "score": 124
+      "title": "十四行诗 5.5",
+      "originalTitle": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "score": 718
     }
   ],
-  "updateTime": "9/28/2026, 6:33:41 AM"
+  "updateTime": "9/29/2026, 6:42:36 AM"
 }
