@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "totalStars": "8.2k",
-      "dailyGrowth": "928",
-      "description": "用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、仿真器、模拟器和真实设备）"
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "totalStars": "3k",
+      "dailyGrowth": "553",
+      "description": "伊利诺伊大学开源入门系统编程教科书"
     },
     {
       "rank": 2,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "17.2k",
-      "dailyGrowth": "898",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "6.4k",
+      "dailyGrowth": "454",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
       "rank": 3,
       "name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
-      "totalStars": "13.3k",
-      "dailyGrowth": "823",
+      "totalStars": "13.7k",
+      "dailyGrowth": "397",
       "description": "自托管部署平台"
     },
     {
       "rank": 4,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "8.2k",
-      "dailyGrowth": "811",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
-    },
-    {
-      "rank": 5,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "totalStars": "12.4k",
-      "dailyGrowth": "532",
-      "description": "Google 的开放代理编排运行时"
-    },
-    {
-      "rank": 6,
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "12.7k",
-      "dailyGrowth": "441",
-      "description": "将您的用户连接到他们的应用程序"
-    },
-    {
-      "rank": 7,
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "7.6k",
-      "dailyGrowth": "438",
-      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
-    },
-    {
-      "rank": 8,
       "name": "miuuyy/codex-chatgpt-web",
       "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "totalStars": "12.5k",
-      "dailyGrowth": "434",
+      "totalStars": "12.8k",
+      "dailyGrowth": "355",
       "description": "使用 ChatGPT Web（包括 Pro）作为 Codex 中的本机模型 — 具有上下文、工具、流媒体和图像，无需使用 Codex 配额。"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "17.5k",
+      "dailyGrowth": "303",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+    },
+    {
+      "rank": 6,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "5.5k",
-      "dailyGrowth": "405",
+      "totalStars": "5.8k",
+      "dailyGrowth": "275",
       "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     },
     {
-      "rank": 10,
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "rank": 7,
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "totalStars": "11.6k",
-      "dailyGrowth": "386",
-      "description": "培训法学硕士的简单方法，从下载数据到生成文本。"
+      "dailyGrowth": "260",
+      "description": "让每个人都能托管快速高效的 Minecraft 服务器"
+    },
+    {
+      "rank": 8,
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "totalStars": "7.9k",
+      "dailyGrowth": "242",
+      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
+    },
+    {
+      "rank": 9,
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "totalStars": "13k",
+      "dailyGrowth": "229",
+      "description": "将您的用户连接到他们的应用程序"
+    },
+    {
+      "rank": 10,
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "8.4k",
+      "dailyGrowth": "228",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     }
   ],
   "hackerNews": [
     {
-      "title": "叶序：音频反应 LED 显示屏",
-      "originalTitle": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 74
+      "title": "Livenerf：Opus 5.5 被削弱了吗？",
+      "originalTitle": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "score": 462
     },
     {
-      "title": "盗版海盗",
-      "originalTitle": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "score": 520
+      "title": "PSSA：用 Rust 从头编写的非 Transformer 语言模型",
+      "originalTitle": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "score": 59
     },
     {
-      "title": "由于葡萄酒需求下降，加州农民正在努力出售葡萄",
-      "originalTitle": "California farmers are struggling to sell grapes as demand for wine drops",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "score": 169
+      "title": "Dots：永远在线的代理",
+      "originalTitle": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "score": 545
     },
     {
-      "title": "MicroLLM Lab – 在浏览器中尝试 7 个微型 LLM",
-      "originalTitle": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 209
+      "title": "负责任地发布人工智能生成的数学",
+      "originalTitle": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "score": 28
     },
     {
-      "title": "Show HN：Pac-Bench – 对吃豆人游戏的一次性建模效果如何？",
-      "originalTitle": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "score": 36
+      "title": "美国邮政检查员关闭销售假冒邮资标签的网站",
+      "originalTitle": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "score": 205
     },
     {
-      "title": "Jeff – Jev 兼容的 0.8B 决策模型，在家训练，约 30 毫秒",
-      "originalTitle": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "score": 442
+      "title": "佛蒙特州用家用电池取代发电厂",
+      "originalTitle": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "score": 146
     },
     {
-      "title": "ESP32S3集群运行1.58位（BitNet）语言模型",
-      "originalTitle": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "score": 77
+      "title": "NASA要求几名前SR-71A工作人员帮助秘密重启",
+      "originalTitle": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "score": 115
     },
     {
-      "title": "12000年前的哥贝克力石阵墓葬解释了散落的骨头",
-      "originalTitle": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "score": 123
+      "title": "美国政府网站",
+      "originalTitle": "America.gov",
+      "url": "https://america.gov/",
+      "score": 491
     },
     {
-      "title": "罐体问题",
-      "originalTitle": "Tank Body Problem",
-      "url": "http://www.jimsitu.com",
-      "score": 68
+      "title": "使用 Facet 测试 WebGPU 数据布局",
+      "originalTitle": "Testing WebGPU data layouts with Facet",
+      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+      "score": 11
     },
     {
-      "title": "十四行诗 5.5",
-      "originalTitle": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "score": 718
+      "title": "显示 HN：包含 526k 小行星和所有跟踪卫星的实时太阳系",
+      "originalTitle": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "score": 187
     }
   ],
-  "updateTime": "9/29/2026, 6:42:36 AM"
+  "updateTime": "9/30/2026, 6:30:20 AM"
 }
