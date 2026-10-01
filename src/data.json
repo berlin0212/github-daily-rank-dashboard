@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Livenerf：Opus 5.5 被削弱了吗？",
-      "originalTitle": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 462
+      "title": "双子座 4 氩",
+      "originalTitle": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1273
     },
     {
-      "title": "PSSA：用 Rust 从头编写的非 Transformer 语言模型",
-      "originalTitle": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "score": 59
+      "title": "绝密 URSALA、RAQUEL 和 FARRAH 卫星（2025 年）",
+      "originalTitle": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 193
     },
     {
-      "title": "Dots：永远在线的代理",
-      "originalTitle": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "score": 545
+      "title": "他妈的Android开发者验证程序",
+      "originalTitle": "Fuck Android Developer Verification Program",
+      "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "score": 136
     },
     {
-      "title": "负责任地发布人工智能生成的数学",
-      "originalTitle": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "score": 28
+      "title": "青铜时代为何崩溃",
+      "originalTitle": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 179
     },
     {
-      "title": "美国邮政检查员关闭销售假冒邮资标签的网站",
-      "originalTitle": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 205
+      "title": "令人惊讶的复杂波揭示了大脑的内部运作",
+      "originalTitle": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 166
     },
     {
-      "title": "佛蒙特州用家用电池取代发电厂",
-      "originalTitle": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
+      "originalTitle": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
       "score": 146
     },
     {
-      "title": "NASA要求几名前SR-71A工作人员帮助秘密重启",
-      "originalTitle": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "score": 115
+      "title": "EDG C++前端上市",
+      "originalTitle": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "score": 204
     },
     {
-      "title": "美国政府网站",
-      "originalTitle": "America.gov",
-      "url": "https://america.gov/",
-      "score": 491
+      "title": "用于距离场实体建模的 Halfspace 实验 IDE",
+      "originalTitle": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "score": 114
     },
     {
-      "title": "使用 Facet 测试 WebGPU 数据布局",
-      "originalTitle": "Testing WebGPU data layouts with Facet",
-      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "score": 11
+      "title": "像素之前：模块化工业仪表板",
+      "originalTitle": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "score": 102
     },
     {
-      "title": "显示 HN：包含 526k 小行星和所有跟踪卫星的实时太阳系",
-      "originalTitle": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "score": 187
+      "title": "彭博终端简史",
+      "originalTitle": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "score": 263
     }
   ],
-  "updateTime": "9/30/2026, 6:30:20 AM"
+  "updateTime": "10/1/2026, 7:03:44 AM"
 }
