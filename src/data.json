@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "totalStars": "3k",
-      "dailyGrowth": "553",
-      "description": "伊利诺伊大学开源入门系统编程教科书"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "totalStars": "13.9k",
+      "dailyGrowth": "3426",
+      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
     },
     {
       "rank": 2,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "6.4k",
-      "dailyGrowth": "454",
-      "description": "适用于 Mac 的 Photoshop 替代品"
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "totalStars": "4.6k",
+      "dailyGrowth": "1562",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
       "rank": 3,
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "totalStars": "13.7k",
-      "dailyGrowth": "397",
-      "description": "自托管部署平台"
-    },
-    {
-      "rank": 4,
-      "name": "miuuyy/codex-chatgpt-web",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "totalStars": "12.8k",
-      "dailyGrowth": "355",
-      "description": "使用 ChatGPT Web（包括 Pro）作为 Codex 中的本机模型 — 具有上下文、工具、流媒体和图像，无需使用 Codex 配额。"
-    },
-    {
-      "rank": 5,
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "17.5k",
-      "dailyGrowth": "303",
+      "totalStars": "18.4k",
+      "dailyGrowth": "942",
       "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
+      "rank": 4,
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "totalStars": "10.6k",
+      "dailyGrowth": "600",
+      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+    },
+    {
+      "rank": 5,
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "totalStars": "6.1k",
+      "dailyGrowth": "592",
+      "description": "用于代理的开源推理引擎，可针对您的具体硬件进行自我优化。在您的设备上编译和调整其内核，因此开放模型的运行速度比 llama.cpp 快 2 倍。适用于 Apple Silicon、NVIDIA、AMD 或仅 CPU。"
+    },
+    {
       "rank": 6,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "5.8k",
-      "dailyGrowth": "275",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "totalStars": "14.3k",
+      "dailyGrowth": "543",
+      "description": "自托管部署平台"
     },
     {
       "rank": 7,
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "totalStars": "11.6k",
-      "dailyGrowth": "260",
-      "description": "让每个人都能托管快速高效的 Minecraft 服务器"
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "6.2k",
+      "dailyGrowth": "452",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     },
     {
       "rank": 8,
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "totalStars": "7.9k",
-      "dailyGrowth": "242",
-      "description": "类似 Jev 的决策模型系列构建于 Qwen3.5/3.8 之上，您可以自行训练和运行"
-    },
-    {
-      "rank": 9,
       "name": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "13k",
-      "dailyGrowth": "229",
+      "totalStars": "13.4k",
+      "dailyGrowth": "410",
       "description": "将您的用户连接到他们的应用程序"
     },
     {
+      "rank": 9,
+      "name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "totalStars": "15.5k",
+      "dailyGrowth": "391",
+      "description": "Rust GUI 组件，用于使用 GPUI 构建出色的跨平台桌面应用程序。"
+    },
+    {
       "rank": 10,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "totalStars": "8.4k",
-      "dailyGrowth": "228",
-      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "totalStars": "5.5k",
+      "dailyGrowth": "376",
+      "description": "用于可测量、计算机可执行研究的自主研究系统。"
     }
   ],
   "hackerNews": [
     {
-      "title": "双子座 4 氩",
-      "originalTitle": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 1273
+      "title": "DeepSeek 安全带",
+      "originalTitle": "DeepSeek Harness",
+      "url": "https://www.deepseek.com/en/harness/",
+      "score": 154
     },
     {
-      "title": "绝密 URSALA、RAQUEL 和 FARRAH 卫星（2025 年）",
-      "originalTitle": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "score": 193
+      "title": "圆周率1.0",
+      "originalTitle": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "score": 1082
     },
     {
-      "title": "他妈的Android开发者验证程序",
-      "originalTitle": "Fuck Android Developer Verification Program",
-      "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
-      "score": 136
+      "title": "禧玛诺自行车博物馆回顾",
+      "originalTitle": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "score": 28
     },
     {
-      "title": "青铜时代为何崩溃",
-      "originalTitle": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "score": 179
+      "title": "新加坡政府运营的约会服务如何运作",
+      "originalTitle": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "score": 87
     },
     {
-      "title": "令人惊讶的复杂波揭示了大脑的内部运作",
-      "originalTitle": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "score": 166
+      "title": "Clef：开放权重决策模型和新的 RL 微调平台",
+      "originalTitle": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 483
     },
     {
-      "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
-      "originalTitle": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "score": 146
+      "title": "SvelteKit 3",
+      "originalTitle": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "score": 217
     },
     {
-      "title": "EDG C++前端上市",
-      "originalTitle": "EDG C++ front-end goes public",
-      "url": "https://edgcpp.org/#transition",
-      "score": 204
+      "title": "Pi 耐用",
+      "originalTitle": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "score": 326
     },
     {
-      "title": "用于距离场实体建模的 Halfspace 实验 IDE",
-      "originalTitle": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "score": 114
+      "title": "自动变速箱——联网车辆的数据隐私研究",
+      "originalTitle": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "score": 162
     },
     {
-      "title": "像素之前：模块化工业仪表板",
-      "originalTitle": "Before pixels: Modular industrial dashboards",
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "score": 102
+      "title": "Linux内核中发现了多个漏洞",
+      "originalTitle": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "score": 231
     },
     {
-      "title": "彭博终端简史",
-      "originalTitle": "A brief history of the Bloomberg terminal",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "score": 263
+      "title": "问 HN：谁在招聘？ （2026 年 10 月）",
+      "originalTitle": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "score": 181
     }
   ],
-  "updateTime": "10/1/2026, 7:03:44 AM"
+  "updateTime": "10/2/2026, 6:51:29 AM"
 }
