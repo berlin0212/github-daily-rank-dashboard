@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "totalStars": "13.9k",
-      "dailyGrowth": "3426",
-      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "totalStars": "3.4k",
+      "dailyGrowth": "543",
+      "description": "yoink 来自您终端的任何视频。没有阴暗的广告。"
     },
     {
       "rank": 2,
-      "name": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "totalStars": "4.6k",
-      "dailyGrowth": "1562",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "totalStars": "14.4k",
+      "dailyGrowth": "469",
+      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
     },
     {
       "rank": 3,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "18.4k",
-      "dailyGrowth": "942",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
+      "name": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "totalStars": "2.9k",
+      "dailyGrowth": "455",
+      "description": "一个小朋友住在你的缺口 (macOS) 或屏幕顶部 (Windows、Linux)，并密切关注你的编码代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity 等。"
     },
     {
       "rank": 4,
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "totalStars": "10.6k",
-      "dailyGrowth": "600",
-      "description": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "18.9k",
+      "dailyGrowth": "430",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     },
     {
       "rank": 5,
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "totalStars": "6.1k",
-      "dailyGrowth": "592",
-      "description": "用于代理的开源推理引擎，可针对您的具体硬件进行自我优化。在您的设备上编译和调整其内核，因此开放模型的运行速度比 llama.cpp 快 2 倍。适用于 Apple Silicon、NVIDIA、AMD 或仅 CPU。"
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "totalStars": "5k",
+      "dailyGrowth": "347",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
       "rank": 6,
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "totalStars": "14.3k",
-      "dailyGrowth": "543",
-      "description": "自托管部署平台"
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "totalStars": "16.7k",
+      "dailyGrowth": "337",
+      "description": "跟踪位置或手机号码的有用工具"
     },
     {
       "rank": 7,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "6.2k",
-      "dailyGrowth": "452",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "7k",
+      "dailyGrowth": "256",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
       "rank": 8,
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "13.4k",
-      "dailyGrowth": "410",
-      "description": "将您的用户连接到他们的应用程序"
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "totalStars": "10.9k",
+      "dailyGrowth": "218",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
     {
       "rank": 9,
-      "name": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "totalStars": "15.5k",
-      "dailyGrowth": "391",
-      "description": "Rust GUI 组件，用于使用 GPUI 构建出色的跨平台桌面应用程序。"
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "totalStars": "6.3k",
+      "dailyGrowth": "203",
+      "description": "用于代理的开源推理引擎，可针对您的具体硬件进行自我优化。在您的设备上编译和调整其内核，因此开放模型的运行速度比 llama.cpp 快 2 倍。适用于 Apple Silicon、NVIDIA、AMD 或仅 CPU。"
     },
     {
       "rank": 10,
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "totalStars": "5.5k",
-      "dailyGrowth": "376",
-      "description": "用于可测量、计算机可执行研究的自主研究系统。"
+      "name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "totalStars": "15.7k",
+      "dailyGrowth": "197",
+      "description": "Rust GUI 组件，用于使用 GPUI 构建出色的跨平台桌面应用程序。"
     }
   ],
   "hackerNews": [
     {
-      "title": "DeepSeek 安全带",
-      "originalTitle": "DeepSeek Harness",
-      "url": "https://www.deepseek.com/en/harness/",
-      "score": 154
+      "title": "Newgrounds.com – 游戏、音乐和艺术的社区",
+      "originalTitle": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 142
     },
     {
-      "title": "圆周率1.0",
-      "originalTitle": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "score": 1082
+      "title": "健忘的 CPU（M4 上的 Linux）",
+      "originalTitle": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 179
     },
     {
-      "title": "禧玛诺自行车博物馆回顾",
-      "originalTitle": "Shimano Bicycle Museum Review",
-      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "score": 28
+      "title": "法院同意 EFF 的观点：犹他州的 VPN 法律要求技术上不可能",
+      "originalTitle": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 585
     },
     {
-      "title": "新加坡政府运营的约会服务如何运作",
-      "originalTitle": "How Singapore's government-run dating service works",
-      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "score": 87
+      "title": "超大屁股情报",
+      "originalTitle": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "score": 89
     },
     {
-      "title": "Clef：开放权重决策模型和新的 RL 微调平台",
-      "originalTitle": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 483
+      "title": "迈克·汤姆林 (Mike Tomlin) 花了 12 年时间建造了一座 Minecraft 城市",
+      "originalTitle": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 398
     },
     {
-      "title": "SvelteKit 3",
-      "originalTitle": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "score": 217
+      "title": "苹果通行证设计师",
+      "originalTitle": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 383
     },
     {
-      "title": "Pi 耐用",
-      "originalTitle": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "score": 326
+      "title": "一颗恒星和四颗绕轨道运行的行星的 12 年望远镜图像序列",
+      "originalTitle": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "score": 241
     },
     {
-      "title": "自动变速箱——联网车辆的数据隐私研究",
-      "originalTitle": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "score": 162
+      "title": "Cloudflare OHTTP 网关",
+      "originalTitle": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "score": 38
     },
     {
-      "title": "Linux内核中发现了多个漏洞",
-      "originalTitle": "Several vulnerabilities have been discovered in the Linux kernel",
-      "url": "https://lwn.net/Articles/1097401/",
-      "score": 231
+      "title": "细胞身份的丧失导致人类衰老：两篇新论文",
+      "originalTitle": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "score": 215
     },
     {
-      "title": "问 HN：谁在招聘？ （2026 年 10 月）",
-      "originalTitle": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "score": 181
+      "title": "由于隐藏了大部分信息，Stratego 游戏迄今为止一直困扰着 AI",
+      "originalTitle": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 204
     }
   ],
-  "updateTime": "10/2/2026, 6:51:29 AM"
+  "updateTime": "10/3/2026, 6:16:29 AM"
 }
