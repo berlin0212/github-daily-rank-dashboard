@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "totalStars": "3.4k",
-      "dailyGrowth": "543",
-      "description": "yoink 来自您终端的任何视频。没有阴暗的广告。"
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "totalStars": "2.5k",
+      "dailyGrowth": "453",
+      "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
     },
     {
       "rank": 2,
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "totalStars": "14.4k",
-      "dailyGrowth": "469",
-      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
-    },
-    {
-      "rank": 3,
-      "name": "Louis-CFM/coucou",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "totalStars": "2.9k",
-      "dailyGrowth": "455",
-      "description": "一个小朋友住在你的缺口 (macOS) 或屏幕顶部 (Windows、Linux)，并密切关注你的编码代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity 等。"
-    },
-    {
-      "rank": 4,
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "totalStars": "18.9k",
-      "dailyGrowth": "430",
-      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
-    },
-    {
-      "rank": 5,
       "name": "KKKKhazix/AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "totalStars": "5k",
-      "dailyGrowth": "347",
+      "totalStars": "5.4k",
+      "dailyGrowth": "420",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
-      "rank": 6,
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "totalStars": "16.7k",
-      "dailyGrowth": "337",
-      "description": "跟踪位置或手机号码的有用工具"
+      "rank": 3,
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "totalStars": "3.8k",
+      "dailyGrowth": "381",
+      "description": "yoink 来自您终端的任何视频。没有阴暗的广告。"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "totalStars": "3.2k",
+      "dailyGrowth": "293",
+      "description": "一个小朋友住在你的缺口 (macOS) 或屏幕顶部 (Windows、Linux)，并密切关注你的编码代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity 等。"
+    },
+    {
+      "rank": 5,
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "totalStars": "14.6k",
+      "dailyGrowth": "277",
+      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
+    },
+    {
+      "rank": 6,
       "name": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "7k",
-      "dailyGrowth": "256",
+      "totalStars": "7.3k",
+      "dailyGrowth": "264",
       "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
+      "rank": 7,
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "totalStars": "16.8k",
+      "dailyGrowth": "255",
+      "description": "在 TypeScript 中构建生产就绪的应用程序"
+    },
+    {
       "rank": 8,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "totalStars": "10.9k",
-      "dailyGrowth": "218",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "totalStars": "8.9k",
+      "dailyGrowth": "197",
+      "description": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": 9,
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "totalStars": "6.3k",
-      "dailyGrowth": "203",
-      "description": "用于代理的开源推理引擎，可针对您的具体硬件进行自我优化。在您的设备上编译和调整其内核，因此开放模型的运行速度比 llama.cpp 快 2 倍。适用于 Apple Silicon、NVIDIA、AMD 或仅 CPU。"
+      "name": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "totalStars": "10.5k",
+      "dailyGrowth": "196",
+      "description": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的上下文和系统创建文档、构建应用程序以及运行代理。"
     },
     {
       "rank": 10,
-      "name": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "totalStars": "15.7k",
-      "dailyGrowth": "197",
-      "description": "Rust GUI 组件，用于使用 GPUI 构建出色的跨平台桌面应用程序。"
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "6.6k",
+      "dailyGrowth": "188",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Newgrounds.com – 游戏、音乐和艺术的社区",
-      "originalTitle": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "score": 142
+      "title": "为什么没有更多的开发者“使用平台”？",
+      "originalTitle": "Why don't more developers \"use the platform\"?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "score": 67
     },
     {
-      "title": "健忘的 CPU（M4 上的 Linux）",
-      "originalTitle": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "score": 179
+      "title": "告诉 HN：鲍勃·克林格利已经去世",
+      "originalTitle": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "score": 341
     },
     {
-      "title": "法院同意 EFF 的观点：犹他州的 VPN 法律要求技术上不可能",
-      "originalTitle": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 585
+      "title": "那么你认为你可以成为一名电工吗？",
+      "originalTitle": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 145
     },
     {
-      "title": "超大屁股情报",
-      "originalTitle": "Extra Big Ass Intelligence",
-      "url": "https://www.extrabigassintelligence.com/",
-      "score": 89
+      "title": "Valve 的 Timur Kristóf 在 Linux 上改进旧的 AMD GPU 的工作",
+      "originalTitle": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 227
     },
     {
-      "title": "迈克·汤姆林 (Mike Tomlin) 花了 12 年时间建造了一座 Minecraft 城市",
-      "originalTitle": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 398
+      "title": "我们几乎所有事情都需要默认的硬预算上限",
+      "originalTitle": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 362
     },
     {
-      "title": "苹果通行证设计师",
-      "originalTitle": "Apple Pass Designer",
-      "url": "https://developer.apple.com/pass-designer/",
-      "score": 383
+      "title": "罗丹博物馆的背叛3D扫描判决",
+      "originalTitle": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 148
     },
     {
-      "title": "一颗恒星和四颗绕轨道运行的行星的 12 年望远镜图像序列",
-      "originalTitle": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 241
+      "title": "打孔：将你的宇宙飞船抛向引力场",
+      "originalTitle": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 274
     },
     {
-      "title": "Cloudflare OHTTP 网关",
-      "originalTitle": "Cloudflare OHTTP gateway",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "score": 38
+      "title": "代理不需要记忆，他们需要文档",
+      "originalTitle": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "score": 132
     },
     {
-      "title": "细胞身份的丧失导致人类衰老：两篇新论文",
-      "originalTitle": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 215
+      "title": "我们正在开发一款新的 RuneScape MMO",
+      "originalTitle": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "score": 31
     },
     {
-      "title": "由于隐藏了大部分信息，Stratego 游戏迄今为止一直困扰着 AI",
-      "originalTitle": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 204
+      "title": "庆祝他青少年时期捐赠的肾脏 100 岁生日",
+      "originalTitle": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 188
     }
   ],
-  "updateTime": "10/3/2026, 6:16:29 AM"
+  "updateTime": "10/4/2026, 6:42:03 AM"
 }
