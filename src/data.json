@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "为什么没有更多的开发者“使用平台”？",
-      "originalTitle": "Why don't more developers \"use the platform\"?",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "score": 67
+      "title": "用植物材料替代石油产品（2025 年）",
+      "originalTitle": "Replacement of petroleum based products with plant-based materials (2025)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+      "score": 30
     },
     {
-      "title": "告诉 HN：鲍勃·克林格利已经去世",
-      "originalTitle": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 341
+      "title": "在消费类硬件 (RTX 4090) 上以 100T/s 运行 Qwen 3.8 Flash Next (125B)",
+      "originalTitle": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "score": 734
     },
     {
-      "title": "那么你认为你可以成为一名电工吗？",
-      "originalTitle": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "score": 145
+      "title": "关闭后，动画材料的数字档案出现在网上",
+      "originalTitle": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "score": 107
     },
     {
-      "title": "Valve 的 Timur Kristóf 在 Linux 上改进旧的 AMD GPU 的工作",
-      "originalTitle": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 227
+      "title": "由交换导致的 40ms Go 垃圾收集器暂停",
+      "originalTitle": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
+      "score": 57
     },
     {
-      "title": "我们几乎所有事情都需要默认的硬预算上限",
-      "originalTitle": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 362
+      "title": "我们将原始 Doom 移植到 SQL",
+      "originalTitle": "We ported the original Doom to SQL",
+      "url": "https://cedardb.com/blog/sqldoom/",
+      "score": 22
     },
     {
-      "title": "罗丹博物馆的背叛3D扫描判决",
-      "originalTitle": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 148
+      "title": "人类向警方报告日记条目，女子面临重罪指控",
+      "originalTitle": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 30
     },
     {
-      "title": "打孔：将你的宇宙飞船抛向引力场",
-      "originalTitle": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 274
+      "title": "异教徒变得疯狂",
+      "originalTitle": "Infidel goes wild",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "score": 121
     },
     {
-      "title": "代理不需要记忆，他们需要文档",
-      "originalTitle": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "score": 132
+      "title": "巴林 F1 软件故障让无能为力的 F1 车手感到沮丧",
+      "originalTitle": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "score": 176
     },
     {
-      "title": "我们正在开发一款新的 RuneScape MMO",
-      "originalTitle": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "score": 31
+      "title": "浏览器原生的经典 Visual Basic VB6 IDE",
+      "originalTitle": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "score": 165
     },
     {
-      "title": "庆祝他青少年时期捐赠的肾脏 100 岁生日",
-      "originalTitle": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 188
+      "title": "备份之道",
+      "originalTitle": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
+      "score": 104
     }
   ],
-  "updateTime": "10/4/2026, 6:42:03 AM"
+  "updateTime": "10/5/2026, 6:44:10 AM"
 }
