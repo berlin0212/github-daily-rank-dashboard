@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
-      "totalStars": "4.5k",
-      "dailyGrowth": "1498",
+      "totalStars": "6.1k",
+      "dailyGrowth": "1601",
       "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
     },
     {
       "rank": 2,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "totalStars": "4.8k",
-      "dailyGrowth": "1269",
-      "description": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "5.5k",
+      "dailyGrowth": "1369",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
     },
     {
       "rank": 3,
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "totalStars": "3.8k",
-      "dailyGrowth": "1223",
-      "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "totalStars": "6.1k",
+      "dailyGrowth": "1317",
+      "description": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具"
     },
     {
       "rank": 4,
-      "name": "CopilotKit/OpenDots",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "totalStars": "3.6k",
-      "dailyGrowth": "1156",
-      "description": "您始终在线的人工智能同事，可以在短信、通话和 Slack 之间移动。"
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "totalStars": "4.5k",
+      "dailyGrowth": "722",
+      "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
     },
     {
       "rank": 5,
       "name": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "8.2k",
-      "dailyGrowth": "963",
+      "totalStars": "8.9k",
+      "dailyGrowth": "694",
       "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
       "rank": 6,
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "totalStars": "4.6k",
-      "dailyGrowth": "812",
-      "description": "yoink 来自您终端的任何视频。没有阴暗的广告。"
-    },
-    {
-      "rank": 7,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "totalStars": "17.3k",
-      "dailyGrowth": "688",
+      "totalStars": "17.9k",
+      "dailyGrowth": "568",
       "description": "赋予您的代理 CAD 超能力。"
     },
     {
+      "rank": 7,
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "7.4k",
+      "dailyGrowth": "403",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+    },
+    {
       "rank": 8,
-      "name": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "totalStars": "6k",
-      "dailyGrowth": "616",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      "name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "totalStars": "3.9k",
+      "dailyGrowth": "290",
+      "description": "您始终在线的人工智能同事，可以在短信、通话和 Slack 之间移动。"
     },
     {
       "rank": 9,
-      "name": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "totalStars": "8.5k",
-      "dailyGrowth": "470",
-      "description": "DeepGEMM：GPU 上干净高效的 BLAS 内核库"
+      "name": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "totalStars": "11.2k",
+      "dailyGrowth": "245",
+      "description": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的环境和系统创建文档、构建应用程序以及运行代理。"
     },
     {
       "rank": 10,
-      "name": "Louis-CFM/coucou",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "totalStars": "3.6k",
-      "dailyGrowth": "455",
-      "description": "一个小朋友住在你的缺口 (macOS) 或屏幕顶部 (Windows、Linux)，并密切关注你的编码代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity 等。"
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "totalStars": "19.7k",
+      "dailyGrowth": "241",
+      "description": "使用人工智能代理克隆任何病毒视频。不仅仅是一个脚本，而是整个工作流程：交换面孔、文字、幕后花絮，在一个命令中发送 100 个变体，并获得 1 亿次观看。"
     }
   ],
   "hackerNews": [
     {
-      "title": "梁：Reflection 的 501B 开放式重量模型",
-      "originalTitle": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 414
+      "title": "分享AI数学进展",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 771
     },
     {
-      "title": "Example.com 刚刚启动了数十年来最大规模的重新设计",
-      "originalTitle": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 192
+      "title": "Strands Decider 2B：小型开源决策模型",
+      "originalTitle": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 129
     },
     {
-      "title": "查找 SF 中任意两点之间最平坦的路线",
-      "originalTitle": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 174
+      "title": "Decisions API 处于公开测试阶段",
+      "originalTitle": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 242
     },
     {
-      "title": "复兴 iChat 音频和视频会议",
-      "originalTitle": "Resurrecting iChat Audio and Video Conferencing",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "score": 37
+      "title": "用于 React、Vue、Svelte、Solid、JavaScript 和 Framer 的着色器、WebGPU 组件",
+      "originalTitle": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "score": 10
     },
     {
-      "title": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-      "originalTitle": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 314
+      "title": "La Cueva BBS - 墨西哥 - 1993 年（会议重播）",
+      "originalTitle": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 38
     },
     {
-      "title": "Dust：在没有反向传播的情况下预训练 Transformer",
-      "originalTitle": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 155
+      "title": "米斯特拉尔大 4",
+      "originalTitle": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1720
     },
     {
-      "title": "问责机制可以是令人愉快的",
-      "originalTitle": "Accountability mechanisms can be joyful",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "score": 13
+      "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端",
+      "originalTitle": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 148
     },
     {
-      "title": "友谊随着 Deno 结束，现在 Node 是我最好的朋友",
-      "originalTitle": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 141
+      "title": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型",
+      "originalTitle": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 294
     },
     {
-      "title": "为什么 Common Lisp 是现在最好的编程语言",
-      "originalTitle": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 130
+      "title": "什么是代码模式",
+      "originalTitle": "What Is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "score": 58
     },
     {
-      "title": "无记名投票下的算法失败",
-      "originalTitle": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 69
+      "title": "ESP32-C3 广告拦截",
+      "originalTitle": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 60
     }
   ],
-  "updateTime": "10/6/2026, 7:23:32 AM"
+  "updateTime": "10/7/2026, 7:02:24 AM"
 }
