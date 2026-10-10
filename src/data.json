@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "totalStars": "14.7k",
-      "dailyGrowth": "4981",
-      "description": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具"
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "totalStars": "10.9k",
+      "dailyGrowth": "3374",
+      "description": "ArtCraft 是为艺术家、设计师和电影制作人打造的有意制作引擎"
     },
     {
       "rank": 2,
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "totalStars": "11.9k",
-      "dailyGrowth": "2604",
-      "description": ""
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "totalStars": "6.1k",
+      "dailyGrowth": "1191",
+      "description": "开源人工智能品牌知名度和竞争对手报告。官网：https://niubigeo.ai/|付费服务：AI真人测试、GEO优化。定价：https://niubigeo.ai/pricing"
     },
     {
       "rank": 3,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
       "totalStars": "13k",
-      "dailyGrowth": "1976",
-      "description": "适用于 Mac 的 Photoshop 替代品"
+      "dailyGrowth": "1073",
+      "description": ""
     },
     {
       "rank": 4,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "7.9k",
-      "dailyGrowth": "1175",
+      "totalStars": "8.5k",
+      "dailyGrowth": "665",
       "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
     },
     {
       "rank": 5,
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "totalStars": "8.1k",
-      "dailyGrowth": "883",
-      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
+      "name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "totalStars": "2.8k",
+      "dailyGrowth": "433",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
     },
     {
       "rank": 6,
       "name": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
-      "totalStars": "5.6k",
-      "dailyGrowth": "457",
+      "totalStars": "6k",
+      "dailyGrowth": "413",
       "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
     },
     {
       "rank": 7,
-      "name": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "totalStars": "6.7k",
-      "dailyGrowth": "323",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "totalStars": "5.6k",
+      "dailyGrowth": "280",
+      "description": "yoink 来自您终端的任何视频。没有阴暗的广告。"
     },
     {
       "rank": 8,
-      "name": "CopilotKit/OpenDots",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "totalStars": "4.5k",
-      "dailyGrowth": "320",
-      "description": "您始终在线的人工智能同事，可以在短信、通话和 Slack 之间移动。"
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "totalStars": "17.8k",
+      "dailyGrowth": "274",
+      "description": "跟踪位置或手机号码的有用工具"
     },
     {
       "rank": 9,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "8k",
-      "dailyGrowth": "294",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "totalStars": "8.4k",
+      "dailyGrowth": "272",
+      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
     },
     {
       "rank": 10,
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "totalStars": "2.3k",
-      "dailyGrowth": "287",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "totalStars": "18.7k",
+      "dailyGrowth": "266",
+      "description": "赋予您的代理 CAD 超能力。"
     }
   ],
   "hackerNews": [
     {
-      "title": "为什么业界对 DeepSeek 4.1 Flash 没有感到恐慌？",
-      "originalTitle": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 626
+      "title": "REA 逆向——设计一切",
+      "originalTitle": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 301
     },
     {
-      "title": "Whistle：语音转文本（16.9 MB）",
-      "originalTitle": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "score": 713
+      "title": "Cloudflare 收购 Deno",
+      "originalTitle": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 1162
     },
     {
-      "title": "Windows 和 Mac 之间的键盘差异",
-      "originalTitle": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "score": 82
+      "title": "Telegram Desktop 漏洞允许任何用户的文件被盗",
+      "originalTitle": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "score": 69
     },
     {
-      "title": "Show HN：Quake 移植到安全的 Rust，可在浏览器中播放",
-      "originalTitle": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "score": 117
+      "title": "3A 扫雷游戏",
+      "originalTitle": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "score": 858
     },
     {
-      "title": "男子发现父母的咖啡机10天内使用了1TB数据",
-      "originalTitle": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "score": 616
+      "title": "索伦之眼：远程隐藏间谍摄像机探测",
+      "originalTitle": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "score": 99
     },
     {
-      "title": "希拉洛斯世界",
-      "originalTitle": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "score": 405
+      "title": "Typesafe AI 以 $7.5B 融资 8.7 亿美元",
+      "originalTitle": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "score": 340
     },
     {
-      "title": "我雇了一位插画家来画我的房子。现在是我的 Home Assistant 仪表板",
-      "originalTitle": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "score": 555
+      "title": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码",
+      "originalTitle": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "score": 280
     },
     {
-      "title": "是的，并且",
-      "originalTitle": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "score": 349
+      "title": "您可以使用自回归扩散来生成市场数据吗？",
+      "originalTitle": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 60
     },
     {
-      "title": "减少C语言中的未定义行为",
-      "originalTitle": "Reducing undefined behavior in the C language",
-      "url": "https://lwn.net/Articles/1095811/",
-      "score": 93
+      "title": "使用 Eurydice 将 Rust 编译为可读的 C",
+      "originalTitle": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "score": 59
     },
     {
-      "title": "OpenAI、划分原理和数学",
-      "originalTitle": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "score": 97
+      "title": "如何在不戴耳机的情况下进入 VR",
+      "originalTitle": "How to head into VR without wearing a headset",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "score": 13
     }
   ],
-  "updateTime": "10/9/2026, 7:15:28 AM"
+  "updateTime": "10/10/2026, 6:52:41 AM"
 }
