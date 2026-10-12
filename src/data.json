@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "建立您自己的决策模型",
-      "originalTitle": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 221
+      "title": "Zig 中的类型安全 HTML 模板",
+      "originalTitle": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 58
     },
     {
-      "title": "2D 车辆",
-      "originalTitle": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 434
+      "title": "指纹是新的cookie",
+      "originalTitle": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 286
     },
     {
-      "title": "一款城市建设游戏，城市宁愿你不这么做",
-      "originalTitle": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 284
+      "title": "Vibe 编码 Photoshop 克隆的攻击",
+      "originalTitle": "Attack of the Vibe Coded Photoshop Clones",
+      "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+      "score": 9
     },
     {
-      "title": "AI 座席进行站立通话",
-      "originalTitle": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
-      "score": 22
+      "title": "Linux 手机会成为 Android/iOS 双头垄断的可行替代品吗？",
+      "originalTitle": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "score": 80
     },
     {
-      "title": "灯泡电脑",
-      "originalTitle": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "score": 357
+      "title": "彻底歼灭，为现代计算机重建",
+      "originalTitle": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 459
     },
     {
-      "title": "Git 提交有多大？",
-      "originalTitle": "How big is a Git commit?",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "score": 11
+      "title": "全息术变成了什么？ (2011)",
+      "originalTitle": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 109
     },
     {
-      "title": "PSPi 6 – PSP 中的树莓派",
-      "originalTitle": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 63
+      "title": "与朱莉娅一起微积分",
+      "originalTitle": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "score": 82
     },
     {
-      "title": "Nix 写了我一半的调试器",
-      "originalTitle": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 175
+      "title": "朝鲜制图师 (2019)",
+      "originalTitle": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 232
     },
     {
-      "title": "十年历史的 RAM 卷土重来",
-      "originalTitle": "Decade-old RAM is making a comeback",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "score": 13
+      "title": "没有可移植的方法来检测标准 C 中的字符串到浮点转换错误",
+      "originalTitle": "No portable way to detect string-to-float conversion errors in standard C",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "score": 31
     },
     {
-      "title": "Show HN：韩文日快乐！用于生成韩语笔画的 RNN",
-      "originalTitle": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 33
+      "title": "Doory – 开源 Canva",
+      "originalTitle": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "score": 84
     }
   ],
-  "updateTime": "10/11/2026, 6:57:05 AM"
+  "updateTime": "10/12/2026, 7:09:37 AM"
 }
