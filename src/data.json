@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "8.7k",
-      "dailyGrowth": "5568",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
-    },
-    {
-      "rank": 2,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "5.8k",
-      "dailyGrowth": "2637",
+      "totalStars": "8k",
+      "dailyGrowth": "2198",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
+      "rank": 2,
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "totalStars": "10.8k",
+      "dailyGrowth": "2151",
+      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+    },
+    {
       "rank": 3,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "10.3k",
-      "dailyGrowth": "1179",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "totalStars": "4.1k",
+      "dailyGrowth": "758",
+      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
     },
     {
       "rank": 4,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "16.3k",
-      "dailyGrowth": "920",
-      "description": "适用于 Mac 的 Photoshop 替代品"
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "totalStars": "4.4k",
+      "dailyGrowth": "679",
+      "description": "GridCraft：一个开源的、干净的电子表格（Microsoft Excel 风格），采用纯 Rust 语言。由艺术工艺。"
     },
     {
       "rank": 5,
-      "name": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "totalStars": "3.7k",
-      "dailyGrowth": "837",
-      "description": "GridCraft：一个纯 Rust 语言的开源、洁净室电子表格（Microsoft Excel 风格）。由艺术工艺。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "11k",
+      "dailyGrowth": "669",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
     },
     {
       "rank": 6,
       "name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
-      "totalStars": "9.5k",
-      "dailyGrowth": "808",
+      "totalStars": "10k",
+      "dailyGrowth": "545",
       "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
     },
     {
       "rank": 7,
-      "name": "zhongerxin/iPhone-use",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "totalStars": "3.3k",
-      "dailyGrowth": "802",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
+      "name": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "totalStars": "3.2k",
+      "dailyGrowth": "403",
+      "description": "带有人工智能财务顾问的开源个人理财应用程序：在您自己的计算机上跟踪您的净资产、投资、ETF、现金和债务。"
     },
     {
       "rank": 8,
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "totalStars": "14.4k",
-      "dailyGrowth": "760",
-      "description": ""
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "totalStars": "16.7k",
+      "dailyGrowth": "352",
+      "description": "适用于 Mac 的 Photoshop 替代品"
     },
     {
       "rank": 9,
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "totalStars": "3.3k",
-      "dailyGrowth": "727",
-      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "totalStars": "19.9k",
+      "dailyGrowth": "346",
+      "description": "赋予您的代理 CAD 超能力。"
     },
     {
       "rank": 10,
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "totalStars": "7k",
-      "dailyGrowth": "693",
-      "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
+      "name": "storytold/deckcraft",
+      "url": "https://github.com/storytold/deckcraft",
+      "totalStars": "2.9k",
+      "dailyGrowth": "337",
+      "description": "演示文稿和幻灯片：以纯 Rust 方式对 Microsoft PowerPoint 进行开源、干净的重新实现。 ArtCraft 制作应用程序的一部分。"
     }
   ],
   "hackerNews": [
     {
-      "title": "人工智能模型可以证明隐藏任意功能",
-      "originalTitle": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 171
+      "title": "菲利克斯·里塞伯格主页",
+      "originalTitle": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 58
     },
     {
-      "title": "单细胞令人费解的智能 (2024)",
-      "originalTitle": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "score": 220
+      "title": "双子座 4 氩",
+      "originalTitle": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1172
     },
     {
-      "title": "GLM-法律",
-      "originalTitle": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 528
+      "title": "声音 – Bartosz Ciechanowski (2022)",
+      "originalTitle": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 54
     },
     {
-      "title": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X",
-      "originalTitle": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 171
+      "title": "Ledger 证实钱包加密盗窃背后有间谍芯片植入",
+      "originalTitle": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 586
     },
     {
-      "title": "C 语言的现代 Web 应用程序",
-      "originalTitle": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 519
+      "title": "“注意力”是智力的本质吗？",
+      "originalTitle": "Is 'Attention' the Essence of Intelligence?",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "score": 45
     },
     {
-      "title": "黑客启动欧洲超市冰箱自动除霜",
-      "originalTitle": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 624
+      "title": "显示 HN：Guitoro，您可以用键盘弹奏的虚拟吉他",
+      "originalTitle": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 372
     },
     {
-      "title": "vfmaddrnd231pd 是谁？",
-      "originalTitle": "Who is vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "score": 178
+      "title": "重新设计 Anthropic 的源代码控制",
+      "originalTitle": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 668
     },
     {
-      "title": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM",
-      "originalTitle": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "score": 112
+      "title": "格蕾丝·霍珀庆祝活动取消",
+      "originalTitle": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "score": 94
     },
     {
-      "title": "在 Firefox 中使大下载可恢复",
-      "originalTitle": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "score": 175
+      "title": "900 页 Pre Pantone 色彩指南（1692 年起）（带完整高分辨率扫描）",
+      "originalTitle": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 114
     },
     {
-      "title": "将 WiFi 7 路由器变成 320Msps 软件定义无线电接收器",
-      "originalTitle": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 328
+      "title": "我开发了一个工具来跟踪人工智能领导者的言论以及他们对视频的看法如何变化",
+      "originalTitle": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "score": 66
     }
   ],
-  "updateTime": "10/13/2026, 7:33:33 AM"
+  "updateTime": "10/14/2026, 5:57:45 AM"
 }
