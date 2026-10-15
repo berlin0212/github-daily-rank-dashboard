@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "8k",
-      "dailyGrowth": "2198",
+      "totalStars": "9.8k",
+      "dailyGrowth": "1809",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 2,
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "10.8k",
-      "dailyGrowth": "2151",
+      "totalStars": "12.2k",
+      "dailyGrowth": "1399",
       "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     },
     {
       "rank": 3,
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "totalStars": "4.1k",
-      "dailyGrowth": "758",
-      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "totalStars": "3.5k",
+      "dailyGrowth": "1192",
+      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
     },
     {
       "rank": 4,
-      "name": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "totalStars": "4.4k",
-      "dailyGrowth": "679",
-      "description": "GridCraft：一个开源的、干净的电子表格（Microsoft Excel 风格），采用纯 Rust 语言。由艺术工艺。"
-    },
-    {
-      "rank": 5,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "11k",
-      "dailyGrowth": "669",
+      "totalStars": "11.7k",
+      "dailyGrowth": "747",
       "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
     },
     {
+      "rank": 5,
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "totalStars": "4.7k",
+      "dailyGrowth": "632",
+      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
+    },
+    {
       "rank": 6,
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "totalStars": "10k",
-      "dailyGrowth": "545",
-      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "totalStars": "4.8k",
+      "dailyGrowth": "436",
+      "description": "GridCraft：一个开源的、干净的电子表格（Microsoft Excel 风格），采用纯 Rust 语言。由艺术工艺。"
     },
     {
       "rank": 7,
-      "name": "LosaLosSantos/aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "totalStars": "3.2k",
-      "dailyGrowth": "403",
-      "description": "带有人工智能财务顾问的开源个人理财应用程序：在您自己的计算机上跟踪您的净资产、投资、ETF、现金和债务。"
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "totalStars": "10.4k",
+      "dailyGrowth": "420",
+      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
     },
     {
       "rank": 8,
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "totalStars": "16.7k",
-      "dailyGrowth": "352",
-      "description": "适用于 Mac 的 Photoshop 替代品"
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "totalStars": "14.3k",
+      "dailyGrowth": "334",
+      "description": "将您的用户连接到他们的应用程序"
     },
     {
       "rank": 9,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "totalStars": "19.9k",
-      "dailyGrowth": "346",
-      "description": "赋予您的代理 CAD 超能力。"
+      "name": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "totalStars": "2.6k",
+      "dailyGrowth": "328",
+      "description": "Craft 应用程序启动器"
     },
     {
       "rank": 10,
       "name": "storytold/deckcraft",
       "url": "https://github.com/storytold/deckcraft",
-      "totalStars": "2.9k",
-      "dailyGrowth": "337",
+      "totalStars": "3.2k",
+      "dailyGrowth": "300",
       "description": "演示文稿和幻灯片：以纯 Rust 方式对 Microsoft PowerPoint 进行开源、干净的重新实现。 ArtCraft 制作应用程序的一部分。"
     }
   ],
   "hackerNews": [
     {
-      "title": "菲利克斯·里塞伯格主页",
-      "originalTitle": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 58
+      "title": "患癌症时需要知道的事情",
+      "originalTitle": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 1064
     },
     {
-      "title": "双子座 4 氩",
-      "originalTitle": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1172
+      "title": "道歉",
+      "originalTitle": "An Apology",
+      "url": "https://www.elevationlab.com/blogs/news/an-apology",
+      "score": 26
     },
     {
-      "title": "声音 – Bartosz Ciechanowski (2022)",
-      "originalTitle": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 54
+      "title": "开放代码2.0",
+      "originalTitle": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 459
     },
     {
-      "title": "Ledger 证实钱包加密盗窃背后有间谍芯片植入",
-      "originalTitle": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 586
+      "title": "小小的办公室",
+      "originalTitle": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "score": 267
     },
     {
-      "title": "“注意力”是智力的本质吗？",
-      "originalTitle": "Is 'Attention' the Essence of Intelligence?",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "score": 45
+      "title": "LFM2.5-24B-A2B：专为快速设备上代理而构建",
+      "originalTitle": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "score": 140
     },
     {
-      "title": "显示 HN：Guitoro，您可以用键盘弹奏的虚拟吉他",
-      "originalTitle": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 372
+      "title": "牙医知道他们在做什么吗？",
+      "originalTitle": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 568
     },
     {
-      "title": "重新设计 Anthropic 的源代码控制",
-      "originalTitle": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 668
+      "title": "美国加利福尼亚州爱德怀的唐纳森 Futuro House",
+      "originalTitle": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "score": 26
     },
     {
-      "title": "格蕾丝·霍珀庆祝活动取消",
-      "originalTitle": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "score": 94
+      "title": "过去30年美国人的社交活动急剧下降",
+      "originalTitle": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "score": 313
     },
     {
-      "title": "900 页 Pre Pantone 色彩指南（1692 年起）（带完整高分辨率扫描）",
-      "originalTitle": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 114
+      "title": "双头堆栈分配器",
+      "originalTitle": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "score": 36
     },
     {
-      "title": "我开发了一个工具来跟踪人工智能领导者的言论以及他们对视频的看法如何变化",
-      "originalTitle": "I built a tool to track what AI leaders say and how their views change on video",
-      "url": "https://blumify.io/people",
-      "score": 66
+      "title": "抓住一只鸟——我是为了自己的理智而做的",
+      "originalTitle": "Catch a Bird – I made it for my own sanity",
+      "url": "https://catchabird.com",
+      "score": 78
     }
   ],
-  "updateTime": "10/14/2026, 5:57:45 AM"
+  "updateTime": "10/15/2026, 5:43:52 AM"
 }
