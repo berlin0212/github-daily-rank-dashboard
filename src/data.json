@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "9.8k",
-      "dailyGrowth": "1809",
+      "totalStars": "12.5k",
+      "dailyGrowth": "2749",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 2,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "12.2k",
-      "dailyGrowth": "1399",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+      "name": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "totalStars": "3k",
+      "dailyGrowth": "967",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
     },
     {
       "rank": 3,
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "totalStars": "3.5k",
-      "dailyGrowth": "1192",
-      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "totalStars": "13.1k",
+      "dailyGrowth": "852",
+      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     },
     {
       "rank": 4,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "11.7k",
-      "dailyGrowth": "747",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
-    },
-    {
-      "rank": 5,
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "totalStars": "4.7k",
-      "dailyGrowth": "632",
-      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
-    },
-    {
-      "rank": 6,
-      "name": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "totalStars": "4.8k",
-      "dailyGrowth": "436",
-      "description": "GridCraft：一个开源的、干净的电子表格（Microsoft Excel 风格），采用纯 Rust 语言。由艺术工艺。"
-    },
-    {
-      "rank": 7,
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "totalStars": "10.4k",
-      "dailyGrowth": "420",
-      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
-    },
-    {
-      "rank": 8,
       "name": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "14.3k",
-      "dailyGrowth": "334",
+      "totalStars": "14.9k",
+      "dailyGrowth": "600",
       "description": "将您的用户连接到他们的应用程序"
     },
     {
+      "rank": 5,
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "12.3k",
+      "dailyGrowth": "534",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
+    },
+    {
+      "rank": 6,
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "totalStars": "4.1k",
+      "dailyGrowth": "530",
+      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
+    },
+    {
+      "rank": 7,
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "totalStars": "5.1k",
+      "dailyGrowth": "371",
+      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
+    },
+    {
+      "rank": 8,
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "totalStars": "5.1k",
+      "dailyGrowth": "323",
+      "description": "GridCraft：一个开源的、干净的电子表格（Microsoft Excel 风格），采用纯 Rust 语言。由艺术工艺。"
+    },
+    {
       "rank": 9,
-      "name": "storytold/craft-launcher",
-      "url": "https://github.com/storytold/craft-launcher",
-      "totalStars": "2.6k",
-      "dailyGrowth": "328",
-      "description": "Craft 应用程序启动器"
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "totalStars": "10.8k",
+      "dailyGrowth": "311",
+      "description": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
     },
     {
       "rank": 10,
-      "name": "storytold/deckcraft",
-      "url": "https://github.com/storytold/deckcraft",
-      "totalStars": "3.2k",
-      "dailyGrowth": "300",
-      "description": "演示文稿和幻灯片：以纯 Rust 方式对 Microsoft PowerPoint 进行开源、干净的重新实现。 ArtCraft 制作应用程序的一部分。"
+      "name": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "totalStars": "9.6k",
+      "dailyGrowth": "306",
+      "description": "用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、仿真器、模拟器和真实设备）"
     }
   ],
   "hackerNews": [
     {
-      "title": "患癌症时需要知道的事情",
-      "originalTitle": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 1064
+      "title": "缪斯火花开放",
+      "originalTitle": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 726
     },
     {
-      "title": "道歉",
-      "originalTitle": "An Apology",
-      "url": "https://www.elevationlab.com/blogs/news/an-apology",
-      "score": 26
+      "title": "从 10 月 30 日开始，企业帐户将同意 Meta 抓取其网站",
+      "originalTitle": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 139
     },
     {
-      "title": "开放代码2.0",
-      "originalTitle": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 459
+      "title": "Mac、iPhone 和 iPad 上的任何窗口",
+      "originalTitle": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "score": 102
     },
     {
-      "title": "小小的办公室",
-      "originalTitle": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "score": 267
+      "title": "RPKI 现在保护 70% 的互联网路由",
+      "originalTitle": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "score": 94
     },
     {
-      "title": "LFM2.5-24B-A2B：专为快速设备上代理而构建",
-      "originalTitle": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 140
+      "title": "“500小时”的《陨星令》听起来既复杂又累人",
+      "originalTitle": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "score": 60
     },
     {
-      "title": "牙医知道他们在做什么吗？",
-      "originalTitle": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "score": 568
+      "title": "神经网络是干净的",
+      "originalTitle": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 595
     },
     {
-      "title": "美国加利福尼亚州爱德怀的唐纳森 Futuro House",
-      "originalTitle": "Donaldson Futuro House in Idyllwild, California, USA",
-      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-      "score": 26
+      "title": "我自行托管的内容",
+      "originalTitle": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 377
     },
     {
-      "title": "过去30年美国人的社交活动急剧下降",
-      "originalTitle": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "score": 313
+      "title": "苹果在 iPhone Duo 的铰链上铺设了一根石墨管来散热",
+      "originalTitle": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "score": 101
     },
     {
-      "title": "双头堆栈分配器",
-      "originalTitle": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "score": 36
+      "title": "BIPM 决定停止向 UTC 添加闰秒",
+      "originalTitle": "BIPM decides to stop adding leap seconds to UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 130
     },
     {
-      "title": "抓住一只鸟——我是为了自己的理智而做的",
-      "originalTitle": "Catch a Bird – I made it for my own sanity",
-      "url": "https://catchabird.com",
-      "score": 78
+      "title": "适用于 Linux 的 Wayland 桌面拟物化设计",
+      "originalTitle": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 560
     }
   ],
-  "updateTime": "10/15/2026, 5:43:52 AM"
+  "updateTime": "10/16/2026, 5:40:07 AM"
 }
