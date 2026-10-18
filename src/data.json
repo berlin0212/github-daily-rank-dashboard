@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "13.8k",
-      "dailyGrowth": "1290",
+      "totalStars": "15k",
+      "dailyGrowth": "1156",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 2,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "12.8k",
-      "dailyGrowth": "552",
-      "description": "自托管健身房和体重追踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "totalStars": "5.6k",
+      "dailyGrowth": "460",
+      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
     },
     {
       "rank": 3,
-      "name": "LosaLosSantos/aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "totalStars": "3.9k",
-      "dailyGrowth": "544",
-      "description": "带有人工智能财务顾问的开源个人理财应用程序：在您自己的计算机上跟踪您的净资产、投资、ETF、现金和债务。"
+      "name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "totalStars": "5.3k",
+      "dailyGrowth": "444",
+      "description": ""
     },
     {
       "rank": 4,
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "13.6k",
-      "dailyGrowth": "526",
+      "totalStars": "14k",
+      "dailyGrowth": "388",
       "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     },
     {
       "rank": 5,
-      "name": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "totalStars": "3.5k",
-      "dailyGrowth": "476",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "12.2k",
+      "dailyGrowth": "380",
+      "description": "光标插件规范和官方插件"
     },
     {
       "rank": 6,
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "totalStars": "2.8k",
-      "dailyGrowth": "465",
-      "description": "让 AI 模型使用配备 7 美元 ESP32 的真实 iPhone：AirPlay 眼睛、USB HID 手、任何 OpenAI 兼容的视觉模型。没有Mac，没有开发者帐户，没有越狱。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "13.1k",
+      "dailyGrowth": "296",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
     },
     {
       "rank": 7,
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "totalStars": "8.1k",
-      "dailyGrowth": "442",
-      "description": "在任何比赛中控球克劳德。技能、工具和 fal MCP 可以让 Claude Code 修改您拥有的几乎所有 PC 游戏：侦察、逆向工程、fal 生成的艺术/3D/音频、游戏内测试、展示视频。"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "9.8k",
+      "dailyGrowth": "267",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 8,
-      "name": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "totalStars": "2.7k",
-      "dailyGrowth": "415",
-      "description": "Poteto pstack 的 Claude Code、Codex、Copilot、Pi、OpenCode、Gemini 和 Prime Agent 版本。严格的代理工作流程，并将光标原语转换为其他线束。"
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "totalStars": "4.5k",
+      "dailyGrowth": "254",
+      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
     },
     {
       "rank": 9,
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "totalStars": "5.1k",
-      "dailyGrowth": "371",
-      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "totalStars": "15.2k",
+      "dailyGrowth": "239",
+      "description": "将您的用户连接到他们的应用程序"
     },
     {
       "rank": 10,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "11.9k",
-      "dailyGrowth": "283",
-      "description": "光标插件规范和官方插件"
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "totalStars": "5.7k",
+      "dailyGrowth": "196",
+      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
     }
   ],
   "hackerNews": [
     {
-      "title": "群青 1 闪光",
-      "originalTitle": "Ultramarine 1 Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "score": 109
-    },
-    {
-      "title": "特斯拉跑车",
-      "originalTitle": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 1309
-    },
-    {
-      "title": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型",
-      "originalTitle": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 241
-    },
-    {
-      "title": "Claude 揭示 ECDSA 曲线起源",
-      "originalTitle": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 784
-    },
-    {
-      "title": "你本可以凭记忆发明变形金刚",
-      "originalTitle": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 209
-    },
-    {
-      "title": "FLUX 3 图像克莱因",
-      "originalTitle": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 142
-    },
-    {
-      "title": "加州正在为优胜美地最危险的高速公路建造一个耗资 4 亿美元的防护罩",
-      "originalTitle": "California is building a $400M shield for Yosemite's most dangerous highway",
-      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "title": "Show HN：Sphinx – 一个在发货前询问您的 AI 代码的钩子",
+      "originalTitle": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
       "score": 23
     },
     {
-      "title": "Show HN：Fakeipedia – 不存在的世界的维基百科",
-      "originalTitle": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "url": "https://fakeipedia.org",
-      "score": 18
+      "title": "当接触健康的邻居时，白化的珊瑚会在几天内茁壮成长",
+      "originalTitle": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 396
     },
     {
-      "title": "eBay 限制无线电设备列表，但仅适用于业余无线电设备",
-      "originalTitle": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 199
+      "title": "Lean 现在附带经过验证的内核",
+      "originalTitle": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 74
     },
     {
-      "title": "Apple ML Research：在 Mac Studio 上使用 MLX 打开 Muse Spark",
-      "originalTitle": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 292
+      "title": "拆除大坝使美国东北部的鱼类重新回归",
+      "originalTitle": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 246
+    },
+    {
+      "title": "马修·普林斯 (Matthew Prince) 阐述为什么 Cloudflare 会提供免费版本并且永远都会提供",
+      "originalTitle": "Matthew Prince on why Cloudflare offers a free version and always will",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "score": 3
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "originalTitle": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 780
+    },
+    {
+      "title": "阿蒂斯动物园为南方地犀鸟安装了 3D 打印喙假肢",
+      "originalTitle": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 8
+    },
+    {
+      "title": "Pele – 美人鱼图作为主题 SVG",
+      "originalTitle": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 343
+    },
+    {
+      "title": "Furifont，一种显示注音假名的日语字体",
+      "originalTitle": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 315
+    },
+    {
+      "title": "纽约宣布游戏所有权法案要求所有权而不是许可",
+      "originalTitle": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 186
     }
   ],
-  "updateTime": "10/17/2026, 5:25:54 AM"
+  "updateTime": "10/18/2026, 5:37:13 AM"
 }
