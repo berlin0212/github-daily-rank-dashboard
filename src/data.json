@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "15k",
-      "dailyGrowth": "1156",
+      "totalStars": "16.8k",
+      "dailyGrowth": "1778",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 2,
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "totalStars": "5.6k",
-      "dailyGrowth": "460",
-      "description": "CADCraft：计算机辅助设计和绘图 — 一款纯 Rust 语言的开源、洁净室 AutoCAD 风格的应用程序"
-    },
-    {
-      "rank": 3,
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "totalStars": "5.3k",
-      "dailyGrowth": "444",
-      "description": ""
-    },
-    {
-      "rank": 4,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "14k",
-      "dailyGrowth": "388",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
-    },
-    {
-      "rank": 5,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "12.2k",
-      "dailyGrowth": "380",
-      "description": "光标插件规范和官方插件"
-    },
-    {
-      "rank": 6,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "13.1k",
-      "dailyGrowth": "296",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
-    },
-    {
-      "rank": 7,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "9.8k",
-      "dailyGrowth": "267",
+      "totalStars": "11.2k",
+      "dailyGrowth": "1340",
       "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
+      "rank": 3,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "13k",
+      "dailyGrowth": "766",
+      "description": "光标插件规范和官方插件"
+    },
+    {
+      "rank": 4,
+      "name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "totalStars": "6k",
+      "dailyGrowth": "742",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "13.8k",
+      "dailyGrowth": "731",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
+    },
+    {
+      "rank": 6,
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "totalStars": "3.4k",
+      "dailyGrowth": "728",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+    },
+    {
+      "rank": 7,
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "totalStars": "14.7k",
+      "dailyGrowth": "697",
+      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+    },
+    {
       "rank": 8,
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "totalStars": "4.5k",
-      "dailyGrowth": "254",
-      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "totalStars": "10.3k",
+      "dailyGrowth": "501",
+      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
     },
     {
       "rank": 9,
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "totalStars": "15.2k",
-      "dailyGrowth": "239",
-      "description": "将您的用户连接到他们的应用程序"
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "totalStars": "5k",
+      "dailyGrowth": "456",
+      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
     },
     {
       "rank": 10,
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "totalStars": "5.7k",
-      "dailyGrowth": "196",
-      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+      "name": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "totalStars": "16.6k",
+      "dailyGrowth": "438",
+      "description": "开源游戏列表。"
     }
   ],
   "hackerNews": [
     {
-      "title": "混合推理代理：LLM 代理在潜在空间中思考，通过文本行动",
-      "originalTitle": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "score": 309
+      "title": "OpenBSD 8.0",
+      "originalTitle": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "score": 138
     },
     {
-      "title": "威廉·吉布森和网络空间的商标",
-      "originalTitle": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "score": 125
+      "title": "美国最高法院将审查 1868 年联邦家庭蒸馏酒禁令",
+      "originalTitle": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+      "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+      "score": 39
     },
     {
-      "title": "Verisign .com 域名注册局消费者集体诉讼",
-      "originalTitle": "Verisign .com Domain Name Registry Consumer Class Action",
-      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-      "score": 26
+      "title": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
+      "originalTitle": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "score": 214
     },
     {
-      "title": "现在是学习数学的最佳时机（作者：3blue1brown）[视频]",
-      "originalTitle": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "score": 273
+      "title": "MiniMax M3.1 闪光灯",
+      "originalTitle": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 426
     },
     {
-      "title": "Superlite：超能力的更快替代品",
-      "originalTitle": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "score": 42
+      "title": "法国超市冰箱数月来在线上易受攻击",
+      "originalTitle": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "score": 93
     },
     {
-      "title": "软件背后有人",
-      "originalTitle": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 381
+      "title": "我建造了一架只有一个电机的无人机 [视频]",
+      "originalTitle": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 478
     },
     {
-      "title": "在黑死病爆发之前，兔子是中世纪英国皇室的奢侈品",
-      "originalTitle": "Rabbits were a medieval royal luxury in England until the Black Death",
-      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-      "score": 7
+      "title": "Weball：在网站上玩 Katamari",
+      "originalTitle": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "score": 143
     },
     {
-      "title": "基于6502 CPU的笔记本电脑",
-      "originalTitle": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
-      "score": 76
+      "title": "根据国土安全部新命令，DeepSeek 被美国联邦民事机构禁止使用",
+      "originalTitle": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "score": 123
     },
     {
-      "title": "复制RapMicron",
-      "originalTitle": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 360
+      "title": "无广告的 Android 电视",
+      "originalTitle": "An ad-free Android TV",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "score": 107
     },
     {
-      "title": "DeepSeek V4.1 闪存 1017（最大）",
-      "originalTitle": "DeepSeek V4.1 Flash 1017 (Max)",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "score": 71
+      "title": "Wine 移植到 OpenBSD",
+      "originalTitle": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 537
     }
   ],
-  "updateTime": "10/19/2026, 5:55:07 AM"
+  "updateTime": "10/20/2026, 5:47:34 AM"
 }
