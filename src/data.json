@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "16.8k",
-      "dailyGrowth": "1778",
-      "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "totalStars": "10.9k",
+      "dailyGrowth": "5874",
+      "description": "通过 Wi-Fi 消除任何 Android 或 Google TV 的膨胀，并获得 Apple TV 风格的家。"
     },
     {
       "rank": 2,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "11.2k",
-      "dailyGrowth": "1340",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "totalStars": "3.1k",
+      "dailyGrowth": "740",
+      "description": "我们正在从头开始重建和开源世界软件。"
     },
     {
       "rank": 3,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "13k",
-      "dailyGrowth": "766",
-      "description": "光标插件规范和官方插件"
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "totalStars": "17.5k",
+      "dailyGrowth": "723",
+      "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 4,
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "totalStars": "6k",
-      "dailyGrowth": "742",
-      "description": ""
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "11.9k",
+      "dailyGrowth": "697",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 5,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "13.8k",
-      "dailyGrowth": "731",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
+      "name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "totalStars": "6.6k",
+      "dailyGrowth": "551",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "totalStars": "3.4k",
-      "dailyGrowth": "728",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "18.1k",
+      "dailyGrowth": "390",
+      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     },
     {
       "rank": 7,
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "14.7k",
-      "dailyGrowth": "697",
+      "totalStars": "15k",
+      "dailyGrowth": "320",
       "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     },
     {
       "rank": 8,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "totalStars": "10.3k",
-      "dailyGrowth": "501",
-      "description": "更智能、自托管的人工智能助手——多用户、多代理。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "14.1k",
+      "dailyGrowth": "284",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
     },
     {
       "rank": 9,
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "totalStars": "5k",
-      "dailyGrowth": "456",
-      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "totalStars": "4.1k",
+      "dailyGrowth": "214",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     },
     {
       "rank": 10,
-      "name": "bobeff/open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "totalStars": "16.6k",
-      "dailyGrowth": "438",
-      "description": "开源游戏列表。"
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "totalStars": "5.2k",
+      "dailyGrowth": "212",
+      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
     }
   ],
   "hackerNews": [
     {
-      "title": "OpenBSD 8.0",
-      "originalTitle": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "score": 138
+      "title": "PHP重大漏洞泄露",
+      "originalTitle": "Major PHP Vulnerability Leaked",
+      "url": "https://jackalsyn.com/posts/php-up-2026.html",
+      "score": 95
     },
     {
-      "title": "美国最高法院将审查 1868 年联邦家庭蒸馏酒禁令",
-      "originalTitle": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
-      "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
-      "score": 39
+      "title": "CSS 的未来",
+      "originalTitle": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 165
     },
     {
-      "title": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
-      "originalTitle": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 214
+      "title": "显示 HN：SimCity，但有许可证",
+      "originalTitle": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 686
     },
     {
-      "title": "MiniMax M3.1 闪光灯",
-      "originalTitle": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 426
+      "title": "在希尔伯特空间中，一切事物都是量子可能的",
+      "originalTitle": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 56
     },
     {
-      "title": "法国超市冰箱数月来在线上易受攻击",
-      "originalTitle": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "score": 93
+      "title": "Battlezone Online：浏览器中的 BZFlag",
+      "originalTitle": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
+      "score": 7
     },
     {
-      "title": "我建造了一架只有一个电机的无人机 [视频]",
-      "originalTitle": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 478
+      "title": "联邦调查局怀疑赎金谈判代表经营 ShinyHunters 勒索网站",
+      "originalTitle": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 158
     },
     {
-      "title": "Weball：在网站上玩 Katamari",
-      "originalTitle": "Weball: Play Katamari on Websites",
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "score": 143
+      "title": "沃克斯特拉尔3",
+      "originalTitle": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 585
     },
     {
-      "title": "根据国土安全部新命令，DeepSeek 被美国联邦民事机构禁止使用",
-      "originalTitle": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 123
+      "title": "借用检查零成本循环可变性",
+      "originalTitle": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "score": 21
     },
     {
-      "title": "无广告的 Android 电视",
-      "originalTitle": "An ad-free Android TV",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "score": 107
+      "title": "另一种流行病：试图摆脱苯二氮卓类药物",
+      "originalTitle": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 141
     },
     {
-      "title": "Wine 移植到 OpenBSD",
-      "originalTitle": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 537
+      "title": "eMudhra 中间 CA 妥协",
+      "originalTitle": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 789
     }
   ],
-  "updateTime": "10/20/2026, 5:47:34 AM"
+  "updateTime": "10/21/2026, 5:50:39 AM"
 }
