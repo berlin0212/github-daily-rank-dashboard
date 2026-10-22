@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "totalStars": "10.9k",
-      "dailyGrowth": "5874",
+      "totalStars": "18.3k",
+      "dailyGrowth": "7346",
       "description": "通过 Wi-Fi 消除任何 Android 或 Google TV 的膨胀，并获得 Apple TV 风格的家。"
     },
     {
       "rank": 2,
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "3.1k",
-      "dailyGrowth": "740",
-      "description": "我们正在从头开始重建和开源世界软件。"
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "totalStars": "17.6k",
+      "dailyGrowth": "5663",
+      "description": "DeepInfer：用于 DeepSeek 模型的高性能、大规模推理框架"
     },
     {
       "rank": 3,
-      "name": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "17.5k",
-      "dailyGrowth": "723",
-      "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
+      "name": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "totalStars": "3.7k",
+      "dailyGrowth": "984",
+      "description": ""
     },
     {
       "rank": 4,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "11.9k",
-      "dailyGrowth": "697",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "totalStars": "18.4k",
+      "dailyGrowth": "929",
+      "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 5,
       "name": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "totalStars": "6.6k",
-      "dailyGrowth": "551",
+      "totalStars": "7k",
+      "dailyGrowth": "421",
       "description": ""
     },
     {
       "rank": 6,
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "18.1k",
-      "dailyGrowth": "390",
+      "totalStars": "18.5k",
+      "dailyGrowth": "380",
       "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     },
     {
       "rank": 7,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "15k",
-      "dailyGrowth": "320",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "totalStars": "3.4k",
+      "dailyGrowth": "376",
+      "description": "我们正在从头开始重建和开源世界软件。"
     },
     {
       "rank": 8,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "14.1k",
-      "dailyGrowth": "284",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密码登录。您的数据，您的服务器。"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "12.2k",
+      "dailyGrowth": "360",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 9,
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "totalStars": "4.1k",
-      "dailyGrowth": "214",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "totalStars": "15.3k",
+      "dailyGrowth": "289",
+      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     },
     {
       "rank": 10,
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "totalStars": "5.2k",
-      "dailyGrowth": "212",
-      "description": "通过文件中的内容搜索您的计算机：照片、PDF、文档、录音、视频和代码。 Mac、Windows 和 Linux 设备上，基于 Google DeepMind 的 EmbeddingGemma 2 构建。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "14.4k",
+      "dailyGrowth": "266",
+      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
     }
   ],
   "hackerNews": [
     {
-      "title": "PHP重大漏洞泄露",
-      "originalTitle": "Major PHP Vulnerability Leaked",
-      "url": "https://jackalsyn.com/posts/php-up-2026.html",
-      "score": 95
+      "title": "最近提出的 o(n log n) 整数乘法算法 [pdf]",
+      "originalTitle": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "score": 99
     },
     {
-      "title": "CSS 的未来",
-      "originalTitle": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 165
+      "title": "此 PHP 漏洞并不容易被利用",
+      "originalTitle": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 363
     },
     {
-      "title": "显示 HN：SimCity，但有许可证",
-      "originalTitle": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 686
+      "title": "WorldTUI：我训练了一个360M模型来冒充终端",
+      "originalTitle": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 36
     },
     {
-      "title": "在希尔伯特空间中，一切事物都是量子可能的",
-      "originalTitle": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "score": 56
+      "title": "使用 LLM 进行置信度评分是一个坏主意",
+      "originalTitle": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 44
     },
     {
-      "title": "Battlezone Online：浏览器中的 BZFlag",
-      "originalTitle": "Battlezone Online: BZFlag in the Browser",
-      "url": "https://github.com/timriker/bzo",
-      "score": 7
+      "title": "GitLab 关键补丁发布",
+      "originalTitle": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 296
     },
     {
-      "title": "联邦调查局怀疑赎金谈判代表经营 ShinyHunters 勒索网站",
-      "originalTitle": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 158
+      "title": "Rust 风格指南",
+      "originalTitle": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 266
     },
     {
-      "title": "沃克斯特拉尔3",
-      "originalTitle": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 585
+      "title": "安全披露",
+      "originalTitle": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 395
     },
     {
-      "title": "借用检查零成本循环可变性",
-      "originalTitle": "Borrow Checking Zero-Cost Cyclic Mutability",
-      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-      "score": 21
+      "title": "PyPI 上受损的 LiteLLM 1.107.0 安装凭证窃取程序和后门",
+      "originalTitle": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 475
     },
     {
-      "title": "另一种流行病：试图摆脱苯二氮卓类药物",
-      "originalTitle": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "score": 141
+      "title": "我不敢相信 PowerShell 这么好",
+      "originalTitle": "I can't believe PowerShell is good",
+      "url": "https://www.spacebar.news/powershell-is-actually-good/",
+      "score": 40
     },
     {
-      "title": "eMudhra 中间 CA 妥协",
-      "originalTitle": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 789
+      "title": "默认情况下每个菜单中不再有图标",
+      "originalTitle": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 243
     }
   ],
-  "updateTime": "10/21/2026, 5:50:39 AM"
+  "updateTime": "10/22/2026, 5:54:01 AM"
 }
