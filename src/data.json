@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "最近提出的 o(n log n) 整数乘法算法 [pdf]",
-      "originalTitle": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 99
+      "title": "缓慢行动并解决问题",
+      "originalTitle": "Move Slow and Fix Things",
+      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "score": 74
     },
     {
-      "title": "此 PHP 漏洞并不容易被利用",
-      "originalTitle": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 363
+      "title": "Docker 很奇怪",
+      "originalTitle": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 297
     },
     {
-      "title": "WorldTUI：我训练了一个360M模型来冒充终端",
-      "originalTitle": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 36
+      "title": "法学硕士正在使正式软件验证在更大范围内变得可行",
+      "originalTitle": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 240
     },
     {
-      "title": "使用 LLM 进行置信度评分是一个坏主意",
-      "originalTitle": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "score": 44
+      "title": "Quad9（DNS 解析器）退出法国",
+      "originalTitle": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 1099
     },
     {
-      "title": "GitLab 关键补丁发布",
-      "originalTitle": "GitLab critical patch release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 296
+      "title": "《电路的秘密生活》现在到处都有货",
+      "originalTitle": "The Secret Life of Circuits is now in stock everywhere",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "score": 85
     },
     {
-      "title": "Rust 风格指南",
-      "originalTitle": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 266
+      "title": "产品“寿命”中位数已从约 4 年降至约 1.5 年",
+      "originalTitle": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+      "url": "https://news.ycombinator.com/item?id=50204125",
+      "score": 34
     },
     {
-      "title": "安全披露",
-      "originalTitle": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 395
+      "title": "注意力缺陷/多动症患者的死亡率",
+      "originalTitle": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "score": 77
     },
     {
-      "title": "PyPI 上受损的 LiteLLM 1.107.0 安装凭证窃取程序和后门",
-      "originalTitle": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 475
+      "title": "一名女子因使用她名下的诈骗 CashApp 账户而被指控计算机欺诈",
+      "originalTitle": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+      "score": 614
     },
     {
-      "title": "我不敢相信 PowerShell 这么好",
-      "originalTitle": "I can't believe PowerShell is good",
-      "url": "https://www.spacebar.news/powershell-is-actually-good/",
-      "score": 40
+      "title": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时",
+      "originalTitle": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 350
     },
     {
-      "title": "默认情况下每个菜单中不再有图标",
-      "originalTitle": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 243
+      "title": "我相信这一点 (1952)",
+      "originalTitle": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "score": 29
     }
   ],
-  "updateTime": "10/22/2026, 5:54:01 AM"
+  "updateTime": "10/23/2026, 5:51:49 AM"
 }
