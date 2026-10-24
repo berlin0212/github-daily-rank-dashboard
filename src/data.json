@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Gathin23/cleanyourtv",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "totalStars": "18.3k",
-      "dailyGrowth": "7346",
-      "description": "通过 Wi-Fi 消除任何 Android 或 Google TV 的膨胀，并获得 Apple TV 风格的家。"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "totalStars": "18.6k",
+      "dailyGrowth": "1315",
+      "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
     },
     {
       "rank": 2,
-      "name": "deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "totalStars": "17.6k",
-      "dailyGrowth": "5663",
-      "description": "DeepInfer：用于 DeepSeek 模型的高性能、大规模推理框架"
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "totalStars": "3.8k",
+      "dailyGrowth": "770",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "rank": 3,
-      "name": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "totalStars": "3.7k",
-      "dailyGrowth": "984",
-      "description": ""
+      "name": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "totalStars": "3.9k",
+      "dailyGrowth": "602",
+      "description": "适用于 Google TV、LG webOS 和 Samsung Tizen 的快速、无广告主屏幕。一键撤消。"
     },
     {
       "rank": 4,
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "18.4k",
-      "dailyGrowth": "929",
+      "totalStars": "19.6k",
+      "dailyGrowth": "549",
       "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
     },
     {
       "rank": 5,
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "totalStars": "7k",
-      "dailyGrowth": "421",
-      "description": ""
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "totalStars": "8.3k",
+      "dailyGrowth": "449",
+      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
     },
     {
       "rank": 6,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "18.5k",
-      "dailyGrowth": "380",
-      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
+      "name": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "totalStars": "4.8k",
+      "dailyGrowth": "426",
+      "description": ""
     },
     {
       "rank": 7,
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "3.4k",
-      "dailyGrowth": "376",
-      "description": "我们正在从头开始重建和开源世界软件。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "15.2k",
+      "dailyGrowth": "347",
+      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
       "rank": 8,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "12.2k",
-      "dailyGrowth": "360",
+      "totalStars": "13k",
+      "dailyGrowth": "262",
       "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 9,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "15.3k",
-      "dailyGrowth": "289",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "19k",
+      "dailyGrowth": "225",
+      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     },
     {
       "rank": 10,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "14.4k",
-      "dailyGrowth": "266",
-      "description": "自托管健身房和体重跟踪器 — 计划日常活动、记录锻炼（超级组、热身、有氧运动）、查看哪些肌肉经过训练、疲劳或失去训练、从 FitNotes/Strong/Hevy 导入、密钥登录。您的数据，您的服务器。"
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "totalStars": "15.7k",
+      "dailyGrowth": "210",
+      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
     }
   ],
   "hackerNews": [
     {
-      "title": "缓慢行动并解决问题",
-      "originalTitle": "Move Slow and Fix Things",
-      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
-      "score": 74
+      "title": "Kimi K3.1 Pro 和 K3.1 Pro Highspeed",
+      "originalTitle": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 815
     },
     {
-      "title": "Docker 很奇怪",
-      "originalTitle": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "score": 297
+      "title": "分布式 SQLite 十二年",
+      "originalTitle": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 101
     },
     {
-      "title": "法学硕士正在使正式软件验证在更大范围内变得可行",
-      "originalTitle": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "score": 240
+      "title": "Apple Music 404 未找到",
+      "originalTitle": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 684
     },
     {
-      "title": "Quad9（DNS 解析器）退出法国",
-      "originalTitle": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 1099
+      "title": "纯函数式编程与 C 语言有多接近？",
+      "originalTitle": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 25
     },
     {
-      "title": "《电路的秘密生活》现在到处都有货",
-      "originalTitle": "The Secret Life of Circuits is now in stock everywhere",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
-      "score": 85
+      "title": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方",
+      "originalTitle": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1326
     },
     {
-      "title": "产品“寿命”中位数已从约 4 年降至约 1.5 年",
-      "originalTitle": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "url": "https://news.ycombinator.com/item?id=50204125",
-      "score": 34
+      "title": "Dessa：仅针对语音进行训练的对话模型",
+      "originalTitle": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "score": 315
     },
     {
-      "title": "注意力缺陷/多动症患者的死亡率",
-      "originalTitle": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-      "score": 77
+      "title": "今天，我们破解了我们打算破解的东西：iPhone",
+      "originalTitle": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 806
     },
     {
-      "title": "一名女子因使用她名下的诈骗 CashApp 账户而被指控计算机欺诈",
-      "originalTitle": "Woman charged with computer fraud due to scam CashApp account being in her name",
-      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
-      "score": 614
+      "title": "CVE追踪器",
+      "originalTitle": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 138
     },
     {
-      "title": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时",
-      "originalTitle": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 350
+      "title": "将 uv 和 ty 结合在一起",
+      "originalTitle": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "score": 82
     },
     {
-      "title": "我相信这一点 (1952)",
-      "originalTitle": "This I Believe (1952)",
-      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "score": 29
+      "title": "建立了每个人都使用的地图编辑器的《雷神之锤》粉丝",
+      "originalTitle": "The Quake Fan who built the map editor everybody uses",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "score": 51
     }
   ],
-  "updateTime": "10/23/2026, 5:51:49 AM"
+  "updateTime": "10/24/2026, 5:35:26 AM"
 }
