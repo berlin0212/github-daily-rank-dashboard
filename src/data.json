@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "totalStars": "18.6k",
-      "dailyGrowth": "1315",
+      "totalStars": "19.4k",
+      "dailyGrowth": "736",
       "description": "OpenShell 是自主 AI 代理的安全、私有运行时。"
     },
     {
       "rank": 2,
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "3.8k",
-      "dailyGrowth": "770",
+      "totalStars": "4.3k",
+      "dailyGrowth": "553",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "rank": 3,
-      "name": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "totalStars": "3.9k",
-      "dailyGrowth": "602",
-      "description": "适用于 Google TV、LG webOS 和 Samsung Tizen 的快速、无广告主屏幕。一键撤消。"
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "totalStars": "8.8k",
+      "dailyGrowth": "513",
+      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
     },
     {
       "rank": 4,
-      "name": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "totalStars": "19.6k",
-      "dailyGrowth": "549",
-      "description": "一种代理技能，用于创建真实世界机器和复杂系统的详细、交互式等距插图。使用可选的 WebGL 着色器和 3D 效果生成精美的 SVG。"
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "totalStars": "3.2k",
+      "dailyGrowth": "410",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     },
     {
       "rank": 5,
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "totalStars": "8.3k",
-      "dailyGrowth": "449",
-      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+      "name": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "totalStars": "4.2k",
+      "dailyGrowth": "348",
+      "description": "适用于 Google TV、LG webOS 和 Samsung Tizen 的快速、无广告主屏幕。一键撤消。"
     },
     {
       "rank": 6,
       "name": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "totalStars": "4.8k",
-      "dailyGrowth": "426",
+      "totalStars": "5.2k",
+      "dailyGrowth": "335",
       "description": ""
     },
     {
       "rank": 7,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "15.2k",
-      "dailyGrowth": "347",
+      "totalStars": "15.5k",
+      "dailyGrowth": "282",
       "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
       "rank": 8,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "13k",
-      "dailyGrowth": "262",
+      "totalStars": "13.2k",
+      "dailyGrowth": "254",
       "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 9,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "19k",
-      "dailyGrowth": "225",
-      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "totalStars": "3.8k",
+      "dailyGrowth": "198",
+      "description": "Hermes Agent 的编码智能和技能包 ⚚ 安装一次，然后只需输入“dag-ulw”即可成为图形工程大师。"
     },
     {
       "rank": 10,
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "totalStars": "15.7k",
-      "dailyGrowth": "210",
-      "description": "用纯 Rust 开源、干净地重新实现了 Microsoft Word"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "totalStars": "19.2k",
+      "dailyGrowth": "193",
+      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Kimi K3.1 Pro 和 K3.1 Pro Highspeed",
-      "originalTitle": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 815
+      "title": "五款Qwen3.8-27B型号搭配《神鬼寓言5》使用GVS5H线束",
+      "originalTitle": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "score": 97
     },
     {
-      "title": "分布式 SQLite 十二年",
-      "originalTitle": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 101
+      "title": "我们应该对我们构建的软件更加雄心勃勃",
+      "originalTitle": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 293
     },
     {
-      "title": "Apple Music 404 未找到",
-      "originalTitle": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 684
+      "title": "Cerebras 部署万亿参数人工智能模型",
+      "originalTitle": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 75
     },
     {
-      "title": "纯函数式编程与 C 语言有多接近？",
-      "originalTitle": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 25
+      "title": "Goose 编程语言",
+      "originalTitle": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 318
     },
     {
-      "title": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方",
-      "originalTitle": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1326
+      "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+      "originalTitle": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 277
     },
     {
-      "title": "Dessa：仅针对语音进行训练的对话模型",
-      "originalTitle": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "score": 315
+      "title": "速度危机 1.1",
+      "originalTitle": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 112
     },
     {
-      "title": "今天，我们破解了我们打算破解的东西：iPhone",
-      "originalTitle": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 806
+      "title": "小程序和语言",
+      "originalTitle": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 71
     },
     {
-      "title": "CVE追踪器",
-      "originalTitle": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 138
+      "title": "彩虹中",
+      "originalTitle": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 16
     },
     {
-      "title": "将 uv 和 ty 结合在一起",
-      "originalTitle": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 82
+      "title": "我为硬件黑客构建了一个立体视觉板",
+      "originalTitle": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 57
     },
     {
-      "title": "建立了每个人都使用的地图编辑器的《雷神之锤》粉丝",
-      "originalTitle": "The Quake Fan who built the map editor everybody uses",
-      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "score": 51
+      "title": "Pragtical v3.14 基于 Lua 的文本编辑器添加了菜单、浮动视图和会话",
+      "originalTitle": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "score": 7
     }
   ],
-  "updateTime": "10/24/2026, 5:35:26 AM"
+  "updateTime": "10/25/2026, 5:50:26 AM"
 }
