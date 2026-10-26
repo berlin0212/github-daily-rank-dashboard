@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "五款Qwen3.8-27B型号搭配《神鬼寓言5》使用GVS5H线束",
-      "originalTitle": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "score": 97
+      "title": "Show HN：TitleArt – 让文本看起来像 1997 年",
+      "originalTitle": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 73
     },
     {
-      "title": "我们应该对我们构建的软件更加雄心勃勃",
-      "originalTitle": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 293
+      "title": "PaperPilot – 具有 WASM 和 MCP 的零云、纯 Rust PDF 引擎",
+      "originalTitle": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 49
     },
     {
-      "title": "Cerebras 部署万亿参数人工智能模型",
-      "originalTitle": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 75
+      "title": "NeXT Computer 办公室的幕后花絮",
+      "originalTitle": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 46
     },
     {
-      "title": "Goose 编程语言",
-      "originalTitle": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 318
+      "title": "多莉帕顿的想象力图书馆",
+      "originalTitle": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 483
     },
     {
-      "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
-      "originalTitle": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 277
+      "title": "Show HN：真正的模块化键盘",
+      "originalTitle": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "score": 61
     },
     {
-      "title": "速度危机 1.1",
-      "originalTitle": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "score": 112
+      "title": "当植物侵入你废弃的标签时，杂草丛生",
+      "originalTitle": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 217
     },
     {
-      "title": "小程序和语言",
-      "originalTitle": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 71
+      "title": "《科学美国人》的没落",
+      "originalTitle": "The Fall of Scientific American",
+      "url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+      "score": 29
     },
     {
-      "title": "彩虹中",
-      "originalTitle": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "score": 16
+      "title": "注意力不是你所需要的 (2025)",
+      "originalTitle": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 65
     },
     {
-      "title": "我为硬件黑客构建了一个立体视觉板",
-      "originalTitle": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 57
+      "title": "最终选票统计后卢拉赢得选举",
+      "originalTitle": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "score": 284
     },
     {
-      "title": "Pragtical v3.14 基于 Lua 的文本编辑器添加了菜单、浮动视图和会话",
-      "originalTitle": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "title": "学着做我 (1990) [pdf]",
+      "originalTitle": "Learning to Be Me (1990) [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
       "score": 7
     }
   ],
-  "updateTime": "10/25/2026, 5:50:26 AM"
+  "updateTime": "10/26/2026, 5:53:30 AM"
 }
