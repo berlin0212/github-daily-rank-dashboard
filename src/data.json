@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "6k",
-      "dailyGrowth": "1671",
+      "totalStars": "6.7k",
+      "dailyGrowth": "679",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "rank": 2,
       "name": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "totalStars": "3.7k",
-      "dailyGrowth": "1184",
+      "totalStars": "4.2k",
+      "dailyGrowth": "491",
       "description": "RTX 4090和实验性RTX 4070 Ti SUPER的GPU张量解锁源；本地生成的固件"
     },
     {
       "rank": 3,
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "totalStars": "4k",
-      "dailyGrowth": "825",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "totalStars": "16k",
+      "dailyGrowth": "464",
+      "description": ""
     },
     {
       "rank": 4,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "16.2k",
-      "dailyGrowth": "703",
+      "totalStars": "16.5k",
+      "dailyGrowth": "363",
       "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
       "rank": 5,
       "name": "JoasASantos/REA-Prompts",
       "url": "https://github.com/JoasASantos/REA-Prompts",
-      "totalStars": "2.7k",
-      "dailyGrowth": "605",
+      "totalStars": "3k",
+      "dailyGrowth": "293",
       "description": "REAP - 提示您使用 REA（逆向工程任何东西），充分利用它，克隆或分解任何程序"
     },
     {
       "rank": 6,
-      "name": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "totalStars": "4.8k",
-      "dailyGrowth": "601",
-      "description": "适用于 Google TV、LG webOS 和 Samsung Tizen 的快速、无广告主屏幕。一键撤消。"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "totalStars": "14k",
+      "dailyGrowth": "279",
+      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": 7,
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "totalStars": "9.4k",
-      "dailyGrowth": "583",
-      "description": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+      "name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "totalStars": "13.5k",
+      "dailyGrowth": "268",
+      "description": "[MLsys2026 最佳论文]：https://arxiv.org/abs/2506.08276。与 LEANN 一起，一切尽在不言中。在您的个人设备上运行快速、准确且 100% 私有的 RAG 应用程序时，可节省 97% 的存储空间。"
     },
     {
       "rank": 8,
       "name": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "totalStars": "5.7k",
-      "dailyGrowth": "560",
-      "description": "在 Apple Silicon Mac、iPhone 和 iPad 上本地播放您自己的《王国之泪》和《荒野之息》。不是模拟器：游戏的 ARM64 代码直接运行，NVN 在 Metal 上重建。带上你自己的游戏。"
+      "totalStars": "6k",
+      "dailyGrowth": "265",
+      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal.带上你自己的游戏。"
     },
     {
       "rank": 9,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "totalStars": "19.7k",
-      "dailyGrowth": "533",
-      "description": "AI 代理运行浏览器自动化速度最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "totalStars": "4.4k",
+      "dailyGrowth": "246",
+      "description": "我们正在从头开始重建和开源世界软件。"
     },
     {
       "rank": 10,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "13.7k",
-      "dailyGrowth": "511",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "totalStars": "4.3k",
+      "dailyGrowth": "243",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     }
   ],
   "hackerNews": [
     {
-      "title": "数学、计算机科学和物理学的三项新发现",
-      "originalTitle": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "score": 715
+      "title": "美国代码的 Git",
+      "originalTitle": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "score": 175
     },
     {
-      "title": "指数时间假说是错误的 [pdf]",
-      "originalTitle": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "score": 500
+      "title": "人工智能分析智能指数 v5.0",
+      "originalTitle": "Artificial Analysis Intelligence Index v5.0",
+      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+      "score": 26
     },
     {
-      "title": "现在有 5 个用于废除 DeepSeek 的推理提供程序",
-      "originalTitle": "There are now 5 inference providers for abliterated DeepSeek",
-      "url": "https://allmodels.io/llm/abliterated",
-      "score": 28
+      "title": "精灵4",
+      "originalTitle": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "score": 826
     },
     {
-      "title": "Sebastian Raschka 关于构建推理模型的从头开始视频课程",
-      "originalTitle": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "score": 644
+      "title": "幽灵1.4",
+      "originalTitle": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "score": 908
     },
     {
-      "title": "仍在 Windows 11 上运行的最古老的 GUI 应用程序",
-      "originalTitle": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "score": 370
+      "title": "运动中的墨滴荣获尼康小世界大赛最高奖",
+      "originalTitle": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "score": 166
     },
     {
-      "title": "64 位 Windows 上的 16 位 Windows（Windows 1.x、2.x、3.0、3.1 等）",
-      "originalTitle": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "url": "https://github.com/otya128/winevdm",
-      "score": 62
+      "title": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库",
+      "originalTitle": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 291
     },
     {
-      "title": "类型 服务器协议",
-      "originalTitle": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "score": 221
+      "title": "Tailscale SSH：调查和修复更新",
+      "originalTitle": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 256
     },
     {
-      "title": "GLM-5.3 Workers AI 模型中的交叉请求 KV 缓存暴露（155 个响应）",
-      "originalTitle": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "score": 112
+      "title": "与克劳德一起加速药物开发的早期进展",
+      "originalTitle": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 197
     },
     {
-      "title": "APC 表示要有光，制定标准可加快光子制造速度",
-      "originalTitle": "APC says let there be light, with standards to speed up photonics manufacturing",
-      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "score": 28
+      "title": "Apple Network Server v1.0 的 MacOS 扩展包",
+      "originalTitle": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "score": 12
     },
     {
-      "title": "CSS-Tricks 有了新主人",
-      "originalTitle": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "score": 423
+      "title": "一封写给超维度要塞的情书",
+      "originalTitle": "A Love Letter to the Super Dimension Fortress",
+      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "score": 41
     }
   ],
-  "updateTime": "10/27/2026, 6:06:01 AM"
+  "updateTime": "10/28/2026, 6:44:13 AM"
 }
