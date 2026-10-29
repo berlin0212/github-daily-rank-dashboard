@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "6.7k",
-      "dailyGrowth": "679",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-    },
-    {
-      "rank": 2,
-      "name": "JustAResearcher/gpu-unlock-ada",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "totalStars": "4.2k",
-      "dailyGrowth": "491",
-      "description": "RTX 4090和实验性RTX 4070 Ti SUPER的GPU张量解锁源；本地生成的固件"
-    },
-    {
-      "rank": 3,
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "totalStars": "16k",
-      "dailyGrowth": "464",
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "totalStars": "3.6k",
+      "dailyGrowth": "1490",
       "description": ""
     },
     {
+      "rank": 2,
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "totalStars": "4.2k",
+      "dailyGrowth": "1059",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+    },
+    {
+      "rank": 3,
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "totalStars": "7.4k",
+      "dailyGrowth": "668",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+    },
+    {
       "rank": 4,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "16.5k",
-      "dailyGrowth": "363",
-      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "totalStars": "3k",
+      "dailyGrowth": "584",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset."
     },
     {
       "rank": 5,
-      "name": "JoasASantos/REA-Prompts",
-      "url": "https://github.com/JoasASantos/REA-Prompts",
-      "totalStars": "3k",
-      "dailyGrowth": "293",
-      "description": "REAP - 提示您使用 REA（逆向工程任何东西），充分利用它，克隆或分解任何程序"
-    },
-    {
-      "rank": 6,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "totalStars": "14k",
-      "dailyGrowth": "279",
-      "description": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 7,
-      "name": "yichuan-w/LEANN",
-      "url": "https://github.com/yichuan-w/LEANN",
-      "totalStars": "13.5k",
-      "dailyGrowth": "268",
-      "description": "[MLsys2026 最佳论文]：https://arxiv.org/abs/2506.08276。与 LEANN 一起，一切尽在不言中。在您的个人设备上运行快速、准确且 100% 私有的 RAG 应用程序时，可节省 97% 的存储空间。"
-    },
-    {
-      "rank": 8,
-      "name": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "totalStars": "6k",
-      "dailyGrowth": "265",
-      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal.带上你自己的游戏。"
-    },
-    {
-      "rank": 9,
       "name": "HeyPuter/everything",
       "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "4.4k",
-      "dailyGrowth": "246",
+      "totalStars": "4.9k",
+      "dailyGrowth": "524",
       "description": "我们正在从头开始重建和开源世界软件。"
     },
     {
-      "rank": 10,
+      "rank": 6,
       "name": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "totalStars": "4.3k",
-      "dailyGrowth": "243",
+      "totalStars": "4.8k",
+      "dailyGrowth": "519",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+    },
+    {
+      "rank": 7,
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "totalStars": "16.5k",
+      "dailyGrowth": "517",
+      "description": ""
+    },
+    {
+      "rank": 8,
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "17k",
+      "dailyGrowth": "453",
+      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
+    },
+    {
+      "rank": 9,
+      "name": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "totalStars": "17.1k",
+      "dailyGrowth": "438",
+      "description": "AI 代理的内存层。使用无服务器、单文件内存层替换复杂的 RAG 管道。为您的代理提供即时检索和长期记忆。"
+    },
+    {
+      "rank": 10,
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "totalStars": "4.6k",
+      "dailyGrowth": "279",
+      "description": "⚚ 使用 Hermes Agent 进行编码，只需输入“dag-ulw”"
     }
   ],
   "hackerNews": [
     {
-      "title": "美国代码的 Git",
-      "originalTitle": "Git for the US Code",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "score": 175
+      "title": "Qwenputer：Qwen3.5 内运行的确定性 RISC-V CPU",
+      "originalTitle": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "score": 313
     },
     {
-      "title": "人工智能分析智能指数 v5.0",
-      "originalTitle": "Artificial Analysis Intelligence Index v5.0",
-      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
-      "score": 26
+      "title": "为什么这个指纹脚本会创建生物武器？",
+      "originalTitle": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 1048
     },
     {
-      "title": "精灵4",
-      "originalTitle": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 826
+      "title": "Claude Code 定期将每个后台特工的成绩单发送给其模型",
+      "originalTitle": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "score": 243
     },
     {
-      "title": "幽灵1.4",
-      "originalTitle": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 908
+      "title": "GitLab 安全事件：尝试利用 CVE-2026-97229",
+      "originalTitle": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "score": 143
     },
     {
-      "title": "运动中的墨滴荣获尼康小世界大赛最高奖",
-      "originalTitle": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "score": 166
+      "title": "一种更快的新算法来计算 64 位有符号除法",
+      "originalTitle": "A new faster algorithm to compute 64-bit signed floor division",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "score": 18
     },
     {
-      "title": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库",
-      "originalTitle": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
+      "title": "健康更新",
+      "originalTitle": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 189
+    },
+    {
+      "title": "StackOverflow 现在每月收到的问题少于 1000 个",
+      "originalTitle": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
       "score": 291
     },
     {
-      "title": "Tailscale SSH：调查和修复更新",
-      "originalTitle": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 256
+      "title": "数控石雕",
+      "originalTitle": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 450
     },
     {
-      "title": "与克劳德一起加速药物开发的早期进展",
-      "originalTitle": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 197
+      "title": "OpenAI 的代理通过 CPU 缓存相互通信",
+      "originalTitle": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "score": 59
     },
     {
-      "title": "Apple Network Server v1.0 的 MacOS 扩展包",
-      "originalTitle": "MacOS Extensions Pack for the Apple Network Server v1.0",
-      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-      "score": 12
-    },
-    {
-      "title": "一封写给超维度要塞的情书",
-      "originalTitle": "A Love Letter to the Super Dimension Fortress",
-      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-      "score": 41
+      "title": "Gemini 4 碳纤维",
+      "originalTitle": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 879
     }
   ],
-  "updateTime": "10/28/2026, 6:44:13 AM"
+  "updateTime": "10/29/2026, 6:51:46 AM"
 }
