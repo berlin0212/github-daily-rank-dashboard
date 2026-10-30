@@ -4,144 +4,144 @@
       "rank": 1,
       "name": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "totalStars": "3.6k",
-      "dailyGrowth": "1490",
+      "totalStars": "4.6k",
+      "dailyGrowth": "909",
       "description": ""
     },
     {
       "rank": 2,
-      "name": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "totalStars": "4.2k",
-      "dailyGrowth": "1059",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "totalStars": "3.5k",
+      "dailyGrowth": "776",
+      "description": "免费、开源、离线检查已知雇佣兵间谍软件的痕迹。适用于 Windows、macOS 和 Linux、Android 手机和 iPhone 备份。"
     },
     {
       "rank": 3,
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "7.4k",
-      "dailyGrowth": "668",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-    },
-    {
-      "rank": 4,
-      "name": "designfuchen/word-atlas",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "totalStars": "3k",
-      "dailyGrowth": "584",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset."
-    },
-    {
-      "rank": 5,
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "4.9k",
-      "dailyGrowth": "524",
-      "description": "我们正在从头开始重建和开源世界软件。"
-    },
-    {
-      "rank": 6,
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "totalStars": "4.8k",
-      "dailyGrowth": "519",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
-    },
-    {
-      "rank": 7,
       "name": "openai/math",
       "url": "https://github.com/openai/math",
-      "totalStars": "16.5k",
-      "dailyGrowth": "517",
+      "totalStars": "17.1k",
+      "dailyGrowth": "543",
       "description": ""
     },
     {
+      "rank": 4,
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "totalStars": "4.7k",
+      "dailyGrowth": "457",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+    },
+    {
+      "rank": 5,
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "totalStars": "5.2k",
+      "dailyGrowth": "400",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+    },
+    {
+      "rank": 6,
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "totalStars": "8k",
+      "dailyGrowth": "390",
+      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+    },
+    {
+      "rank": 7,
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "totalStars": "7.7k",
+      "dailyGrowth": "365",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+    },
+    {
       "rank": 8,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "17k",
-      "dailyGrowth": "453",
-      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "totalStars": "5.6k",
+      "dailyGrowth": "309",
+      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
     },
     {
       "rank": 9,
-      "name": "memvid/memvid",
-      "url": "https://github.com/memvid/memvid",
-      "totalStars": "17.1k",
-      "dailyGrowth": "438",
-      "description": "AI 代理的内存层。使用无服务器、单文件内存层替换复杂的 RAG 管道。为您的代理提供即时检索和长期记忆。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "17.3k",
+      "dailyGrowth": "290",
+      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
       "rank": 10,
-      "name": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "totalStars": "4.6k",
-      "dailyGrowth": "279",
-      "description": "⚚ 使用 Hermes Agent 进行编码，只需输入“dag-ulw”"
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "totalStars": "5.2k",
+      "dailyGrowth": "288",
+      "description": "我们正在从头开始重建和开源世界软件。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Qwenputer：Qwen3.5 内运行的确定性 RISC-V CPU",
-      "originalTitle": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "score": 313
+      "title": "Binance-hacker-1029 – Binance 被盗 5.6B 美元",
+      "originalTitle": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 1113
     },
     {
-      "title": "为什么这个指纹脚本会创建生物武器？",
-      "originalTitle": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 1048
+      "title": "我们正在发布 Mistral Large 4 的重量",
+      "originalTitle": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1345
     },
     {
-      "title": "Claude Code 定期将每个后台特工的成绩单发送给其模型",
-      "originalTitle": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 243
+      "title": "Cuis：现代 Smalltalk-80",
+      "originalTitle": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 72
     },
     {
-      "title": "GitLab 安全事件：尝试利用 CVE-2026-97229",
-      "originalTitle": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 143
+      "title": "Astroterm：终端的天文馆",
+      "originalTitle": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "score": 74
     },
     {
-      "title": "一种更快的新算法来计算 64 位有符号除法",
-      "originalTitle": "A new faster algorithm to compute 64-bit signed floor division",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "score": 18
+      "title": "我台球打得很差，结果我进入了双曲平面 [视频]",
+      "originalTitle": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "score": 73
     },
     {
-      "title": "健康更新",
-      "originalTitle": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "score": 189
+      "title": "Herdr 发布了原生应用",
+      "originalTitle": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "score": 129
     },
     {
-      "title": "StackOverflow 现在每月收到的问题少于 1000 个",
-      "originalTitle": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 291
+      "title": "我们在 Minecraft 和 Mindustry 中运行 AI 代理群",
+      "originalTitle": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 247
     },
     {
-      "title": "数控石雕",
-      "originalTitle": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 450
+      "title": "在 Raspberry Pi Pico 2 W 上运行游戏的微型世界模型",
+      "originalTitle": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 186
     },
     {
-      "title": "OpenAI 的代理通过 CPU 缓存相互通信",
-      "originalTitle": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 59
+      "title": "法学硕士语音",
+      "originalTitle": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "score": 428
     },
     {
-      "title": "Gemini 4 碳纤维",
-      "originalTitle": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 879
+      "title": "H.264 是魔法 (2016)",
+      "originalTitle": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 385
     }
   ],
-  "updateTime": "10/29/2026, 6:51:46 AM"
+  "updateTime": "10/30/2026, 6:55:29 AM"
 }
