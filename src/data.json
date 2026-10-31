@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "totalStars": "4.6k",
-      "dailyGrowth": "909",
-      "description": ""
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "totalStars": "3.9k",
+      "dailyGrowth": "814",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
     },
     {
       "rank": 2,
-      "name": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "totalStars": "3.5k",
-      "dailyGrowth": "776",
-      "description": "免费、开源、离线检查已知雇佣兵间谍软件的痕迹。适用于 Windows、macOS 和 Linux、Android 手机和 iPhone 备份。"
-    },
-    {
-      "rank": 3,
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "totalStars": "17.1k",
-      "dailyGrowth": "543",
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "totalStars": "5.3k",
+      "dailyGrowth": "765",
       "description": ""
     },
     {
+      "rank": 3,
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "totalStars": "5.9k",
+      "dailyGrowth": "729",
+      "description": "我们正在从头开始重建和开源世界软件。"
+    },
+    {
       "rank": 4,
-      "name": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "totalStars": "4.7k",
-      "dailyGrowth": "457",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
-    },
-    {
-      "rank": 5,
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "totalStars": "5.2k",
-      "dailyGrowth": "400",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
-    },
-    {
-      "rank": 6,
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
-      "totalStars": "8k",
-      "dailyGrowth": "390",
+      "totalStars": "8.7k",
+      "dailyGrowth": "656",
       "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
     },
     {
-      "rank": 7,
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "7.7k",
-      "dailyGrowth": "365",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-    },
-    {
-      "rank": 8,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "totalStars": "5.6k",
-      "dailyGrowth": "309",
-      "description": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "17.3k",
-      "dailyGrowth": "290",
+      "totalStars": "17.7k",
+      "dailyGrowth": "380",
       "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
+      "rank": 6,
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "totalStars": "3.8k",
+      "dailyGrowth": "352",
+      "description": "免费、开源、离线检查已知雇佣兵间谍软件的痕迹。适用于 Windows、macOS 和 Linux、Android 手机和 iPhone 备份。"
+    },
+    {
+      "rank": 7,
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "totalStars": "5k",
+      "dailyGrowth": "335",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+    },
+    {
+      "rank": 8,
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "totalStars": "8k",
+      "dailyGrowth": "311",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+    },
+    {
+      "rank": 9,
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "totalStars": "5.5k",
+      "dailyGrowth": "306",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+    },
+    {
       "rank": 10,
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "5.2k",
-      "dailyGrowth": "288",
-      "description": "我们正在从头开始重建和开源世界软件。"
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "totalStars": "4.9k",
+      "dailyGrowth": "187",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     }
   ],
   "hackerNews": [
     {
-      "title": "Binance-hacker-1029 – Binance 被盗 5.6B 美元",
-      "originalTitle": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "score": 1113
+      "title": "Show HN：为了纪念帕特里克·斯图尔特爵士，享受 TNG 剧集猜谜游戏",
+      "originalTitle": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "score": 165
     },
     {
-      "title": "我们正在发布 Mistral Large 4 的重量",
-      "originalTitle": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1345
+      "title": "我最喜欢的 PowerMac 是 Nintendo Wii",
+      "originalTitle": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "score": 281
     },
     {
-      "title": "Cuis：现代 Smalltalk-80",
-      "originalTitle": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
-      "score": 72
+      "title": "告诉 HN：Scribd 被破坏",
+      "originalTitle": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "score": 133
     },
     {
-      "title": "Astroterm：终端的天文馆",
-      "originalTitle": "Astroterm: A Planetarium for Your Terminal",
-      "url": "https://github.com/da-luce/astroterm",
-      "score": 74
+      "title": "Cloudflare Turnstile 解算器库（无需无头浏览器）",
+      "originalTitle": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "score": 156
     },
     {
-      "title": "我台球打得很差，结果我进入了双曲平面 [视频]",
-      "originalTitle": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-      "score": 73
+      "title": "北翼突破",
+      "originalTitle": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "score": 409
     },
     {
-      "title": "Herdr 发布了原生应用",
-      "originalTitle": "Herdr has released native app",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "score": 129
+      "title": "价值 6.3B 美元的 Binance 黑客攻击仅用了 20 分钟就完成了",
+      "originalTitle": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "score": 404
     },
     {
-      "title": "我们在 Minecraft 和 Mindustry 中运行 AI 代理群",
-      "originalTitle": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 247
+      "title": "心源性猝死前可穿戴设备捕获的生理学纵向变化",
+      "originalTitle": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "score": 19
     },
     {
-      "title": "在 Raspberry Pi Pico 2 W 上运行游戏的微型世界模型",
-      "originalTitle": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "score": 186
+      "title": "破坏开放网络并不能阻止坏机器人",
+      "originalTitle": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "score": 235
     },
     {
-      "title": "法学硕士语音",
-      "originalTitle": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 428
+      "title": "Show HN：一台可用的任天堂，重量约为 1GB Qwen",
+      "originalTitle": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "score": 232
     },
     {
-      "title": "H.264 是魔法 (2016)",
-      "originalTitle": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "score": 385
+      "title": "最古老的冰消失了，石器时代从中出现",
+      "originalTitle": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "score": 125
     }
   ],
-  "updateTime": "10/30/2026, 6:55:29 AM"
+  "updateTime": "10/31/2026, 6:49:37 AM"
 }
