@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Show HN：为了纪念帕特里克·斯图尔特爵士，享受 TNG 剧集猜谜游戏",
-      "originalTitle": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "score": 165
+      "title": "HackerTube：根据 HN 推荐的视频构建的 YouTube",
+      "originalTitle": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "score": 1096
     },
     {
-      "title": "我最喜欢的 PowerMac 是 Nintendo Wii",
-      "originalTitle": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "score": 281
+      "title": "一位意大利农民在他的阁楼里发现了一些不知名的种子并把它们种下了",
+      "originalTitle": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 320
     },
     {
-      "title": "告诉 HN：Scribd 被破坏",
-      "originalTitle": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
-      "score": 133
+      "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
+      "originalTitle": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "score": 85
     },
     {
-      "title": "Cloudflare Turnstile 解算器库（无需无头浏览器）",
-      "originalTitle": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "score": 156
+      "title": "TCP 释放后使用：CVE-2026-98432 / CVSS 9.8",
+      "originalTitle": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 464
     },
     {
-      "title": "北翼突破",
-      "originalTitle": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "score": 409
+      "title": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了《神鬼寓言 5》",
+      "originalTitle": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 184
     },
     {
-      "title": "价值 6.3B 美元的 Binance 黑客攻击仅用了 20 分钟就完成了",
-      "originalTitle": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "score": 404
-    },
-    {
-      "title": "心源性猝死前可穿戴设备捕获的生理学纵向变化",
-      "originalTitle": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "title": "与我的兄弟一起运营 SaaS 20 年",
+      "originalTitle": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
       "score": 19
     },
     {
-      "title": "破坏开放网络并不能阻止坏机器人",
-      "originalTitle": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "score": 235
+      "title": "通过拼写 RAM 中的无线电信号来泄露气隙计算机的秘密 (2024)",
+      "originalTitle": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "score": 60
     },
     {
-      "title": "Show HN：一台可用的任天堂，重量约为 1GB Qwen",
-      "originalTitle": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "score": 232
+      "title": "阿尔托兹项目",
+      "originalTitle": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "score": 92
     },
     {
-      "title": "最古老的冰消失了，石器时代从中出现",
-      "originalTitle": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "score": 125
+      "title": "电缆熔炼插座中的锌蠕变导致阿雷西博望远镜于 2020 年瘫痪",
+      "originalTitle": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "score": 84
+    },
+    {
+      "title": "导波流体动力学（宏观流体动力学系统中的量子现象）",
+      "originalTitle": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "score": 17
     }
   ],
-  "updateTime": "10/31/2026, 6:49:37 AM"
+  "updateTime": "11/1/2026, 7:15:25 AM"
 }
