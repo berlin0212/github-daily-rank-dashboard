@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "HackerTube：根据 HN 推荐的视频构建的 YouTube",
-      "originalTitle": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 1096
+      "title": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章",
+      "originalTitle": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "score": 43
     },
     {
-      "title": "一位意大利农民在他的阁楼里发现了一些不知名的种子并把它们种下了",
-      "originalTitle": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 320
+      "title": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍",
+      "originalTitle": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "score": 1258
     },
     {
-      "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
-      "originalTitle": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "title": "Postgres 19 迟到了，因为现在发现了更多错误",
+      "originalTitle": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 300
+    },
+    {
+      "title": "F/OSS 漫画 #13：BSD Unix，第 3 部分 – BSD Unix 的开始",
+      "originalTitle": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
       "score": 85
     },
     {
-      "title": "TCP 释放后使用：CVE-2026-98432 / CVSS 9.8",
-      "originalTitle": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 464
+      "title": "HackerTube：根据 HN 推荐的视频构建的 YouTube",
+      "originalTitle": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "score": 2475
     },
     {
-      "title": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了《神鬼寓言 5》",
-      "originalTitle": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 184
+      "title": "询问 HN：为了保护隐私，您推荐哪款电视？",
+      "originalTitle": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "score": 292
     },
     {
-      "title": "与我的兄弟一起运营 SaaS 20 年",
-      "originalTitle": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "score": 19
-    },
-    {
-      "title": "通过拼写 RAM 中的无线电信号来泄露气隙计算机的秘密 (2024)",
-      "originalTitle": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 60
-    },
-    {
-      "title": "阿尔托兹项目",
-      "originalTitle": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
+      "title": "电网60秒波动之谜被解开",
+      "originalTitle": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
       "score": 92
     },
     {
-      "title": "电缆熔炼插座中的锌蠕变导致阿雷西博望远镜于 2020 年瘫痪",
-      "originalTitle": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "score": 84
+      "title": "Trigger.dev 客户环境变量暴露",
+      "originalTitle": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "score": 66
     },
     {
-      "title": "导波流体动力学（宏观流体动力学系统中的量子现象）",
-      "originalTitle": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "score": 17
+      "title": "骨骼可能会释放减缓衰老和延长寿命的蛋白质",
+      "originalTitle": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "score": 33
+    },
+    {
+      "title": "Nibnib：具有极高解压速度的图像压缩",
+      "originalTitle": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 130
     }
   ],
-  "updateTime": "11/1/2026, 7:15:25 AM"
+  "updateTime": "11/2/2026, 7:30:21 AM"
 }
