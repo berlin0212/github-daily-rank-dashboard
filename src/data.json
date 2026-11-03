@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "totalStars": "3.9k",
-      "dailyGrowth": "814",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "totalStars": "12.6k",
+      "dailyGrowth": "10535",
+      "description": "迈向更加自主的代理系统"
     },
     {
       "rank": 2,
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "totalStars": "5.3k",
-      "dailyGrowth": "765",
-      "description": ""
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "totalStars": "5.8k",
+      "dailyGrowth": "3350",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
       "rank": 3,
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "totalStars": "5.9k",
-      "dailyGrowth": "729",
-      "description": "我们正在从头开始重建和开源世界软件。"
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "totalStars": "6k",
+      "dailyGrowth": "2609",
+      "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
     },
     {
       "rank": 4,
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "totalStars": "8.7k",
-      "dailyGrowth": "656",
-      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "totalStars": "5.2k",
+      "dailyGrowth": "2527",
+      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
     },
     {
       "rank": 5,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "17.7k",
-      "dailyGrowth": "380",
-      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "totalStars": "5.5k",
+      "dailyGrowth": "1553",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
     },
     {
       "rank": 6,
-      "name": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "totalStars": "3.8k",
-      "dailyGrowth": "352",
-      "description": "免费、开源、离线检查已知雇佣兵间谍软件的痕迹。适用于 Windows、macOS 和 Linux、Android 手机和 iPhone 备份。"
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "totalStars": "3.9k",
+      "dailyGrowth": "1325",
+      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
     },
     {
       "rank": 7,
-      "name": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "totalStars": "5k",
-      "dailyGrowth": "335",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "totalStars": "9.9k",
+      "dailyGrowth": "1220",
+      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
     },
     {
       "rank": 8,
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "8k",
-      "dailyGrowth": "311",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "totalStars": "6.5k",
+      "dailyGrowth": "1198",
+      "description": ""
     },
     {
       "rank": 9,
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "totalStars": "5.5k",
-      "dailyGrowth": "306",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "totalStars": "18.8k",
+      "dailyGrowth": "1184",
+      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
     },
     {
       "rank": 10,
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "totalStars": "4.9k",
-      "dailyGrowth": "187",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+      "name": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "totalStars": "10.3k",
+      "dailyGrowth": "1000",
+      "description": "一系列代理技能可帮助您构建出色的界面。"
     }
   ],
   "hackerNews": [
     {
-      "title": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章",
-      "originalTitle": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
-      "score": 43
+      "title": "Astra可以读写权重来改进Qwen",
+      "originalTitle": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 2453
     },
     {
-      "title": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍",
-      "originalTitle": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "score": 1258
+      "title": "uBlock Origin 过滤器可阻止 TechCrunch 中的自动播放视频",
+      "originalTitle": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "score": 10
     },
     {
-      "title": "Postgres 19 迟到了，因为现在发现了更多错误",
-      "originalTitle": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 300
+      "title": "DiscImageStudio：将可见的艺术作品刻录到 CD、DVD 和蓝光光盘上",
+      "originalTitle": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "score": 153
     },
     {
-      "title": "F/OSS 漫画 #13：BSD Unix，第 3 部分 – BSD Unix 的开始",
-      "originalTitle": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "score": 85
+      "title": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本",
+      "originalTitle": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "score": 198
     },
     {
-      "title": "HackerTube：根据 HN 推荐的视频构建的 YouTube",
-      "originalTitle": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 2475
+      "title": "欧洲 RISC-V 工业计算计划",
+      "originalTitle": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "score": 57
     },
     {
-      "title": "询问 HN：为了保护隐私，您推荐哪款电视？",
-      "originalTitle": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "score": 292
+      "title": "Show HN: Subvocal – 与电脑交谈，不发出噪音",
+      "originalTitle": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 659
     },
     {
-      "title": "电网60秒波动之谜被解开",
-      "originalTitle": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "score": 92
+      "title": "抵制认知投降",
+      "originalTitle": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "score": 121
     },
     {
-      "title": "Trigger.dev 客户环境变量暴露",
-      "originalTitle": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "score": 66
+      "title": "扩展 Git 和 OpenAI",
+      "originalTitle": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 185
     },
     {
-      "title": "骨骼可能会释放减缓衰老和延长寿命的蛋白质",
-      "originalTitle": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "score": 33
+      "title": "美国男孩的名字变成了女孩的名字，反之亦然",
+      "originalTitle": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 369
     },
     {
-      "title": "Nibnib：具有极高解压速度的图像压缩",
-      "originalTitle": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "score": 130
+      "title": "如果您喜欢某个网站，请备份它",
+      "originalTitle": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "score": 511
     }
   ],
-  "updateTime": "11/2/2026, 7:30:21 AM"
+  "updateTime": "11/3/2026, 7:44:41 AM"
 }
