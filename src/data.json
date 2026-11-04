@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "totalStars": "12.6k",
-      "dailyGrowth": "10535",
-      "description": "迈向更加自主的代理系统"
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "totalStars": "7.7k",
+      "dailyGrowth": "3836",
+      "description": "制作任何东西：了解任何软件的工作原理，并制作自己的软件。"
     },
     {
       "rank": 2,
-      "name": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "totalStars": "5.8k",
-      "dailyGrowth": "3350",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "totalStars": "16.4k",
+      "dailyGrowth": "3751",
+      "description": "迈向更加自主的代理系统"
     },
     {
       "rank": 3,
-      "name": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "totalStars": "6k",
-      "dailyGrowth": "2609",
-      "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "totalStars": "7.3k",
+      "dailyGrowth": "1565",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
       "rank": 4,
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "totalStars": "5.2k",
-      "dailyGrowth": "2527",
-      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "totalStars": "7.3k",
+      "dailyGrowth": "1336",
+      "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
     },
     {
       "rank": 5,
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "totalStars": "5.5k",
-      "dailyGrowth": "1553",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "totalStars": "6k",
+      "dailyGrowth": "812",
+      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
     },
     {
       "rank": 6,
-      "name": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "totalStars": "3.9k",
-      "dailyGrowth": "1325",
-      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "totalStars": "4.1k",
+      "dailyGrowth": "638",
+      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
     },
     {
       "rank": 7,
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "totalStars": "9.9k",
-      "dailyGrowth": "1220",
-      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "totalStars": "4.4k",
+      "dailyGrowth": "567",
+      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
     },
     {
       "rank": 8,
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "totalStars": "6.5k",
-      "dailyGrowth": "1198",
-      "description": ""
+      "name": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "totalStars": "2.9k",
+      "dailyGrowth": "491",
+      "description": "非常实验性的 Nintendo Switch 2 模拟器"
     },
     {
       "rank": 9,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "totalStars": "18.8k",
-      "dailyGrowth": "1184",
-      "description": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "totalStars": "9.8k",
+      "dailyGrowth": "453",
+      "description": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。"
     },
     {
       "rank": 10,
-      "name": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills",
-      "totalStars": "10.3k",
-      "dailyGrowth": "1000",
-      "description": "一系列代理技能可帮助您构建出色的界面。"
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "totalStars": "10.4k",
+      "dailyGrowth": "450",
+      "description": "Worktrunk 是一个用于 Git 工作树管理的 CLI，专为并行 AI 代理工作流程而设计"
     }
   ],
   "hackerNews": [
     {
-      "title": "Astra可以读写权重来改进Qwen",
-      "originalTitle": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2453
+      "title": "果冻片",
+      "originalTitle": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "score": 134
     },
     {
-      "title": "uBlock Origin 过滤器可阻止 TechCrunch 中的自动播放视频",
-      "originalTitle": "uBlock Origin filter to block autoplay videos in TechCrunch",
-      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-      "score": 10
+      "title": "C++26 未批准",
+      "originalTitle": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 239
     },
     {
-      "title": "DiscImageStudio：将可见的艺术作品刻录到 CD、DVD 和蓝光光盘上",
-      "originalTitle": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "score": 153
+      "title": "年轻患者结直肠癌的独特细胞和遗传差异",
+      "originalTitle": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "score": 58
     },
     {
-      "title": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本",
-      "originalTitle": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "score": 198
+      "title": "越狱我的汽车导航系统只是为了改变时间",
+      "originalTitle": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 742
     },
     {
-      "title": "欧洲 RISC-V 工业计算计划",
-      "originalTitle": "European RISC-V Industrial Computing Initiative",
-      "url": "https://erici.eu",
-      "score": 57
+      "title": "PostgreSQL 的内部结构",
+      "originalTitle": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 236
     },
     {
-      "title": "Show HN: Subvocal – 与电脑交谈，不发出噪音",
-      "originalTitle": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "score": 659
+      "title": "Stringman，一款价值 800 美元的开源房间规模抓取机器人",
+      "originalTitle": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 529
     },
     {
-      "title": "抵制认知投降",
-      "originalTitle": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
-      "score": 121
+      "title": "火星上的巨型峡谷仍然处于构造活跃状态",
+      "originalTitle": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "score": 67
     },
     {
-      "title": "扩展 Git 和 OpenAI",
-      "originalTitle": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "score": 185
+      "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑法学硕士怀疑的谎言",
+      "originalTitle": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 31
     },
     {
-      "title": "美国男孩的名字变成了女孩的名字，反之亦然",
-      "originalTitle": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 369
+      "title": "显示 HN：HackerTV – HN 最受推荐的 Youtube 视频作为 24/7 电视频道",
+      "originalTitle": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 284
     },
     {
-      "title": "如果您喜欢某个网站，请备份它",
-      "originalTitle": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 511
+      "title": "人工智能推动归档需求，富士胶片将磁带产量提高 5 倍",
+      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 444
     }
   ],
-  "updateTime": "11/3/2026, 7:44:41 AM"
+  "updateTime": "11/4/2026, 7:22:50 AM"
 }
