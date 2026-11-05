@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "果冻片",
-      "originalTitle": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 134
+      "title": "白宫网络检测到住宅代理",
+      "originalTitle": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 950
     },
     {
-      "title": "C++26 未批准",
-      "originalTitle": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "score": 239
+      "title": "旅鼠 CSS 动画",
+      "originalTitle": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "score": 93
     },
     {
-      "title": "年轻患者结直肠癌的独特细胞和遗传差异",
-      "originalTitle": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "score": 58
+      "title": "图片2.6",
+      "originalTitle": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 246
     },
     {
-      "title": "越狱我的汽车导航系统只是为了改变时间",
-      "originalTitle": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 742
+      "title": "减少一千条通往根的路径",
+      "originalTitle": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 289
     },
     {
-      "title": "PostgreSQL 的内部结构",
-      "originalTitle": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 236
+      "title": "Altera 发布 Agilex 2X，完整的 FPGA 和 SoC 产品组合",
+      "originalTitle": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "score": 18
     },
     {
-      "title": "Stringman，一款价值 800 美元的开源房间规模抓取机器人",
-      "originalTitle": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 529
+      "title": "Kimi K3.1 Pro型号重量已出",
+      "originalTitle": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 495
     },
     {
-      "title": "火星上的巨型峡谷仍然处于构造活跃状态",
-      "originalTitle": "Giant canyon on Mars is still tectonically active",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "score": 67
+      "title": "Ripple-65B 预览：美国开放权重 SOTA 代理编码",
+      "originalTitle": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 280
     },
     {
-      "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑法学硕士怀疑的谎言",
-      "originalTitle": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "score": 31
+      "title": "使用 Three.js 传播液体",
+      "originalTitle": "Spreading Liquid with Three.js",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "score": 59
     },
     {
-      "title": "显示 HN：HackerTV – HN 最受推荐的 Youtube 视频作为 24/7 电视频道",
-      "originalTitle": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "score": 284
+      "title": "昆虫不会聚集在 LED 灯处",
+      "originalTitle": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 231
     },
     {
-      "title": "人工智能推动归档需求，富士胶片将磁带产量提高 5 倍",
-      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 444
+      "title": "mbed TLS 的未来维护",
+      "originalTitle": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "score": 18
     }
   ],
-  "updateTime": "11/4/2026, 7:22:50 AM"
+  "updateTime": "11/5/2026, 7:48:54 AM"
 }
