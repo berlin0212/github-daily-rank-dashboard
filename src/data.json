@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "白宫网络检测到住宅代理",
-      "originalTitle": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "score": 950
+      "title": "克劳德·代码将您的电子邮件地址发送到网站",
+      "originalTitle": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 961
     },
     {
-      "title": "旅鼠 CSS 动画",
-      "originalTitle": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings/",
-      "score": 93
+      "title": "肖尔",
+      "originalTitle": "sshole",
+      "url": "https://sshhole.com",
+      "score": 2599
     },
     {
-      "title": "图片2.6",
-      "originalTitle": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "score": 246
+      "title": "MS Paint 远程代码执行漏洞",
+      "originalTitle": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 484
     },
     {
-      "title": "减少一千条通往根的路径",
-      "originalTitle": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "score": 289
+      "title": "Pwn学院",
+      "originalTitle": "Pwn.college",
+      "url": "https://pwn.college/",
+      "score": 116
     },
     {
-      "title": "Altera 发布 Agilex 2X，完整的 FPGA 和 SoC 产品组合",
-      "originalTitle": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
-      "score": 18
+      "title": "Nvidia Kubernetes 引擎 (NVKE)",
+      "originalTitle": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "score": 65
     },
     {
-      "title": "Kimi K3.1 Pro型号重量已出",
-      "originalTitle": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "score": 495
+      "title": "我很难相信人工智能研发是巧妙的",
+      "originalTitle": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "score": 43
     },
     {
-      "title": "Ripple-65B 预览：美国开放权重 SOTA 代理编码",
-      "originalTitle": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "score": 280
+      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+      "originalTitle": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "score": 44
     },
     {
-      "title": "使用 Three.js 传播液体",
-      "originalTitle": "Spreading Liquid with Three.js",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "score": 59
+      "title": "Inkling 2 小号",
+      "originalTitle": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "score": 176
     },
     {
-      "title": "昆虫不会聚集在 LED 灯处",
-      "originalTitle": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "score": 231
+      "title": "黑金塔重生",
+      "originalTitle": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "score": 293
     },
     {
-      "title": "mbed TLS 的未来维护",
-      "originalTitle": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "score": 18
+      "title": "窗户毛衣",
+      "originalTitle": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "score": 315
     }
   ],
-  "updateTime": "11/5/2026, 7:48:54 AM"
+  "updateTime": "11/6/2026, 7:49:01 AM"
 }
