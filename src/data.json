@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "originalTitle": "Asahi Linux Progress Linux 7.3",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "score": 58
+      "title": "再见克劳德，你好皮",
+      "originalTitle": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 141
     },
     {
-      "title": "Libghostty 1.0",
-      "originalTitle": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "score": 479
+      "title": "我在价值 10 美元的 OpenStick 家庭实验室上运行的内容",
+      "originalTitle": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 503
     },
     {
-      "title": "古代DNA揭示了野蛮部落的神话起源故事是真实的",
-      "originalTitle": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "score": 36
+      "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码",
+      "originalTitle": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 322
     },
     {
-      "title": "可以向 Opus 寻求帮助的 Jev 以较低 4 倍的成本提供 Opus 的准确性",
-      "originalTitle": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 425
+      "title": "ZapFast：使用 Rust 和 egui 编写的快速、原生 WhatsApp 客户端",
+      "originalTitle": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "url": "https://github.com/crmne/zapfast",
+      "score": 52
     },
     {
-      "title": "特斯拉将减少 Cyber​​truck 的生产",
-      "originalTitle": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 962
+      "title": "用四个 2 生成任意整数 (2025)",
+      "originalTitle": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "score": 107
     },
     {
-      "title": "接下来的 4000 个表情符号是什么样子的？",
-      "originalTitle": "What do the next 4000 emoji look like?",
-      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-      "score": 44
+      "title": "在浏览器中在线玩《极品飞车地下城 2》",
+      "originalTitle": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 919
     },
     {
-      "title": "RealPage 租金定价案例为租户提供了近 3.6 亿美元的资金",
-      "originalTitle": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "score": 95
+      "title": "MaxxBench –“DeepSWE 得分不错。但这是真的吗？”",
+      "originalTitle": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 274
     },
     {
-      "title": "美国联邦航空局表示将于 2028 年在空中交通管制中逐步淘汰软盘",
-      "originalTitle": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 319
+      "title": "克里安摄影：打造自己的设备",
+      "originalTitle": "Kirlian Photography: Building Your Own Equipment",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "score": 17
     },
     {
-      "title": "Firecracker VM 逃生：PwnEscape 第 2 部分",
-      "originalTitle": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 211
+      "title": "铀立方揭示了德国核项目失败的原因",
+      "originalTitle": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 109
     },
     {
-      "title": "Flash C 编译器",
-      "originalTitle": "The Flash C Compiler",
-      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-      "score": 27
+      "title": "消费者脑电波耳机威胁隐私",
+      "originalTitle": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "score": 20
     }
   ],
-  "updateTime": "11/7/2026, 6:56:49 AM"
+  "updateTime": "11/8/2026, 7:03:32 AM"
 }
