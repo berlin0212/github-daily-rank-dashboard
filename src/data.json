@@ -46,7 +46,7 @@
       "url": "https://github.com/patch-gg/pixelfx",
       "totalStars": "4.1k",
       "dailyGrowth": "638",
-      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
+      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来制作你自己的。"
     },
     {
       "rank": 7,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "再见克劳德，你好皮",
-      "originalTitle": "Goodbye Claude, Hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 141
+      "title": "KetchUp – 使用 Rust 和 WebGPU 构建的开源 SketchUp 替代品",
+      "originalTitle": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "score": 416
     },
     {
-      "title": "我在价值 10 美元的 OpenStick 家庭实验室上运行的内容",
-      "originalTitle": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "score": 503
+      "title": "在世界大部分地区解锁 X 品牌的任何汽车",
+      "originalTitle": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "score": 262
     },
     {
-      "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码",
-      "originalTitle": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 322
+      "title": "我不相信人工智能泡沫存在",
+      "originalTitle": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "score": 208
     },
     {
-      "title": "ZapFast：使用 Rust 和 egui 编写的快速、原生 WhatsApp 客户端",
-      "originalTitle": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "url": "https://github.com/crmne/zapfast",
-      "score": 52
+      "title": "Chimera 声音合成器",
+      "originalTitle": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "score": 180
     },
     {
-      "title": "用四个 2 生成任意整数 (2025)",
-      "originalTitle": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "score": 107
+      "title": "声明式拖动",
+      "originalTitle": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "score": 492
     },
     {
-      "title": "在浏览器中在线玩《极品飞车地下城 2》",
-      "originalTitle": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
-      "score": 919
+      "title": "Dux：带有文件管理器和主题的免费开源 Wayland 桌面 shell",
+      "originalTitle": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "score": 264
     },
     {
-      "title": "MaxxBench –“DeepSWE 得分不错。但这是真的吗？”",
-      "originalTitle": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "score": 274
+      "title": "Outlook.com 拒绝来自没有 DMARC 的域的电子邮件",
+      "originalTitle": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 370
     },
     {
-      "title": "克里安摄影：打造自己的设备",
-      "originalTitle": "Kirlian Photography: Building Your Own Equipment",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-      "score": 17
+      "title": "对 GPUI 的批评",
+      "originalTitle": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "score": 75
     },
     {
-      "title": "铀立方揭示了德国核项目失败的原因",
-      "originalTitle": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "score": 109
+      "title": "问 HN：你在做什么？ （2026 年 11 月）",
+      "originalTitle": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 197
     },
     {
-      "title": "消费者脑电波耳机威胁隐私",
-      "originalTitle": "Consumer brain wave headsets threaten privacy",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-      "score": 20
+      "title": "英伟达首席执行官黄仁勋就婚外情致员工的信",
+      "originalTitle": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "score": 572
     }
   ],
-  "updateTime": "11/8/2026, 7:03:32 AM"
+  "updateTime": "11/9/2026, 7:48:20 AM"
 }
