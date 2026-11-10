@@ -46,7 +46,7 @@
       "url": "https://github.com/patch-gg/pixelfx",
       "totalStars": "4.1k",
       "dailyGrowth": "638",
-      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来制作你自己的。"
+      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
     },
     {
       "rank": 7,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "KetchUp – 使用 Rust 和 WebGPU 构建的开源 SketchUp 替代品",
-      "originalTitle": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "score": 416
+      "title": "Amazon 通过使用 Strands Decider 替换 Sonnet 4.6 节省了数百万美元",
+      "originalTitle": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "score": 154
     },
     {
-      "title": "在世界大部分地区解锁 X 品牌的任何汽车",
-      "originalTitle": "Unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "score": 262
+      "title": "克劳德寓言 5.2 和神话 5.2",
+      "originalTitle": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 507
     },
     {
-      "title": "我不相信人工智能泡沫存在",
-      "originalTitle": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "score": 208
+      "title": "USPS 现在提供官方邮政编码边界多边形",
+      "originalTitle": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 602
     },
     {
-      "title": "Chimera 声音合成器",
-      "originalTitle": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "score": 180
+      "title": "你的电视可以看穿墙壁",
+      "originalTitle": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
+      "score": 66
     },
     {
-      "title": "声明式拖动",
-      "originalTitle": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "score": 492
+      "title": "找到神秘蜂鸣声的来源",
+      "originalTitle": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "score": 143
     },
     {
-      "title": "Dux：带有文件管理器和主题的免费开源 Wayland 桌面 shell",
-      "originalTitle": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "score": 264
+      "title": "E-means：在十分之一的时期内优于 k-means",
+      "originalTitle": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "score": 377
     },
     {
-      "title": "Outlook.com 拒绝来自没有 DMARC 的域的电子邮件",
-      "originalTitle": "Outlook.com is rejecting email from domains without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 370
+      "title": "加拿大支付局宣布推出加拿大实时铁路 (RTR) 支付系统",
+      "originalTitle": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 522
     },
     {
-      "title": "对 GPUI 的批评",
-      "originalTitle": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "score": 75
+      "title": "可折叠飞行：最好的纸飞机",
+      "originalTitle": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 977
     },
     {
-      "title": "问 HN：你在做什么？ （2026 年 11 月）",
-      "originalTitle": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 197
+      "title": "可怕的公钥技巧",
+      "originalTitle": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "score": 139
     },
     {
-      "title": "英伟达首席执行官黄仁勋就婚外情致员工的信",
-      "originalTitle": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "score": 572
+      "title": "Ultorg：关系数据库的用户界面",
+      "originalTitle": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "score": 42
     }
   ],
-  "updateTime": "11/9/2026, 7:48:20 AM"
+  "updateTime": "11/10/2026, 8:08:05 AM"
 }
