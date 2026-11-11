@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Amazon 通过使用 Strands Decider 替换 Sonnet 4.6 节省了数百万美元",
-      "originalTitle": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "score": 154
+      "title": "使用 macOS Secure Enclave 保护 SSH 密钥",
+      "originalTitle": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "score": 113
     },
     {
-      "title": "克劳德寓言 5.2 和神话 5.2",
-      "originalTitle": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 507
+      "title": "Greg Kurtzer 的 Ginux 现在是用户空间内核",
+      "originalTitle": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "score": 41
     },
     {
-      "title": "USPS 现在提供官方邮政编码边界多边形",
-      "originalTitle": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 602
+      "title": "Scion 回来了，并将在美国出售一辆 Kei 卡车",
+      "originalTitle": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 444
     },
     {
-      "title": "你的电视可以看穿墙壁",
-      "originalTitle": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "score": 66
+      "title": ".name 祖父",
+      "originalTitle": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 785
     },
     {
-      "title": "找到神秘蜂鸣声的来源",
-      "originalTitle": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "score": 143
+      "title": "智能家居设备应该在没有互联网的情况下工作",
+      "originalTitle": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 867
     },
     {
-      "title": "E-means：在十分之一的时期内优于 k-means",
-      "originalTitle": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 377
+      "title": "为遏制生物恐怖主义，美国对订购合成DNA实施新规定",
+      "originalTitle": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "score": 73
     },
     {
-      "title": "加拿大支付局宣布推出加拿大实时铁路 (RTR) 支付系统",
-      "originalTitle": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 522
+      "title": "一个很棒的老式游戏编程技巧 (2013)",
+      "originalTitle": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 117
     },
     {
-      "title": "可折叠飞行：最好的纸飞机",
-      "originalTitle": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 977
+      "title": "废弃温室概要",
+      "originalTitle": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "score": 21
     },
     {
-      "title": "可怕的公钥技巧",
-      "originalTitle": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "score": 139
+      "title": "六项数学要点",
+      "originalTitle": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 216
     },
     {
-      "title": "Ultorg：关系数据库的用户界面",
-      "originalTitle": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "score": 42
+      "title": "苹果推出新的 Mac 应用程序，让运行本地人工智能模型变得更容易",
+      "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 176
     }
   ],
-  "updateTime": "11/10/2026, 8:08:05 AM"
+  "updateTime": "11/11/2026, 7:37:51 AM"
 }
