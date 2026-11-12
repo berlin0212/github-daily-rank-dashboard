@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "totalStars": "7.7k",
-      "dailyGrowth": "3836",
-      "description": "制作任何东西：了解任何软件的工作原理，并制作自己的软件。"
-    },
-    {
-      "rank": 2,
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "totalStars": "16.4k",
-      "dailyGrowth": "3751",
-      "description": "迈向更加自主的代理系统"
-    },
-    {
-      "rank": 3,
       "name": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "totalStars": "7.3k",
-      "dailyGrowth": "1565",
+      "totalStars": "19.7k",
+      "dailyGrowth": "12326",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "totalStars": "7.3k",
-      "dailyGrowth": "1336",
+      "totalStars": "14.4k",
+      "dailyGrowth": "7111",
       "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
     },
     {
+      "rank": 3,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "totalStars": "8.5k",
+      "dailyGrowth": "6306",
+      "description": "非常实验性的 Nintendo Switch 2 模拟器"
+    },
+    {
+      "rank": 4,
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "totalStars": "8.3k",
+      "dailyGrowth": "6025",
+      "description": "YellowFruit第三方客户端"
+    },
+    {
       "rank": 5,
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "totalStars": "6k",
-      "dailyGrowth": "812",
-      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
+      "name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "totalStars": "7.5k",
+      "dailyGrowth": "4538",
+      "description": "《塞尔达传说：时之笛》Nintendo Switch 2 Remake 的原生重新编译"
     },
     {
       "rank": 6,
       "name": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "totalStars": "4.1k",
-      "dailyGrowth": "638",
+      "totalStars": "6.9k",
+      "dailyGrowth": "2895",
       "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
     },
     {
       "rank": 7,
-      "name": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "totalStars": "4.4k",
-      "dailyGrowth": "567",
-      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
-    },
-    {
-      "rank": 8,
       "name": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
-      "totalStars": "2.9k",
-      "dailyGrowth": "491",
+      "totalStars": "5.8k",
+      "dailyGrowth": "2892",
       "description": "非常实验性的 Nintendo Switch 2 模拟器"
     },
     {
+      "rank": 8,
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "totalStars": "6.7k",
+      "dailyGrowth": "2241",
+      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
+    },
+    {
       "rank": 9,
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "totalStars": "9.8k",
-      "dailyGrowth": "453",
-      "description": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。"
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "totalStars": "8.2k",
+      "dailyGrowth": "2227",
+      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
     },
     {
       "rank": 10,
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "totalStars": "10.4k",
-      "dailyGrowth": "450",
-      "description": "Worktrunk 是一个用于 Git 工作树管理的 CLI，专为并行 AI 代理工作流程而设计"
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "totalStars": "4.5k",
+      "dailyGrowth": "2101",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
     }
   ],
   "hackerNews": [
     {
-      "title": "使用 macOS Secure Enclave 保护 SSH 密钥",
-      "originalTitle": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "score": 113
+      "title": "Humble Bundle 刚刚通过 vivicoding 破坏了大部分安全性",
+      "originalTitle": "Humble Bundle just killed most of their security through vibecoding",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "score": 90
     },
     {
-      "title": "Greg Kurtzer 的 Ginux 现在是用户空间内核",
-      "originalTitle": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
-      "score": 41
+      "title": "93% 的油漆飞溅都是有效的 Perl 程序 (2019)",
+      "originalTitle": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 384
     },
     {
-      "title": "Scion 回来了，并将在美国出售一辆 Kei 卡车",
-      "originalTitle": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "score": 444
+      "title": "蒂姆·彼得斯去世",
+      "originalTitle": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "score": 1126
     },
     {
-      "title": ".name 祖父",
-      "originalTitle": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "score": 785
+      "title": "Apache HTTP 服务器中的严重 RCE 漏洞",
+      "originalTitle": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "score": 152
     },
     {
-      "title": "智能家居设备应该在没有互联网的情况下工作",
-      "originalTitle": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "score": 867
+      "title": "简·街：苏格拉底导师",
+      "originalTitle": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 56
     },
     {
-      "title": "为遏制生物恐怖主义，美国对订购合成DNA实施新规定",
-      "originalTitle": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "score": 73
+      "title": "AWS模拟器",
+      "originalTitle": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 812
     },
     {
-      "title": "一个很棒的老式游戏编程技巧 (2013)",
-      "originalTitle": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "score": 117
+      "title": "我给了代理人一座湖边小屋和我花园的控制权",
+      "originalTitle": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "score": 35
     },
     {
-      "title": "废弃温室概要",
-      "originalTitle": "A Compendium of Abandoned Greenhouses",
-      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-      "score": 21
+      "title": "英伟达准备罢免黄仁勋",
+      "originalTitle": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "score": 925
     },
     {
-      "title": "六项数学要点",
-      "originalTitle": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "score": 216
+      "title": "虚假烟雾警报几乎淹没了简街唯一的纽约数据中心",
+      "originalTitle": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "score": 474
     },
     {
-      "title": "苹果推出新的 Mac 应用程序，让运行本地人工智能模型变得更容易",
-      "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 176
+      "title": "双子座决策 API",
+      "originalTitle": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 399
     }
   ],
-  "updateTime": "11/11/2026, 7:37:51 AM"
+  "updateTime": "11/12/2026, 8:06:06 AM"
 }
