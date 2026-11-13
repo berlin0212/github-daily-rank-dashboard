@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Humble Bundle 刚刚通过 vivicoding 破坏了大部分安全性",
-      "originalTitle": "Humble Bundle just killed most of their security through vibecoding",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "score": 90
+      "title": "黄仁勋辞职",
+      "originalTitle": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3390
     },
     {
-      "title": "93% 的油漆飞溅都是有效的 Perl 程序 (2019)",
-      "originalTitle": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 384
+      "title": "冰WM",
+      "originalTitle": "IceWM",
+      "url": "https://ice-wm.org/",
+      "score": 101
     },
     {
-      "title": "蒂姆·彼得斯去世",
-      "originalTitle": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 1126
+      "title": "铁锈 1.100",
+      "originalTitle": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 621
     },
     {
-      "title": "Apache HTTP 服务器中的严重 RCE 漏洞",
-      "originalTitle": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "score": 152
+      "title": "Brave Search API 现在接受通过 x402 协议的代理付款",
+      "originalTitle": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "score": 71
     },
     {
-      "title": "简·街：苏格拉底导师",
-      "originalTitle": "Jane Street: Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "score": 56
+      "title": "科学家声称宇宙的年龄是人们认为的两倍",
+      "originalTitle": "Scientists claim the universe is twice as old as believed",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "score": 53
     },
     {
-      "title": "AWS模拟器",
-      "originalTitle": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 812
+      "title": "英伟达员工请愿召回黄仁勋",
+      "originalTitle": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "score": 468
     },
     {
-      "title": "我给了代理人一座湖边小屋和我花园的控制权",
-      "originalTitle": "I gave an agent a lakehouse and control of my garden",
-      "url": "https://jatorre.github.io/garden/",
-      "score": 35
+      "title": "Gemini 4 Hydrogen 和 Orchestrator",
+      "originalTitle": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 400
     },
     {
-      "title": "英伟达准备罢免黄仁勋",
-      "originalTitle": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 925
+      "title": "切换者 (2004)",
+      "originalTitle": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "score": 85
     },
     {
-      "title": "虚假烟雾警报几乎淹没了简街唯一的纽约数据中心",
-      "originalTitle": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 474
+      "title": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序",
+      "originalTitle": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 479
     },
     {
-      "title": "双子座决策 API",
-      "originalTitle": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 399
+      "title": "Edge0-145B：您自己的计算机上的前沿人工智能功能",
+      "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 207
     }
   ],
-  "updateTime": "11/12/2026, 8:06:06 AM"
+  "updateTime": "11/13/2026, 7:42:43 AM"
 }
