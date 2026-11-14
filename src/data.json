@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "黄仁勋辞职",
-      "originalTitle": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3390
+      "title": "ggml v1.0.0",
+      "originalTitle": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "score": 186
     },
     {
-      "title": "冰WM",
-      "originalTitle": "IceWM",
-      "url": "https://ice-wm.org/",
-      "score": 101
+      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+      "originalTitle": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 397
     },
     {
-      "title": "铁锈 1.100",
-      "originalTitle": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 621
+      "title": "美国联邦航空局 (FAA) 发布国家地面停止指令 – 4.5 小时后解除",
+      "originalTitle": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 1493
     },
     {
-      "title": "Brave Search API 现在接受通过 x402 协议的代理付款",
-      "originalTitle": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "score": 71
+      "title": "不花费单元格的终端边界",
+      "originalTitle": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "score": 200
     },
     {
-      "title": "科学家声称宇宙的年龄是人们认为的两倍",
-      "originalTitle": "Scientists claim the universe is twice as old as believed",
-      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-      "score": 53
+      "title": "Unsloth Qwen3.8-27B 量化 – 动态 v3.1 更新",
+      "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "score": 103
     },
     {
-      "title": "英伟达员工请愿召回黄仁勋",
-      "originalTitle": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "score": 468
+      "title": "3Com 到底怎么了？",
+      "originalTitle": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "score": 117
     },
     {
-      "title": "Gemini 4 Hydrogen 和 Orchestrator",
-      "originalTitle": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 400
+      "title": "显示 HN：今晚 FAA 全国地面停留期间美国航班的实时地图",
+      "originalTitle": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "score": 120
     },
     {
-      "title": "切换者 (2004)",
-      "originalTitle": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "score": 85
+      "title": "KORS 所有频率的现场广播频段。加利福尼亚州维多利亚也停了下来",
+      "originalTitle": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "score": 254
     },
     {
-      "title": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序",
-      "originalTitle": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "score": 479
+      "title": "发现：一种在不引发炎症的情况下促进衰老的蛋白质",
+      "originalTitle": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "score": 177
     },
     {
-      "title": "Edge0-145B：您自己的计算机上的前沿人工智能功能",
-      "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 207
+      "title": "FM-1工作台",
+      "originalTitle": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "score": 220
     }
   ],
-  "updateTime": "11/13/2026, 7:42:43 AM"
+  "updateTime": "11/14/2026, 7:29:05 AM"
 }
