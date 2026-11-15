@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "totalStars": "19.7k",
-      "dailyGrowth": "12326",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
-    },
-    {
-      "rank": 2,
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "totalStars": "14.4k",
-      "dailyGrowth": "7111",
+      "totalStars": "15.9k",
+      "dailyGrowth": "1509",
       "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
     },
     {
+      "rank": 2,
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "totalStars": "7.5k",
+      "dailyGrowth": "1427",
+      "description": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具有区域代码调整、设备预设、备份功能。"
+    },
+    {
       "rank": 3,
-      "name": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "totalStars": "8.5k",
-      "dailyGrowth": "6306",
-      "description": "非常实验性的 Nintendo Switch 2 模拟器"
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "totalStars": "12.2k",
+      "dailyGrowth": "1216",
+      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
     },
     {
       "rank": 4,
-      "name": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "totalStars": "8.3k",
-      "dailyGrowth": "6025",
-      "description": "YellowFruit第三方客户端"
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "totalStars": "11.8k",
+      "dailyGrowth": "1160",
+      "description": "使用最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。"
     },
     {
       "rank": 5,
-      "name": "NotRexed/Hookshot",
-      "url": "https://github.com/NotRexed/Hookshot",
-      "totalStars": "7.5k",
-      "dailyGrowth": "4538",
-      "description": "《塞尔达传说：时之笛》Nintendo Switch 2 Remake 的原生重新编译"
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "totalStars": "3.1k",
+      "dailyGrowth": "1058",
+      "description": ""
     },
     {
       "rank": 6,
-      "name": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "totalStars": "6.9k",
-      "dailyGrowth": "2895",
-      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "totalStars": "9.8k",
+      "dailyGrowth": "985",
+      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
     },
     {
       "rank": 7,
-      "name": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "totalStars": "5.8k",
-      "dailyGrowth": "2892",
-      "description": "非常实验性的 Nintendo Switch 2 模拟器"
+      "name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "totalStars": "4.1k",
+      "dailyGrowth": "904",
+      "description": ""
     },
     {
       "rank": 8,
-      "name": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "totalStars": "6.7k",
-      "dailyGrowth": "2241",
-      "description": "使用 Vulkan 渲染器将《塞尔达传说：王国之泪》静态重新编译到本机 Windows 和 Linux x86-64。不包括游戏文件。"
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "totalStars": "5.3k",
+      "dailyGrowth": "802",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
     },
     {
       "rank": 9,
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "totalStars": "8.2k",
-      "dailyGrowth": "2227",
-      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "totalStars": "9.2k",
+      "dailyGrowth": "681",
+      "description": "非常实验性的 Nintendo Switch 2 模拟器"
     },
     {
       "rank": 10,
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "totalStars": "4.5k",
-      "dailyGrowth": "2101",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "totalStars": "11.8k",
+      "dailyGrowth": "576",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     }
   ],
   "hackerNews": [
     {
-      "title": "ggml v1.0.0",
-      "originalTitle": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "score": 186
+      "title": "SpaceX 追上 Starship 结束 15 号航班",
+      "originalTitle": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 1089
     },
     {
-      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
-      "originalTitle": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "score": 397
+      "title": "Rust 标准库中的内存安全错误",
+      "originalTitle": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "score": 79
     },
     {
-      "title": "美国联邦航空局 (FAA) 发布国家地面停止指令 – 4.5 小时后解除",
-      "originalTitle": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "score": 1493
+      "title": "可爱的应用程序会暴露护照详细信息和超过 20 万条私人消息",
+      "originalTitle": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 767
     },
     {
-      "title": "不花费单元格的终端边界",
-      "originalTitle": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "score": 200
+      "title": "难得一睹高风险、高回报的霍尔木兹贸易",
+      "originalTitle": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "score": 22
     },
     {
-      "title": "Unsloth Qwen3.8-27B 量化 – 动态 v3.1 更新",
-      "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "score": 103
+      "title": "Show HN: Gawain – 需要所有 Python 变量的类型提示",
+      "originalTitle": "Show HN: Gawain – Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "score": 34
     },
     {
-      "title": "3Com 到底怎么了？",
-      "originalTitle": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 117
+      "title": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？",
+      "originalTitle": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "score": 188
     },
     {
-      "title": "显示 HN：今晚 FAA 全国地面停留期间美国航班的实时地图",
-      "originalTitle": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "score": 120
+      "title": "法院驳回驳回 DRAM 定价案的动议",
+      "originalTitle": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "score": 71
     },
     {
-      "title": "KORS 所有频率的现场广播频段。加利福尼亚州维多利亚也停了下来",
-      "originalTitle": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "score": 254
+      "title": "我最喜欢的现代 NES 游戏",
+      "originalTitle": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "score": 38
     },
     {
-      "title": "发现：一种在不引发炎症的情况下促进衰老的蛋白质",
-      "originalTitle": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "score": 177
+      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+      "originalTitle": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "score": 26
     },
     {
-      "title": "FM-1工作台",
-      "originalTitle": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "score": 220
+      "title": "化学如何成为生物学的演变故事",
+      "originalTitle": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "score": 34
     }
   ],
-  "updateTime": "11/14/2026, 7:29:05 AM"
+  "updateTime": "11/15/2026, 7:42:03 AM"
 }
