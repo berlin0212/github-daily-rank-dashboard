@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "SpaceX 追上 Starship 结束 15 号航班",
-      "originalTitle": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 1089
+      "title": "如何制作几乎任何东西",
+      "originalTitle": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "score": 126
     },
     {
-      "title": "Rust 标准库中的内存安全错误",
-      "originalTitle": "Memory Safety Bugs in Rust Standard Library",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "score": 79
+      "title": "uBlock Origin 中来自网站驱动的元素选择器的通用 XSS",
+      "originalTitle": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "score": 291
     },
     {
-      "title": "可爱的应用程序会暴露护照详细信息和超过 20 万条私人消息",
-      "originalTitle": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "score": 767
+      "title": "Qwen4-Max",
+      "originalTitle": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "score": 402
     },
     {
-      "title": "难得一睹高风险、高回报的霍尔木兹贸易",
-      "originalTitle": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-      "score": 22
+      "title": "旧的 Bitly 链接被劫持",
+      "originalTitle": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "score": 257
     },
     {
-      "title": "Show HN: Gawain – 需要所有 Python 变量的类型提示",
-      "originalTitle": "Show HN: Gawain – Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "score": 34
+      "title": "英伟达的下一步是什么？",
+      "originalTitle": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "score": 208
     },
     {
-      "title": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？",
-      "originalTitle": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "score": 188
+      "title": "Tor 项目在持续的 DDoS 攻击中发布快速响应的 DoS 防御修复程序",
+      "originalTitle": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "score": 126
     },
     {
-      "title": "法院驳回驳回 DRAM 定价案的动议",
-      "originalTitle": "Court denies motion to dismiss DRAM price fixing case",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "score": 71
+      "title": "停止在日志中拍摄",
+      "originalTitle": "Stop Filming in Log",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "score": 36
     },
     {
-      "title": "我最喜欢的现代 NES 游戏",
-      "originalTitle": "My favourite modern NES games",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "score": 38
+      "title": "Protomaps：自托管地图图块变得便宜且简单",
+      "originalTitle": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 290
     },
     {
-      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-      "originalTitle": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "score": 26
+      "title": "保留 30 年的沙龙新闻业",
+      "originalTitle": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "score": 136
     },
     {
-      "title": "化学如何成为生物学的演变故事",
-      "originalTitle": "The Evolving Story of How Chemistry Became Biology",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "score": 34
+      "title": "关于厄尔尼诺现象如何运作的简短解释[视频]",
+      "originalTitle": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 223
     }
   ],
-  "updateTime": "11/15/2026, 7:42:03 AM"
+  "updateTime": "11/16/2026, 7:47:43 AM"
 }
