@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "如何制作几乎任何东西",
-      "originalTitle": "How to make almost anything",
-      "url": "https://pub.cba.mit.edu/863.26/site/",
-      "score": 126
+      "title": "卡内基梅隆大学将在 YouTube 上免费发布计算机科学课程",
+      "originalTitle": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "score": 1433
     },
     {
-      "title": "uBlock Origin 中来自网站驱动的元素选择器的通用 XSS",
-      "originalTitle": "Universal XSS in uBlock Origin from website-driven element picker",
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "score": 291
+      "title": "Show HN：Zigzag，一款专为离开 Arc 的人设计的原生 Mac 浏览器",
+      "originalTitle": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "score": 32
     },
     {
-      "title": "Qwen4-Max",
-      "originalTitle": "Qwen4-Max",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "score": 402
+      "title": "BugMeNot 已关闭",
+      "originalTitle": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "score": 510
     },
     {
-      "title": "旧的 Bitly 链接被劫持",
-      "originalTitle": "Old Bitly links are being hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "score": 257
+      "title": "在 Zoom、GitLab 上优化受损、提供恶意软件",
+      "originalTitle": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "score": 317
     },
     {
-      "title": "英伟达的下一步是什么？",
-      "originalTitle": "What's Next for Nvidia?",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "score": 208
+      "title": "Nimony：Nim 的新编译器",
+      "originalTitle": "Nimony: A New Compiler for Nim",
+      "url": "https://nimony.org/",
+      "score": 34
     },
     {
-      "title": "Tor 项目在持续的 DDoS 攻击中发布快速响应的 DoS 防御修复程序",
-      "originalTitle": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "score": 126
+      "title": "如果应用程序请求完全磁盘访问或系统和应用程序保护覆盖",
+      "originalTitle": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "score": 113
     },
     {
-      "title": "停止在日志中拍摄",
-      "originalTitle": "Stop Filming in Log",
-      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-      "score": 36
+      "title": "开放代码浏览",
+      "originalTitle": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "score": 239
     },
     {
-      "title": "Protomaps：自托管地图图块变得便宜且简单",
-      "originalTitle": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "score": 290
+      "title": "为什么 3dfx 1 卡的颜色输出如此褪色？",
+      "originalTitle": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "score": 109
     },
     {
-      "title": "保留 30 年的沙龙新闻业",
-      "originalTitle": "Preserving 30 years of Salon journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "score": 136
+      "title": "化学实际上是几何",
+      "originalTitle": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "score": 217
     },
     {
-      "title": "关于厄尔尼诺现象如何运作的简短解释[视频]",
-      "originalTitle": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "score": 223
+      "title": "运行编码代理而不向他们提供我的凭据",
+      "originalTitle": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "score": 110
     }
   ],
-  "updateTime": "11/16/2026, 7:47:43 AM"
+  "updateTime": "11/17/2026, 8:56:36 AM"
 }
