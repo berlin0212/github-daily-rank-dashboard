@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "卡内基梅隆大学将在 YouTube 上免费发布计算机科学课程",
-      "originalTitle": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "score": 1433
+      "title": "Java4Shell：处理 Base64 时 OpenJDK 中的 RCE",
+      "originalTitle": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "score": 857
     },
     {
-      "title": "Show HN：Zigzag，一款专为离开 Arc 的人设计的原生 Mac 浏览器",
-      "originalTitle": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "url": "https://github.com/ZigaoWang/zigzag",
-      "score": 32
+      "title": "GPT-6.2 Astra 和 Sol",
+      "originalTitle": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 1246
     },
     {
-      "title": "BugMeNot 已关闭",
-      "originalTitle": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "score": 510
+      "title": "人工智能正在扼杀柏林的一切",
+      "originalTitle": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "score": 176
     },
     {
-      "title": "在 Zoom、GitLab 上优化受损、提供恶意软件",
-      "originalTitle": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "score": 317
+      "title": "IRS 登录所需的 ID.me 条款",
+      "originalTitle": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "score": 331
     },
     {
-      "title": "Nimony：Nim 的新编译器",
-      "originalTitle": "Nimony: A New Compiler for Nim",
-      "url": "https://nimony.org/",
-      "score": 34
+      "title": "Quad9退出法国：煤矿里的金丝雀",
+      "originalTitle": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "score": 526
     },
     {
-      "title": "如果应用程序请求完全磁盘访问或系统和应用程序保护覆盖",
-      "originalTitle": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
-      "score": 113
+      "title": "Google 的 AI 答案将搜索流量减少 40%",
+      "originalTitle": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 329
     },
     {
-      "title": "开放代码浏览",
-      "originalTitle": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
-      "score": 239
+      "title": "接受 YC 初创公司面试，发现他们未经许可使用了我的 LinkedIn",
+      "originalTitle": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "score": 310
     },
     {
-      "title": "为什么 3dfx 1 卡的颜色输出如此褪色？",
-      "originalTitle": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "score": 109
+      "title": "Nvidia 停止披露新加坡销售额，收入达到 $104B",
+      "originalTitle": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "score": 514
     },
     {
-      "title": "化学实际上是几何",
-      "originalTitle": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "score": 217
+      "title": "微软的 ONNX Runtime 已从 GitHub 上消失",
+      "originalTitle": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "score": 292
     },
     {
-      "title": "运行编码代理而不向他们提供我的凭据",
-      "originalTitle": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "score": 110
+      "title": "为什么 Gemini 4 Carbon 需要这么长时间？",
+      "originalTitle": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "score": 66
     }
   ],
-  "updateTime": "11/17/2026, 8:56:36 AM"
+  "updateTime": "11/18/2026, 8:21:47 AM"
 }
