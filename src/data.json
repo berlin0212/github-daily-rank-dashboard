@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "Java4Shell：处理 Base64 时 OpenJDK 中的 RCE",
-      "originalTitle": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "url": "https://calif.io/java4shell/",
-      "score": 857
+      "title": "双子座 4 霓虹灯",
+      "originalTitle": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "score": 769
     },
     {
-      "title": "GPT-6.2 Astra 和 Sol",
-      "originalTitle": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "score": 1246
+      "title": "Ruby2ßhell：库存 Rails 上的预身份验证 RCE",
+      "originalTitle": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 31
     },
     {
-      "title": "人工智能正在扼杀柏林的一切",
-      "originalTitle": "AI is killing All About Berlin",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "score": 176
+      "title": "Nginx 中未经身份验证的远程代码执行",
+      "originalTitle": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "score": 1341
     },
     {
-      "title": "IRS 登录所需的 ID.me 条款",
-      "originalTitle": "ID.me terms required for IRS sign-in",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-      "score": 331
+      "title": "一台虚拟机上有 1500 万个 Web 服务器 – smoltcp、DPDK、AF_XDP",
+      "originalTitle": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "score": 74
     },
     {
-      "title": "Quad9退出法国：煤矿里的金丝雀",
-      "originalTitle": "Quad9's withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "score": 526
+      "title": "正则表达式和字符串大小写转换中存在多个漏洞",
+      "originalTitle": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "score": 227
     },
     {
-      "title": "Google 的 AI 答案将搜索流量减少 40%",
-      "originalTitle": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "score": 329
+      "title": "人为定价首次公开募股",
+      "originalTitle": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "score": 187
     },
     {
-      "title": "接受 YC 初创公司面试，发现他们未经许可使用了我的 LinkedIn",
-      "originalTitle": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-      "score": 310
+      "title": "七种具有可扩展性价比的新型号",
+      "originalTitle": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "score": 531
     },
     {
-      "title": "Nvidia 停止披露新加坡销售额，收入达到 $104B",
-      "originalTitle": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "score": 514
+      "title": "德意志银行内部",
+      "originalTitle": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "score": 671
     },
     {
-      "title": "微软的 ONNX Runtime 已从 GitHub 上消失",
-      "originalTitle": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "score": 292
+      "title": "LLM辅助逆向工程",
+      "originalTitle": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "score": 184
     },
     {
-      "title": "为什么 Gemini 4 Carbon 需要这么长时间？",
-      "originalTitle": "Why is Gemini 4 Carbon taking so long?",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-      "score": 66
+      "title": "Axelera Titania 将本机 FP8 和 FP4 引入内存计算",
+      "originalTitle": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "score": 26
     }
   ],
-  "updateTime": "11/18/2026, 8:21:47 AM"
+  "updateTime": "11/19/2026, 8:33:18 AM"
 }
