@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "双子座 4 霓虹灯",
-      "originalTitle": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "score": 769
+      "title": "柔术入门",
+      "originalTitle": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "score": 73
     },
     {
-      "title": "Ruby2ßhell：库存 Rails 上的预身份验证 RCE",
-      "originalTitle": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "score": 31
+      "title": "GIMP 现在有 UI 测试",
+      "originalTitle": "GIMP now has UI tests",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "score": 108
     },
     {
-      "title": "Nginx 中未经身份验证的远程代码执行",
-      "originalTitle": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "score": 1341
+      "title": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481、CVSS 9.8）",
+      "originalTitle": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 191
     },
     {
-      "title": "一台虚拟机上有 1500 万个 Web 服务器 – smoltcp、DPDK、AF_XDP",
-      "originalTitle": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "score": 74
+      "title": "FFmpeg 9.1“高斯”",
+      "originalTitle": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "score": 87
     },
     {
-      "title": "正则表达式和字符串大小写转换中存在多个漏洞",
-      "originalTitle": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "score": 227
+      "title": "Postgres 19 Repack：更快的内置表膨胀清理",
+      "originalTitle": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "score": 73
     },
     {
-      "title": "人为定价首次公开募股",
-      "originalTitle": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "score": 187
+      "title": "克劳德解决了黑洞物理学中的两个悬而未决的问题",
+      "originalTitle": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "score": 479
     },
     {
-      "title": "七种具有可扩展性价比的新型号",
-      "originalTitle": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "score": 531
+      "title": "基本位移位",
+      "originalTitle": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "score": 30
     },
     {
-      "title": "德意志银行内部",
-      "originalTitle": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "score": 671
+      "title": "Vint Cerf 解释为什么 TCP/IP 从未获得专利",
+      "originalTitle": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "score": 92
     },
     {
-      "title": "LLM辅助逆向工程",
-      "originalTitle": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "score": 184
+      "title": "最强推箱子解算器",
+      "originalTitle": "The Strongest Sokoban Solver",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "score": 8
     },
     {
-      "title": "Axelera Titania 将本机 FP8 和 FP4 引入内存计算",
-      "originalTitle": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
-      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
-      "score": 26
+      "title": "车库门垃圾邮件",
+      "originalTitle": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "score": 844
     }
   ],
-  "updateTime": "11/19/2026, 8:33:18 AM"
+  "updateTime": "11/20/2026, 8:15:51 AM"
 }
