@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "柔术入门",
-      "originalTitle": "Jujutsu Primer",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "score": 73
+      "title": "仓促宣布：Alessandro Masullo GRH",
+      "originalTitle": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 1926
     },
     {
-      "title": "GIMP 现在有 UI 测试",
-      "originalTitle": "GIMP now has UI tests",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "score": 108
+      "title": "Levent Alpöge 声称证明了广义黎曼猜想 [pdf]",
+      "originalTitle": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2555
     },
     {
-      "title": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481、CVSS 9.8）",
-      "originalTitle": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "score": 191
+      "title": "Inkling 2 迷你",
+      "originalTitle": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 915
     },
     {
-      "title": "FFmpeg 9.1“高斯”",
-      "originalTitle": "FFmpeg 9.1 'Gauss'",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
-      "score": 87
+      "title": "ClawDOS – DOS 的人工智能编码代理",
+      "originalTitle": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "score": 32
     },
     {
-      "title": "Postgres 19 Repack：更快的内置表膨胀清理",
-      "originalTitle": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "score": 73
+      "title": "NINLIVE：九寸钉现场档案",
+      "originalTitle": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 227
     },
     {
-      "title": "克劳德解决了黑洞物理学中的两个悬而未决的问题",
-      "originalTitle": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 479
+      "title": "我们在没有通知他们的情况下将开发人员提升为架构师",
+      "originalTitle": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 396
     },
     {
-      "title": "基本位移位",
-      "originalTitle": "Bit Shifting in Basic",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
-      "score": 30
+      "title": "Clojure 将影响你对编程的思考方式 (2017)",
+      "originalTitle": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "score": 64
     },
     {
-      "title": "Vint Cerf 解释为什么 TCP/IP 从未获得专利",
-      "originalTitle": "Vint Cerf on why TCP/IP was never patented",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "score": 92
+      "title": "非受迫纳维-斯托克斯奇点和广义黎曼假设",
+      "originalTitle": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 416
     },
     {
-      "title": "最强推箱子解算器",
-      "originalTitle": "The Strongest Sokoban Solver",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "score": 8
+      "title": "Valkey 取消了跳表，将排序集开销减少了 43%",
+      "originalTitle": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "score": 114
     },
     {
-      "title": "车库门垃圾邮件",
-      "originalTitle": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 844
+      "title": "布莱恩·梅爵士为赫拉小行星增添了新的维度",
+      "originalTitle": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "score": 90
     }
   ],
-  "updateTime": "11/20/2026, 8:15:51 AM"
+  "updateTime": "11/21/2026, 8:07:49 AM"
 }
