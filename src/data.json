@@ -30,7 +30,7 @@
       "url": "https://github.com/shadcn/improve",
       "totalStars": "11.8k",
       "dailyGrowth": "1160",
-      "description": "使用最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。"
+      "description": "使用您最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。"
     },
     {
       "rank": 5,
@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "仓促宣布：Alessandro Masullo GRH",
-      "originalTitle": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 1926
+      "title": "丰田、日产和本田将零部件标准化以降低成本",
+      "originalTitle": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "score": 342
     },
     {
-      "title": "Levent Alpöge 声称证明了广义黎曼猜想 [pdf]",
-      "originalTitle": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "score": 2555
+      "title": "治疗胰腺癌的药物被誉为“几十年来最大的突破”",
+      "originalTitle": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 903
     },
     {
-      "title": "Inkling 2 迷你",
-      "originalTitle": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 915
+      "title": "人工智能供应链安全：金丝雀代币发现了什么",
+      "originalTitle": "AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "score": 49
     },
     {
-      "title": "ClawDOS – DOS 的人工智能编码代理",
-      "originalTitle": "ClawDOS – An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "score": 32
+      "title": "黎曼假设的精益验证",
+      "originalTitle": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 975
     },
     {
-      "title": "NINLIVE：九寸钉现场档案",
-      "originalTitle": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "score": 227
+      "title": "Show HN：黎曼证明手册",
+      "originalTitle": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "score": 20
     },
     {
-      "title": "我们在没有通知他们的情况下将开发人员提升为架构师",
-      "originalTitle": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 396
+      "title": "Inkling-2-Mini，5.4 GB 内存",
+      "originalTitle": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 439
     },
     {
-      "title": "Clojure 将影响你对编程的思考方式 (2017)",
-      "originalTitle": "Clojure will affect the way you think about programming (2017)",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "score": 64
+      "title": "关于离散傅立叶变换 (DFT) 的注释",
+      "originalTitle": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "score": 10
     },
     {
-      "title": "非受迫纳维-斯托克斯奇点和广义黎曼假设",
-      "originalTitle": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "score": 416
+      "title": "推理提供商的数据处理事件",
+      "originalTitle": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "score": 112
     },
     {
-      "title": "Valkey 取消了跳表，将排序集开销减少了 43%",
-      "originalTitle": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "score": 114
+      "title": "三明治模拟器",
+      "originalTitle": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "score": 173
     },
     {
-      "title": "布莱恩·梅爵士为赫拉小行星增添了新的维度",
-      "originalTitle": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "score": 90
+      "title": "工程经理的角色再次受到攻击",
+      "originalTitle": "The Engineering Manager's role is under attack (again)",
+      "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+      "score": 15
     }
   ],
-  "updateTime": "11/21/2026, 8:07:49 AM"
+  "updateTime": "11/22/2026, 7:53:22 AM"
 }
