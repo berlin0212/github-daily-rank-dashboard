@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "丰田、日产和本田将零部件标准化以降低成本",
-      "originalTitle": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 342
+      "title": "根据互联网档案馆被遗忘的视频建立的免费另类电视网络",
+      "originalTitle": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 478
     },
     {
-      "title": "治疗胰腺癌的药物被誉为“几十年来最大的突破”",
-      "originalTitle": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 903
+      "title": "XNU Linux：Linux 上的完整 OS X GUI 用户空间",
+      "originalTitle": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 241
     },
     {
-      "title": "人工智能供应链安全：金丝雀代币发现了什么",
-      "originalTitle": "AI Supply Chain Security: What Canary Tokens Found",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "score": 49
+      "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+      "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 469
     },
     {
-      "title": "黎曼假设的精益验证",
-      "originalTitle": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 975
+      "title": "C 的部分求值器",
+      "originalTitle": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "score": 53
     },
     {
-      "title": "Show HN：黎曼证明手册",
-      "originalTitle": "Show HN: The Riemann Proof Handbook",
-      "url": "https://github.com/tamnd/riemann-handbook",
-      "score": 20
+      "title": "马苏洛论黎曼猜想",
+      "originalTitle": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "score": 205
     },
     {
-      "title": "Inkling-2-Mini，5.4 GB 内存",
-      "originalTitle": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 439
+      "title": "GTA 6 的鸟类：罪恶都市和列奥尼达野生动物实地指南",
+      "originalTitle": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 482
     },
     {
-      "title": "关于离散傅立叶变换 (DFT) 的注释",
-      "originalTitle": "Notes on the discrete Fourier transform (DFT)",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "title": "刹车检查：通过蓝牙劫持拖车刹车",
+      "originalTitle": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
       "score": 10
     },
     {
-      "title": "推理提供商的数据处理事件",
-      "originalTitle": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "score": 112
+      "title": "困惑与智慧",
+      "originalTitle": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 571
     },
     {
-      "title": "三明治模拟器",
-      "originalTitle": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "score": 173
+      "title": "苏丹出现大教堂地板，揭示了最大的中世纪教堂之一",
+      "originalTitle": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "score": 221
     },
     {
-      "title": "工程经理的角色再次受到攻击",
-      "originalTitle": "The Engineering Manager's role is under attack (again)",
-      "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-      "score": 15
+      "title": "CollectWise (YC F24) 正在招聘",
+      "originalTitle": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "score": 1
     }
   ],
-  "updateTime": "11/22/2026, 7:53:22 AM"
+  "updateTime": "11/23/2026, 8:47:13 AM"
 }
