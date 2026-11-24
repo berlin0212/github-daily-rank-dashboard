@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "totalStars": "15.9k",
-      "dailyGrowth": "1509",
-      "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "totalStars": "7.3k",
+      "dailyGrowth": "2352",
+      "description": "用 Rust 重写整个应用程序，一次一小部分，并在每一步检查原始记录的行为。 CLI、HTTP 服务器以及 TypeScript、Python、C、Go、Ruby 和 Java 中的库。"
     },
     {
       "rank": 2,
-      "name": "huamidev/GestaltX",
-      "url": "https://github.com/huamidev/GestaltX",
-      "totalStars": "7.5k",
-      "dailyGrowth": "1427",
-      "description": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具有区域代码调整、设备预设、备份功能。"
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "totalStars": "14.3k",
+      "dailyGrowth": "1542",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
     },
     {
       "rank": 3,
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "totalStars": "12.2k",
-      "dailyGrowth": "1216",
-      "description": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "totalStars": "19.7k",
+      "dailyGrowth": "1088",
+      "description": "克劳德 (Claude) 的一项技能，可将 Vivicoded、AI 外观的 UI 转变为设计好的界面"
     },
     {
       "rank": 4,
-      "name": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "totalStars": "11.8k",
-      "dailyGrowth": "1160",
-      "description": "使用您最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。"
+      "name": "kunkundi/crossdesk",
+      "url": "https://github.com/kunkundi/crossdesk",
+      "totalStars": "6.6k",
+      "dailyGrowth": "809",
+      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。"
     },
     {
       "rank": 5,
-      "name": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "totalStars": "3.1k",
-      "dailyGrowth": "1058",
-      "description": ""
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "totalStars": "18.7k",
+      "dailyGrowth": "692",
+      "description": "光标插件规范和官方插件"
     },
     {
       "rank": 6,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "totalStars": "9.8k",
-      "dailyGrowth": "985",
-      "description": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "totalStars": "11.3k",
+      "dailyGrowth": "684",
+      "description": "旨在与 Stitch MCP 服务器配合使用的代理技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码代理兼容。"
     },
     {
       "rank": 7,
-      "name": "tangerineturtle1/NX2navi",
-      "url": "https://github.com/tangerineturtle1/NX2navi",
-      "totalStars": "4.1k",
-      "dailyGrowth": "904",
-      "description": ""
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "totalStars": "11.6k",
+      "dailyGrowth": "655",
+      "description": "插件媒体播放器"
     },
     {
       "rank": 8,
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "totalStars": "5.3k",
-      "dailyGrowth": "802",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "totalStars": "2.8k",
+      "dailyGrowth": "445",
+      "description": "Blender 的 AI 助手和 MCP 服务器：视觉聊天、场景工具、多代理工作流程。适用于 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。 Blender AI 插件、3D 副驾驶、bpy Python 脚本、MCP 集成。"
     },
     {
       "rank": 9,
-      "name": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "totalStars": "9.2k",
-      "dailyGrowth": "681",
-      "description": "非常实验性的 Nintendo Switch 2 模拟器"
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "totalStars": "9.8k",
+      "dailyGrowth": "326",
+      "description": "适用于 Android 的设备上 AI 代理，可运行应用程序和网络来为您完成工作。"
     },
     {
       "rank": 10,
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "totalStars": "11.8k",
-      "dailyGrowth": "576",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "totalStars": "8.9k",
+      "dailyGrowth": "264",
+      "description": "244 个像素艺术效果，每一个都是一小段代码。加上克劳德代码技能来创造你自己的。"
     }
   ],
   "hackerNews": [
     {
-      "title": "根据互联网档案馆被遗忘的视频建立的免费另类电视网络",
-      "originalTitle": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
-      "score": 478
+      "title": "2035 来得早",
+      "originalTitle": "2035 Came Early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "score": 259
     },
     {
-      "title": "XNU Linux：Linux 上的完整 OS X GUI 用户空间",
-      "originalTitle": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 241
+      "title": "Ladybird 现在处于 alpha 阶段",
+      "originalTitle": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 1996
     },
     {
-      "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-      "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "score": 469
+      "title": "Stalwart 现在是 Microsoft Exchange 的直接替代品",
+      "originalTitle": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "score": 485
     },
     {
-      "title": "C 的部分求值器",
-      "originalTitle": "A Partial Evaluator for C",
-      "url": "https://phoenix.labri.fr/software/tempo/",
-      "score": 53
+      "title": "AMD EPYC Zen 6 与 Zen 1 性能：不到 10 年的时间平均提升 12.1 倍",
+      "originalTitle": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "score": 98
     },
     {
-      "title": "马苏洛论黎曼猜想",
-      "originalTitle": "Masullo on the Riemann Hypothesis",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "score": 205
+      "title": "Nvidia 恢复黄仁勋担任首席执行官",
+      "originalTitle": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 2584
     },
     {
-      "title": "GTA 6 的鸟类：罪恶都市和列奥尼达野生动物实地指南",
-      "originalTitle": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "score": 482
+      "title": "现代化 iperf/iperf3 并引入 fireperf",
+      "originalTitle": "Modernizing iperf/iperf3 and introducing fireperf",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "score": 108
     },
     {
-      "title": "刹车检查：通过蓝牙劫持拖车刹车",
-      "originalTitle": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-      "score": 10
+      "title": "废品回收场无人机地图",
+      "originalTitle": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "score": 86
     },
     {
-      "title": "困惑与智慧",
-      "originalTitle": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "score": 571
+      "title": "Arctic：实用的无锁自适应基数树",
+      "originalTitle": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+      "score": 41
     },
     {
-      "title": "苏丹出现大教堂地板，揭示了最大的中世纪教堂之一",
-      "originalTitle": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "score": 221
+      "title": "GPUI 正在获得自己的存储库",
+      "originalTitle": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "score": 266
     },
     {
-      "title": "CollectWise (YC F24) 正在招聘",
-      "originalTitle": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
-      "score": 1
+      "title": "纽约禁止汽车订阅费和购后费用",
+      "originalTitle": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "score": 378
     }
   ],
-  "updateTime": "11/23/2026, 8:47:13 AM"
+  "updateTime": "11/24/2026, 10:46:08 AM"
 }
