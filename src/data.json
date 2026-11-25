@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "2035 来得早",
-      "originalTitle": "2035 Came Early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "score": 259
+      "title": "矩阵乘法为 θ(n^2.25) [pdf]",
+      "originalTitle": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 616
     },
     {
-      "title": "Ladybird 现在处于 alpha 阶段",
-      "originalTitle": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "score": 1996
+      "title": "按钮声音 – 专业录制的按钮点击和按下的集合",
+      "originalTitle": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 363
     },
     {
-      "title": "Stalwart 现在是 Microsoft Exchange 的直接替代品",
-      "originalTitle": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "score": 485
+      "title": "尽管处于沙盒中，模型仍可以通过推理服务器进行通信",
+      "originalTitle": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 223
     },
     {
-      "title": "AMD EPYC Zen 6 与 Zen 1 性能：不到 10 年的时间平均提升 12.1 倍",
-      "originalTitle": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "score": 98
+      "title": "Show HN：旧的 Nvidia 和 ATI 技术演示，再次在浏览器中运行",
+      "originalTitle": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "score": 112
     },
     {
-      "title": "Nvidia 恢复黄仁勋担任首席执行官",
-      "originalTitle": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "score": 2584
+      "title": "绕过 iOS Safari 的 60 FPS 限制来构建原生的 Web 应用程序",
+      "originalTitle": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "score": 176
     },
     {
-      "title": "现代化 iperf/iperf3 并引入 fireperf",
-      "originalTitle": "Modernizing iperf/iperf3 and introducing fireperf",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-      "score": 108
+      "title": "三元盆景2.5 27B",
+      "originalTitle": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 443
     },
     {
-      "title": "废品回收场无人机地图",
-      "originalTitle": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "score": 86
+      "title": "PenGPT：手写和草图生成转换器",
+      "originalTitle": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "score": 246
     },
     {
-      "title": "Arctic：实用的无锁自适应基数树",
-      "originalTitle": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-      "score": 41
+      "title": "以每个 3 美元的价格接管美国财政部子域名",
+      "originalTitle": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "score": 78
     },
     {
-      "title": "GPUI 正在获得自己的存储库",
-      "originalTitle": "GPUI is getting its own repository",
-      "url": "https://github.com/zed-industries/gpui",
-      "score": 266
+      "title": "依赖类型的代数 (2025)",
+      "originalTitle": "The algebra of dependent types (2025)",
+      "url": "https://dotat.at/@/2025-05-28-types.html",
+      "score": 26
     },
     {
-      "title": "纽约禁止汽车订阅费和购后费用",
-      "originalTitle": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "score": 378
+      "title": "让旧的 Java 手机重新上线",
+      "originalTitle": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "score": 15
     }
   ],
-  "updateTime": "11/24/2026, 10:46:08 AM"
+  "updateTime": "11/25/2026, 9:42:01 AM"
 }
