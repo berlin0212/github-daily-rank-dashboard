@@ -2,146 +2,146 @@
   "githubRank": [
     {
       "rank": 1,
-      "name": "Marvisak/VIctory",
-      "url": "https://github.com/Marvisak/VIctory",
-      "totalStars": "12.4k",
-      "dailyGrowth": "1272",
-      "description": "尝试在PC上运行GTA VI"
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "totalStars": "5.5k",
+      "dailyGrowth": "1679",
+      "description": "GTA VI 可以在 PC 上运行吗？社区重新编译和模拟工作的实时跟踪器，每天更新。"
     },
     {
       "rank": 2,
-      "name": "4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "totalStars": "3.8k",
-      "dailyGrowth": "1031",
-      "description": "GTA VI 可以在 PC 上运行吗？社区重新编译和模拟工作的实时跟踪器，每天更新。"
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "totalStars": "13.2k",
+      "dailyGrowth": "759",
+      "description": "尝试在PC上运行GTA VI"
     },
     {
       "rank": 3,
       "name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "totalStars": "16.1k",
-      "dailyGrowth": "835",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+      "totalStars": "16.8k",
+      "dailyGrowth": "756",
+      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
     },
     {
       "rank": 4,
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "totalStars": "9.2k",
-      "dailyGrowth": "644",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
-    },
-    {
-      "rank": 5,
-      "name": "AFK-surf/xnulinux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "totalStars": "3.9k",
-      "dailyGrowth": "553",
-      "description": "XNU 作为 Linux 内的可加载内核模块（arm64 Linux 的 macOS 个性）"
-    },
-    {
-      "rank": 6,
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "totalStars": "18.3k",
-      "dailyGrowth": "548",
-      "description": ""
-    },
-    {
-      "rank": 7,
       "name": "kunkundi/crossdesk",
       "url": "https://github.com/kunkundi/crossdesk",
-      "totalStars": "7.8k",
-      "dailyGrowth": "542",
+      "totalStars": "8.4k",
+      "dailyGrowth": "632",
       "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。"
     },
     {
+      "rank": 5,
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "totalStars": "10.1k",
+      "dailyGrowth": "567",
+      "description": "用 Rust 一点一点重写你的应用程序，每一步都与原始版本进行检查。适用于 TypeScript、JavaScript、Python、Go、Ruby、Java、C、PHP、C#、Kotlin 和 PowerShell。"
+    },
+    {
+      "rank": 6,
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "totalStars": "9.5k",
+      "dailyGrowth": "557",
+      "description": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+    },
+    {
+      "rank": 7,
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "totalStars": "8.9k",
+      "dailyGrowth": "463",
+      "description": "开源推理引擎，可将模型分布在 GPU、RAM 和 SSD 上，以便它们可以在日常 Mac 和 PC 上运行。适用于 Apple Silicon、NVIDIA、AMD、Intel 或仅 CPU。"
+    },
+    {
       "rank": 8,
-      "name": "xcl-dev/xcl",
-      "url": "https://github.com/xcl-dev/xcl",
-      "totalStars": "8.3k",
-      "dailyGrowth": "484",
-      "description": "适用于 Windows 的 Xbox 系列兼容层 - 本地运行控制台游戏代码，重新实现控制台系统库并将 RDNA2 着色器重新编译为 DXIL"
+      "name": "intel/intel-one-mono",
+      "url": "https://github.com/intel/intel-one-mono",
+      "totalStars": "10.7k",
+      "dailyGrowth": "427",
+      "description": "Intel One Mono 字体库"
     },
     {
       "rank": 9,
-      "name": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "totalStars": "9.5k",
-      "dailyGrowth": "388",
-      "description": "用 Rust 重写整个应用程序，一次一小部分，并在每一步检查原始记录的行为。 CLI、HTTP 服务器以及 TypeScript、Python、C、Go、Ruby 和 Java 中的库。"
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "totalStars": "4.2k",
+      "dailyGrowth": "342",
+      "description": "XNU 作为 Linux 内的可加载内核模块（arm64 Linux 的 macOS 个性）"
     },
     {
       "rank": 10,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "totalStars": "19.5k",
-      "dailyGrowth": "367",
-      "description": "光标插件规范和官方插件"
+      "name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "totalStars": "8.6k",
+      "dailyGrowth": "312",
+      "description": "适用于 Windows 的 Xbox 系列兼容层 - 本地运行控制台游戏代码，重新实现控制台系统库并将 RDNA2 着色器重新编译为 DXIL"
     }
   ],
   "hackerNews": [
     {
-      "title": "天哪天哪天哪天哪天哪：现在发生的事情的严重性",
-      "originalTitle": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "score": 1483
+      "title": "人工智能在你背后说话的群聊",
+      "originalTitle": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 198
     },
     {
-      "title": "1密码安全事件",
-      "originalTitle": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1410
+      "title": "人工智能再次让自托管变得有趣",
+      "originalTitle": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 658
     },
     {
-      "title": "Lions对Unix的评论：为什么它被秘密复制了20年",
-      "originalTitle": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "score": 90
+      "title": "YouTube Ad Punisher – 广告播放时自动重新加载 YouTube 页面",
+      "originalTitle": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "score": 394
     },
     {
-      "title": "护城河：您的 OpenRouter 替代品",
-      "originalTitle": "Moat: Your OpenRouter Replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 45
+      "title": "需要一种可形式验证的主流编程语言",
+      "originalTitle": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "score": 144
     },
     {
-      "title": "Anthropic 的 GRH Lean 验证的更短版本",
-      "originalTitle": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "score": 446
+      "title": "卡米尔·汗·穆塔兹（Kamil Khan Mumtaz）：巴基斯坦建筑师，在国内备受推崇，在国外几乎不为人知",
+      "originalTitle": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "score": 360
     },
     {
-      "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-      "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "score": 374
+      "title": "硬盘价格已经变得很糟糕",
+      "originalTitle": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "score": 338
     },
     {
-      "title": "Minipg：作为单个可执行文件的 PostgreSQL",
-      "originalTitle": "Minipg: PostgreSQL as a Single Executable",
-      "url": "https://progrium.github.io/minipg/",
-      "score": 114
+      "title": "AMD 专用的 llama.cpp 分支",
+      "originalTitle": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "score": 356
     },
     {
-      "title": "保留的 UI 风格指南集合",
-      "originalTitle": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "score": 158
+      "title": "“RansomwareHelp”首席技术官因电汇欺诈被起诉",
+      "originalTitle": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "score": 265
     },
     {
-      "title": "告诉 HN：再次询问很多 HN",
-      "originalTitle": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "score": 253
+      "title": "公司文化 = Slack Emoji ÷ √员工人数",
+      "originalTitle": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "score": 336
     },
     {
-      "title": "显示 HN：合成器补丁英雄",
-      "originalTitle": "Show HN: Synth Patch Hero",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
-      "score": 31
+      "title": "英特尔 One Mono 字体 (2023)",
+      "originalTitle": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "score": 521
     }
   ],
-  "updateTime": "11/26/2026, 9:17:36 AM"
+  "updateTime": "11/27/2026, 9:32:42 AM"
 }
