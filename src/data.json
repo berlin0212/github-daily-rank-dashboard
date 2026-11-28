@@ -83,65 +83,65 @@
   ],
   "hackerNews": [
     {
-      "title": "人工智能在你背后说话的群聊",
-      "originalTitle": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "score": 198
+      "title": "Unkernel：真正的 Linux 内核，编译为 WebAssembly",
+      "originalTitle": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "score": 243
     },
     {
-      "title": "人工智能再次让自托管变得有趣",
-      "originalTitle": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 658
+      "title": "Loom 无缝结合机织、针织和编织",
+      "originalTitle": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "score": 78
     },
     {
-      "title": "YouTube Ad Punisher – 广告播放时自动重新加载 YouTube 页面",
-      "originalTitle": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 394
-    },
-    {
-      "title": "需要一种可形式验证的主流编程语言",
-      "originalTitle": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "score": 144
-    },
-    {
-      "title": "卡米尔·汗·穆塔兹（Kamil Khan Mumtaz）：巴基斯坦建筑师，在国内备受推崇，在国外几乎不为人知",
-      "originalTitle": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 360
-    },
-    {
-      "title": "硬盘价格已经变得很糟糕",
-      "originalTitle": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 338
-    },
-    {
-      "title": "AMD 专用的 llama.cpp 分支",
-      "originalTitle": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "Google 的 DeepCrossAttention 实现可比模型质量的速度提高了 3 倍",
+      "originalTitle": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "score": 356
     },
     {
-      "title": "“RansomwareHelp”首席技术官因电汇欺诈被起诉",
-      "originalTitle": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 265
+      "title": "巴拉特罗时间轴",
+      "originalTitle": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "score": 314
     },
     {
-      "title": "公司文化 = Slack Emoji ÷ √员工人数",
-      "originalTitle": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 336
+      "title": "GPT 6.2 Astra 解开了历史之谜",
+      "originalTitle": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 433
     },
     {
-      "title": "英特尔 One Mono 字体 (2023)",
-      "originalTitle": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "score": 521
+      "title": "保罗·索莱里 (Paolo Soleri) 在亚利桑那州沙漠中建造了一座乌托邦生态城",
+      "originalTitle": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "score": 47
+    },
+    {
+      "title": "在热门购物网站上发现使用 WebRTC 的信用卡盗取脚本",
+      "originalTitle": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 514
+    },
+    {
+      "title": "悉尼火蚁出没",
+      "originalTitle": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "score": 55
+    },
+    {
+      "title": "凸技能将用户的应用创意发送到远程服务器而不告诉他们",
+      "originalTitle": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "score": 294
+    },
+    {
+      "title": "什么是生命起源的新陈代谢第一理论？",
+      "originalTitle": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "score": 13
     }
   ],
-  "updateTime": "11/27/2026, 9:32:42 AM"
+  "updateTime": "11/28/2026, 8:45:58 AM"
 }
